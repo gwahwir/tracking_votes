@@ -1,0 +1,11 @@
+name: "Johor Seat Agent"
+type_id: "seat_agent"
+description: >
+  Win-likelihood prediction agent. Aggregates all analysis lens signals
+  for articles tagged to a given constituency and produces a SeatPrediction
+  with leadingParty, confidence score (0–100), 6-lens signal breakdown,
+  and caveats.
+url: "http://localhost:8004"
+capabilities:
+  streaming: true
+  cancellation: true

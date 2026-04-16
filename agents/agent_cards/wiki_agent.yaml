@@ -1,0 +1,11 @@
+name: "Johor Wiki Agent"
+type_id: "wiki_agent"
+description: >
+  LLM-wiki ingest and lint agent. Retrieves relevant wiki pages via TF-IDF,
+  uses an LLM to synthesise new facts from incoming articles into the wiki
+  knowledge base, and logs all changes. Also runs lint checks for
+  contradictions, staleness, and orphan links.
+url: "http://localhost:8005"
+capabilities:
+  streaming: true
+  cancellation: true

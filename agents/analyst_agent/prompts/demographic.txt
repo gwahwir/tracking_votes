@@ -1,0 +1,16 @@
+## Demographic Lens Analysis
+
+Analyse this article through the demographic and voter community lens.
+
+Focus on:
+1. **Ethnic community impact** — How does this article's content affect Malay, Chinese, and Indian communities in Johor differently? Assess each community's likely reaction.
+2. **Iskandar Malaysia beneficiaries** — Workers and residents of Johor Bahru, Kulai, Pontian who benefit from the SEZ and cross-border economy. How does this resonate with their economic interests?
+3. **Cross-border commuters** — Johoreans earning in SGD who cross daily. Are there cost-of-living, employment, or bilateral policy dimensions?
+4. **Youth voters (Undi18)** — How does this land with the under-30 cohort concentrated in urban JB and Iskandar? Are there digital/social media implications?
+5. **Rural Malay heartland** — Smallholders, farmers, civil servants in non-urban Johor. How does this affect their economic concerns (palm oil, rubber, BR1M-style transfers)?
+
+Return:
+- `direction`: demographic group most advantaged/engaged by this ("Malay", "Chinese", "Indian", "Youth", "Urban", "Rural", or compound like "Urban+Youth")
+- `strength`: 0–100
+- `summary`: 2–3 sentences on demographic implications
+- `community_breakdown`: object with keys "Malay", "Chinese", "Indian", "Youth" each having a brief sentiment note

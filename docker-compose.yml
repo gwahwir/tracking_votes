@@ -1,0 +1,164 @@
+version: "3.9"
+
+services:
+  # ------------------------------------------------------------------
+  # Infrastructure
+  # ------------------------------------------------------------------
+  postgres:
+    image: pgvector/pgvector:pg16
+    restart: unless-stopped
+    environment:
+      POSTGRES_USER: johor
+      POSTGRES_PASSWORD: johor
+      POSTGRES_DB: johor_elections
+    ports:
+      - "5432:5432"
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U johor -d johor_elections"]
+      interval: 5s
+      timeout: 5s
+      retries: 10
+
+  redis:
+    image: redis:7-alpine
+    restart: unless-stopped
+    ports:
+      - "6379:6379"
+    healthcheck:
+      test: ["CMD", "redis-cli", "ping"]
+      interval: 5s
+      timeout: 3s
+      retries: 10
+
+  # ------------------------------------------------------------------
+  # Control plane
+  # ------------------------------------------------------------------
+  control_plane:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    command: uvicorn control_plane.server:app --host 0.0.0.0 --port 8000
+    env_file: .env
+    environment:
+      DATABASE_URL: postgresql://johor:johor@postgres:5432/johor_elections
+      REDIS_URL: redis://redis:6379
+      CONTROL_PLANE_URL: http://control_plane:8000
+      AGENT_URLS: news_agent@http://news_agent:8001,scorer_agent@http://scorer_agent:8002,analyst_agent@http://analyst_agent:8003,seat_agent@http://seat_agent:8004,wiki_agent@http://wiki_agent:8005
+    ports:
+      - "8000:8000"
+    depends_on:
+      postgres:
+        condition: service_healthy
+      redis:
+        condition: service_healthy
+    healthcheck:
+      test: ["CMD-SHELL", "curl -sf http://localhost:8000/health || exit 1"]
+      interval: 10s
+      timeout: 5s
+      retries: 10
+    restart: unless-stopped
+
+  # ------------------------------------------------------------------
+  # Agents
+  # ------------------------------------------------------------------
+  wiki_agent:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    command: uvicorn agents.wiki_agent.server:app --host 0.0.0.0 --port 8005
+    env_file: .env
+    environment:
+      DATABASE_URL: postgresql://johor:johor@postgres:5432/johor_elections
+      CONTROL_PLANE_URL: http://control_plane:8000
+    ports:
+      - "8005:8005"
+    volumes:
+      - ./wiki:/app/wiki
+    depends_on:
+      control_plane:
+        condition: service_healthy
+    restart: unless-stopped
+
+  news_agent:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    command: uvicorn agents.news_agent.server:app --host 0.0.0.0 --port 8001
+    env_file: .env
+    environment:
+      DATABASE_URL: postgresql://johor:johor@postgres:5432/johor_elections
+      CONTROL_PLANE_URL: http://control_plane:8000
+    ports:
+      - "8001:8001"
+    depends_on:
+      control_plane:
+        condition: service_healthy
+    restart: unless-stopped
+
+  scorer_agent:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    command: uvicorn agents.scorer_agent.server:app --host 0.0.0.0 --port 8002
+    env_file: .env
+    environment:
+      DATABASE_URL: postgresql://johor:johor@postgres:5432/johor_elections
+      CONTROL_PLANE_URL: http://control_plane:8000
+    ports:
+      - "8002:8002"
+    depends_on:
+      control_plane:
+        condition: service_healthy
+    restart: unless-stopped
+
+  analyst_agent:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    command: uvicorn agents.analyst_agent.server:app --host 0.0.0.0 --port 8003
+    env_file: .env
+    environment:
+      DATABASE_URL: postgresql://johor:johor@postgres:5432/johor_elections
+      CONTROL_PLANE_URL: http://control_plane:8000
+    ports:
+      - "8003:8003"
+    depends_on:
+      control_plane:
+        condition: service_healthy
+    restart: unless-stopped
+
+  seat_agent:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    command: uvicorn agents.seat_agent.server:app --host 0.0.0.0 --port 8004
+    env_file: .env
+    environment:
+      DATABASE_URL: postgresql://johor:johor@postgres:5432/johor_elections
+      CONTROL_PLANE_URL: http://control_plane:8000
+    ports:
+      - "8004:8004"
+    depends_on:
+      control_plane:
+        condition: service_healthy
+    restart: unless-stopped
+
+  # ------------------------------------------------------------------
+  # Dashboard
+  # ------------------------------------------------------------------
+  dashboard:
+    build:
+      context: ./dashboard
+      dockerfile: Dockerfile
+    environment:
+      VITE_API_URL: http://localhost:8000
+    ports:
+      - "5173:5173"
+    depends_on:
+      - control_plane
+    restart: unless-stopped
+
+volumes:
+  postgres_data:

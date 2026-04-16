@@ -1,0 +1,16 @@
+## Political Lens Analysis
+
+Analyse this article through the political coalition and parliamentary strategy lens.
+
+Focus on:
+1. **Coalition framing** — Which coalition does the article's narrative favour or challenge? Is the framing explicit or implicit?
+2. **Urban vs rural JB** — How would urban Johor Bahru voters (DAP-leaning, Chinese-majority, Iskandar corridor commuters) versus rural Johor Malay voters (BN/UMNO base, smallholder, traditional) read this article differently?
+3. **Three-way dynamics** — Does the article's content benefit BN, PH, or PN? In which specific seat types (Malay-majority, Chinese-majority, mixed)?
+4. **Party machinery signals** — Any evidence of ground mobilisation, candidate announcements, internal party manoeuvring?
+5. **State vs federal tension** — Does the article reveal any friction between state (Onn Hafiz/BN) and federal government (Madani/PH) positioning?
+
+Return a structured analysis with:
+- `direction`: which coalition this event most benefits ("BN", "PH", "PN", or "mixed")
+- `strength`: confidence in that direction (0–100)
+- `summary`: 2–3 sentence summary of the political implication
+- `seat_implications`: list of specific constituency codes most affected, with brief rationale

@@ -1,0 +1,11 @@
+name: "Johor Scorer Agent"
+type_id: "scorer_agent"
+description: >
+  Reliability scorer for Johor election news articles. Retrieves relevant
+  wiki context via TF-IDF, then calls an LLM to score source authority,
+  accuracy signals, and bias indicators. Emits a wiki ingest task for
+  high-scoring articles (score >= 60).
+url: "http://localhost:8002"
+capabilities:
+  streaming: true
+  cancellation: true

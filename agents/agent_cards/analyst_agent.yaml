@@ -1,0 +1,11 @@
+name: "Johor Analyst Agent"
+type_id: "analyst_agent"
+description: >
+  Multi-perspective analysis agent using a 7-stage LangGraph pipeline.
+  Produces Political, Demographic, Historical, Strategic, Fact-check,
+  and Bridget Welsh lens analyses for Johor election articles.
+  Streams NODE_OUTPUT:: markers for live dashboard progress.
+url: "http://localhost:8003"
+capabilities:
+  streaming: true
+  cancellation: true

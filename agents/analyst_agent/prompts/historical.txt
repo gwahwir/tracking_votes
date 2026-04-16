@@ -1,0 +1,16 @@
+## Historical Lens Analysis
+
+Analyse this article by situating it within Johor's documented electoral history.
+
+Focus on:
+1. **GE14 (2018) comparison** — Does this article's content echo the conditions that produced PH's historic wave? Or does it resemble the pre-GE13 BN dominance period?
+2. **GE15 (2022) comparison** — How does this compare to the three-way split dynamics of GE15? Does it suggest the PN vote is holding, growing, or receding?
+3. **2022 State Election** — BN won 40/56 DUN in a landslide. Is there anything here that erodes or reinforces that state-level dominance?
+4. **Johor historical patterns** — Johor is UMNO's founding state. Does this article represent continuity with historical BN dominance, or a structural break?
+5. **Trend identification** — Based on available evidence in the article, does this represent an accelerating trend, a reversal, or noise?
+
+Return:
+- `direction`: which historical trajectory this article fits ("BN_dominance_restore", "PH_resurgence", "PN_growth", "three_way_fragmentation", or "unclear")
+- `strength`: 0–100
+- `summary`: 2–3 sentences placing the article in historical context
+- `analogous_event`: the most comparable historical moment (e.g. "Pre-GE14 urban swing", "Post-GE13 BN recovery") with brief explanation

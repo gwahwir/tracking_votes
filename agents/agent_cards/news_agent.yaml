@@ -1,0 +1,10 @@
+name: "Johor News Agent"
+type_id: "news_agent"
+description: >
+  Scrapes Malaysian news sources (The Star, FMT, Malaysiakini, CNA, NewsAPI)
+  for Johor election coverage. Filters by relevance, tags articles with
+  Parlimen/DUN constituency codes, and upserts to PostgreSQL.
+url: "http://localhost:8001"
+capabilities:
+  streaming: true
+  cancellation: true

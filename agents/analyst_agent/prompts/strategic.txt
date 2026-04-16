@@ -1,0 +1,17 @@
+## Strategic Lens Analysis
+
+Analyse this article through the campaign strategy and electoral mobilisation lens.
+
+Focus on:
+1. **Campaign tactics** — What campaign strategies does this article reveal or imply? (Ground canvassing, social media, rally logistics, welfare handouts, candidate selection signals)
+2. **Which coalition benefits** — Which party or coalition gains a strategic advantage from this development? Why? Be specific to Johor seat types.
+3. **Mobilisation signals** — Are there indicators of voter mobilisation (voter registration drives, early campaign machinery activation, candidate positioning)?
+4. **Opponent response** — What counter-strategy should the disadvantaged coalition(s) deploy? Is there evidence they are doing so?
+5. **Timing and sequencing** — Is the timing of this development strategically significant (pre-writ, post-writ, nomination week, etc.)?
+6. **Johor-specific strategic stakes** — Johor's 26 Parlimen seats are critical for federal government formation. Which of these seats does this article most affect?
+
+Return:
+- `direction`: coalition with strategic advantage ("BN", "PH", "PN", or "mixed")
+- `strength`: 0–100
+- `summary`: 2–3 sentence strategic assessment
+- `tactical_implication`: specific campaign action implied or recommended, with rationale

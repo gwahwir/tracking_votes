@@ -1,0 +1,21 @@
+## Fact-Check Lens Analysis
+
+Systematically verify the factual claims in this article against known Johor election facts.
+
+Focus on:
+1. **Enumerate claims** — List every verifiable factual claim in the article (statistics, dates, seat counts, candidate names, vote percentages, policy details).
+2. **Verify against known data** — Cross-check each claim against:
+   - GE14/GE15 official SPR results
+   - 2022 Johor state election results (BN: 40/56, PH: 12/56, PN: 4/56)
+   - Constituency boundaries (Parlimen P140–P165, DUN N01–N56)
+   - Known party leadership and candidate declarations
+3. **Flag unverified statistics** — Identify any figures that would require SPR, DOSM, or academic sources to confirm or deny.
+4. **Election law compliance** — Note any claims that may conflict with SPR campaign regulations, Election Offences Act, or Polling and Counting regulations.
+5. **Contradiction with wiki** — Flag any direct contradictions with the wiki knowledge base.
+
+Return:
+- `verified_claims`: list of claims confirmed accurate
+- `unverified_claims`: list of claims that cannot be confirmed without additional sources
+- `false_or_misleading`: list of claims that appear incorrect, with explanation
+- `flags`: integer count of significant accuracy concerns
+- `summary`: 2–3 sentences on overall factual integrity of the article

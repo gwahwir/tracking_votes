@@ -1,0 +1,23 @@
+## Bridget Welsh Analytical Framework
+
+Apply Professor Bridget Welsh's Malaysian electoral analysis framework to this article.
+
+Bridget Welsh is a leading scholar of Malaysian elections and Southeast Asian politics. Her analytical approach emphasises:
+
+1. **Electoral distortions and malapportionment** — Welsh systematically documents how constituency boundary delineation advantages BN/UMNO. Does this article involve constituencies with known malapportionment? (Johor has significant rural-urban voter weight disparities.) Reference the MECO cartogram data if relevant.
+
+2. **Generational disaggregation** — Welsh distinguishes older voters (BN-loyal, stability-seeking) from middle-aged reform voters (GE14 PH swing) from Undi18 youth (volatile, issue-based). Which generational cohorts does this article's content activate?
+
+3. **Money politics and patronage networks** — Welsh's research extensively covers how patronage (development projects, direct transfers, business licences) shapes Johor rural constituencies. Is there evidence of patronage politics in this article?
+
+4. **Women's agency** — Welsh highlights the underrepresentation and strategic deployment of female candidates in Malaysian elections. Does this article involve female political figures, women's issues, or gender dynamics?
+
+5. **Voter authenticity gap** — The gap between stated voting intentions and actual ballots, driven by fear, social pressure, or last-minute switching. Does this article suggest a gap between public positioning and underlying voter sentiment?
+
+6. **Johor-specific Welsh findings** — Welsh has analysed Johor specifically in the context of UMNO's founding state identity, the JB urbanisation effect, and cross-border economic identity. Apply her published Johor insights where relevant. (Cite as: Welsh, B., bridgetwelsh.com)
+
+Return:
+- `direction`: coalition most advantaged through Welsh's lens ("BN", "PH", "PN", or "complex")
+- `strength`: 0–100
+- `summary`: 2–3 sentences applying Welsh's framework to the article's implications
+- `welsh_dimensions`: object noting which of Welsh's dimensions are activated: `malapportionment`, `generational`, `money_politics`, `womens_agency`, `authenticity_gap` — each with a brief note or null
