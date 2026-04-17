@@ -72,6 +72,7 @@ services:
     environment:
       DATABASE_URL: postgresql://johor:johor@postgres:5432/johor_elections
       CONTROL_PLANE_URL: http://control_plane:8000
+      AGENT_HOSTNAME: wiki_agent
     ports:
       - "8005:8005"
     volumes:
@@ -90,6 +91,7 @@ services:
     environment:
       DATABASE_URL: postgresql://johor:johor@postgres:5432/johor_elections
       CONTROL_PLANE_URL: http://control_plane:8000
+      AGENT_HOSTNAME: news_agent
     ports:
       - "8001:8001"
     depends_on:
@@ -106,6 +108,7 @@ services:
     environment:
       DATABASE_URL: postgresql://johor:johor@postgres:5432/johor_elections
       CONTROL_PLANE_URL: http://control_plane:8000
+      AGENT_HOSTNAME: scorer_agent
     ports:
       - "8002:8002"
     depends_on:
@@ -122,6 +125,7 @@ services:
     environment:
       DATABASE_URL: postgresql://johor:johor@postgres:5432/johor_elections
       CONTROL_PLANE_URL: http://control_plane:8000
+      AGENT_HOSTNAME: analyst_agent
     ports:
       - "8003:8003"
     depends_on:
@@ -138,6 +142,7 @@ services:
     environment:
       DATABASE_URL: postgresql://johor:johor@postgres:5432/johor_elections
       CONTROL_PLANE_URL: http://control_plane:8000
+      AGENT_HOSTNAME: seat_agent
     ports:
       - "8004:8004"
     depends_on:

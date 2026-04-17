@@ -95,9 +95,12 @@ def _upsert_node(state: NewsState) -> NewsState:
     """Persist articles to PostgreSQL, deduplicating by URL.
 
     Falls back gracefully if no DB is configured.
+    Automatically dispatches scorer_agent tasks for newly upserted articles.
     """
     import os
     database_url = os.environ.get("DATABASE_URL")
+    control_plane_url = os.environ.get("CONTROL_PLANE_URL", "http://control_plane:8000")
+
     if not database_url:
         log.warning("upsert.no_db", reason="DATABASE_URL not set — skipping DB write")
         state["upserted_count"] = 0
@@ -106,14 +109,17 @@ def _upsert_node(state: NewsState) -> NewsState:
 
     import asyncio
     import json
+    import httpx
 
     async def _do_upsert():
         import asyncpg  # type: ignore
         conn = await asyncpg.connect(database_url)
+        upserted_articles = []
         count = 0
         try:
             for art in state["tagged_articles"]:
                 try:
+                    article_id = str(uuid.uuid4())
                     await conn.execute(
                         """
                         INSERT INTO articles
@@ -124,7 +130,7 @@ def _upsert_node(state: NewsState) -> NewsState:
                                 content=EXCLUDED.content,
                                 constituency_ids=EXCLUDED.constituency_ids
                         """,
-                        str(uuid.uuid4()),
+                        article_id,
                         art["url"],
                         art["title"][:1000],
                         (art["content"] or "")[:10000],
@@ -133,22 +139,46 @@ def _upsert_node(state: NewsState) -> NewsState:
                         json.dumps(art.get("constituency_ids", [])),
                     )
                     count += 1
+                    art_copy = dict(art)
+                    art_copy["_article_id"] = article_id  # Store the ID with the article
+                    upserted_articles.append(art_copy)
                 except Exception as exc:
                     log.warning("upsert.row_error", url=art["url"], error=str(exc))
         finally:
             await conn.close()
-        return count
+        return count, upserted_articles
+
+    async def _auto_score_articles(articles: list[dict]) -> None:
+        """Dispatch scorer_agent tasks for each upserted article."""
+        async with httpx.AsyncClient(timeout=10.0) as client:
+            # Dispatch scorer tasks with article IDs (already have them from upsert)
+            for art in articles:
+                try:
+                    article_id = art.get("_article_id", str(uuid.uuid4()))
+                    message = f"Score this article:\n\nTitle: {art['title']}\n\nURL: {art['url']}\n\nSource: {art['source']}\n\n{art.get('content', '')}"
+
+                    response = await client.post(
+                        f"{control_plane_url}/agents/scorer_agent/tasks",
+                        json={"message": message, "metadata": {"article_id": article_id}},
+                        timeout=10.0,
+                    )
+                    response.raise_for_status()
+                    result = response.json()
+                    log.info("auto_score.dispatched", task_id=result.get("task_id"), article_url=art["url"], article_id=article_id)
+                except Exception as exc:
+                    log.warning("auto_score.dispatch_error", article_url=art["url"], error=str(exc))
 
     try:
-        loop = asyncio.get_event_loop()
-        if loop.is_running():
-            # We're inside an async context — run in a thread
-            import concurrent.futures
-            with concurrent.futures.ThreadPoolExecutor() as pool:
-                future = pool.submit(asyncio.run, _do_upsert())
-                count = future.result(timeout=30)
-        else:
-            count = loop.run_until_complete(_do_upsert())
+        # Create a new event loop for this thread since we're in a sync context
+        new_loop = asyncio.new_event_loop()
+        asyncio.set_event_loop(new_loop)
+        try:
+            count, upserted_articles = new_loop.run_until_complete(_do_upsert())
+            # Dispatch scorer_agent tasks for all upserted articles
+            if upserted_articles:
+                new_loop.run_until_complete(_auto_score_articles(upserted_articles))
+        finally:
+            new_loop.close()
     except Exception as exc:
         log.error("upsert.failed", error=str(exc))
         count = 0
@@ -157,9 +187,10 @@ def _upsert_node(state: NewsState) -> NewsState:
     state["output"] = (
         f"Scraped {len(state['raw_articles'])} articles, "
         f"filtered to {len(state['filtered_articles'])}, "
-        f"upserted {count} to DB"
+        f"upserted {count} to DB, "
+        f"dispatched {count} to scorer_agent"
     )
-    log.info("upsert.done", count=count)
+    log.info("upsert.done", count=count, auto_score_count=count)
     return state
 
 

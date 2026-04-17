@@ -243,6 +243,135 @@ async def ws_task(websocket: WebSocket, task_id: str):
 
 
 # ---------------------------------------------------------------------------
+# Database endpoints — articles, analyses, seat predictions
+# ---------------------------------------------------------------------------
+
+@router.get("/articles")
+async def get_articles(request: Request, limit: int = 100, offset: int = 0):
+    """Return all articles from the database."""
+    task_store = request.app.state.task_store
+
+    if not hasattr(task_store, "_pool") or task_store._pool is None:
+        return []
+
+    try:
+        sql = """
+            SELECT id, url, title, source, content, constituency_ids, reliability_score, created_at
+            FROM articles
+            ORDER BY created_at DESC
+            LIMIT $1 OFFSET $2
+        """
+        async with task_store._pool.acquire() as conn:
+            rows = await conn.fetch(sql, limit, offset)
+        return [dict(r) for r in rows]
+    except Exception as exc:
+        log.error("articles.fetch_error", error=str(exc))
+        return []
+
+
+@router.get("/analyses")
+async def get_analyses(request: Request, article_id: str | None = None, limit: int = 100):
+    """Return analyses from the database, optionally filtered by article_id."""
+    task_store = request.app.state.task_store
+
+    if not hasattr(task_store, "_pool") or task_store._pool is None:
+        return []
+
+    try:
+        where = ""
+        params: list = []
+        if article_id:
+            where = "WHERE article_id = $1"
+            params = [article_id]
+
+        sql = f"""
+            SELECT id, article_id, lens_name, direction, strength, summary, full_result, created_at, updated_at
+            FROM analyses
+            {where}
+            ORDER BY created_at DESC
+            LIMIT {len(params) + 1}
+        """
+        async with task_store._pool.acquire() as conn:
+            rows = await conn.fetch(sql, *params, limit)
+        return [dict(r) for r in rows]
+    except Exception as exc:
+        log.error("analyses.fetch_error", error=str(exc))
+        return []
+
+
+@router.get("/seat-predictions")
+async def get_seat_predictions(request: Request, limit: int = 100):
+    """Return all seat predictions from the database."""
+    task_store = request.app.state.task_store
+
+    if not hasattr(task_store, "_pool") or task_store._pool is None:
+        return []
+
+    try:
+        sql = """
+            SELECT id, constituency_code, leading_party, confidence, signal_breakdown,
+                   caveats, num_articles, created_at, updated_at
+            FROM seat_predictions
+            ORDER BY updated_at DESC
+            LIMIT $1
+        """
+        async with task_store._pool.acquire() as conn:
+            rows = await conn.fetch(sql, limit)
+        return [dict(r) for r in rows]
+    except Exception as exc:
+        log.error("seat_predictions.fetch_error", error=str(exc))
+        return []
+
+
+@router.get("/seat-predictions/{constituency_code}")
+async def get_seat_prediction(request: Request, constituency_code: str):
+    """Return a single seat prediction for a constituency."""
+    task_store = request.app.state.task_store
+
+    if not hasattr(task_store, "_pool") or task_store._pool is None:
+        raise HTTPException(status_code=404, detail="Not found")
+
+    try:
+        sql = """
+            SELECT id, constituency_code, leading_party, confidence, signal_breakdown,
+                   caveats, num_articles, created_at, updated_at
+            FROM seat_predictions
+            WHERE constituency_code = $1
+            ORDER BY updated_at DESC
+            LIMIT 1
+        """
+        async with task_store._pool.acquire() as conn:
+            row = await conn.fetchrow(sql, constituency_code)
+
+        if not row:
+            raise HTTPException(status_code=404, detail="Prediction not found")
+        return dict(row)
+    except HTTPException:
+        raise
+    except Exception as exc:
+        log.error("seat_prediction.fetch_error", error=str(exc), constituency_code=constituency_code)
+        raise HTTPException(status_code=500, detail="Internal server error")
+
+
+@router.get("/wiki/pages")
+async def get_wiki_pages(request: Request):
+    """Return list of wiki pages with metadata."""
+    # Placeholder — can be enhanced to read from filesystem or database
+    return [
+        {
+            "path": "wiki/index.md",
+            "title": "Wiki Index",
+            "updated_at": "2026-04-17T00:00:00Z"
+        },
+        {
+            "path": "wiki/schema.md",
+            "title": "Wiki Schema",
+            "updated_at": "2026-04-17T00:00:00Z"
+        }
+    ]
+
+
+# ---------------------------------------------------------------------------
 # Health check
 # ---------------------------------------------------------------------------
 

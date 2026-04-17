@@ -131,8 +131,10 @@ class LangGraphA2AExecutor(CancellableMixin):
     def agent_card(self) -> dict[str, Any]:
         import os
         port = int(os.environ.get(f"{self.AGENT_TYPE_ID.upper()}_PORT", self.AGENT_PORT))
-        base_url = os.environ.get("CONTROL_PLANE_URL", "http://localhost:8000")
-        agent_url = f"http://localhost:{port}"
+        # Use Docker service name (e.g., news_agent, scorer_agent) when in Docker
+        # Otherwise fall back to localhost for local development
+        hostname = os.environ.get("AGENT_HOSTNAME") or self.AGENT_TYPE_ID
+        agent_url = f"http://{hostname}:{port}"
         return {
             "name": self.AGENT_NAME,
             "type_id": self.AGENT_TYPE_ID,

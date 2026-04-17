@@ -1,0 +1,140 @@
+.election-map-container {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+
+.election-map {
+  width: 100%;
+  height: 100%;
+  z-index: 1;
+}
+
+.leaflet-container {
+  font-family: 'JetBrains Mono', monospace;
+  background: #0a0a0f;
+}
+
+.leaflet-control-attribution {
+  background: rgba(10, 10, 15, 0.8);
+  color: #999;
+}
+
+.leaflet-popup-content-wrapper {
+  background: #1a1b1e;
+  border: 1px solid #373a40;
+  border-radius: 4px;
+  box-shadow: 0 0 20px rgba(0, 212, 255, 0.3);
+}
+
+.leaflet-popup-tip {
+  background: #1a1b1e;
+}
+
+.election-map-loading {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  height: 100%;
+  color: #999;
+  font-family: 'JetBrains Mono', monospace;
+}
+
+.constituency-popup {
+  position: absolute;
+  bottom: 20px;
+  right: 20px;
+  z-index: 10;
+  max-width: 400px;
+}
+
+.popup {
+  background: #0a0a0f;
+  border: 1px solid #00d4ff;
+  border-radius: 4px;
+  padding: 16px;
+  box-shadow: 0 0 20px rgba(0, 212, 255, 0.3);
+  font-family: 'JetBrains Mono', monospace;
+}
+
+.popup-close {
+  background: none;
+  border: none;
+  color: #00d4ff;
+  font-size: 20px;
+  cursor: pointer;
+  padding: 0;
+  width: 24px;
+  height: 24px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.popup-close:hover {
+  color: #39ff14;
+}
+
+.signal-breakdown {
+  background: rgba(0, 212, 255, 0.05);
+  border: 1px solid #373a40;
+  border-radius: 4px;
+  padding: 12px;
+}
+
+.signal-lens {
+  border-bottom: 1px solid #373a40;
+  padding-bottom: 8px;
+}
+
+.signal-lens:last-child {
+  border-bottom: none;
+  padding-bottom: 0;
+}
+
+.caveats {
+  background: rgba(255, 49, 49, 0.05);
+  border: 1px solid #ff3131;
+  border-radius: 4px;
+  padding: 12px;
+}
+
+.caveats ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.caveats li {
+  margin-bottom: 4px;
+}
+
+.caveats li:last-child {
+  margin-bottom: 0;
+}
+
+/* GeoJSON feature hover effect */
+.leaflet-interactive:hover {
+  opacity: 0.9 !important;
+}
+
+/* Cartogram styling (thicker borders, distinct regions) */
+.cartogram .leaflet-interactive {
+  stroke-width: 2;
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+  .constituency-popup {
+    bottom: 10px;
+    right: 10px;
+    max-width: calc(100vw - 20px);
+  }
+
+  .popup {
+    padding: 12px;
+  }
+}

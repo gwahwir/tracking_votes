@@ -1,0 +1,208 @@
+.agent-graph-container {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  width: 100%;
+  background: #0a0a0f;
+  border: none;
+  border-radius: 0;
+  overflow: hidden;
+  box-shadow: none;
+}
+
+.agent-graph-loading,
+.agent-graph-error {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+  background: rgba(10, 10, 15, 0.95);
+  border: 1px solid #00d4ff;
+  border-radius: 4px;
+  color: #e0e0e0;
+}
+
+.graph-header {
+  padding: 8px 12px;
+  border-bottom: 1px solid #373a40;
+  background: rgba(0, 0, 0, 0.3);
+  flex-shrink: 0;
+  font-size: 12px;
+}
+
+.graph-header .mantine-Text-root {
+  font-family: 'JetBrains Mono', monospace;
+}
+
+.reactflow-graph {
+  flex: 1;
+  overflow: hidden;
+}
+
+.reactflow-graph .react-flow__background {
+  background: rgba(10, 10, 15, 0.5);
+}
+
+.reactflow-graph .react-flow__node {
+  background: transparent;
+  border: none;
+  border-radius: 0;
+  padding: 0;
+  min-width: 0;
+}
+
+.reactflow-graph .react-flow__node.selected {
+  background: transparent;
+  border: none;
+}
+
+.reactflow-graph .react-flow__node-default {
+  background: transparent;
+}
+
+.agent-node {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 6px;
+  background: rgba(0, 212, 255, 0.08);
+  border: 2px solid #00d4ff;
+  border-radius: 8px;
+  padding: 8px 10px;
+  font-family: 'JetBrains Mono', monospace;
+  box-shadow: 0 0 12px rgba(0, 212, 255, 0.2);
+  min-width: 130px;
+}
+
+.agent-node:hover {
+  background: rgba(0, 212, 255, 0.15);
+  box-shadow: 0 0 18px rgba(0, 212, 255, 0.3);
+}
+
+.agent-node-content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 4px;
+  width: 100%;
+}
+
+.agent-node-dot {
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  box-shadow: 0 0 8px currentColor;
+}
+
+.agent-node-dot.healthy {
+  background: #39ff14;
+  color: #39ff14;
+}
+
+.agent-node-dot.unhealthy {
+  background: #ff3131;
+  color: #ff3131;
+}
+
+.agent-node-label {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 2px;
+  font-size: 11px;
+}
+
+.agent-node-name {
+  font-weight: 600;
+  color: #00d4ff;
+  text-align: center;
+}
+
+.agent-node-tasks {
+  font-size: 9px;
+  color: #b0b0b0;
+  text-align: center;
+}
+
+.reactflow-graph .react-flow__handle {
+  background: #00d4ff;
+  border: 1px solid #00d4ff;
+}
+
+.reactflow-graph .react-flow__handle.connectableStart {
+  background: #39ff14;
+}
+
+.reactflow-graph .react-flow__edge-path {
+  stroke: #00d4ff;
+  stroke-width: 2;
+}
+
+.reactflow-graph .react-flow__edge.animated path {
+  stroke-dasharray: 5;
+  animation: dashdraw 0.5s linear infinite;
+}
+
+@keyframes dashdraw {
+  from {
+    stroke-dashoffset: 0;
+  }
+  to {
+    stroke-dashoffset: 10;
+  }
+}
+
+.reactflow-graph .react-flow__controls {
+  background: rgba(0, 0, 0, 0.3);
+  border: 1px solid rgba(0, 212, 255, 0.2);
+  border-radius: 4px;
+  bottom: 12px;
+  right: 12px;
+}
+
+.reactflow-graph .react-flow__controls button {
+  color: #00d4ff;
+  border-bottom: 1px solid rgba(0, 212, 255, 0.1);
+}
+
+.reactflow-graph .react-flow__controls button:hover {
+  background: rgba(0, 212, 255, 0.1);
+}
+
+.agent-legend {
+  padding: 8px 12px;
+  border-top: 1px solid #373a40;
+  background: rgba(0, 0, 0, 0.3);
+  max-height: 110px;
+  overflow-y: auto;
+  flex-shrink: 0;
+}
+
+.agent-legend::-webkit-scrollbar {
+  width: 4px;
+}
+
+.agent-legend::-webkit-scrollbar-thumb {
+  background: rgba(0, 212, 255, 0.3);
+  border-radius: 2px;
+}
+
+.agent-status-badge {
+  padding: 4px 6px;
+  background: rgba(0, 212, 255, 0.05);
+  border-radius: 3px;
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 11px;
+}
+
+.agent-status-badge .health-dot {
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  flex-shrink: 0;
+  box-shadow: 0 0 8px currentColor;
+}
+
+.agent-legend .mantine-Text-root {
+  font-family: 'JetBrains Mono', monospace;
+}

@@ -9,6 +9,7 @@ from fastapi.middleware.cors import CORSMiddleware
 
 from .a2a_client import A2AClient
 from .config import load_settings
+from .db import close_database, init_database
 from .log import CorrelationIdMiddleware, configure_logging
 from .pubsub import create_broker
 from .registry import AgentRegistry
@@ -22,6 +23,10 @@ log = structlog.get_logger(__name__)
 async def _lifespan(app: FastAPI):
     """Start-up and shut-down lifecycle."""
     settings = app.state.settings
+
+    # Initialise database (if configured)
+    if settings.database_url:
+        await init_database(settings.database_url)
 
     # Initialise task store (may run DB migrations)
     await app.state.task_store.initialize()
@@ -45,6 +50,8 @@ async def _lifespan(app: FastAPI):
     app.state.registry.stop_health_polling()
     await app.state.a2a_client.close()
     await app.state.broker.close()
+    if settings.database_url:
+        await close_database()
     log.info("control_plane.stopped")
 
 

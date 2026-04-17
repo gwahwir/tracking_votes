@@ -1,0 +1,70 @@
+.task-monitor {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  width: 100%;
+  background: #0a0a0f;
+  border: none;
+  border-radius: 0;
+  padding: 10px 12px;
+  font-family: 'JetBrains Mono', monospace;
+  box-shadow: none;
+  overflow: hidden;
+}
+
+.task-monitor .error-banner {
+  padding: 8px 10px;
+  background: rgba(255, 49, 49, 0.1);
+  border: 1px solid rgba(255, 49, 49, 0.3);
+  border-radius: 3px;
+}
+
+.node-output-scroll {
+  flex: 1;
+  overflow: auto;
+  background: rgba(0, 0, 0, 0.3);
+  border-radius: 3px;
+  padding: 0;
+}
+
+.node-output-scroll::-webkit-scrollbar {
+  width: 6px;
+}
+
+.node-output-scroll::-webkit-scrollbar-track {
+  background: rgba(0, 212, 255, 0.05);
+}
+
+.node-output-scroll::-webkit-scrollbar-thumb {
+  background: rgba(0, 212, 255, 0.3);
+  border-radius: 3px;
+}
+
+.node-output-scroll::-webkit-scrollbar-thumb:hover {
+  background: rgba(0, 212, 255, 0.5);
+}
+
+.node-output-list {
+  padding: 8px;
+}
+
+.output-line {
+  padding: 4px 0;
+  font-size: 11px;
+  line-height: 1.4;
+  color: #e0e0e0;
+}
+
+.output-line .node-badge {
+  flex-shrink: 0;
+  font-size: 9px;
+  font-weight: 600;
+  letter-spacing: 0.5px;
+  text-transform: uppercase;
+}
+
+.output-line .output-text {
+  color: #00d4ff;
+  word-break: break-word;
+  white-space: pre-wrap;
+}

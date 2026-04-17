@@ -60,16 +60,20 @@ class ScorerState(TypedDict):
 
 def _retrieve_wiki_node(state: ScorerState) -> ScorerState:
     """Parse input and fetch top-3 wiki excerpts relevant to the article."""
-    # Parse input — accept JSON string or plain text
+    # Prefer metadata.article_id if available (set by auto-dispatcher)
+    state["article_id"] = state["metadata"].get("article_id", str(uuid.uuid4()))
+    state["source"] = state["metadata"].get("source", "Unknown")
+
+    # Parse input — accept JSON string or plain text for article text
     try:
         data = json.loads(state["input"])
-        state["article_id"] = data.get("article_id", str(uuid.uuid4()))
         state["article_text"] = data.get("article_text", state["input"])
-        state["source"] = data.get("source", "Unknown")
+        # Override source if in parsed JSON
+        if "source" in data:
+            state["source"] = data["source"]
     except (json.JSONDecodeError, TypeError):
-        state["article_id"] = str(uuid.uuid4())
+        # Plain text input — use as-is
         state["article_text"] = state["input"]
-        state["source"] = state["metadata"].get("source", "Unknown")
 
     retriever = _get_retriever()
     results = retriever.query(state["article_text"], top_k=3)
@@ -120,7 +124,7 @@ def _score_node(state: ScorerState) -> ScorerState:
 
 
 def _store_node(state: ScorerState) -> ScorerState:
-    """Persist score to DB and emit wiki ingest task if score >= 60."""
+    """Persist score to DB and emit downstream tasks (wiki ingest, analyst)."""
     score = state["score_result"].get("score", 0)
     database_url = os.environ.get("DATABASE_URL")
 
@@ -136,23 +140,27 @@ def _store_node(state: ScorerState) -> ScorerState:
                     score,
                     state["article_id"],
                 )
+                log.info("scorer.db_updated", article_id=state["article_id"], score=score)
             finally:
                 await conn.close()
 
         try:
-            loop = asyncio.get_event_loop()
-            if loop.is_running():
-                import concurrent.futures
-                with concurrent.futures.ThreadPoolExecutor() as pool:
-                    pool.submit(asyncio.run, _persist()).result(timeout=10)
-            else:
-                loop.run_until_complete(_persist())
+            # Create a new event loop since we're in a sync context (LangGraph node)
+            new_loop = asyncio.new_event_loop()
+            asyncio.set_event_loop(new_loop)
+            try:
+                new_loop.run_until_complete(_persist())
+            finally:
+                new_loop.close()
         except Exception as exc:
             log.warning("scorer.db_error", error=str(exc))
 
     # Emit wiki ingest task if article scored well
     if score >= 60:
         _emit_wiki_task(state["article_text"], state["article_id"])
+
+    # Always emit analyst task for any scored article (regardless of score)
+    _emit_analyst_task(state["article_text"], state["article_id"], state["source"])
 
     state["output"] = json.dumps(state["score_result"])
     return state
@@ -171,6 +179,22 @@ def _emit_wiki_task(article_text: str, article_id: str) -> None:
         log.info("scorer.wiki_task_emitted", article_id=article_id)
     except Exception as exc:
         log.warning("scorer.wiki_emit_error", error=str(exc))
+
+
+def _emit_analyst_task(article_text: str, article_id: str, source: str) -> None:
+    """POST an analyst task to the control plane (fire-and-forget)."""
+    control_plane = os.environ.get("CONTROL_PLANE_URL", "http://localhost:8000")
+    url = f"{control_plane.rstrip('/')}/agents/analyst_agent/tasks"
+    try:
+        message = f"Analyze this article using 6 lenses (political, demographic, historical, strategic, fact-check, Bridget Welsh):\n\n[{source}]\n\n{article_text[:4000]}"
+        httpx.post(
+            url,
+            json={"message": message, "metadata": {"article_id": article_id, "source": source}},
+            timeout=5.0,
+        )
+        log.info("scorer.analyst_task_emitted", article_id=article_id)
+    except Exception as exc:
+        log.warning("scorer.analyst_emit_error", error=str(exc))
 
 
 # ---------------------------------------------------------------------------

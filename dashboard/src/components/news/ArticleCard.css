@@ -1,0 +1,22 @@
+.article-card {
+  cursor: pointer;
+  transition: all 0.2s ease;
+  border-color: #373a40;
+  background: #0a0a0f;
+}
+
+.article-card:hover {
+  border-color: #00d4ff;
+  box-shadow: 0 0 10px rgba(0, 212, 255, 0.2);
+  transform: translateY(-2px);
+}
+
+.article-card.selected {
+  border-color: #00d4ff;
+  background: rgba(0, 212, 255, 0.05);
+  box-shadow: 0 0 15px rgba(0, 212, 255, 0.3);
+}
+
+.article-card .mantine-Text-root {
+  font-family: 'JetBrains Mono', monospace;
+}
