@@ -38,6 +38,12 @@ Amanah was created from the PAS breakaway following the 2015 PAS Muktamar (annua
 
 ---
 
-## 2026 – Rec
+## Recent Statements (2026)
 
-- **April 2026** – Amanah President **Mohamad Sabu (Mat Sabu)** warned UMNO leader **Saifuddin Abdullah** that any rebuke (“teguran”) towards Amanah must be *fair and balanced*, emphasizing the party’s commitment to constructive criticism and democratic discourse. [Source: Free Malaysia Today, 2026-04-17]
+- Amanah President Mat Sabu, speaking at a media briefing in **Johor Bahru**, emphasized that while parental monitoring of children’s social‑media use is essential, any regulatory measures must balance moral protection with freedom of expression. He called for a **national digital‑literacy programme** and urged the government to work collaboratively with tech platforms rather than imposing punitive legislation. [Source: Free Malaysia Today, 2026-04-17]
+
+---
+
+## 2026 Development
+
+*Content to be added as new information becomes available.*

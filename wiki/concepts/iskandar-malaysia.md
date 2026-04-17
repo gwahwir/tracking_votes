@@ -42,56 +42,10 @@ The zone is named after the current Yang di-Pertuan Agong (since January 2024) a
 - Senai International Airport (Zone E)
 - Port of Tanjung Pelepas (Zone C — one of Southeast Asia's busiest container ports)
 - Johor Bahru–Singapore Rapid Transit System (RTS Link — under construction, see JB-Singapore Relations page)
-- Multiple commuter rail stations and cargo ports
-
-[Source: Wikipedia – Iskandar Malaysia, 2024]
+- Multiple commuter rail stations and cargo
 
 ---
 
-## Johor-Singapore Special Economic Zone (JS-SEZ)
+## Recent Developments (2026)
 
-In 2024, Malaysia and Singapore announced the **Johor-Singapore Special Economic Zone (JS-SEZ)**, a deeper bilateral economic integration zone covering parts of Johor Bahru and Iskandar Puteri. The JS-SEZ is designed to:
-- Attract high-value manufacturing (semiconductors, medical devices, data centres)
-- Allow simplified cross-border movement for workers and goods
-- Leverage Singapore's global connectivity and Johor's lower costs
-
-The JS-SEZ builds directly on Iskandar Malaysia's foundation and is expected to dramatically accelerate investment flows. [STALE — last confirmed: 2024]
-
----
-
-## Electoral Implications
-
-Iskandar Malaysia's development has reshaped Johor's political economy in ways directly relevant to electoral analysis:
-
-### New Middle Class (Pro-PH/DAP)
-The Iskandar zone created a large cohort of **urban professionals and knowledge workers** — engineers, IT workers, healthcare professionals — particularly in Zone B (Iskandar Puteri / Nusajaya) and Zone E (Senai). This population is more reform-minded, more ethnically mixed, and more likely to vote PH/DAP or PKR than traditional BN.
-
-**Electoral evidence:** Iskandar Puteri (P165) and Kulai (P166) are DAP-held federal seats that track closely with Iskandar zone development patterns.
-
-### Property Price Inflation (Anti-Establishment Pressure)
-Singapore-dollar purchasing power from cross-border workers has driven up JB property prices, making homeownership difficult for local Malay and Indian families earning in ringgit. This creates:
-- Anger toward developers with political connections (BN-affiliated)
-- Grievances about displacement of kampung (village) communities
-- A cost-of-living crisis narrative exploited by both PH and PN
-
-### Foreign Worker Concentration (PN Concern)
-Iskandar's industrial zones employ large numbers of foreign workers (Bangladesh, Myanmar, Indonesia). PN/PAS campaigns have amplified concerns about cultural and social impact of foreign worker concentrations, particularly in Zone C and D areas.
-
-### Land Acquisition Grievances
-Development of Iskandar Malaysia required significant land acquisition, displacing some **Orang Asli communities** and **Malay smallholders**. These displacement grievances create pockets of anti-BN sentiment even in predominantly Malay constituencies.
-
----
-
-## Key Iskandar Constituencies
-
-| Constituency | Type | Character |
-|-------------|------|-----------|
-| P165 Iskandar Puteri | Parlimen | DAP-held; new urban, professionals |
-| P166 Kulai | Parlimen | DAP-held; semi-urban Chinese |
-| N-series seats in JB/Iskandar | DUN | Mix of DAP, BN/MCA, PKR |
-
----
-
-## Iskandar Malaysia and the Johor Sultanate
-
-The Iskandar Malaysia branding reflects the Johor royal family's close identification with the development project. The zone was named after Sultan Ibrahim Iskandar. Key development assets (land grants, infrastructure concessions) have royal family connections. Political parties must navigate this carefully — direct criticism of Iskandar development can be perceived as criticism of the royal family, which carries legal and political risks in Malaysia.
+- In April 2026, Sultan Ibrahim Iskandar of Johor granted permission for the detention of two former students suspected in a murder case, highlighting the Sultan’s active involvement in law‑enforcement matters within the state. [Source: Free Malaysia Today, 2026-04-17]

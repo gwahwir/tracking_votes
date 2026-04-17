@@ -29,18 +29,6 @@ This page provides a side‑by‑side comparison of the three main coalitions' p
 |-----------|----------|
 | **BN/UMNO** | Islam is Malaysia's official religion; UMNO defends Islamic institutions (JAKIM, Islamic courts, syariah); opposes Hudud but champions "Islamic moderation" (wasatiyyah) |
 | **PH/Amanah** | Progressive Islam — Islamic values expressed through social justice, anti‑corruption, and inclusive governance; explicitly opposes Hudud; Amanah argues PH is more authentically Islamic than PAS |
-| **PN/PAS** | Full Islamist agenda; supports Hudud implementation; Kelantan and Terengga |
-
----
-
-## 3. Youth Digital Safety & Social Media
-
-| Coalition | Position |
-|-----------|----------|
-| **BN/UMNO** | Emphasises the role of parents and community religious leaders in guiding children’s online behaviour; supports voluntary parental monitoring programmes and calls for increased digital‑literacy education in schools. [Source: Free Malaysia Today, 2026-04-17] |
-| **PH** | Through the Ministry of Women, Family and Community Development, PH has launched the **"Safe Social Media"** initiative, offering workshops for parents in Johor Bahru and Muar and encouraging proactive parental oversight of children’s social‑media use. The coalition frames this as a collaborative effort with NGOs and tech platforms. [Source: Free Malaysia Today, 2026-04-17] |
-| **PN/PAS** | Calls for stricter government regulation of social‑media content to protect youth from immoral influences; advocates for legal mechanisms that would allow authorities to block harmful content and for mandatory parental consent for minors accessing certain platforms. [Source: Free Malaysia Today, 2026-04-17] |
-
-**Electoral significance in Johor:** Concerns over children’s exposure to online misinformation and harmful content are resonating strongly in both urban (Zone 1) and semi‑urban (Zone 2) constituencies, influencing voter expectations of government action on digital safety.
+| **PN/PAS** | Full Islamist agenda; supports Hudud implementation; Kelantan and Terengga; **Advocates stricter regulation of social‑media platforms and calls on parents to monitor children’s online activity to prevent exposure to extremist or immoral content.** [Source: Free Malaysia Today, 2026-04-17] |
 
 ---

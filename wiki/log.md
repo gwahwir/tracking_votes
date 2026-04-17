@@ -1366,3 +1366,249 @@ Pages updated: none
 No relevant updates needed.
 
 Pages updated: none
+
+## 2026-04-17T10:55:31Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-17T10:55:32Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-17T10:55:33Z
+
+Added detailed facts about the 2026 parental‑guidance pilot programme in Johor, including scope, funding, hotline number and rollout zones, citing Free Malaysia Today.
+
+Pages updated: concepts/johor-political-landscape.md
+
+## 2026-04-17T10:55:33Z
+
+Added 2026 murder‑case detention involving Sultan Ibrahim Iskandar to Iskandar Malaysia and Johor political landscape pages.
+
+Pages updated: concepts/iskandar-malaysia.md, concepts/johor-political-landscape.md
+
+## 2026-04-17T10:55:44Z
+
+Added a 2026 murder‑case event showing the Sultan's role in authorising detention, reflecting recent political‑social dynamics in Johor.
+
+Pages updated: concepts/johor-political-landscape.md
+
+## 2026-04-17T10:56:50Z
+
+Added citation of the 17 April 2026 fatal robbery incident to the Johor political landscape page, linking it to the parental‑guidance pilot launch.
+
+Pages updated: concepts/johor-political-landscape.md
+
+## 2026-04-17T10:56:51Z
+
+Added detailed 2026 parental‑control statements from the Free Malaysia Today article to PAS and Amanah pages.
+
+Pages updated: entities/parties/pas.md, entities/parties/amanah.md
+
+## 2026-04-17T10:56:51Z
+
+Added a new subsection to the Johor Political Landscape page documenting the Sultan's 2026 intervention in a murder case, reflecting recent royal involvement in state affairs.
+
+Pages updated: concepts/johor-political-landscape.md
+
+## 2026-04-17T10:56:51Z
+
+Added a new 'Public Safety and Crime' section to the Johor political landscape page, incorporating details of the fatal robbery in Muar (16 Apr 2026) and linking it to broader safety initiatives.
+
+Pages updated: concepts/johor-political-landscape.md
+
+## 2026-04-17T10:56:52Z
+
+Added a 2026 murder‑case event showing the Sultan's role in detaining suspects, updating the Johor political landscape page.
+
+Pages updated: concepts/johor-political-landscape.md
+
+## 2026-04-17T10:57:39Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-17T10:57:40Z
+
+Added recent April 2026 crime incident to Johor political landscape page to reflect emerging public safety concerns.
+
+Pages updated: concepts/johor-political-landscape.md
+
+## 2026-04-17T10:57:40Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-17T10:57:40Z
+
+Added a new fact about the Sultan of Johor granting permission for detention in a 2026 murder case, reflecting monarchical influence on law enforcement.
+
+Pages updated: concepts/johor-political-landscape.md
+
+## 2026-04-17T10:57:41Z
+
+Added a new section on the Sultan's role in a 2026 murder case to illustrate royal influence on law enforcement in Johor.
+
+Pages updated: concepts/johor-political-landscape.md
+
+## 2026-04-17T10:57:42Z
+
+Added a 2026 event showing the Sultan of Johor granting permission to detain two former students in a murder case, illustrating royal influence on state security.
+
+Pages updated: concepts/johor-political-landscape.md
+
+## 2026-04-17T10:57:42Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-17T10:58:00Z
+
+Added a new section on the Sultan's 2026 intervention in a murder case, reflecting recent royal involvement in Johor's law enforcement.
+
+Pages updated: concepts/johor-political-landscape.md
+
+## 2026-04-17T10:58:00Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-17T10:58:01Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-17T10:58:01Z
+
+Added detailed 2026 statements on social‑media regulation from PAS and Amanah, updated coalition position tables and Johor landscape to reflect new parental‑monitoring issue.
+
+Pages updated: entities/parties/pas.md, entities/parties/amanah.md, comparisons/coalition-positions.md, concepts/johor-political-landscape.md
+
+## 2026-04-17T10:58:01Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-17T10:58:01Z
+
+Added PAS's 2026 statement on social‑media regulation and parental monitoring to the PAS page and reflected this stance in the coalition‑positions comparison under Islam and Governance.
+
+Pages updated: entities/parties/pas.md, comparisons/coalition-positions.md
+
+## 2026-04-17T10:58:01Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-17T10:58:01Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-17T10:58:02Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-17T10:58:02Z
+
+Added a new 'Monarchy and Judicial Influence' subsection to reflect the Sultan's involvement in a 2026 murder case, providing a recent factual update.
+
+Pages updated: concepts/johor-political-landscape.md
+
+## 2026-04-17T10:58:02Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-17T10:58:02Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-17T10:58:02Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-17T10:58:02Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-17T10:58:03Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-17T10:58:05Z
+
+Added detailed 2026 statements by PAS President Abdul Hadi Awang on parental monitoring and stricter social‑media regulation, citing Free Malaysia Today.
+
+Pages updated: entities/parties/pas.md
+
+## 2026-04-17T10:58:48Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-17T10:59:27Z
+
+Added a new 'Recent High‑Profile Criminal Cases' section to the Johor political landscape page, noting the April 2026 murder case where the Sultan granted permission for arrests.
+
+Pages updated: concepts/johor-political-landscape.md
+
+## 2026-04-17T10:59:27Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-17T10:59:27Z
+
+Added a new subsection on the April 2026 murder case involving royal permission and subsequent detention, updating the Johor political landscape page with recent events.
+
+Pages updated: concepts/johor-political-landscape.md
+
+## 2026-04-17T10:59:29Z
+
+Added a new subsection on the 2026 high‑profile murder case in Johor, linking it to public security concerns and political discourse.
+
+Pages updated: concepts/johor-political-landscape.md
+
+## 2026-04-17T11:00:48Z
+
+Added detailed information on the April 2026 murder case involving two former students and the Sultan's temporary stay of detention to the Johor political landscape page.
+
+Pages updated: concepts/johor-political-landscape.md
+
+## 2026-04-17T11:00:48Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-17T11:00:48Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none

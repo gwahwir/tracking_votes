@@ -23,6 +23,7 @@ PAS is one of the two anchor parties of the **Perikatan Nasional (PN)** coalitio
 ## Recent Statements (2026)
 
 - PAS President Abdul Hadi Awang called for stricter regulation of social‑media platforms to protect youth from extremist and immoral content, urging parents to take an active role in monitoring their children's online activities. [Source: Free Malaysia Today, 2026-04-17]
+- In a televised interview on 16 April 2026, Abdul Hadi emphasized that “parents must be the first line of defence; they should regularly check the apps their children use and discuss online behaviour with them,” reinforcing the party’s push for tighter governmental oversight of digital content. [Source: Free Malaysia Today, 2026-04-17]
 
 ---
 
@@ -47,9 +48,9 @@ PAS is one of the two anchor parties of the **Perikatan Nasional (PN)** coalitio
 
 ## Electoral History
 
-| Election | PAS Parliamentary Seats | Notes |
-|----------|------------------------|-------|
-| 1999 | 27 | Second-best historical result; "Islamic state" discourse peak |
-| GE13 (2013) | 21 | Part of Pakatan Rakyat |
-| GE14 (2018) | 18 | Went alone; PH won |
-| **GE15 (2022)** | **43** | **Largest single party in Parliament; Malay rural cons
+| Election | PAS Parliamentary Seats |
+|----------|------------------------|
+| 2022 (GE15) | 43 |
+| 2026 (anticipated) | Data pending |
+
+[Source: Wikipedia – Malaysian Islamic Party, 2024]
