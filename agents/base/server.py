@@ -60,15 +60,14 @@ class A2ACancelRequest(BaseModel):
 # Factory
 # ---------------------------------------------------------------------------
 
-def build_a2a_app(executor) -> FastAPI:
+def build_a2a_app(executor, lifespan_override=None) -> FastAPI:
     """Create a FastAPI app that wraps *executor* with the A2A protocol."""
 
     # Active task_id → asyncio.Task map for cancellation
     _active: dict[str, asyncio.Task] = {}
 
     @asynccontextmanager
-    async def _lifespan(app: FastAPI):
-        # Register with the control plane on startup
+    async def _default_lifespan(app: FastAPI):
         await register_with_control_plane(executor.agent_card())
         log.info("agent.started", type_id=executor.AGENT_TYPE_ID)
         yield
@@ -77,7 +76,7 @@ def build_a2a_app(executor) -> FastAPI:
     app = FastAPI(
         title=executor.AGENT_NAME,
         version="0.1.0",
-        lifespan=_lifespan,
+        lifespan=lifespan_override or _default_lifespan,
     )
     app.add_middleware(
         CORSMiddleware,
