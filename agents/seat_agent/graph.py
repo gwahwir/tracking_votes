@@ -16,12 +16,8 @@ from control_plane.db import get_session_maker
 log = structlog.get_logger(__name__)
 
 
-async def gather_signals(state: dict, config: dict) -> dict:
+async def gather_signals(state: dict) -> dict:
     """Gather multi-lens analysis signals for the constituency."""
-    executor = config["configurable"]["executor"]
-    task_id = config["configurable"]["task_id"]
-    executor.check_cancelled(task_id)
-
     constituency_code = state.get("constituency_code")
     if not constituency_code:
         state["error"] = "No constituency_code provided"
@@ -89,12 +85,8 @@ async def gather_signals(state: dict, config: dict) -> dict:
     return state
 
 
-async def load_baseline(state: dict, config: dict) -> dict:
+async def load_baseline(state: dict) -> dict:
     """Load historical results and demographics for the constituency from the DB."""
-    executor = config["configurable"]["executor"]
-    task_id = config["configurable"]["task_id"]
-    executor.check_cancelled(task_id)
-
     constituency_code = state.get("constituency_code")
     log.info("seat.load_baseline", constituency_code=constituency_code)
 
@@ -163,12 +155,8 @@ async def load_baseline(state: dict, config: dict) -> dict:
     return state
 
 
-async def assess(state: dict, config: dict) -> dict:
+async def assess(state: dict) -> dict:
     """LLM-based assessment: aggregate signals into SeatPrediction."""
-    executor = config["configurable"]["executor"]
-    task_id = config["configurable"]["task_id"]
-    executor.check_cancelled(task_id)
-
     constituency_code = state.get("constituency_code")
     signals = state.get("signals", {})
     caveats = state.get("caveats", [])
@@ -266,12 +254,8 @@ Return ONLY valid JSON, no markdown.
     return state
 
 
-async def store(state: dict, config: dict) -> dict:
+async def store(state: dict) -> dict:
     """Store SeatPrediction to database."""
-    executor = config["configurable"]["executor"]
-    task_id = config["configurable"]["task_id"]
-    executor.check_cancelled(task_id)
-
     prediction = state.get("seat_prediction")
     if not prediction:
         log.warning("seat.store.no_prediction")

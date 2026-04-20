@@ -112,6 +112,13 @@ def llm_stream(messages: list[dict[str, Any]], **kwargs) -> Generator[str, None,
         yield _anthropic_call(messages, **kwargs)
 
 
+async def llm_call_with_fallback(messages: list[dict], **kwargs) -> str:
+    """Async wrapper around llm_call for use in async contexts (e.g. seat_agent)."""
+    import asyncio
+    loop = asyncio.get_event_loop()
+    return await loop.run_in_executor(None, lambda: llm_call(messages, **kwargs))
+
+
 def _maybe_fallback_log(exc: Exception) -> None:
     try:
         import openai  # type: ignore

@@ -3022,3 +3022,57 @@ Pages updated: none
 Added 2026 BN rally activity in Segamat and Labis to BN party page and both constituency pages.
 
 Pages updated: entities/parties/bn-umno.md, entities/constituencies/parlimen/p142-labis.md, entities/constituencies/parlimen/p140-segamat.md
+
+## 2026-04-20T10:51:38Z
+
+Added recent BN rally activity in Segamat and Labis to the BN party page and the respective constituency pages.
+
+Pages updated: entities/parties/bn-umno.md, entities/constituencies/parlimen/p142-labis.md, entities/constituencies/parlimen/p140-segamat.md
+
+## 2026-04-20T10:51:44Z
+
+Added recent 2026 campaign activity noting BN rallying in Segamat and Labis ahead of the Johor state election to BN party page and the two constituency pages.
+
+Pages updated: entities/parties/bn-umno.md, entities/constituencies/parlimen/p142-labis.md, entities/constituencies/parlimen/p140-segamat.md
+
+## 2026-04-20T10:51:51Z
+
+Added 2024 BN rally activity to BN party page and to Segamat and Labis constituency pages.
+
+Pages updated: entities/parties/bn-umno.md, entities/constituencies/parlimen/p140-segamat.md, entities/constituencies/parlimen/p142-labis.md
+
+## 2026-04-20T10:51:52Z
+
+Added 2024 BN rally activity in Segamat and Labis to BN party page and both constituency pages.
+
+Pages updated: entities/parties/bn-umno.md, entities/constituencies/parlimen/p140-segamat.md, entities/constituencies/parlimen/p142-labis.md
+
+## 2026-04-20T10:51:57Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-20T10:52:06Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-20T10:52:19Z
+
+Added recent BN rally activity in Segamat and Labis ahead of the 2024 Johor state election to BN party page and the two constituency pages.
+
+Pages updated: entities/parties/bn-umno.md, entities/constituencies/parlimen/p140-segamat.md, entities/constituencies/parlimen/p142-labis.md
+
+## 2026-04-20T10:52:24Z
+
+Added 2024 BN rally statements to Labis and Segamat constituency pages with citations.
+
+Pages updated: entities/constituencies/parlimen/p142-labis.md, entities/constituencies/parlimen/p140-segamat.md
+
+## 2026-04-20T10:52:32Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none

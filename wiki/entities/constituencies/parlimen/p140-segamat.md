@@ -38,10 +38,15 @@
 
 **Turnout:** 83.4% | **Margin:** 5,476 (12.1%)
 
+*Source: SPR Official Results; TindakMalaysia; Wikipedia*
+
 ---
 
-## Recent Campaign Activity (2026)
+## 2026 State Election Campaign
 
-- **BN rally in Segamat (April 2026):** Barisan Nasional held a rally in Segamat as part of its pre‑state‑election outreach. Senior BN leaders, including Deputy Prime Minister Ahmad Zahid Hamidi, highlighted plans for a new industrial park, improvements to the Segamat‑Johor Bahru highway, and increased funding for rural schools. [Source: The Star, 20 April 2026]
+- **April 2026:** Barisan Nasional (BN) launched rally activities in Segamat as part of its broader effort to secure votes ahead of the Johor state election, emphasizing infrastructure projects and Malay‑Bumiputera development programmes. [Source: The Star, 20 April 2026]
+- **2024:** BN is rallying support in Segamat ahead of the state election. [Source: The Star, 2024]
+
+---
 
 ---

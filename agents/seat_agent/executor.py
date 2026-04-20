@@ -41,8 +41,17 @@ class SeatAgentExecutor(LangGraphA2AExecutor):
 
         return graph.compile()
 
-    def prepare_input(self, message: str) -> dict:
+    def _build_initial_state(self, message_text: str, metadata: dict) -> dict:
         """Parse incoming message as JSON with constituency_code."""
+        try:
+            data = json.loads(message_text)
+            code = data.get("constituency_code") or metadata.get("constituency_code")
+        except Exception:
+            code = metadata.get("constituency_code") or message_text
+        return {"constituency_code": code, "input": message_text, "metadata": metadata}
+
+    def prepare_input(self, message: str) -> dict:
+        """Legacy — kept for compatibility."""
         try:
             data = json.loads(message)
             return {"constituency_code": data.get("constituency_code"), "context": data}

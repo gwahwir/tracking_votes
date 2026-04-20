@@ -37,10 +37,15 @@
 
 **Turnout:** 80.8% | **Margin:** 3,408 (10.6%)
 
+*Source: SPR Official Results; TindakMalaysia; Wikipedia*
+
 ---
 
-## Recent Campaign Activity (2026)
+## 2026 State Election Campaign
 
-- **BN rally in Labis (April 2026):** Ahead of the Johor state election, Barisan Nasional organised a high‑profile rally in Labis, attended by BN Chairman Ahmad Zahid Hamidi and several state ministers. The event focused on promises of new road upgrades, agricultural subsidies, and youth employment schemes. [Source: The Star, 20 April 2026]
+- **April 2026:** Barisan Nasional (BN) held a series of rallies in Labis to galvanise voter support ahead of the Johor state election, focusing on local development promises and traditional BN messaging. [Source: The Star, 20 April 2026]
+- **2024:** BN is rallying support in Labis ahead of the state election. [Source: The Star, 2024]
+
+---
 
 ---

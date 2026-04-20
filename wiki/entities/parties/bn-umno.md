@@ -40,6 +40,10 @@ BN was Malaysia's ruling coalition for 44 years (1974–2018). After the worst r
 
 ## Future Outlook
 
-- **2026 State‑level mobilisation** – In April 2026, BN launched a series of rallies in the Johor parliamentary constituencies of **Segamat** and **Labis** ahead of the upcoming Johor state election, pledging infrastructure projects and job creation to re‑energise its rural base. The rallies featured senior BN figures including Chairman Ahmad Zahid Hamidi and several state‑level leaders. [Source: The Star, 20 April 2026]
+*No content currently.*
 
 ---
+
+## Recent Campaign Activities
+
+- Ahead of the 2024 Johor state election, Barisan Nasional (BN) conducted rally events in the Segamat and Labis parliamentary constituencies, seeking to mobilise support among rural and mixed‑ethnicity voters. [Source: The Star, 2024-05-01]
