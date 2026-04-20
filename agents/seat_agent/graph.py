@@ -10,7 +10,7 @@ from sqlalchemy import select
 from sqlalchemy.ext.asyncio import AsyncSession
 
 from agents.base.llm import llm_call_with_fallback
-from agents.base.models import Analysis, Article, SeatPrediction
+from agents.base.models import Analysis, Article, ConstituencyDemographics, HistoricalResult, SeatPrediction
 from control_plane.db import get_session_maker
 
 log = structlog.get_logger(__name__)
@@ -90,7 +90,7 @@ async def gather_signals(state: dict, config: dict) -> dict:
 
 
 async def load_baseline(state: dict, config: dict) -> dict:
-    """Load constituency wiki baseline + party pages for context."""
+    """Load historical results and demographics for the constituency from the DB."""
     executor = config["configurable"]["executor"]
     task_id = config["configurable"]["task_id"]
     executor.check_cancelled(task_id)
@@ -98,12 +98,67 @@ async def load_baseline(state: dict, config: dict) -> dict:
     constituency_code = state.get("constituency_code")
     log.info("seat.load_baseline", constituency_code=constituency_code)
 
-    # Load from wiki if available (mocked here; in real version, would read from wiki filesystem)
-    state["wiki_baseline"] = {
-        "constituency_name": f"Constituency {constituency_code}",
-        "historical_winners": {},
-        "voter_demographics": {},
-    }
+    session_maker = get_session_maker()
+    if not session_maker:
+        state["wiki_baseline"] = {
+            "constituency_name": f"Constituency {constituency_code}",
+            "historical_winners": {},
+            "voter_demographics": {},
+        }
+        return state
+
+    try:
+        async with session_maker() as session:
+            # Historical results
+            stmt = select(HistoricalResult).where(
+                HistoricalResult.constituency_code == constituency_code
+            ).order_by(HistoricalResult.election_year.desc())
+            result = await session.execute(stmt)
+            history = result.scalars().all()
+
+            # Demographics
+            stmt_demo = select(ConstituencyDemographics).where(
+                ConstituencyDemographics.constituency_code == constituency_code
+            )
+            result_demo = await session.execute(stmt_demo)
+            demographics = result_demo.scalars().first()
+
+            seat_name = history[0].seat_name if history else constituency_code
+
+            state["wiki_baseline"] = {
+                "constituency_name": seat_name,
+                "historical_winners": {
+                    str(h.election_year): {
+                        "party": h.winner_party,
+                        "coalition": h.winner_coalition,
+                        "winner_name": h.winner_name,
+                        "margin_pct": h.margin_pct,
+                        "turnout_pct": h.turnout_pct,
+                        "candidates": h.candidates,
+                    }
+                    for h in history
+                },
+                "voter_demographics": {
+                    "malay_pct": demographics.malay_pct,
+                    "chinese_pct": demographics.chinese_pct,
+                    "indian_pct": demographics.indian_pct,
+                    "others_pct": demographics.others_pct,
+                    "urban_rural": demographics.urban_rural,
+                    "region": demographics.region,
+                } if demographics else {},
+            }
+
+            log.info("seat.baseline_loaded", constituency_code=constituency_code,
+                     history_years=[h.election_year for h in history],
+                     has_demographics=demographics is not None)
+
+    except Exception as e:
+        log.error("seat.load_baseline.error", error=str(e), constituency_code=constituency_code)
+        state["wiki_baseline"] = {
+            "constituency_name": constituency_code,
+            "historical_winners": {},
+            "voter_demographics": {},
+        }
 
     return state
 
@@ -131,27 +186,48 @@ async def assess(state: dict, config: dict) -> dict:
         else:
             signal_summary[lens] = None
 
-    prompt = f"""
-You are an election analyst for Johor, Malaysia. Assess the constituency {constituency_code} based on these signals:
+    baseline = state.get("wiki_baseline", {})
+    historical_winners = baseline.get("historical_winners", {})
+    voter_demographics = baseline.get("voter_demographics", {})
+    constituency_name = baseline.get("constituency_name", constituency_code)
 
+    prompt = f"""
+You are an election analyst for Johor, Malaysia. Assess constituency {constituency_code} ({constituency_name}).
+
+## Historical Baseline
+{json.dumps(historical_winners, indent=2)}
+
+## Voter Demographics
+{json.dumps(voter_demographics, indent=2)}
+
+## Current Signals from News Analysis
 {json.dumps(signal_summary, indent=2)}
 
-Return a JSON object with:
+Based on the historical patterns, demographic composition, and current news signals, predict the likely winner.
+
+Return a JSON object:
 {{
   "leading_party": "<BN|PH|PN>",
   "confidence": <0-100>,
   "signal_breakdown": {{
     "political": {{"direction": "<party>", "strength": <0-100>, "summary": "..."}},
     "demographic": {{"direction": "<party>", "strength": <0-100>, "summary": "..."}},
-    ...
+    "historical": {{"direction": "<party>", "strength": <0-100>, "summary": "..."}},
+    "strategic": {{"direction": "<party>", "strength": <0-100>, "summary": "..."}},
+    "factcheck": {{"direction": "<party>", "strength": <0-100>, "summary": "..."}},
+    "bridget_welsh": {{"direction": "<party>", "strength": <0-100>, "summary": "..."}}
   }},
+  "historical_comparison": "How does the current signal compare to the 2022 baseline?",
+  "swing_estimate": "<estimated swing from 2022 in percentage points or 'unknown'>",
   "rationale": "..."
 }}
 
-Base confidence on:
-- Number of signals (more = higher confidence)
-- Signal agreement (aligned = higher)
-- Signal strength
+Key guidelines:
+- If no current news signals exist, weight historical baseline heavily (confidence 30-50 range)
+- If signals contradict history, note this and lower confidence
+- Factor in demographic composition when assessing party strength
+- Consider three-cornered fight dynamics (BN vs PH vs PN vote splitting)
+- Seats with margin_pct < 5% in 2022 are highly marginal — cap confidence at 55
 
 Return ONLY valid JSON, no markdown.
 """

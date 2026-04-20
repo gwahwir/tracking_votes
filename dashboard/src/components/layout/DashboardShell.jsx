@@ -1,13 +1,15 @@
 import { useState, useCallback } from 'react'
 import { ActionIcon, Tooltip } from '@mantine/core'
 import { TopBar } from './TopBar'
+import { Scoreboard } from './Scoreboard'
 import { ElectionMap } from '../map/ElectionMap'
 import { NewsFeedPanel } from '../news/NewsFeedPanel'
 import { AnalysisPanel } from '../analysis/AnalysisPanel'
+import { SeatDetailPanel } from '../seats/SeatDetailPanel'
 import { WikiModal } from '../wiki/WikiModal'
 import TaskMonitor from '../agents/TaskMonitor'
 // import AgentGraph from '../agents/AgentGraph'
-import { useDispatchTask } from '../../hooks/useApi'
+import { useDispatchTask, useSeatPredictions } from '../../hooks/useApi'
 import './DashboardShell.css'
 
 /**
@@ -19,11 +21,13 @@ export const DashboardShell = () => {
   const [mapType, setMapType] = useState('parlimen')
   const [useCartogram, setUseCartogram] = useState(false)
   const [selectedArticle, setSelectedArticle] = useState(null)
+  const [selectedConstituency, setSelectedConstituency] = useState(null) // { code, name }
   const [wikiOpen, setWikiOpen] = useState(false)
   const [refreshTrigger, setRefreshTrigger] = useState(0)
   const [activeTaskId, setActiveTaskId] = useState(null)
   const [agentPanelOpen, setAgentPanelOpen] = useState(false)
   const { dispatchTask, loading: dispatchLoading } = useDispatchTask()
+  const { predictions } = useSeatPredictions()
 
   const handleMapTypeChange = useCallback((type) => {
     setMapType(type)
@@ -75,6 +79,8 @@ export const DashboardShell = () => {
         showWikiButton={true}
       />
 
+      <Scoreboard predictions={predictions} />
+
       <div className="dashboard-content">
         <div className="column feed-column">
           <NewsFeedPanel
@@ -86,15 +92,27 @@ export const DashboardShell = () => {
         </div>
 
         <div className="column map-column">
-          <ElectionMap mapType={mapType} useCartogram={useCartogram} />
+          <ElectionMap
+            mapType={mapType}
+            useCartogram={useCartogram}
+            onConstituencySelect={(code, name) => setSelectedConstituency({ code, name })}
+          />
         </div>
 
         <div className="column analysis-column">
-          <AnalysisPanel
-            article={selectedArticle}
-            refreshTrigger={refreshTrigger}
-            onTaskCreated={setActiveTaskId}
-          />
+          {selectedConstituency ? (
+            <SeatDetailPanel
+              constituencyCode={selectedConstituency.code}
+              seatName={selectedConstituency.name}
+              onClose={() => setSelectedConstituency(null)}
+            />
+          ) : (
+            <AnalysisPanel
+              article={selectedArticle}
+              refreshTrigger={refreshTrigger}
+              onTaskCreated={setActiveTaskId}
+            />
+          )}
         </div>
       </div>
 

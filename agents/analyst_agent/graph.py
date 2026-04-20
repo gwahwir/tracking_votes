@@ -295,6 +295,49 @@ def _final_synthesis_node(state: AnalystState) -> AnalystState:
     return state
 
 
+def _chain_to_seat_node(state: AnalystState) -> AnalystState:
+    """After analysis, dispatch seat_agent tasks for each tagged constituency."""
+    import asyncio
+    import os
+    import httpx
+
+    control_plane_url = os.environ.get("CONTROL_PLANE_URL", "http://control_plane:8000")
+    constituency_codes = state.get("constituency_codes", [])
+
+    if not constituency_codes:
+        log.info("chain.no_constituencies", article_id=state.get("article_id"))
+        return state
+
+    async def _dispatch():
+        async with httpx.AsyncClient(timeout=10.0) as client:
+            for code in constituency_codes:
+                try:
+                    response = await client.post(
+                        f"{control_plane_url}/agents/seat_agent/tasks",
+                        json={
+                            "message": json.dumps({"constituency_code": code}),
+                            "metadata": {"constituency_code": code},
+                        },
+                    )
+                    response.raise_for_status()
+                    result = response.json()
+                    log.info("chain.seat_dispatched", task_id=result.get("task_id"), code=code)
+                except Exception as exc:
+                    log.warning("chain.seat_error", code=code, error=str(exc))
+
+    try:
+        new_loop = asyncio.new_event_loop()
+        asyncio.set_event_loop(new_loop)
+        try:
+            new_loop.run_until_complete(_dispatch())
+        finally:
+            new_loop.close()
+    except Exception as exc:
+        log.warning("chain.seat_dispatch_failed", error=str(exc))
+
+    return state
+
+
 def _persist_analyses(state: AnalystState) -> None:
     database_url = os.environ.get("DATABASE_URL")
     if not database_url or not state.get("article_id"):
@@ -327,13 +370,12 @@ def _persist_analyses(state: AnalystState) -> None:
             await conn.close()
 
     try:
-        loop = asyncio.get_event_loop()
-        if loop.is_running():
-            import concurrent.futures
-            with concurrent.futures.ThreadPoolExecutor() as pool:
-                pool.submit(asyncio.run, _do_persist()).result(timeout=15)
-        else:
-            loop.run_until_complete(_do_persist())
+        new_loop = asyncio.new_event_loop()
+        asyncio.set_event_loop(new_loop)
+        try:
+            new_loop.run_until_complete(_do_persist())
+        finally:
+            new_loop.close()
     except Exception as exc:
         log.warning("analyst.db_error", error=str(exc))
 
@@ -352,6 +394,7 @@ def build_analyst_graph():
     g.add_node("red_team",        _red_team_node)
     g.add_node("baseline_compare",_baseline_compare_node)
     g.add_node("final_synthesis", _final_synthesis_node)
+    g.add_node("chain_to_seat",   _chain_to_seat_node)
 
     g.set_entry_point("retrieve_wiki")
     g.add_edge("retrieve_wiki",    "run_lenses")
@@ -360,6 +403,7 @@ def build_analyst_graph():
     g.add_edge("aggregate",        "red_team")
     g.add_edge("red_team",         "baseline_compare")
     g.add_edge("baseline_compare", "final_synthesis")
-    g.add_edge("final_synthesis",  END)
+    g.add_edge("final_synthesis",  "chain_to_seat")
+    g.add_edge("chain_to_seat",    END)
 
     return g.compile()

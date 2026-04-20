@@ -27,8 +27,6 @@ This page provides a side‑by‑side comparison of the three main coalitions' p
 
 | Coalition | Position |
 |-----------|----------|
-| **BN/UMNO** | Islam is Malaysia's official religion; UMNO defends Islamic institutions (JAKIM, Islamic courts, syariah); opposes Hudud but champions "Islamic moderation" (wasatiyyah) |
-| **PH/Amanah** | Progressive Islam — Islamic values expressed through social justice, anti‑corruption, and inclusive governance; explicitly opposes Hudud; Amanah argues PH is more authentically Islamic than PAS |
-| **PN/PAS** | Full Islamist agenda; supports Hudud implementation; Kelantan and Terengga; **Advocates stricter regulation of social‑media platforms and calls on parents to monitor children’s online activity to prevent exposure to extremist or immoral content.** [Source: Free Malaysia Today, 2026-04-17] |
-
----
+| **BN/UMNO** | Islam is Malaysia's official religion; UMNO defends Islamic institutions (JAKIM, Islamic courts, syariah); opposes Hudud but promotes “Islamic moderation” (wasatiyyah). |
+| **PH/Amanah** | Progressive Islam – advocates Islamic values through social justice, anti‑corruption, inclusive governance; explicitly opposes Hudud; supports parental involvement in children's online activity **but calls for fair, non‑discriminatory regulation and balanced digital policy**. This stance was reiterated on 17 April 2026 when Amanah President Mat Sabu told PAS leader Saifuddin that any admonition must be fair and not target a specific community. [Source: Free Malaysia Today, 2026-04-17] |
+| **PN/PAS** | Calls for stricter regulation of social‑media platforms to protect youth from extremist and immoral content; urges parents to actively monitor children’s online activities; advocates for broader implementation of Hudud and a more conservative Islamic governance model. [Source: Free Malaysia Today, 2026-04-17] |

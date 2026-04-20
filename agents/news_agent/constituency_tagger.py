@@ -1,7 +1,6 @@
 """Constituency tagger — maps article text to Johor Parlimen/DUN seat codes.
 
-Uses keyword matching against a lookup table of seat names, aliases, and
-notable localities within each constituency.
+Codes use dotted format matching GeoJSON: "N.01"–"N.56", "P.140"–"P.165".
 """
 from __future__ import annotations
 
@@ -11,110 +10,108 @@ from dataclasses import dataclass
 
 @dataclass
 class ConstituencyMatch:
-    code: str           # e.g. "P157" or "N.28"
+    code: str           # e.g. "P.140" or "N.01"
     seat_type: str      # "parlimen" | "dun"
     name: str
     matched_keyword: str
 
 
 # ---------------------------------------------------------------------------
-# Lookup tables
-# Parlimen: P.140–P.165 (Johor 26 seats)
-# DUN: N.01–N.56 (Johor 56 seats)
+# Lookup tables  (code, name, [extra keywords / localities])
+# Authoritative names from GeoJSON; Parlimen P.140–P.165, DUN N.01–N.56
 # ---------------------------------------------------------------------------
 
 # fmt: off
 _PARLIMEN: list[tuple[str, str, list[str]]] = [
-    # (code, name, [keywords / aliases / major localities])
-    ("P140", "Pulai",          ["Pulai", "Gelang Patah", "Permas Jaya"]),
-    ("P141", "Ledang",         ["Ledang", "Muar North", "Tangkak"]),
-    ("P142", "Bakri",          ["Bakri", "Muar"]),
-    ("P143", "Muar",           ["Muar", "Maharani"]),
-    ("P144", "Parit Sulong",   ["Parit Sulong", "Batu Pahat North"]),
-    ("P145", "Ayer Hitam",     ["Ayer Hitam", "Air Hitam"]),
-    ("P146", "Sri Gading",     ["Sri Gading", "Batu Pahat"]),
-    ("P147", "Batu Pahat",     ["Batu Pahat"]),
-    ("P148", "Simpang Renggam",["Simpang Renggam", "Kluang South"]),
-    ("P149", "Kluang",         ["Kluang"]),
-    ("P150", "Sembrong",       ["Sembrong", "Kluang North"]),
-    ("P151", "Mersing",        ["Mersing", "Endau"]),
-    ("P152", "Tenggara",       ["Tenggara", "Kota Tinggi South"]),
-    ("P153", "Kota Tinggi",    ["Kota Tinggi"]),
-    ("P154", "Pengerang",      ["Pengerang", "RAPID", "Refinery"]),
-    ("P155", "Tebrau",         ["Tebrau", "Masai", "Plentong"]),
-    ("P156", "Pasir Gudang",   ["Pasir Gudang", "Pasir Gudang Port"]),
-    ("P157", "Johor Bahru",    ["Johor Bahru", "JB", "Stulang", "Bukit Chagar"]),
-    ("P158", "Pulai",          []),   # Note: duplicate name resolved by code
-    ("P159", "Pontian",        ["Pontian", "Benut"]),
-    ("P160", "Tanjung Piai",   ["Tanjung Piai", "Kukup"]),
-    ("P161", "Batu Pahat",     []),   # deconflict via subkeywords
-    ("P162", "Segamat",        ["Segamat", "Genuang"]),
-    ("P163", "Sekijang",       ["Sekijang", "Labis"]),
-    ("P164", "Pagoh",          ["Pagoh", "Bukit Serampang"]),
-    ("P165", "Kulai",          ["Kulai", "Indahpura", "Bandar Tenggara"]),
+    ("P.140", "Segamat",          ["Segamat", "Genuang", "Buloh Kasap", "Jementah"]),
+    ("P.141", "Sekijang",         ["Sekijang", "Pemanis", "Kemelah"]),
+    ("P.142", "Labis",            ["Labis", "Tenang", "Bekok"]),
+    ("P.143", "Pagoh",            ["Pagoh", "Bukit Kepong", "Bukit Pasir", "Bukit Serampang"]),
+    ("P.144", "Ledang",           ["Ledang", "Gambir", "Tangkak", "Serom"]),
+    ("P.145", "Bakri",            ["Bakri", "Bentayan", "Simpang Jeram", "Bukit Naning"]),
+    ("P.146", "Muar",             ["Muar", "Maharani", "Sungai Balang"]),
+    ("P.147", "Parit Sulong",     ["Parit Sulong", "Semerah", "Sri Medan"]),
+    ("P.148", "Ayer Hitam",       ["Ayer Hitam", "Air Hitam", "Yong Peng", "Semarang"]),
+    ("P.149", "Sri Gading",       ["Sri Gading", "Parit Yaani", "Parit Raja"]),
+    ("P.150", "Batu Pahat",       ["Batu Pahat", "Penggaram", "Senggarang", "Rengit"]),
+    ("P.151", "Simpang Renggam",  ["Simpang Renggam", "Machap", "Layang-Layang", "Layang Layang"]),
+    ("P.152", "Kluang",           ["Kluang", "Mengkibol", "Mahkota"]),
+    ("P.153", "Sembrong",         ["Sembrong", "Paloh", "Kahang"]),
+    ("P.154", "Mersing",          ["Mersing", "Endau", "Tenggaroh"]),
+    ("P.155", "Tenggara",         ["Tenggara", "Panti", "Pasir Raja"]),
+    ("P.156", "Kota Tinggi",      ["Kota Tinggi", "Sedili", "Johor Lama"]),
+    ("P.157", "Pengerang",        ["Pengerang", "Penawar", "Tanjung Surat", "RAPID", "Refinery"]),
+    ("P.158", "Tebrau",           ["Tebrau", "Masai", "Plentong", "Tiram", "Puteri Wangsa"]),
+    ("P.159", "Pasir Gudang",     ["Pasir Gudang", "Johor Jaya", "Permas", "Permas Jaya"]),
+    ("P.160", "Johor Bahru",      ["Johor Bahru", "JB", "Larkin", "Stulang", "Bukit Chagar"]),
+    ("P.161", "Pulai",            ["Pulai", "Gelang Patah", "Perling", "Kempas"]),
+    ("P.162", "Iskandar Puteri",  ["Iskandar Puteri", "Skudai", "Kota Iskandar", "Nusajaya", "Iskandar Malaysia"]),
+    ("P.163", "Kulai",            ["Kulai", "Bukit Permai", "Bukit Batu", "Senai", "Indahpura"]),
+    ("P.164", "Pontian",          ["Pontian", "Benut", "Pulai Sebatang"]),
+    ("P.165", "Tanjung Piai",     ["Tanjung Piai", "Pekan Nanas", "Kukup"]),
 ]
 
 _DUN: list[tuple[str, str, list[str]]] = [
-    ("N01",  "Pulai Sebatang",  ["Pulai Sebatang"]),
-    ("N02",  "Benut",           ["Benut"]),
-    ("N03",  "Pontian",         ["Pontian"]),
-    ("N04",  "Pekan Nanas",     ["Pekan Nanas"]),
-    ("N05",  "Kukup",           ["Kukup"]),
-    ("N06",  "Sri Gading",      ["Sri Gading"]),
-    ("N07",  "Parit Raja",      ["Parit Raja"]),
-    ("N08",  "Bukit Naning",    ["Bukit Naning"]),
-    ("N09",  "Sembrong",        ["Sembrong"]),
-    ("N10",  "Paloh",           ["Paloh"]),
-    ("N11",  "Pemangkat",       ["Pemangkat"]),
-    ("N12",  "Tenggaroh",       ["Tenggaroh"]),
-    ("N13",  "Maharani",        ["Maharani"]),
-    ("N14",  "Sungai Balang",   ["Sungai Balang"]),
-    ("N15",  "Parit Jawa",      ["Parit Jawa"]),
-    ("N16",  "Senggarang",      ["Senggarang"]),
-    ("N17",  "Semerah",         ["Semerah"]),
-    ("N18",  "Yong Peng",       ["Yong Peng"]),
-    ("N19",  "Simpang Jeram",   ["Simpang Jeram"]),
-    ("N20",  "Penggaram",       ["Penggaram"]),
-    ("N21",  "Parit Yaani",     ["Parit Yaani"]),
-    ("N22",  "Rengit",          ["Rengit"]),
-    ("N23",  "Machap Umboo",    ["Machap Umboo", "Machap"]),
-    ("N24",  "Layang-Layang",   ["Layang-Layang", "Layang Layang"]),
-    ("N25",  "Mengkibol",       ["Mengkibol"]),
-    ("N26",  "Mahkota",         ["Mahkota"]),
-    ("N27",  "Johor Jaya",      ["Johor Jaya"]),
-    ("N28",  "Permas",          ["Permas", "Permas Jaya"]),
-    ("N29",  "Puteri Wangsa",   ["Puteri Wangsa"]),
-    ("N30",  "Stulang",         ["Stulang"]),
-    ("N31",  "Kempas",          ["Kempas"]),
-    ("N32",  "Larkin",          ["Larkin"]),
-    ("N33",  "Bukit Permai",    ["Bukit Permai"]),
-    ("N34",  "Bukit Batu",      ["Bukit Batu"]),
-    ("N35",  "Senai",           ["Senai"]),
-    ("N36",  "Skudai",          ["Skudai"]),
-    ("N37",  "Kempas",          []),
-    ("N38",  "Pengerang",       ["Pengerang"]),
-    ("N39",  "Tanjung Surat",   ["Tanjung Surat"]),
-    ("N40",  "Sedili",          ["Sedili"]),
-    ("N41",  "Penawar",         ["Penawar"]),
-    ("N42",  "Tiram",           ["Tiram"]),
-    ("N43",  "Sungai Tiram",    ["Sungai Tiram"]),
-    ("N44",  "Johor Bahru",     ["Johor Bahru", "JB City"]),
-    ("N45",  "Bukit Chagar",    ["Bukit Chagar"]),
-    ("N46",  "Berbau",          ["Berbau"]),
-    ("N47",  "Kota Iskandar",   ["Kota Iskandar", "Iskandar Puteri"]),
-    ("N48",  "Nusajaya",        ["Nusajaya", "Iskandar Malaysia"]),
-    ("N49",  "Pulai",           ["Pulai"]),
-    ("N50",  "Sekudai",         ["Sekudai"]),
-    ("N51",  "Mengkibol",       []),
-    ("N52",  "Paloh",           []),
-    ("N53",  "Bekok",           ["Bekok"]),
-    ("N54",  "Tenang",          ["Tenang"]),
-    ("N55",  "Pemanis",         ["Pemanis"]),
-    ("N56",  "Bukit Kepong",    ["Bukit Kepong"]),
+    ("N.01", "Buloh Kasap",    ["Buloh Kasap"]),
+    ("N.02", "Jementah",       ["Jementah"]),
+    ("N.03", "Pemanis",        ["Pemanis"]),
+    ("N.04", "Kemelah",        ["Kemelah"]),
+    ("N.05", "Tenang",         ["Tenang"]),
+    ("N.06", "Bekok",          ["Bekok"]),
+    ("N.07", "Bukit Kepong",   ["Bukit Kepong"]),
+    ("N.08", "Bukit Pasir",    ["Bukit Pasir"]),
+    ("N.09", "Gambir",         ["Gambir"]),
+    ("N.10", "Tangkak",        ["Tangkak"]),
+    ("N.11", "Serom",          ["Serom"]),
+    ("N.12", "Bentayan",       ["Bentayan"]),
+    ("N.13", "Simpang Jeram",  ["Simpang Jeram"]),
+    ("N.14", "Bukit Naning",   ["Bukit Naning"]),
+    ("N.15", "Maharani",       ["Maharani"]),
+    ("N.16", "Sungai Balang",  ["Sungai Balang"]),
+    ("N.17", "Semerah",        ["Semerah"]),
+    ("N.18", "Sri Medan",      ["Sri Medan"]),
+    ("N.19", "Yong Peng",      ["Yong Peng"]),
+    ("N.20", "Semarang",       ["Semarang"]),
+    ("N.21", "Parit Yaani",    ["Parit Yaani"]),
+    ("N.22", "Parit Raja",     ["Parit Raja"]),
+    ("N.23", "Penggaram",      ["Penggaram"]),
+    ("N.24", "Senggarang",     ["Senggarang"]),
+    ("N.25", "Rengit",         ["Rengit"]),
+    ("N.26", "Machap",         ["Machap"]),
+    ("N.27", "Layang-Layang",  ["Layang-Layang", "Layang Layang"]),
+    ("N.28", "Mengkibol",      ["Mengkibol"]),
+    ("N.29", "Mahkota",        ["Mahkota"]),
+    ("N.30", "Paloh",          ["Paloh"]),
+    ("N.31", "Kahang",         ["Kahang"]),
+    ("N.32", "Endau",          ["Endau"]),
+    ("N.33", "Tenggaroh",      ["Tenggaroh"]),
+    ("N.34", "Panti",          ["Panti"]),
+    ("N.35", "Pasir Raja",     ["Pasir Raja"]),
+    ("N.36", "Sedili",         ["Sedili"]),
+    ("N.37", "Johor Lama",     ["Johor Lama"]),
+    ("N.38", "Penawar",        ["Penawar"]),
+    ("N.39", "Tanjung Surat",  ["Tanjung Surat"]),
+    ("N.40", "Tiram",          ["Tiram"]),
+    ("N.41", "Puteri Wangsa",  ["Puteri Wangsa"]),
+    ("N.42", "Johor Jaya",     ["Johor Jaya"]),
+    ("N.43", "Permas",         ["Permas", "Permas Jaya"]),
+    ("N.44", "Larkin",         ["Larkin"]),
+    ("N.45", "Stulang",        ["Stulang"]),
+    ("N.46", "Perling",        ["Perling"]),
+    ("N.47", "Kempas",         ["Kempas"]),
+    ("N.48", "Skudai",         ["Skudai"]),
+    ("N.49", "Kota Iskandar",  ["Kota Iskandar"]),
+    ("N.50", "Bukit Permai",   ["Bukit Permai"]),
+    ("N.51", "Bukit Batu",     ["Bukit Batu"]),
+    ("N.52", "Senai",          ["Senai"]),
+    ("N.53", "Benut",          ["Benut"]),
+    ("N.54", "Pulai Sebatang", ["Pulai Sebatang"]),
+    ("N.55", "Pekan Nanas",    ["Pekan Nanas"]),
+    ("N.56", "Kukup",          ["Kukup"]),
 ]
 # fmt: on
 
-# Pre-compile patterns for O(1) lookup
+# Pre-compile patterns
 _PARLIMEN_PATTERNS: list[tuple[str, str, re.Pattern]] = [
     (code, name, re.compile(
         r"\b(" + "|".join(re.escape(kw) for kw in ([name] + keywords)) + r")\b",
@@ -139,7 +136,7 @@ def tag_article(text: str) -> list[ConstituencyMatch]:
 
     Deduplicates by code — only the first match per constituency is returned.
     """
-    combined = text[:5000]  # limit to first 5000 chars to keep it fast
+    combined = text[:5000]
     seen: set[str] = set()
     matches: list[ConstituencyMatch] = []
 

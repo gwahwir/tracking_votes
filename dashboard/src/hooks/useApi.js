@@ -251,6 +251,91 @@ export const useWikiPages = () => {
 }
 
 /**
+ * Fetch historical results for a constituency
+ */
+export const useHistorical = (constituencyCode) => {
+  const [results, setResults] = useState([])
+  const [loading, setLoading] = useState(false)
+  const [error, setError] = useState(null)
+
+  const fetchResults = useCallback(async () => {
+    if (!constituencyCode) return
+    setLoading(true)
+    setError(null)
+    try {
+      const res = await fetch(`${API_BASE}/historical/${constituencyCode}`)
+      if (!res.ok) throw new Error(`HTTP ${res.status}`)
+      const data = await res.json()
+      setResults(data)
+    } catch (err) {
+      setError(err.message)
+    } finally {
+      setLoading(false)
+    }
+  }, [constituencyCode])
+
+  useEffect(() => { fetchResults() }, [fetchResults])
+
+  return { results, loading, error }
+}
+
+/**
+ * Fetch demographics for a constituency
+ */
+export const useDemographics = (constituencyCode) => {
+  const [demographics, setDemographics] = useState(null)
+  const [loading, setLoading] = useState(false)
+  const [error, setError] = useState(null)
+
+  const fetchDemographics = useCallback(async () => {
+    if (!constituencyCode) return
+    setLoading(true)
+    setError(null)
+    try {
+      const res = await fetch(`${API_BASE}/demographics/${constituencyCode}`)
+      if (!res.ok) throw new Error(`HTTP ${res.status}`)
+      const data = await res.json()
+      setDemographics(data)
+    } catch (err) {
+      setError(err.message)
+    } finally {
+      setLoading(false)
+    }
+  }, [constituencyCode])
+
+  useEffect(() => { fetchDemographics() }, [fetchDemographics])
+
+  return { demographics, loading, error }
+}
+
+/**
+ * Fetch articles tagged to a specific constituency
+ */
+export const useConstituencyArticles = (constituencyCode) => {
+  const [articles, setArticles] = useState([])
+  const [loading, setLoading] = useState(false)
+
+  const fetchArticles = useCallback(async () => {
+    if (!constituencyCode) return
+    setLoading(true)
+    try {
+      const res = await fetch(`${API_BASE}/articles?constituency=${encodeURIComponent(constituencyCode)}`)
+      if (!res.ok) throw new Error(`HTTP ${res.status}`)
+      const data = await res.json()
+      setArticles(data)
+    } catch (err) {
+      console.error(err)
+    } finally {
+      setLoading(false)
+    }
+  }, [constituencyCode])
+
+  useEffect(() => { fetchArticles() }, [fetchArticles])
+
+  return { articles, loading }
+}
+
+/**
  * Cancel a running task
  */
 export const useCancelTask = () => {

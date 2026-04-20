@@ -73,8 +73,22 @@ async def dispatch_task(type_id: str, body: DispatchRequest, request: Request):
     if agent is None:
         raise HTTPException(status_code=503, detail=f"No healthy agent of type '{type_id}'")
 
+    # Debounce seat_agent: skip if same constituency was dispatched < 5 min ago
+    if type_id == "seat_agent":
+        constituency_code = body.metadata.get("constituency_code")
+        if constituency_code and hasattr(task_store, "find_recent"):
+            recent = await task_store.find_recent(
+                type_id=type_id,
+                metadata_key="constituency_code",
+                metadata_value=constituency_code,
+                within_seconds=300,
+            )
+            if recent:
+                log.info("task.deduplicated", task_id=recent.id, constituency_code=constituency_code)
+                return {"task_id": recent.id, "state": recent.state.value, "deduplicated": True}
+
     task_id = str(uuid.uuid4())
-    record = TaskRecord(type_id=type_id, input_text=body.message, agent_url=agent.url, task_id=task_id)
+    record = TaskRecord(type_id=type_id, input_text=body.message, agent_url=agent.url, task_id=task_id, metadata=body.metadata)
     await task_store.create(record)
     registry.increment(type_id)
 
@@ -247,22 +261,29 @@ async def ws_task(websocket: WebSocket, task_id: str):
 # ---------------------------------------------------------------------------
 
 @router.get("/articles")
-async def get_articles(request: Request, limit: int = 100, offset: int = 0):
-    """Return all articles from the database."""
+async def get_articles(request: Request, limit: int = 100, offset: int = 0, constituency: str | None = None):
+    """Return all articles from the database, optionally filtered by constituency code."""
     task_store = request.app.state.task_store
 
     if not hasattr(task_store, "_pool") or task_store._pool is None:
         return []
 
     try:
-        sql = """
-            SELECT id, url, title, source, content, constituency_ids, reliability_score, created_at
+        where = ""
+        params: list = [limit, offset]
+        if constituency:
+            where = "WHERE constituency_ids @> $3::jsonb"
+            params.append(json.dumps([constituency]))
+
+        sql = f"""
+            SELECT id, url, title, source, content, constituency_ids, reliability_score, created_at, published_at
             FROM articles
+            {where}
             ORDER BY created_at DESC
             LIMIT $1 OFFSET $2
         """
         async with task_store._pool.acquire() as conn:
-            rows = await conn.fetch(sql, limit, offset)
+            rows = await conn.fetch(sql, *params)
         return [dict(r) for r in rows]
     except Exception as exc:
         log.error("articles.fetch_error", error=str(exc))
@@ -350,6 +371,100 @@ async def get_seat_prediction(request: Request, constituency_code: str):
         raise
     except Exception as exc:
         log.error("seat_prediction.fetch_error", error=str(exc), constituency_code=constituency_code)
+        raise HTTPException(status_code=500, detail="Internal server error")
+
+
+@router.get("/historical/{constituency_code}")
+async def get_historical(request: Request, constituency_code: str):
+    """Return historical election results for a constituency."""
+    task_store = request.app.state.task_store
+
+    if not hasattr(task_store, "_pool") or task_store._pool is None:
+        raise HTTPException(status_code=503, detail="Database unavailable")
+
+    try:
+        sql = """
+            SELECT constituency_code, seat_type, seat_name, election_year,
+                   winner_name, winner_party, winner_coalition, winner_votes,
+                   margin, margin_pct, turnout_pct, total_voters, total_votes_cast,
+                   num_candidates, candidates
+            FROM historical_results
+            WHERE constituency_code = $1
+            ORDER BY election_year DESC
+        """
+        async with task_store._pool.acquire() as conn:
+            rows = await conn.fetch(sql, constituency_code)
+        if not rows:
+            raise HTTPException(status_code=404, detail=f"No historical data for {constituency_code}")
+        return [dict(r) for r in rows]
+    except HTTPException:
+        raise
+    except Exception as exc:
+        log.error("historical.fetch_error", error=str(exc), constituency_code=constituency_code)
+        raise HTTPException(status_code=500, detail="Internal server error")
+
+
+@router.get("/historical")
+async def get_all_historical(request: Request, seat_type: str | None = None, year: int | None = None):
+    """Return historical results, optionally filtered by seat_type and/or year."""
+    task_store = request.app.state.task_store
+
+    if not hasattr(task_store, "_pool") or task_store._pool is None:
+        raise HTTPException(status_code=503, detail="Database unavailable")
+
+    try:
+        conditions = []
+        params: list = []
+        if seat_type:
+            params.append(seat_type)
+            conditions.append(f"seat_type = ${len(params)}")
+        if year:
+            params.append(year)
+            conditions.append(f"election_year = ${len(params)}")
+
+        where = f"WHERE {' AND '.join(conditions)}" if conditions else ""
+        sql = f"""
+            SELECT constituency_code, seat_type, seat_name, election_year,
+                   winner_name, winner_party, winner_coalition, winner_votes,
+                   margin, margin_pct, turnout_pct, total_voters, total_votes_cast,
+                   num_candidates, candidates
+            FROM historical_results
+            {where}
+            ORDER BY constituency_code, election_year DESC
+        """
+        async with task_store._pool.acquire() as conn:
+            rows = await conn.fetch(sql, *params)
+        return [dict(r) for r in rows]
+    except Exception as exc:
+        log.error("historical.fetch_all_error", error=str(exc))
+        raise HTTPException(status_code=500, detail="Internal server error")
+
+
+@router.get("/demographics/{constituency_code}")
+async def get_demographics(request: Request, constituency_code: str):
+    """Return demographic profile for a constituency."""
+    task_store = request.app.state.task_store
+
+    if not hasattr(task_store, "_pool") or task_store._pool is None:
+        raise HTTPException(status_code=503, detail="Database unavailable")
+
+    try:
+        sql = """
+            SELECT constituency_code, seat_name, state,
+                   malay_pct, chinese_pct, indian_pct, others_pct,
+                   urban_rural, region
+            FROM constituency_demographics
+            WHERE constituency_code = $1
+        """
+        async with task_store._pool.acquire() as conn:
+            row = await conn.fetchrow(sql, constituency_code)
+        if not row:
+            raise HTTPException(status_code=404, detail=f"No demographics for {constituency_code}")
+        return dict(row)
+    except HTTPException:
+        raise
+    except Exception as exc:
+        log.error("demographics.fetch_error", error=str(exc), constituency_code=constituency_code)
         raise HTTPException(status_code=500, detail="Internal server error")
 
 

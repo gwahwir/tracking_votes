@@ -1,0 +1,1945 @@
+{
+  "metadata": {
+    "state": "Johor",
+    "seat_type": "parlimen",
+    "elections": [
+      "2018",
+      "2022"
+    ],
+    "source": "Wikipedia (en.wikipedia.org)",
+    "last_updated": "2026-04-20",
+    "notes": "GE13=2013, GE14=2018, GE15=2022. Scraped automatically; verify against SPR."
+  },
+  "seats": {
+    "P.140": {
+      "name": "Segamat",
+      "results": {
+        "2022": {
+          "winner_name": "Yuneswaran Ramaraj",
+          "winner_party": "PH",
+          "winner_coalition": "PH",
+          "winner_votes": 23437,
+          "margin": 5669,
+          "margin_pct": 11.19,
+          "turnout_pct": 73.03,
+          "total_voters": 69360,
+          "total_votes_cast": 50652,
+          "num_candidates": 4,
+          "candidates": [
+            {
+              "name": "Yuneswaran Ramaraj",
+              "party": "PH",
+              "coalition": "PH",
+              "votes": 23437
+            },
+            {
+              "name": "Ramasamy Muthusamy",
+              "party": "BN",
+              "coalition": "BN",
+              "votes": 17768
+            },
+            {
+              "name": "Poobalan Ponusamy",
+              "party": "PN",
+              "coalition": "PN",
+              "votes": 8385
+            },
+            {
+              "name": "Syed Hairoul Faizey Syed Ali",
+              "party": "PEJUANG",
+              "coalition": "IND",
+              "votes": 1062
+            }
+          ]
+        },
+        "2018": {
+          "winner_name": "Santhara Kumar Ramanaidu",
+          "winner_party": "PKR",
+          "winner_coalition": "PH",
+          "winner_votes": 24060,
+          "margin": 5476,
+          "margin_pct": 12.08,
+          "turnout_pct": 83.41,
+          "total_voters": 55350,
+          "total_votes_cast": 45320,
+          "num_candidates": 3,
+          "candidates": [
+            {
+              "name": "Santhara Kumar Ramanaidu",
+              "party": "PKR",
+              "coalition": "PH",
+              "votes": 24060
+            },
+            {
+              "name": "Subramaniam Sathasivam",
+              "party": "BN",
+              "coalition": "BN",
+              "votes": 18584
+            },
+            {
+              "name": "Khairul Faizi Ahmad Kamil",
+              "party": "PAS",
+              "coalition": "PN",
+              "votes": 2676
+            }
+          ]
+        }
+      },
+      "_scrape_status": "ok",
+      "_source_url": "https://en.wikipedia.org/wiki/Segamat_(federal_constituency)"
+    },
+    "P.141": {
+      "name": "Sekijang",
+      "results": {
+        "2022": {
+          "winner_name": "Zaliha Mustafa",
+          "winner_party": "PH",
+          "winner_coalition": "PH",
+          "winner_votes": 18941,
+          "margin": 1734,
+          "margin_pct": 3.6,
+          "turnout_pct": 75.39,
+          "total_voters": 63981,
+          "total_votes_cast": 48237,
+          "num_candidates": 5,
+          "candidates": [
+            {
+              "name": "Zaliha Mustafa",
+              "party": "PH",
+              "coalition": "PH",
+              "votes": 18941
+            },
+            {
+              "name": "Md Salleheen Mohamad",
+              "party": "BN",
+              "coalition": "BN",
+              "votes": 17207
+            },
+            {
+              "name": "Uzzair Ismail",
+              "party": "PN",
+              "coalition": "PN",
+              "votes": 11612
+            },
+            {
+              "name": "Mohd Zohar Ahmad",
+              "party": "HERITAGE",
+              "coalition": "HERITAGE",
+              "votes": 339
+            },
+            {
+              "name": "Mohd Saiful Faizul Abd Halim",
+              "party": "PEJUANG",
+              "coalition": "IND",
+              "votes": 138
+            }
+          ]
+        },
+        "2018": {
+          "winner_name": "Natrah Ismail",
+          "winner_party": "PKR",
+          "winner_coalition": "PH",
+          "winner_votes": 19559,
+          "margin": 1281,
+          "margin_pct": 3.38,
+          "turnout_pct": 84.97,
+          "total_voters": 45596,
+          "total_votes_cast": 37837,
+          "num_candidates": 2,
+          "candidates": [
+            {
+              "name": "Natrah Ismail",
+              "party": "PKR",
+              "coalition": "PH",
+              "votes": 19559
+            },
+            {
+              "name": "Ayub Rahmat",
+              "party": "BN",
+              "coalition": "BN",
+              "votes": 18278
+            }
+          ]
+        }
+      },
+      "_scrape_status": "ok",
+      "_source_url": "https://en.wikipedia.org/wiki/Sekijang_(federal_constituency)"
+    },
+    "P.142": {
+      "name": "Labis",
+      "results": {
+        "2022": {
+          "winner_name": "Pang Hok Liong",
+          "winner_party": "PH",
+          "winner_coalition": "PH",
+          "winner_votes": 16133,
+          "margin": 2833,
+          "margin_pct": 8.15,
+          "turnout_pct": 69.7,
+          "total_voters": 49846,
+          "total_votes_cast": 34745,
+          "num_candidates": 3,
+          "candidates": [
+            {
+              "name": "Pang Hok Liong",
+              "party": "PH",
+              "coalition": "PH",
+              "votes": 16133
+            },
+            {
+              "name": "Chua Tee Yong",
+              "party": "BN",
+              "coalition": "BN",
+              "votes": 13300
+            },
+            {
+              "name": "Alvin Chang Teck Kiam",
+              "party": "PN",
+              "coalition": "PN",
+              "votes": 5312
+            }
+          ]
+        },
+        "2018": {
+          "winner_name": "Pang Hok Liong",
+          "winner_party": "PKR",
+          "winner_coalition": "PH",
+          "winner_votes": 16709,
+          "margin": 3408,
+          "margin_pct": 10.64,
+          "turnout_pct": 80.76,
+          "total_voters": 40356,
+          "total_votes_cast": 32030,
+          "num_candidates": 3,
+          "candidates": [
+            {
+              "name": "Pang Hok Liong",
+              "party": "PKR",
+              "coalition": "PH",
+              "votes": 16709
+            },
+            {
+              "name": "Chua Tee Yong",
+              "party": "BN",
+              "coalition": "BN",
+              "votes": 13301
+            },
+            {
+              "name": "Sarchu Sawal",
+              "party": "PAS",
+              "coalition": "PN",
+              "votes": 2020
+            }
+          ]
+        }
+      },
+      "_scrape_status": "ok",
+      "_source_url": "https://en.wikipedia.org/wiki/Labis_(federal_constituency)"
+    },
+    "P.143": {
+      "name": "Pagoh",
+      "results": {
+        "2022": {
+          "winner_name": "Muhyiddin Yassin",
+          "winner_party": "PN",
+          "winner_coalition": "PN",
+          "winner_votes": 24986,
+          "margin": 10007,
+          "margin_pct": 18.4,
+          "turnout_pct": 77.77,
+          "total_voters": 69939,
+          "total_votes_cast": 54391,
+          "num_candidates": 3,
+          "candidates": [
+            {
+              "name": "Muhyiddin Yassin",
+              "party": "PN",
+              "coalition": "PN",
+              "votes": 24986
+            },
+            {
+              "name": "Iskandar Shah Abd Rahman",
+              "party": "PH",
+              "coalition": "PH",
+              "votes": 14979
+            },
+            {
+              "name": "Razali Ibrahim",
+              "party": "BN",
+              "coalition": "BN",
+              "votes": 14426
+            }
+          ]
+        },
+        "2018": {
+          "winner_name": "Muhyiddin Yassin",
+          "winner_party": "PKR",
+          "winner_coalition": "PH",
+          "winner_votes": 23558,
+          "margin": 6927,
+          "margin_pct": 16.24,
+          "turnout_pct": 84.77,
+          "total_voters": 51512,
+          "total_votes_cast": 42672,
+          "num_candidates": 3,
+          "candidates": [
+            {
+              "name": "Muhyiddin Yassin",
+              "party": "PKR",
+              "coalition": "PH",
+              "votes": 23558
+            },
+            {
+              "name": "Ismail Mohamed",
+              "party": "BN",
+              "coalition": "BN",
+              "votes": 16631
+            },
+            {
+              "name": "Ahmad Nawfal Mahfodz",
+              "party": "PAS",
+              "coalition": "PN",
+              "votes": 2483
+            }
+          ]
+        }
+      },
+      "_scrape_status": "ok",
+      "_source_url": "https://en.wikipedia.org/wiki/Pagoh_(federal_constituency)"
+    },
+    "P.144": {
+      "name": "Ledang",
+      "results": {
+        "2022": {
+          "winner_name": "Syed Ibrahim Syed Noh",
+          "winner_party": "PH",
+          "winner_coalition": "PH",
+          "winner_votes": 33650,
+          "margin": 9769,
+          "margin_pct": 12.16,
+          "turnout_pct": 76.79,
+          "total_voters": 104577,
+          "total_votes_cast": 80307,
+          "num_candidates": 6,
+          "candidates": [
+            {
+              "name": "Syed Ibrahim Syed Noh",
+              "party": "PH",
+              "coalition": "PH",
+              "votes": 33650
+            },
+            {
+              "name": "Hamim Samuri",
+              "party": "BN",
+              "coalition": "BN",
+              "votes": 23881
+            },
+            {
+              "name": "Zaidi Abd Majid",
+              "party": "PN",
+              "coalition": "PN",
+              "votes": 22292
+            },
+            {
+              "name": "Rafidah Ridwan",
+              "party": "PEJUANG",
+              "coalition": "IND",
+              "votes": 269
+            },
+            {
+              "name": "Yunus Mustakim",
+              "party": "INDEPENDENT",
+              "coalition": "INDEPENDENT",
+              "votes": 140
+            },
+            {
+              "name": "Zainal Bahrom A. Kadir",
+              "party": "INDEPENDENT",
+              "coalition": "INDEPENDENT",
+              "votes": 75
+            }
+          ]
+        },
+        "2018": {
+          "winner_name": "Syed Ibrahim Syed Noh",
+          "winner_party": "PKR",
+          "winner_coalition": "PH",
+          "winner_votes": 34706,
+          "margin": 8666,
+          "margin_pct": 13.26,
+          "turnout_pct": 86.1,
+          "total_voters": 77474,
+          "total_votes_cast": 65414,
+          "num_candidates": 3,
+          "candidates": [
+            {
+              "name": "Syed Ibrahim Syed Noh",
+              "party": "PKR",
+              "coalition": "PH",
+              "votes": 34706
+            },
+            {
+              "name": "Hamim Samuri",
+              "party": "BN",
+              "coalition": "BN",
+              "votes": 26040
+            },
+            {
+              "name": "Rusman Kemin",
+              "party": "PAS",
+              "coalition": "PN",
+              "votes": 4668
+            }
+          ]
+        }
+      },
+      "_scrape_status": "ok",
+      "_source_url": "https://en.wikipedia.org/wiki/Ledang_(federal_constituency)"
+    },
+    "P.145": {
+      "name": "Bakri",
+      "results": {
+        "2022": {
+          "winner_name": "Tan Hong Pin",
+          "winner_party": "PH",
+          "winner_coalition": "PH",
+          "winner_votes": 36636,
+          "margin": 19254,
+          "margin_pct": 26.32,
+          "turnout_pct": 75.14,
+          "total_voters": 97335,
+          "total_votes_cast": 73140,
+          "num_candidates": 4,
+          "candidates": [
+            {
+              "name": "Tan Hong Pin",
+              "party": "PH",
+              "coalition": "PH",
+              "votes": 36636
+            },
+            {
+              "name": "Lee Ching Yong",
+              "party": "BN",
+              "coalition": "BN",
+              "votes": 17382
+            },
+            {
+              "name": "Chelvarajan Suppiah",
+              "party": "PN",
+              "coalition": "PN",
+              "votes": 17222
+            },
+            {
+              "name": "Haron Jaffar",
+              "party": "INDEPENDENT",
+              "coalition": "INDEPENDENT",
+              "votes": 1900
+            }
+          ]
+        },
+        "2018": {
+          "winner_name": "Yeo Bee Yin",
+          "winner_party": "PKR",
+          "winner_coalition": "PH",
+          "winner_votes": 38718,
+          "margin": 23211,
+          "margin_pct": 37.56,
+          "turnout_pct": 84.77,
+          "total_voters": 73883,
+          "total_votes_cast": 61800,
+          "num_candidates": 3,
+          "candidates": [
+            {
+              "name": "Yeo Bee Yin",
+              "party": "PKR",
+              "coalition": "PH",
+              "votes": 38718
+            },
+            {
+              "name": "Koh Chon Chai",
+              "party": "BN",
+              "coalition": "BN",
+              "votes": 15507
+            },
+            {
+              "name": "Zarul @ Mohammad Zahrul Salleh",
+              "party": "PAS",
+              "coalition": "PN",
+              "votes": 7575
+            }
+          ]
+        }
+      },
+      "_scrape_status": "ok",
+      "_source_url": "https://en.wikipedia.org/wiki/Bakri_(federal_constituency)"
+    },
+    "P.146": {
+      "name": "Muar",
+      "results": {
+        "2022": {
+          "winner_name": "Syed Saddiq Syed Abdul Rahman",
+          "winner_party": "MUDA",
+          "winner_coalition": "PH",
+          "winner_votes": 19961,
+          "margin": 1345,
+          "margin_pct": 2.53,
+          "turnout_pct": 77.12,
+          "total_voters": 68925,
+          "total_votes_cast": 53158,
+          "num_candidates": 3,
+          "candidates": [
+            {
+              "name": "Syed Saddiq Syed Abdul Rahman",
+              "party": "MUDA",
+              "coalition": "PH",
+              "votes": 19961
+            },
+            {
+              "name": "Abdullah Husin",
+              "party": "PN",
+              "coalition": "PN",
+              "votes": 18616
+            },
+            {
+              "name": "Mohd Helmy Abd Latiff",
+              "party": "BN",
+              "coalition": "BN",
+              "votes": 14581
+            }
+          ]
+        },
+        "2018": {
+          "winner_name": "Syed Saddiq Syed Abdul Rahman",
+          "winner_party": "PKR",
+          "winner_coalition": "PH",
+          "winner_votes": 22341,
+          "margin": 6953,
+          "margin_pct": 16.52,
+          "turnout_pct": 84.02,
+          "total_voters": 50843,
+          "total_votes_cast": 42083,
+          "num_candidates": 3,
+          "candidates": [
+            {
+              "name": "Syed Saddiq Syed Abdul Rahman",
+              "party": "PKR",
+              "coalition": "PH",
+              "votes": 22341
+            },
+            {
+              "name": "Razali Ibrahim",
+              "party": "BN",
+              "coalition": "BN",
+              "votes": 15388
+            },
+            {
+              "name": "Abdul Aziz Talib",
+              "party": "PAS",
+              "coalition": "PN",
+              "votes": 4354
+            }
+          ]
+        }
+      },
+      "_scrape_status": "ok",
+      "_source_url": "https://en.wikipedia.org/wiki/Muar_(federal_constituency)"
+    },
+    "P.147": {
+      "name": "Parit Sulong",
+      "results": {
+        "2022": {
+          "winner_name": "Noraini Ahmad",
+          "winner_party": "BN",
+          "winner_coalition": "BN",
+          "winner_votes": 25740,
+          "margin": 2021,
+          "margin_pct": 3.21,
+          "turnout_pct": 79.2,
+          "total_voters": 79484,
+          "total_votes_cast": 62954,
+          "num_candidates": 3,
+          "candidates": [
+            {
+              "name": "Noraini Ahmad",
+              "party": "BN",
+              "coalition": "BN",
+              "votes": 25740
+            },
+            {
+              "name": "Abdul Karim Deraman",
+              "party": "PN",
+              "coalition": "PN",
+              "votes": 23719
+            },
+            {
+              "name": "Mohd Faizal Dollah",
+              "party": "PH",
+              "coalition": "PH",
+              "votes": 13495
+            }
+          ]
+        },
+        "2018": {
+          "winner_name": "Noraini Ahmad",
+          "winner_party": "BN",
+          "winner_coalition": "BN",
+          "winner_votes": 24481,
+          "margin": 6341,
+          "margin_pct": 12.74,
+          "turnout_pct": 85.19,
+          "total_voters": 59609,
+          "total_votes_cast": 49769,
+          "num_candidates": 3,
+          "candidates": [
+            {
+              "name": "Noraini Ahmad",
+              "party": "BN",
+              "coalition": "BN",
+              "votes": 24481
+            },
+            {
+              "name": "Anis Afida Mohd Azli",
+              "party": "PKR",
+              "coalition": "PH",
+              "votes": 18140
+            },
+            {
+              "name": "Ahmad Rosdi Bahari",
+              "party": "PAS",
+              "coalition": "PN",
+              "votes": 7148
+            }
+          ]
+        }
+      },
+      "_scrape_status": "ok",
+      "_source_url": "https://en.wikipedia.org/wiki/Parit_Sulong_(federal_constituency)"
+    },
+    "P.148": {
+      "name": "Ayer Hitam",
+      "results": {
+        "2022": {
+          "winner_name": "Wee Ka Siong",
+          "winner_party": "BN",
+          "winner_coalition": "BN",
+          "winner_votes": 18911,
+          "margin": 2963,
+          "margin_pct": 6.34,
+          "turnout_pct": 76.49,
+          "total_voters": 61041,
+          "total_votes_cast": 46692,
+          "num_candidates": 3,
+          "candidates": [
+            {
+              "name": "Wee Ka Siong",
+              "party": "BN",
+              "coalition": "BN",
+              "votes": 18911
+            },
+            {
+              "name": "Sheikh Umar Bagharib Ali",
+              "party": "PH",
+              "coalition": "PH",
+              "votes": 15948
+            },
+            {
+              "name": "Muhammad Syafiq A Aziz",
+              "party": "PN",
+              "coalition": "PN",
+              "votes": 11833
+            }
+          ]
+        },
+        "2018": {
+          "winner_name": "Wee Ka Siong",
+          "winner_party": "BN",
+          "winner_coalition": "BN",
+          "winner_votes": 17076,
+          "margin": 303,
+          "margin_pct": 0.78,
+          "turnout_pct": 85.52,
+          "total_voters": 46157,
+          "total_votes_cast": 38824,
+          "num_candidates": 3,
+          "candidates": [
+            {
+              "name": "Wee Ka Siong",
+              "party": "BN",
+              "coalition": "BN",
+              "votes": 17076
+            },
+            {
+              "name": "Liew Chin Tong",
+              "party": "PKR",
+              "coalition": "PH",
+              "votes": 16773
+            },
+            {
+              "name": "Mardi Marwan",
+              "party": "PAS",
+              "coalition": "PN",
+              "votes": 4975
+            }
+          ]
+        }
+      },
+      "_scrape_status": "ok",
+      "_source_url": "https://en.wikipedia.org/wiki/Ayer_Hitam_(federal_constituency)"
+    },
+    "P.149": {
+      "name": "Sri Gading",
+      "results": {
+        "2022": {
+          "winner_name": "Aminolhuda Hassan",
+          "winner_party": "PH",
+          "winner_coalition": "PH",
+          "winner_votes": 23242,
+          "margin": 4000,
+          "margin_pct": 6.52,
+          "turnout_pct": 77.94,
+          "total_voters": 78602,
+          "total_votes_cast": 61264,
+          "num_candidates": 4,
+          "candidates": [
+            {
+              "name": "Aminolhuda Hassan",
+              "party": "PH",
+              "coalition": "PH",
+              "votes": 23242
+            },
+            {
+              "name": "Mohd Lassim Burhan",
+              "party": "BN",
+              "coalition": "BN",
+              "votes": 19242
+            },
+            {
+              "name": "Zanariyah Abdul Hamid",
+              "party": "PN",
+              "coalition": "PN",
+              "votes": 18475
+            },
+            {
+              "name": "Mahdzir Ibrahim",
+              "party": "PEJUANG",
+              "coalition": "IND",
+              "votes": 305
+            }
+          ]
+        },
+        "2018": {
+          "winner_name": "Shahruddin Md Salleh",
+          "winner_party": "PKR",
+          "winner_coalition": "PH",
+          "winner_votes": 21511,
+          "margin": 3288,
+          "margin_pct": 7.43,
+          "turnout_pct": 86.71,
+          "total_voters": 52119,
+          "total_votes_cast": 44282,
+          "num_candidates": 3,
+          "candidates": [
+            {
+              "name": "Shahruddin Md Salleh",
+              "party": "PKR",
+              "coalition": "PH",
+              "votes": 21511
+            },
+            {
+              "name": "Ab Aziz Kaprawi",
+              "party": "BN",
+              "coalition": "BN",
+              "votes": 18223
+            },
+            {
+              "name": "M Ashari Sidon",
+              "party": "PAS",
+              "coalition": "PN",
+              "votes": 4548
+            }
+          ]
+        }
+      },
+      "_scrape_status": "ok",
+      "_source_url": "https://en.wikipedia.org/wiki/Sri_Gading_(federal_constituency)"
+    },
+    "P.150": {
+      "name": "Batu Pahat",
+      "results": {
+        "2022": {
+          "winner_name": "Onn Abu Bakar",
+          "winner_party": "PH",
+          "winner_coalition": "PH",
+          "winner_votes": 45242,
+          "margin": 15972,
+          "margin_pct": 16.05,
+          "turnout_pct": 75.2,
+          "total_voters": 133910,
+          "total_votes_cast": 99494,
+          "num_candidates": 5,
+          "candidates": [
+            {
+              "name": "Onn Abu Bakar",
+              "party": "PH",
+              "coalition": "PH",
+              "votes": 45242
+            },
+            {
+              "name": "Mohd Rashid Hasnon",
+              "party": "PN",
+              "coalition": "PN",
+              "votes": 29270
+            },
+            {
+              "name": "Ishak @ Mohd Farid Siraj",
+              "party": "BN",
+              "coalition": "BN",
+              "votes": 24309
+            },
+            {
+              "name": "Nizam Bashir Abdul Kariem Bashier",
+              "party": "PEJUANG",
+              "coalition": "IND",
+              "votes": 410
+            },
+            {
+              "name": "Zahari Osman",
+              "party": "PARTI RAKYAT MALAYSIA",
+              "coalition": "PARTI RAKYAT MALAYSIA",
+              "votes": 263
+            }
+          ]
+        },
+        "2018": {
+          "winner_name": "Mohd Rashid Hasnon",
+          "winner_party": "PKR",
+          "winner_coalition": "PH",
+          "winner_votes": 45929,
+          "margin": 17894,
+          "margin_pct": 21.79,
+          "turnout_pct": 84.81,
+          "total_voters": 98543,
+          "total_votes_cast": 82137,
+          "num_candidates": 3,
+          "candidates": [
+            {
+              "name": "Mohd Rashid Hasnon",
+              "party": "PKR",
+              "coalition": "PH",
+              "votes": 45929
+            },
+            {
+              "name": "Haliza Abdullah",
+              "party": "BN",
+              "coalition": "BN",
+              "votes": 28035
+            },
+            {
+              "name": "Mahfodz Mohamed",
+              "party": "PAS",
+              "coalition": "PN",
+              "votes": 8173
+            }
+          ]
+        }
+      },
+      "_scrape_status": "ok",
+      "_source_url": "https://en.wikipedia.org/wiki/Batu_Pahat_(federal_constituency)"
+    },
+    "P.151": {
+      "name": "Simpang Renggam",
+      "results": {
+        "2022": {
+          "winner_name": "Hasni Mohammad",
+          "winner_party": "BN",
+          "winner_coalition": "BN",
+          "winner_votes": 18312,
+          "margin": 1821,
+          "margin_pct": 3.82,
+          "turnout_pct": 74.76,
+          "total_voters": 59033,
+          "total_votes_cast": 44131,
+          "num_candidates": 4,
+          "candidates": [
+            {
+              "name": "Hasni Mohammad",
+              "party": "BN",
+              "coalition": "BN",
+              "votes": 18312
+            },
+            {
+              "name": "Maszlee Malik",
+              "party": "PH",
+              "coalition": "PH",
+              "votes": 16491
+            },
+            {
+              "name": "Mohd Fazrul Kamat",
+              "party": "PN",
+              "coalition": "PN",
+              "votes": 9077
+            },
+            {
+              "name": "Kamal Kusmin",
+              "party": "PEJUANG",
+              "coalition": "IND",
+              "votes": 251
+            }
+          ]
+        },
+        "2018": {
+          "winner_name": "Maszlee Malik",
+          "winner_party": "PKR",
+          "winner_coalition": "PH",
+          "winner_votes": 18157,
+          "margin": 3475,
+          "margin_pct": 9.69,
+          "turnout_pct": 83.4,
+          "total_voters": 43998,
+          "total_votes_cast": 35822,
+          "num_candidates": 3,
+          "candidates": [
+            {
+              "name": "Maszlee Malik",
+              "party": "PKR",
+              "coalition": "PH",
+              "votes": 18157
+            },
+            {
+              "name": "Liang Teck Meng",
+              "party": "BN",
+              "coalition": "BN",
+              "votes": 14682
+            },
+            {
+              "name": "Mohd Jubri Selamat",
+              "party": "PAS",
+              "coalition": "PN",
+              "votes": 2983
+            }
+          ]
+        }
+      },
+      "_scrape_status": "ok",
+      "_source_url": "https://en.wikipedia.org/wiki/Simpang_Renggam_(federal_constituency)"
+    },
+    "P.152": {
+      "name": "Kluang",
+      "results": {
+        "2022": {
+          "winner_name": "Wong Shu Qi",
+          "winner_party": "PH",
+          "winner_coalition": "PH",
+          "winner_votes": 49801,
+          "margin": 26406,
+          "margin_pct": 27.61,
+          "turnout_pct": 73.42,
+          "total_voters": 132342,
+          "total_votes_cast": 95621,
+          "num_candidates": 4,
+          "candidates": [
+            {
+              "name": "Wong Shu Qi",
+              "party": "PH",
+              "coalition": "PH",
+              "votes": 49801
+            },
+            {
+              "name": "Gan Ping Sieu",
+              "party": "BN",
+              "coalition": "BN",
+              "votes": 23395
+            },
+            {
+              "name": "Dzulkarnain Alias",
+              "party": "PN",
+              "coalition": "PN",
+              "votes": 22021
+            },
+            {
+              "name": "Ramendran  Ulaganathan",
+              "party": "INDEPENDENT",
+              "coalition": "INDEPENDENT",
+              "votes": 404
+            }
+          ]
+        },
+        "2018": {
+          "winner_name": "Wong Shu Qi",
+          "winner_party": "PKR",
+          "winner_coalition": "PH",
+          "winner_votes": 47671,
+          "margin": 23053,
+          "margin_pct": 28.63,
+          "turnout_pct": 84.45,
+          "total_voters": 96915,
+          "total_votes_cast": 80531,
+          "num_candidates": 3,
+          "candidates": [
+            {
+              "name": "Wong Shu Qi",
+              "party": "PKR",
+              "coalition": "PH",
+              "votes": 47671
+            },
+            {
+              "name": "Gan Ping Sieu",
+              "party": "BN",
+              "coalition": "BN",
+              "votes": 24618
+            },
+            {
+              "name": "Muhammad Hasbullah Md Najib",
+              "party": "PAS",
+              "coalition": "PN",
+              "votes": 8242
+            }
+          ]
+        }
+      },
+      "_scrape_status": "ok",
+      "_source_url": "https://en.wikipedia.org/wiki/Kluang_(federal_constituency)"
+    },
+    "P.153": {
+      "name": "Sembrong",
+      "results": {
+        "2022": {
+          "winner_name": "Hishamuddin Hussein",
+          "winner_party": "BN",
+          "winner_coalition": "BN",
+          "winner_votes": 22572,
+          "margin": 10880,
+          "margin_pct": 26.58,
+          "turnout_pct": 74.44,
+          "total_voters": 54982,
+          "total_votes_cast": 40930,
+          "num_candidates": 3,
+          "candidates": [
+            {
+              "name": "Hishamuddin Hussein",
+              "party": "BN",
+              "coalition": "BN",
+              "votes": 22572
+            },
+            {
+              "name": "Hasni Abas",
+              "party": "PH",
+              "coalition": "PH",
+              "votes": 11692
+            },
+            {
+              "name": "Aziz Ismail",
+              "party": "PN",
+              "coalition": "PN",
+              "votes": 6666
+            }
+          ]
+        },
+        "2018": {
+          "winner_name": "Hishammuddin Hussein",
+          "winner_party": "BN",
+          "winner_coalition": "BN",
+          "winner_votes": 21353,
+          "margin": 6662,
+          "margin_pct": 18.48,
+          "turnout_pct": 83.3,
+          "total_voters": 44137,
+          "total_votes_cast": 36044,
+          "num_candidates": 2,
+          "candidates": [
+            {
+              "name": "Hishammuddin Hussein",
+              "party": "BN",
+              "coalition": "BN",
+              "votes": 21353
+            },
+            {
+              "name": "Onn Abu Bakar",
+              "party": "PKR",
+              "coalition": "PH",
+              "votes": 14691
+            }
+          ]
+        }
+      },
+      "_scrape_status": "ok",
+      "_source_url": "https://en.wikipedia.org/wiki/Sembrong_(federal_constituency)"
+    },
+    "P.154": {
+      "name": "Mersing",
+      "results": {
+        "2022": {
+          "winner_name": "Muhammad Islahuddin Abas",
+          "winner_party": "PN",
+          "winner_coalition": "PN",
+          "winner_votes": 21066,
+          "margin": 2337,
+          "margin_pct": 4.98,
+          "turnout_pct": 70.77,
+          "total_voters": 66275,
+          "total_votes_cast": 46906,
+          "num_candidates": 5,
+          "candidates": [
+            {
+              "name": "Muhammad Islahuddin Abas",
+              "party": "PN",
+              "coalition": "PN",
+              "votes": 21066
+            },
+            {
+              "name": "Abdul Latif Bandi @ Nor Sebandi",
+              "party": "BN",
+              "coalition": "BN",
+              "votes": 18729
+            },
+            {
+              "name": "Fatin Zulaikha Zaidi",
+              "party": "PH",
+              "coalition": "PH",
+              "votes": 6813
+            },
+            {
+              "name": "Nurfatimah Ibrahim",
+              "party": "PEJUANG",
+              "coalition": "IND",
+              "votes": 209
+            },
+            {
+              "name": "Ismail Don",
+              "party": "INDEPENDENT",
+              "coalition": "INDEPENDENT",
+              "votes": 89
+            }
+          ]
+        },
+        "2018": {
+          "winner_name": "Abdul Latiff Ahmad",
+          "winner_party": "BN",
+          "winner_coalition": "BN",
+          "winner_votes": 19806,
+          "margin": 8459,
+          "margin_pct": 22.63,
+          "turnout_pct": 79.51,
+          "total_voters": 48176,
+          "total_votes_cast": 37368,
+          "num_candidates": 3,
+          "candidates": [
+            {
+              "name": "Abdul Latiff Ahmad",
+              "party": "BN",
+              "coalition": "BN",
+              "votes": 19806
+            },
+            {
+              "name": "Md. Nasir Hashim",
+              "party": "PKR",
+              "coalition": "PH",
+              "votes": 11347
+            },
+            {
+              "name": "A. Rahman A. Hamid",
+              "party": "PAS",
+              "coalition": "PN",
+              "votes": 6215
+            }
+          ]
+        }
+      },
+      "_scrape_status": "ok",
+      "_source_url": "https://en.wikipedia.org/wiki/Mersing_(federal_constituency)"
+    },
+    "P.155": {
+      "name": "Tenggara",
+      "results": {
+        "2022": {
+          "winner_name": "Manndzri Nasib",
+          "winner_party": "BN",
+          "winner_coalition": "BN",
+          "winner_votes": 21185,
+          "margin": 2991,
+          "margin_pct": 5.83,
+          "turnout_pct": 76.31,
+          "total_voters": 67294,
+          "total_votes_cast": 51350,
+          "num_candidates": 4,
+          "candidates": [
+            {
+              "name": "Manndzri Nasib",
+              "party": "BN",
+              "coalition": "BN",
+              "votes": 21185
+            },
+            {
+              "name": "Mohd Nazri Mokhtar",
+              "party": "PN",
+              "coalition": "PN",
+              "votes": 18194
+            },
+            {
+              "name": "Zuraidah Zainab Mohd Zen",
+              "party": "PH",
+              "coalition": "PH",
+              "votes": 11618
+            },
+            {
+              "name": "M Azhar Palal",
+              "party": "PEJUANG",
+              "coalition": "IND",
+              "votes": 353
+            }
+          ]
+        },
+        "2018": {
+          "winner_name": "Adham Baba",
+          "winner_party": "BN",
+          "winner_coalition": "BN",
+          "winner_votes": 20142,
+          "margin": 5933,
+          "margin_pct": 16.02,
+          "turnout_pct": 84.51,
+          "total_voters": 44749,
+          "total_votes_cast": 37034,
+          "num_candidates": 3,
+          "candidates": [
+            {
+              "name": "Adham Baba",
+              "party": "BN",
+              "coalition": "BN",
+              "votes": 20142
+            },
+            {
+              "name": "Norjepri Mohamed Jelani",
+              "party": "PKR",
+              "coalition": "PH",
+              "votes": 14209
+            },
+            {
+              "name": "Yuhanita Yunan",
+              "party": "PAS",
+              "coalition": "PN",
+              "votes": 2683
+            }
+          ]
+        }
+      },
+      "_scrape_status": "ok",
+      "_source_url": "https://en.wikipedia.org/wiki/Tenggara_(federal_constituency)"
+    },
+    "P.156": {
+      "name": "Kota Tinggi",
+      "results": {
+        "2022": {
+          "winner_name": "Mohamed Khaled Nordin",
+          "winner_party": "BN",
+          "winner_coalition": "BN",
+          "winner_votes": 25410,
+          "margin": 8390,
+          "margin_pct": 17.72,
+          "turnout_pct": 77.23,
+          "total_voters": 61291,
+          "total_votes_cast": 47333,
+          "num_candidates": 3,
+          "candidates": [
+            {
+              "name": "Mohamed Khaled Nordin",
+              "party": "BN",
+              "coalition": "BN",
+              "votes": 25410
+            },
+            {
+              "name": "Mohamad Ridhwan Rasman",
+              "party": "PN",
+              "coalition": "PN",
+              "votes": 17020
+            },
+            {
+              "name": "Onn Jaafar",
+              "party": "PH",
+              "coalition": "PH",
+              "votes": 4903
+            }
+          ]
+        },
+        "2018": {
+          "winner_name": "Halimah Mohd Sadique",
+          "winner_party": "BN",
+          "winner_coalition": "BN",
+          "winner_votes": 26407,
+          "margin": 14621,
+          "margin_pct": 38.28,
+          "turnout_pct": 84.45,
+          "total_voters": 46677,
+          "total_votes_cast": 38193,
+          "num_candidates": 2,
+          "candidates": [
+            {
+              "name": "Halimah Mohd Sadique",
+              "party": "BN",
+              "coalition": "BN",
+              "votes": 26407
+            },
+            {
+              "name": "Azlinda Abdul Latif",
+              "party": "PKR",
+              "coalition": "PH",
+              "votes": 11786
+            }
+          ]
+        }
+      },
+      "_scrape_status": "ok",
+      "_source_url": "https://en.wikipedia.org/wiki/Kota_Tinggi_(federal_constituency)"
+    },
+    "P.157": {
+      "name": "Pengerang",
+      "results": {
+        "2022": {
+          "winner_name": "Azalina Othman Said",
+          "winner_party": "BN",
+          "winner_coalition": "BN",
+          "winner_votes": 21758,
+          "margin": 5030,
+          "margin_pct": 12.02,
+          "turnout_pct": 76.4,
+          "total_voters": 55316,
+          "total_votes_cast": 41860,
+          "num_candidates": 3,
+          "candidates": [
+            {
+              "name": "Azalina Othman Said",
+              "party": "BN",
+              "coalition": "BN",
+              "votes": 21758
+            },
+            {
+              "name": "Fairulnizar Rahmat",
+              "party": "PN",
+              "coalition": "PN",
+              "votes": 16728
+            },
+            {
+              "name": "Che Zakaria Mohd Salleh",
+              "party": "PH",
+              "coalition": "PH",
+              "votes": 3374
+            }
+          ]
+        },
+        "2018": {
+          "winner_name": "Azalina Othman Said",
+          "winner_party": "BN",
+          "winner_coalition": "BN",
+          "winner_votes": 21829,
+          "margin": 11417,
+          "margin_pct": 35.42,
+          "turnout_pct": 82.96,
+          "total_voters": 40479,
+          "total_votes_cast": 32240,
+          "num_candidates": 2,
+          "candidates": [
+            {
+              "name": "Azalina Othman Said",
+              "party": "BN",
+              "coalition": "BN",
+              "votes": 21829
+            },
+            {
+              "name": "Norliza Ngadiran",
+              "party": "PKR",
+              "coalition": "PH",
+              "votes": 10412
+            }
+          ]
+        }
+      },
+      "_scrape_status": "ok",
+      "_source_url": "https://en.wikipedia.org/wiki/Pengerang_(federal_constituency)"
+    },
+    "P.158": {
+      "name": "Tebrau",
+      "results": {
+        "2022": {
+          "winner_name": "Jimmy Puah Wee Tse",
+          "winner_party": "PH",
+          "winner_coalition": "PH",
+          "winner_votes": 83959,
+          "margin": 30720,
+          "margin_pct": 18.29,
+          "turnout_pct": 75.9,
+          "total_voters": 223301,
+          "total_votes_cast": 167965,
+          "num_candidates": 3,
+          "candidates": [
+            {
+              "name": "Jimmy Puah Wee Tse",
+              "party": "PH",
+              "coalition": "PH",
+              "votes": 83959
+            },
+            {
+              "name": "Mohamad Isa Mohamad Basir",
+              "party": "PN",
+              "coalition": "PN",
+              "votes": 53239
+            },
+            {
+              "name": "Nicole Wong Siaw Ting",
+              "party": "BN",
+              "coalition": "BN",
+              "votes": 30767
+            }
+          ]
+        },
+        "2018": {
+          "winner_name": "Choong Shiau Yoon",
+          "winner_party": "PKR",
+          "winner_coalition": "PH",
+          "winner_votes": 64535,
+          "margin": 37225,
+          "margin_pct": 36.42,
+          "turnout_pct": 85.68,
+          "total_voters": 123033,
+          "total_votes_cast": 103943,
+          "num_candidates": 3,
+          "candidates": [
+            {
+              "name": "Choong Shiau Yoon",
+              "party": "PKR",
+              "coalition": "PH",
+              "votes": 64535
+            },
+            {
+              "name": "Hou Kok Chung",
+              "party": "BN",
+              "coalition": "BN",
+              "votes": 27310
+            },
+            {
+              "name": "Abdullah Husin",
+              "party": "PAS",
+              "coalition": "PN",
+              "votes": 12098
+            }
+          ]
+        }
+      },
+      "_scrape_status": "ok",
+      "_source_url": "https://en.wikipedia.org/wiki/Tebrau_(federal_constituency)"
+    },
+    "P.159": {
+      "name": "Pasir Gudang",
+      "results": {
+        "2022": {
+          "winner_name": "Hassan Abdul Karim",
+          "winner_party": "PH",
+          "winner_coalition": "PH",
+          "winner_votes": 71233,
+          "margin": 31558,
+          "margin_pct": 21.14,
+          "turnout_pct": 75.21,
+          "total_voters": 198485,
+          "total_votes_cast": 149280,
+          "num_candidates": 4,
+          "candidates": [
+            {
+              "name": "Hassan Abdul Karim",
+              "party": "PH",
+              "coalition": "PH",
+              "votes": 71233
+            },
+            {
+              "name": "Mohamad Farid Abdul Razak",
+              "party": "PN",
+              "coalition": "PN",
+              "votes": 39675
+            },
+            {
+              "name": "Noor Azlen Ambros",
+              "party": "BN",
+              "coalition": "BN",
+              "votes": 37369
+            },
+            {
+              "name": "Mohammad Rafi Bram",
+              "party": "PEJUANG",
+              "coalition": "IND",
+              "votes": 1003
+            }
+          ]
+        },
+        "2018": {
+          "winner_name": "Hassan Abdul Karim",
+          "winner_party": "PKR",
+          "winner_coalition": "PH",
+          "winner_votes": 61615,
+          "margin": 24726,
+          "margin_pct": 23.55,
+          "turnout_pct": 85.83,
+          "total_voters": 124172,
+          "total_votes_cast": 105009,
+          "num_candidates": 4,
+          "candidates": [
+            {
+              "name": "Hassan Abdul Karim",
+              "party": "PKR",
+              "coalition": "PH",
+              "votes": 61615
+            },
+            {
+              "name": "Mohamed Khaled Nordin",
+              "party": "BN",
+              "coalition": "BN",
+              "votes": 36889
+            },
+            {
+              "name": "Ab Aziz Abdullah",
+              "party": "PAS",
+              "coalition": "PN",
+              "votes": 6278
+            },
+            {
+              "name": "Sey Jock @ Chee Jock",
+              "party": "INDEPENDENT",
+              "coalition": "INDEPENDENT",
+              "votes": 227
+            }
+          ]
+        }
+      },
+      "_scrape_status": "ok",
+      "_source_url": "https://en.wikipedia.org/wiki/Pasir_Gudang_(federal_constituency)"
+    },
+    "P.160": {
+      "name": "Johor Bahru",
+      "results": {
+        "2022": {
+          "winner_name": "Akmal Nasrullah Mohd Nasir",
+          "winner_party": "PH",
+          "winner_coalition": "PH",
+          "winner_votes": 43252,
+          "margin": 16041,
+          "margin_pct": 16.99,
+          "turnout_pct": 69.22,
+          "total_voters": 136368,
+          "total_votes_cast": 93162,
+          "num_candidates": 4,
+          "candidates": [
+            {
+              "name": "Akmal Nasrullah Mohd Nasir",
+              "party": "PH",
+              "coalition": "PH",
+              "votes": 43252
+            },
+            {
+              "name": "Johan Arifin Mohd Ropi",
+              "party": "BN",
+              "coalition": "BN",
+              "votes": 27211
+            },
+            {
+              "name": "Mohd Mohtah Yacob",
+              "party": "PN",
+              "coalition": "PN",
+              "votes": 22075
+            },
+            {
+              "name": "Mohd Akhiri Mahmood",
+              "party": "PEJUANG",
+              "coalition": "IND",
+              "votes": 1855
+            }
+          ]
+        },
+        "2018": {
+          "winner_name": "Akmal Nasrullah Mohd Nasir",
+          "winner_party": "PKR",
+          "winner_coalition": "PH",
+          "winner_votes": 50052,
+          "margin": 19782,
+          "margin_pct": 24.62,
+          "turnout_pct": 80.51,
+          "total_voters": 101409,
+          "total_votes_cast": 80322,
+          "num_candidates": 2,
+          "candidates": [
+            {
+              "name": "Akmal Nasrullah Mohd Nasir",
+              "party": "PKR",
+              "coalition": "PH",
+              "votes": 50052
+            },
+            {
+              "name": "Shahrir Abdul Samad",
+              "party": "BN",
+              "coalition": "BN",
+              "votes": 30270
+            }
+          ]
+        }
+      },
+      "_scrape_status": "ok",
+      "_source_url": "https://en.wikipedia.org/wiki/Johor_Bahru_(federal_constituency)"
+    },
+    "P.161": {
+      "name": "Pulai",
+      "results": {
+        "2022": {
+          "winner_name": "Salahuddin Ayub",
+          "winner_party": "PH",
+          "winner_coalition": "PH",
+          "winner_votes": 64900,
+          "margin": 33174,
+          "margin_pct": 28.28,
+          "turnout_pct": 70.96,
+          "total_voters": 165313,
+          "total_votes_cast": 117303,
+          "num_candidates": 3,
+          "candidates": [
+            {
+              "name": "Salahuddin Ayub",
+              "party": "PH",
+              "coalition": "PH",
+              "votes": 64900
+            },
+            {
+              "name": "Nur Jazlan Mohamed",
+              "party": "BN",
+              "coalition": "BN",
+              "votes": 31726
+            },
+            {
+              "name": "Loh Kah Yong",
+              "party": "PN",
+              "coalition": "PN",
+              "votes": 20677
+            }
+          ]
+        },
+        "2018": {
+          "winner_name": "Salahuddin Ayub",
+          "winner_party": "PKR",
+          "winner_coalition": "PH",
+          "winner_votes": 55447,
+          "margin": 28924,
+          "margin_pct": 33.29,
+          "turnout_pct": 82.92,
+          "total_voters": 106268,
+          "total_votes_cast": 86893,
+          "num_candidates": 4,
+          "candidates": [
+            {
+              "name": "Salahuddin Ayub",
+              "party": "PKR",
+              "coalition": "PH",
+              "votes": 55447
+            },
+            {
+              "name": "Nur Jazlan Mohamed",
+              "party": "BN",
+              "coalition": "BN",
+              "votes": 26523
+            },
+            {
+              "name": "Mohammad Mazri Yahya",
+              "party": "PAS",
+              "coalition": "PN",
+              "votes": 4332
+            },
+            {
+              "name": "Yap Keng Tak",
+              "party": "INDEPENDENT",
+              "coalition": "INDEPENDENT",
+              "votes": 591
+            }
+          ]
+        }
+      },
+      "_scrape_status": "ok",
+      "_source_url": "https://en.wikipedia.org/wiki/Pulai_(federal_constituency)"
+    },
+    "P.162": {
+      "name": "Iskandar Puteri",
+      "results": {
+        "2022": {
+          "winner_name": "Liew Chin Tong",
+          "winner_party": "PH",
+          "winner_coalition": "PH",
+          "winner_votes": 96819,
+          "margin": 60036,
+          "margin_pct": 36.68,
+          "turnout_pct": 74.42,
+          "total_voters": 222437,
+          "total_votes_cast": 163680,
+          "num_candidates": 3,
+          "candidates": [
+            {
+              "name": "Liew Chin Tong",
+              "party": "PH",
+              "coalition": "PH",
+              "votes": 96819
+            },
+            {
+              "name": "Jason Teoh Sew Hock",
+              "party": "BN",
+              "coalition": "BN",
+              "votes": 36783
+            },
+            {
+              "name": "Tan Nam Cha",
+              "party": "PN",
+              "coalition": "PN",
+              "votes": 30078
+            }
+          ]
+        },
+        "2018": {
+          "winner_name": "Lim Kit Siang",
+          "winner_party": "PKR",
+          "winner_coalition": "PH",
+          "winner_votes": 80726,
+          "margin": 44864,
+          "margin_pct": 38.48,
+          "turnout_pct": 85.89,
+          "total_voters": 138299,
+          "total_votes_cast": 116588,
+          "num_candidates": 2,
+          "candidates": [
+            {
+              "name": "Lim Kit Siang",
+              "party": "PKR",
+              "coalition": "PH",
+              "votes": 80726
+            },
+            {
+              "name": "Jason Teoh Sew Hock",
+              "party": "BN",
+              "coalition": "BN",
+              "votes": 35862
+            }
+          ]
+        }
+      },
+      "_scrape_status": "ok",
+      "_source_url": "https://en.wikipedia.org/wiki/Iskandar_Puteri_(federal_constituency)"
+    },
+    "P.163": {
+      "name": "Kulai",
+      "results": {
+        "2022": {
+          "winner_name": "Teo Nie Ching",
+          "winner_party": "PH",
+          "winner_coalition": "PH",
+          "winner_votes": 65529,
+          "margin": 36023,
+          "margin_pct": 31.26,
+          "turnout_pct": 76.2,
+          "total_voters": 151247,
+          "total_votes_cast": 115253,
+          "num_candidates": 3,
+          "candidates": [
+            {
+              "name": "Teo Nie Ching",
+              "party": "PH",
+              "coalition": "PH",
+              "votes": 65529
+            },
+            {
+              "name": "Chua Jian Boon",
+              "party": "BN",
+              "coalition": "BN",
+              "votes": 29506
+            },
+            {
+              "name": "Tan Chen Hok",
+              "party": "PN",
+              "coalition": "PN",
+              "votes": 20218
+            }
+          ]
+        },
+        "2018": {
+          "winner_name": "Teo Nie Ching",
+          "winner_party": "PKR",
+          "winner_coalition": "PH",
+          "winner_votes": 55312,
+          "margin": 32748,
+          "margin_pct": 38.73,
+          "turnout_pct": 86.42,
+          "total_voters": 99147,
+          "total_votes_cast": 84543,
+          "num_candidates": 3,
+          "candidates": [
+            {
+              "name": "Teo Nie Ching",
+              "party": "PKR",
+              "coalition": "PH",
+              "votes": 55312
+            },
+            {
+              "name": "Tang Nai Soon",
+              "party": "BN",
+              "coalition": "BN",
+              "votes": 22564
+            },
+            {
+              "name": "Juwahir Amin",
+              "party": "PAS",
+              "coalition": "PN",
+              "votes": 6667
+            }
+          ]
+        }
+      },
+      "_scrape_status": "ok",
+      "_source_url": "https://en.wikipedia.org/wiki/Kulai_(federal_constituency)"
+    },
+    "P.164": {
+      "name": "Pontian",
+      "results": {
+        "2022": {
+          "winner_name": "Ahmad Maslan",
+          "winner_party": "BN",
+          "winner_coalition": "BN",
+          "winner_votes": 23201,
+          "margin": 5758,
+          "margin_pct": 10.13,
+          "turnout_pct": 75.59,
+          "total_voters": 75212,
+          "total_votes_cast": 56851,
+          "num_candidates": 4,
+          "candidates": [
+            {
+              "name": "Ahmad Maslan",
+              "party": "BN",
+              "coalition": "BN",
+              "votes": 23201
+            },
+            {
+              "name": "Isa Ab Hamid",
+              "party": "PN",
+              "coalition": "PN",
+              "votes": 17448
+            },
+            {
+              "name": "Syazwan Zdainal Abdin",
+              "party": "PH",
+              "coalition": "PH",
+              "votes": 15901
+            },
+            {
+              "name": "Jamaluddin Mohamad",
+              "party": "PEJUANG",
+              "coalition": "IND",
+              "votes": 306
+            }
+          ]
+        },
+        "2018": {
+          "winner_name": "Ahmad Maslan",
+          "winner_party": "BN",
+          "winner_coalition": "BN",
+          "winner_votes": 21132,
+          "margin": 833,
+          "margin_pct": 1.82,
+          "turnout_pct": 84.01,
+          "total_voters": 55570,
+          "total_votes_cast": 45726,
+          "num_candidates": 3,
+          "candidates": [
+            {
+              "name": "Ahmad Maslan",
+              "party": "BN",
+              "coalition": "BN",
+              "votes": 21132
+            },
+            {
+              "name": "Karmaine Sardini",
+              "party": "PKR",
+              "coalition": "PH",
+              "votes": 20299
+            },
+            {
+              "name": "Baharom Mohamad",
+              "party": "PAS",
+              "coalition": "PN",
+              "votes": 4295
+            }
+          ]
+        }
+      },
+      "_scrape_status": "ok",
+      "_source_url": "https://en.wikipedia.org/wiki/Pontian_(federal_constituency)"
+    },
+    "P.165": {
+      "name": "Tanjung Piai",
+      "results": {
+        "2022": {
+          "winner_name": "Wee Jeck Seng",
+          "winner_party": "BN",
+          "winner_coalition": "BN",
+          "winner_votes": 23593,
+          "margin": 6360,
+          "margin_pct": 11.65,
+          "turnout_pct": 77.23,
+          "total_voters": 70679,
+          "total_votes_cast": 54588,
+          "num_candidates": 3,
+          "candidates": [
+            {
+              "name": "Wee Jeck Seng",
+              "party": "BN",
+              "coalition": "BN",
+              "votes": 23593
+            },
+            {
+              "name": "Lim Wei Jiet",
+              "party": "MUDA",
+              "coalition": "PH",
+              "votes": 17233
+            },
+            {
+              "name": "Najwah Halimah Ab Alim",
+              "party": "PN",
+              "coalition": "PN",
+              "votes": 13762
+            }
+          ]
+        },
+        "2018": {
+          "winner_name": "Mohamed Farid Md Rafik",
+          "winner_party": "PKR",
+          "winner_coalition": "PH",
+          "winner_votes": 21255,
+          "margin": 524,
+          "margin_pct": 1.17,
+          "turnout_pct": 85.67,
+          "total_voters": 53528,
+          "total_votes_cast": 44948,
+          "num_candidates": 3,
+          "candidates": [
+            {
+              "name": "Mohamed Farid Md Rafik",
+              "party": "PKR",
+              "coalition": "PH",
+              "votes": 21255
+            },
+            {
+              "name": "Wee Jeck Seng",
+              "party": "BN",
+              "coalition": "BN",
+              "votes": 20731
+            },
+            {
+              "name": "Nordin Othman¹",
+              "party": "PAS",
+              "coalition": "PN",
+              "votes": 2962
+            }
+          ]
+        }
+      },
+      "_scrape_status": "ok",
+      "_source_url": "https://en.wikipedia.org/wiki/Tanjung_Piai_(federal_constituency)"
+    }
+  }
+}

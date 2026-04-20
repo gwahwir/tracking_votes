@@ -49,6 +49,7 @@ class ScorerState(TypedDict):
     article_id: str
     article_text: str
     source: str
+    constituency_codes: list[str]
     wiki_context: str
     score_result: dict[str, Any]
     output: str
@@ -68,12 +69,16 @@ def _retrieve_wiki_node(state: ScorerState) -> ScorerState:
     try:
         data = json.loads(state["input"])
         state["article_text"] = data.get("article_text", state["input"])
-        # Override source if in parsed JSON
         if "source" in data:
             state["source"] = data["source"]
+        state["constituency_codes"] = data.get("constituency_codes", [])
     except (json.JSONDecodeError, TypeError):
-        # Plain text input — use as-is
         state["article_text"] = state["input"]
+        state["constituency_codes"] = []
+
+    # Also pick up constituency_codes from metadata if news_agent put them there
+    if not state["constituency_codes"]:
+        state["constituency_codes"] = state["metadata"].get("constituency_codes", [])
 
     retriever = _get_retriever()
     results = retriever.query(state["article_text"], top_k=3)
@@ -160,7 +165,7 @@ def _store_node(state: ScorerState) -> ScorerState:
         _emit_wiki_task(state["article_text"], state["article_id"])
 
     # Always emit analyst task for any scored article (regardless of score)
-    _emit_analyst_task(state["article_text"], state["article_id"], state["source"])
+    _emit_analyst_task(state["article_text"], state["article_id"], state["source"], state.get("constituency_codes", []))
 
     state["output"] = json.dumps(state["score_result"])
     return state
@@ -181,18 +186,22 @@ def _emit_wiki_task(article_text: str, article_id: str) -> None:
         log.warning("scorer.wiki_emit_error", error=str(exc))
 
 
-def _emit_analyst_task(article_text: str, article_id: str, source: str) -> None:
+def _emit_analyst_task(article_text: str, article_id: str, source: str, constituency_codes: list[str] = []) -> None:
     """POST an analyst task to the control plane (fire-and-forget)."""
     control_plane = os.environ.get("CONTROL_PLANE_URL", "http://localhost:8000")
     url = f"{control_plane.rstrip('/')}/agents/analyst_agent/tasks"
     try:
-        message = f"Analyze this article using 6 lenses (political, demographic, historical, strategic, fact-check, Bridget Welsh):\n\n[{source}]\n\n{article_text[:4000]}"
+        message = json.dumps({
+            "article_id": article_id,
+            "article_text": article_text[:4000],
+            "constituency_codes": constituency_codes,
+        })
         httpx.post(
             url,
-            json={"message": message, "metadata": {"article_id": article_id, "source": source}},
+            json={"message": message, "metadata": {"article_id": article_id, "source": source, "constituency_codes": constituency_codes}},
             timeout=5.0,
         )
-        log.info("scorer.analyst_task_emitted", article_id=article_id)
+        log.info("scorer.analyst_task_emitted", article_id=article_id, constituencies=constituency_codes)
     except Exception as exc:
         log.warning("scorer.analyst_emit_error", error=str(exc))
 

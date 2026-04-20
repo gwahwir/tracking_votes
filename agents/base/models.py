@@ -5,6 +5,7 @@ from datetime import datetime, timezone
 from typing import Optional
 
 from sqlalchemy import JSON, Column, DateTime, Float, Integer, String, Text, create_engine
+from sqlalchemy import func
 from sqlalchemy.ext.asyncio import AsyncSession, create_async_engine
 from sqlalchemy.orm import declarative_base, sessionmaker
 
@@ -83,6 +84,57 @@ class SeatPrediction(Base):
     # Metadata
     created_at = Column(DateTime, default=lambda: datetime.now(timezone.utc), index=True)
     updated_at = Column(DateTime, default=lambda: datetime.now(timezone.utc), onupdate=lambda: datetime.now(timezone.utc))
+
+
+class HistoricalResult(Base):
+    """Historical election result for a constituency."""
+
+    __tablename__ = "historical_results"
+
+    id = Column(String(36), primary_key=True)
+    constituency_code = Column(String(16), nullable=False, index=True)  # "N.01", "P.140"
+    seat_type = Column(String(16), nullable=False)  # "dun" or "parlimen"
+    seat_name = Column(String(128), nullable=False)
+    election_year = Column(Integer, nullable=False, index=True)
+    state = Column(String(64), nullable=False, default="Johor")
+
+    winner_name = Column(String(256), nullable=True)
+    winner_party = Column(String(64), nullable=True)
+    winner_coalition = Column(String(64), nullable=True)
+    winner_votes = Column(Integer, nullable=True)
+
+    margin = Column(Integer, nullable=True)
+    margin_pct = Column(Float, nullable=True)
+    turnout_pct = Column(Float, nullable=True)
+    total_voters = Column(Integer, nullable=True)
+    total_votes_cast = Column(Integer, nullable=True)
+    num_candidates = Column(Integer, nullable=True)
+
+    candidates = Column(JSON, nullable=True)  # [{name, party, coalition, votes}, ...]
+
+    created_at = Column(DateTime(timezone=True), default=lambda: datetime.now(timezone.utc))
+
+
+class ConstituencyDemographics(Base):
+    """Demographic profile for a constituency."""
+
+    __tablename__ = "constituency_demographics"
+
+    id = Column(String(36), primary_key=True)
+    constituency_code = Column(String(16), nullable=False, unique=True, index=True)
+    seat_name = Column(String(128), nullable=False)
+    state = Column(String(64), nullable=False, default="Johor")
+
+    malay_pct = Column(Float, nullable=True)
+    chinese_pct = Column(Float, nullable=True)
+    indian_pct = Column(Float, nullable=True)
+    others_pct = Column(Float, nullable=True)
+    urban_rural = Column(String(32), nullable=True)  # "urban", "semi-urban", "rural"
+    region = Column(String(32), nullable=True)       # "north", "central", "south"
+
+    created_at = Column(DateTime(timezone=True), default=lambda: datetime.now(timezone.utc))
+    updated_at = Column(DateTime(timezone=True), default=lambda: datetime.now(timezone.utc),
+                        onupdate=lambda: datetime.now(timezone.utc))
 
 
 class RegisteredAgent(Base):

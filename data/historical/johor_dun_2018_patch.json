@@ -1,0 +1,355 @@
+{
+  "_metadata": {
+    "source": "TindakMalaysia HISTORICAL-ELECTION-RESULTS (GitHub), MALAYSIA_2018_DUN_RESULTS.csv",
+    "election_date": "2018-05-09",
+    "notes": "BERSATU was known as PPBM in 2018 and was part of PH coalition. GS = Gagasan Sejahtera (PAS-led bloc). total_votes_cast = ballots issued (includes unreturned postal/early votes). total_valid = valid votes counted at polling stations.",
+    "last_updated": "2026-04-20"
+  },
+  "N.05": {
+    "2018": {
+      "winner": {"name": "Solihan Badri", "party": "BERSATU", "coalition": "PH", "votes": 7645},
+      "margin": 1070,
+      "margin_pct": 7.13,
+      "turnout_pct": 83.0,
+      "total_voters": 18398,
+      "total_votes_cast": 15270,
+      "num_candidates": 3,
+      "candidates": [
+        {"name": "Solihan Badri", "party": "BERSATU", "coalition": "PH", "votes": 7645},
+        {"name": "Mohd Azahar bin Ibrahim", "party": "UMNO", "coalition": "BN", "votes": 6575},
+        {"name": "Ustaz Nasharudin bin Awang", "party": "PAS", "coalition": "GS", "votes": 794}
+      ]
+    }
+  },
+  "N.06": {
+    "2018": {
+      "winner": {"name": "Dr S. Ramakrishnan", "party": "DAP", "coalition": "PH", "votes": 9983},
+      "margin": 2469,
+      "margin_pct": 14.11,
+      "turnout_pct": 81.42,
+      "total_voters": 21958,
+      "total_votes_cast": 17878,
+      "num_candidates": 2,
+      "candidates": [
+        {"name": "Dr S. Ramakrishnan", "party": "DAP", "coalition": "PH", "votes": 9983},
+        {"name": "Tan Chong", "party": "MCA", "coalition": "BN", "votes": 7514}
+      ]
+    }
+  },
+  "N.09": {
+    "2018": {
+      "winner": {"name": "Tan Sri Muhyiddin Yassin", "party": "BERSATU", "coalition": "PH", "votes": 10280},
+      "margin": 3088,
+      "margin_pct": 16.02,
+      "turnout_pct": 86.86,
+      "total_voters": 22726,
+      "total_votes_cast": 19740,
+      "num_candidates": 3,
+      "candidates": [
+        {"name": "Tan Sri Muhyiddin Yassin", "party": "BERSATU", "coalition": "PH", "votes": 10280},
+        {"name": "Datuk M. Asojan", "party": "MIC", "coalition": "BN", "votes": 7192},
+        {"name": "Dato Dr Mahfodz bin Mohamed", "party": "PAS", "coalition": "GS", "votes": 1806}
+      ]
+    }
+  },
+  "N.15": {
+    "2018": {
+      "winner": {"name": "Nor Hayati Bachok", "party": "AMANAH", "coalition": "PH", "votes": 12405},
+      "margin": 5674,
+      "margin_pct": 24.66,
+      "turnout_pct": 83.86,
+      "total_voters": 27900,
+      "total_votes_cast": 23397,
+      "num_candidates": 3,
+      "candidates": [
+        {"name": "Nor Hayati Bachok", "party": "AMANAH", "coalition": "PH", "votes": 12405},
+        {"name": "Dato Ashari Md. Sarip", "party": "UMNO", "coalition": "BN", "votes": 6731},
+        {"name": "Dr Mohammad Taslim", "party": "PAS", "coalition": "GS", "votes": 3869}
+      ]
+    }
+  },
+  "N.16": {
+    "2018": {
+      "winner": {"name": "Zaiton binti Ismail", "party": "UMNO", "coalition": "BN", "votes": 8022},
+      "margin": 174,
+      "margin_pct": 0.92,
+      "turnout_pct": 84.86,
+      "total_voters": 22943,
+      "total_votes_cast": 19470,
+      "num_candidates": 3,
+      "candidates": [
+        {"name": "Zaiton binti Ismail", "party": "UMNO", "coalition": "BN", "votes": 8022},
+        {"name": "Naim bin Jusri", "party": "PKR", "coalition": "PH", "votes": 7848},
+        {"name": "Cikgu Hj Cheman bin Yusoh", "party": "PAS", "coalition": "GS", "votes": 3146}
+      ]
+    }
+  },
+  "N.17": {
+    "2018": {
+      "winner": {"name": "Khuzzan Abu Bakar", "party": "PKR", "coalition": "PH", "votes": 12619},
+      "margin": 98,
+      "margin_pct": 0.33,
+      "turnout_pct": 84.26,
+      "total_voters": 35557,
+      "total_votes_cast": 29961,
+      "num_candidates": 3,
+      "candidates": [
+        {"name": "Khuzzan Abu Bakar", "party": "PKR", "coalition": "PH", "votes": 12619},
+        {"name": "Mohd Ismail bin Roslan", "party": "UMNO", "coalition": "BN", "votes": 12521},
+        {"name": "Ustaz Wan", "party": "PAS", "coalition": "GS", "votes": 4314}
+      ]
+    }
+  },
+  "N.18": {
+    "2018": {
+      "winner": {"name": "Zulkurnain bin Kamisan", "party": "UMNO", "coalition": "BN", "votes": 11587},
+      "margin": 6040,
+      "margin_pct": 29.65,
+      "turnout_pct": 86.53,
+      "total_voters": 24052,
+      "total_votes_cast": 20811,
+      "num_candidates": 3,
+      "candidates": [
+        {"name": "Zulkurnain bin Kamisan", "party": "UMNO", "coalition": "BN", "votes": 11587},
+        {"name": "Mohd Ajib bin Omar", "party": "BERSATU", "coalition": "PH", "votes": 5547},
+        {"name": "Sallehudin bin Ab. Rasid", "party": "PAS", "coalition": "GS", "votes": 3238}
+      ]
+    }
+  },
+  "N.20": {
+    "2018": {
+      "winner": {"name": "Datuk Hj. Samsolbari", "party": "UMNO", "coalition": "BN", "votes": 10751},
+      "margin": 5842,
+      "margin_pct": 32.3,
+      "turnout_pct": 86.44,
+      "total_voters": 21254,
+      "total_votes_cast": 18372,
+      "num_candidates": 3,
+      "candidates": [
+        {"name": "Datuk Hj. Samsolbari", "party": "UMNO", "coalition": "BN", "votes": 10751},
+        {"name": "Zais bin Mohd Akil", "party": "BERSATU", "coalition": "PH", "votes": 4909},
+        {"name": "Haji Mohd Bakri Samian", "party": "PAS", "coalition": "GS", "votes": 2423}
+      ]
+    }
+  },
+  "N.21": {
+    "2018": {
+      "winner": {"name": "Cikgu Aminolhuda", "party": "AMANAH", "coalition": "PH", "votes": 12309},
+      "margin": 4834,
+      "margin_pct": 21.27,
+      "turnout_pct": 86.95,
+      "total_voters": 26635,
+      "total_votes_cast": 23158,
+      "num_candidates": 3,
+      "candidates": [
+        {"name": "Cikgu Aminolhuda", "party": "AMANAH", "coalition": "PH", "votes": 12309},
+        {"name": "Soh Lip Yan", "party": "MCA", "coalition": "BN", "votes": 7475},
+        {"name": "Cikgu Haji Nasir", "party": "PAS", "coalition": "GS", "votes": 2943}
+      ]
+    }
+  },
+  "N.22": {
+    "2018": {
+      "winner": {"name": "Rashidah Ramli", "party": "UMNO", "coalition": "BN", "votes": 9549},
+      "margin": 638,
+      "margin_pct": 2.96,
+      "turnout_pct": 86.47,
+      "total_voters": 25484,
+      "total_votes_cast": 22037,
+      "num_candidates": 3,
+      "candidates": [
+        {"name": "Rashidah Ramli", "party": "UMNO", "coalition": "BN", "votes": 9549},
+        {"name": "Ferdaus bin Kayau", "party": "BERSATU", "coalition": "PH", "votes": 8911},
+        {"name": "Cikgu Abdul Hadi bin Harun", "party": "PAS", "coalition": "GS", "votes": 3106}
+      ]
+    }
+  },
+  "N.30": {
+    "2018": {
+      "winner": {"name": "Sheikh Omar Ali", "party": "DAP", "coalition": "PH", "votes": 8958},
+      "margin": 783,
+      "margin_pct": 4.55,
+      "turnout_pct": 82.4,
+      "total_voters": 21399,
+      "total_votes_cast": 17633,
+      "num_candidates": 3,
+      "candidates": [
+        {"name": "Sheikh Omar Ali", "party": "DAP", "coalition": "PH", "votes": 8958},
+        {"name": "Teoh Yap Kun", "party": "MCA", "coalition": "BN", "votes": 8175},
+        {"name": "Shamugam a/l Munisamy", "party": "IND", "coalition": "IND", "votes": 61}
+      ]
+    }
+  },
+  "N.31": {
+    "2018": {
+      "winner": {"name": "R. Vidyananthan", "party": "MIC", "coalition": "BN", "votes": 10768},
+      "margin": 2861,
+      "margin_pct": 15.32,
+      "turnout_pct": 84.14,
+      "total_voters": 22738,
+      "total_votes_cast": 19132,
+      "num_candidates": 2,
+      "candidates": [
+        {"name": "R. Vidyananthan", "party": "MIC", "coalition": "BN", "votes": 10768},
+        {"name": "Noorlihan binti Ariffin", "party": "BERSATU", "coalition": "PH", "votes": 7907}
+      ]
+    }
+  },
+  "N.32": {
+    "2018": {
+      "winner": {"name": "Alwiyah Talib", "party": "UMNO", "coalition": "BN", "votes": 7136},
+      "margin": 3080,
+      "margin_pct": 20.7,
+      "turnout_pct": 78.22,
+      "total_voters": 19538,
+      "total_votes_cast": 15282,
+      "num_candidates": 3,
+      "candidates": [
+        {"name": "Alwiyah Talib", "party": "UMNO", "coalition": "BN", "votes": 7136},
+        {"name": "Norul Haszarul bin Abu Samah", "party": "BERSATU", "coalition": "PH", "votes": 4056},
+        {"name": "Cikgu Roslan", "party": "PAS", "coalition": "GS", "votes": 3689}
+      ]
+    }
+  },
+  "N.33": {
+    "2018": {
+      "winner": {"name": "Raven Kumar Krishnasamy", "party": "MIC", "coalition": "BN", "votes": 12309},
+      "margin": 5765,
+      "margin_pct": 25.74,
+      "turnout_pct": 80.4,
+      "total_voters": 28638,
+      "total_votes_cast": 23025,
+      "num_candidates": 3,
+      "candidates": [
+        {"name": "Raven Kumar Krishnasamy", "party": "MIC", "coalition": "BN", "votes": 12309},
+        {"name": "Rahamizon binti Abdul Ghani", "party": "PKR", "coalition": "PH", "votes": 6544},
+        {"name": "A. Rahman bin A. Hamid", "party": "PAS", "coalition": "GS", "votes": 3543}
+      ]
+    }
+  },
+  "N.35": {
+    "2018": {
+      "winner": {"name": "Rashidah binti Ismail", "party": "UMNO", "coalition": "BN", "votes": 8055},
+      "margin": 1847,
+      "margin_pct": 11.83,
+      "turnout_pct": 84.28,
+      "total_voters": 18998,
+      "total_votes_cast": 16012,
+      "num_candidates": 3,
+      "candidates": [
+        {"name": "Rashidah binti Ismail", "party": "UMNO", "coalition": "BN", "votes": 8055},
+        {"name": "Abrary Ramly", "party": "AMANAH", "coalition": "PH", "votes": 6208},
+        {"name": "Bahrin bin Alias", "party": "PAS", "coalition": "GS", "votes": 1351}
+      ]
+    }
+  },
+  "N.37": {
+    "2018": {
+      "winner": {"name": "Hj Rosleli bin Jahari", "party": "UMNO", "coalition": "BN", "votes": 12532},
+      "margin": 5807,
+      "margin_pct": 28.07,
+      "turnout_pct": 84.28,
+      "total_voters": 25221,
+      "total_votes_cast": 21256,
+      "num_candidates": 3,
+      "candidates": [
+        {"name": "Hj Rosleli bin Jahari", "party": "UMNO", "coalition": "BN", "votes": 12532},
+        {"name": "Nor Ashidah binti Ibrahim", "party": "PKR", "coalition": "PH", "votes": 6725},
+        {"name": "Siti Zaharah Othman", "party": "PAS", "coalition": "GS", "votes": 1433}
+      ]
+    }
+  },
+  "N.38": {
+    "2018": {
+      "winner": {"name": "Dato Sharifah Azizah Alshahab", "party": "UMNO", "coalition": "BN", "votes": 12330},
+      "margin": 7134,
+      "margin_pct": 40.71,
+      "turnout_pct": 84.32,
+      "total_voters": 21490,
+      "total_votes_cast": 18121,
+      "num_candidates": 2,
+      "candidates": [
+        {"name": "Dato Sharifah Azizah Alshahab", "party": "UMNO", "coalition": "BN", "votes": 12330},
+        {"name": "Ahmad Kamah bin Nor", "party": "AMANAH", "coalition": "PH", "votes": 5196}
+      ]
+    }
+  },
+  "N.44": {
+    "2018": {
+      "winner": {"name": "Mohd Izhar bin Ahmad", "party": "BERSATU", "coalition": "PH", "votes": 25012},
+      "margin": 8590,
+      "margin_pct": 19.23,
+      "turnout_pct": 81.17,
+      "total_voters": 55858,
+      "total_votes_cast": 45341,
+      "num_candidates": 3,
+      "candidates": [
+        {"name": "Mohd Izhar bin Ahmad", "party": "BERSATU", "coalition": "PH", "votes": 25012},
+        {"name": "Datuk Yahya Jaafar", "party": "UMNO", "coalition": "BN", "votes": 16422},
+        {"name": "Zakiah binti Tukirin", "party": "PAS", "coalition": "GS", "votes": 3233}
+      ]
+    }
+  },
+  "N.45": {
+    "2018": {
+      "winner": {"name": "Andrew Chen Kah Eng", "party": "DAP", "coalition": "PH", "votes": 24002},
+      "margin": 12470,
+      "margin_pct": 35.1,
+      "turnout_pct": 79.7,
+      "total_voters": 45551,
+      "total_votes_cast": 36302,
+      "num_candidates": 2,
+      "candidates": [
+        {"name": "Andrew Chen Kah Eng", "party": "DAP", "coalition": "PH", "votes": 24002},
+        {"name": "Ang Boon Heng", "party": "MCA", "coalition": "BN", "votes": 11532}
+      ]
+    }
+  },
+  "N.47": {
+    "2018": {
+      "winner": {"name": "Osman bin Sapian", "party": "BERSATU", "coalition": "PH", "votes": 21137},
+      "margin": 9178,
+      "margin_pct": 25.94,
+      "turnout_pct": 82.73,
+      "total_voters": 43373,
+      "total_votes_cast": 35883,
+      "num_candidates": 3,
+      "candidates": [
+        {"name": "Osman bin Sapian", "party": "BERSATU", "coalition": "PH", "votes": 21137},
+        {"name": "Datuk Ramlee bin Bohani", "party": "UMNO", "coalition": "BN", "votes": 11959},
+        {"name": "Dzulkifli bin Suleiman", "party": "PAS", "coalition": "GS", "votes": 2321}
+      ]
+    }
+  },
+  "N.48": {
+    "2018": {
+      "winner": {"name": "Tan Hong Pin", "party": "DAP", "coalition": "PH", "votes": 47359},
+      "margin": 35126,
+      "margin_pct": 58.94,
+      "turnout_pct": 85.21,
+      "total_voters": 70928,
+      "total_votes_cast": 60440,
+      "num_candidates": 2,
+      "candidates": [
+        {"name": "Tan Hong Pin", "party": "DAP", "coalition": "PH", "votes": 47359},
+        {"name": "S Kanan", "party": "MIC", "coalition": "BN", "votes": 12233}
+      ]
+    }
+  },
+  "N.50": {
+    "2018": {
+      "winner": {"name": "Tosrin bin Jarvanthi", "party": "BERSATU", "coalition": "PH", "votes": 10998},
+      "margin": 2531,
+      "margin_pct": 12.13,
+      "turnout_pct": 87.24,
+      "total_voters": 24275,
+      "total_votes_cast": 21178,
+      "num_candidates": 3,
+      "candidates": [
+        {"name": "Tosrin bin Jarvanthi", "party": "BERSATU", "coalition": "PH", "votes": 10998},
+        {"name": "Ali Mazat bin Salleh", "party": "UMNO", "coalition": "BN", "votes": 8467},
+        {"name": "Abd Aziz bin Jaafar", "party": "PAS", "coalition": "GS", "votes": 1392}
+      ]
+    }
+  }
+}

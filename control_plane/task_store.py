@@ -2,7 +2,7 @@
 from __future__ import annotations
 
 import uuid
-from datetime import datetime, timezone
+from datetime import datetime, timedelta, timezone
 from enum import Enum
 from typing import Any, Optional
 
@@ -23,7 +23,7 @@ class TaskRecord:
     __slots__ = (
         "id", "type_id", "state", "input_text",
         "output_text", "error", "agent_url",
-        "created_at", "updated_at",
+        "metadata", "created_at", "updated_at",
     )
 
     def __init__(
@@ -32,6 +32,7 @@ class TaskRecord:
         input_text: str,
         agent_url: Optional[str] = None,
         task_id: Optional[str] = None,
+        metadata: Optional[dict[str, Any]] = None,
     ) -> None:
         self.id: str = task_id or str(uuid.uuid4())
         self.type_id: str = type_id
@@ -40,6 +41,7 @@ class TaskRecord:
         self.output_text: Optional[str] = None
         self.error: Optional[str] = None
         self.agent_url: Optional[str] = agent_url
+        self.metadata: dict[str, Any] = metadata or {}
         now = datetime.now(timezone.utc)
         self.created_at: datetime = now
         self.updated_at: datetime = now
@@ -101,6 +103,25 @@ class InMemoryTaskStore:
         tasks = sorted(self._tasks.values(), key=lambda t: t.created_at, reverse=True)
         return tasks[:limit]
 
+    async def find_recent(
+        self,
+        type_id: str,
+        metadata_key: str,
+        metadata_value: str,
+        within_seconds: int,
+    ) -> Optional[TaskRecord]:
+        """Find the most recent non-failed task matching type + metadata within the window."""
+        cutoff = datetime.now(timezone.utc) - timedelta(seconds=within_seconds)
+        for record in reversed(list(self._tasks.values())):
+            if (
+                record.type_id == type_id
+                and record.created_at >= cutoff
+                and record.state not in (TaskState.FAILED, TaskState.CANCELLED)
+                and record.metadata.get(metadata_key) == metadata_value
+            ):
+                return record
+        return None
+
     async def initialize(self) -> None:
         pass  # nothing to set up
 
@@ -118,9 +139,11 @@ CREATE TABLE IF NOT EXISTS tasks (
     output_text TEXT,
     error       TEXT,
     agent_url   TEXT,
+    metadata    JSONB NOT NULL DEFAULT '{}',
     created_at  TIMESTAMPTZ NOT NULL DEFAULT NOW(),
     updated_at  TIMESTAMPTZ NOT NULL DEFAULT NOW()
 );
+ALTER TABLE tasks ADD COLUMN IF NOT EXISTS metadata JSONB NOT NULL DEFAULT '{}';
 
 CREATE TABLE IF NOT EXISTS articles (
     id               TEXT PRIMARY KEY,
@@ -171,15 +194,17 @@ class PostgresTaskStore:
         log.info("postgres.initialized")
 
     async def create(self, record: TaskRecord) -> TaskRecord:
+        import json as _json
         async with self._pool.acquire() as conn:
             await conn.execute(
                 """
-                INSERT INTO tasks (id, type_id, state, input_text, output_text, error, agent_url, created_at, updated_at)
-                VALUES ($1,$2,$3,$4,$5,$6,$7,$8,$9)
+                INSERT INTO tasks (id, type_id, state, input_text, output_text, error, agent_url, metadata, created_at, updated_at)
+                VALUES ($1,$2,$3,$4,$5,$6,$7,$8,$9,$10)
                 """,
                 record.id, record.type_id, record.state.value,
                 record.input_text, record.output_text, record.error,
-                record.agent_url, record.created_at, record.updated_at,
+                record.agent_url, _json.dumps(record.metadata),
+                record.created_at, record.updated_at,
             )
         log.debug("task.created", task_id=record.id, type_id=record.type_id)
         return record
@@ -237,13 +262,44 @@ class PostgresTaskStore:
             )
         return [self._row_to_record(r) for r in rows]
 
+    async def find_recent(
+        self,
+        type_id: str,
+        metadata_key: str,
+        metadata_value: str,
+        within_seconds: int,
+    ) -> Optional[TaskRecord]:
+        """Find the most recent non-failed task matching type + metadata within the window."""
+        cutoff = datetime.now(timezone.utc) - timedelta(seconds=within_seconds)
+        async with self._pool.acquire() as conn:
+            row = await conn.fetchrow(
+                """
+                SELECT * FROM tasks
+                WHERE type_id = $1
+                  AND created_at >= $2
+                  AND state NOT IN ('failed', 'cancelled')
+                  AND metadata->>$3 = $4
+                ORDER BY created_at DESC
+                LIMIT 1
+                """,
+                type_id, cutoff, metadata_key, metadata_value,
+            )
+        if row is None:
+            return None
+        return self._row_to_record(row)
+
     @staticmethod
     def _row_to_record(row) -> TaskRecord:
+        import json as _json
+        metadata = row["metadata"] if row["metadata"] else {}
+        if isinstance(metadata, str):
+            metadata = _json.loads(metadata)
         r = TaskRecord(
             type_id=row["type_id"],
             input_text=row["input_text"],
             agent_url=row["agent_url"],
             task_id=row["id"],
+            metadata=metadata,
         )
         r.state = TaskState(row["state"])
         r.output_text = row["output_text"]

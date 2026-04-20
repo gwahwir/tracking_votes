@@ -10,7 +10,7 @@ import './ElectionMap.css'
  * ElectionMap — Choropleth map with confidence rings
  * Supports both regular GeoJSON and cartogram toggle
  */
-export const ElectionMap = ({ mapType = 'parlimen', useCartogram = false }) => {
+export const ElectionMap = ({ mapType = 'parlimen', useCartogram = false, onConstituencySelect }) => {
   const { predictions, loading: predictionsLoading } = useSeatPredictions()
   const [geoJsonData, setGeoJsonData] = useState(null)
   const [selectedConstituency, setSelectedConstituency] = useState(null)
@@ -65,6 +65,22 @@ export const ElectionMap = ({ mapType = 'parlimen', useCartogram = false }) => {
 
     layer.on('click', () => {
       setSelectedConstituency({ code, name, prediction })
+      if (onConstituencySelect) onConstituencySelect(code, name)
+    })
+
+    layer.on('mouseover', () => {
+      const pred = getPrediction(code)
+      const tooltipHtml = `
+        <strong>${name}</strong> (${code})<br/>
+        ${pred
+          ? `Predicted: <strong>${pred.leading_party || '?'}</strong> &mdash; ${pred.confidence ?? 0}% confidence`
+          : 'No prediction data'}
+      `
+      layer.bindTooltip(tooltipHtml, { sticky: true, opacity: 0.92 }).openTooltip()
+    })
+
+    layer.on('mouseout', () => {
+      layer.closeTooltip()
     })
   }
 
