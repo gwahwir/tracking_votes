@@ -1,6 +1,8 @@
 """FastAPI app factory — wires together all control-plane components."""
 from __future__ import annotations
 
+import asyncio
+import os
 from contextlib import asynccontextmanager
 
 import structlog
@@ -17,6 +19,26 @@ from .routes import router
 from .task_store import create_task_store
 
 log = structlog.get_logger(__name__)
+
+
+async def _periodic_scrape(interval: int) -> None:
+    """Auto-dispatch a news_agent scrape task on a fixed interval."""
+    import httpx
+
+    while True:
+        await asyncio.sleep(interval)
+        try:
+            async with httpx.AsyncClient(timeout=10.0) as client:
+                resp = await client.post(
+                    f"http://localhost:{os.environ.get('CONTROL_PLANE_PORT', '8000')}/agents/news_agent/tasks",
+                    json={"message": "Periodic scrape", "metadata": {"trigger": "cron"}},
+                )
+                resp.raise_for_status()
+                log.info("cron.scrape_dispatched", task_id=resp.json().get("task_id"))
+        except asyncio.CancelledError:
+            raise
+        except Exception as exc:
+            log.warning("cron.scrape_error", error=str(exc))
 
 
 @asynccontextmanager
@@ -43,10 +65,15 @@ async def _lifespan(app: FastAPI):
     # Start health polling
     app.state.registry.start_health_polling()
 
-    log.info("control_plane.started", port=settings.port)
+    # Start periodic news scraping
+    scrape_interval = int(os.environ.get("SCRAPE_INTERVAL_SECONDS", "1800"))
+    scrape_task = asyncio.create_task(_periodic_scrape(scrape_interval))
+
+    log.info("control_plane.started", port=settings.port, scrape_interval=scrape_interval)
     yield
 
     # Shutdown
+    scrape_task.cancel()
     app.state.registry.stop_health_polling()
     await app.state.a2a_client.close()
     await app.state.broker.close()

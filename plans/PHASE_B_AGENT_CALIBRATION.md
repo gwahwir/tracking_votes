@@ -1,4 +1,34 @@
-# Phase B: Agent Calibration & Auto-Chaining
+# Phase B: Agent Calibration & Auto-Chaining ✅ COMPLETE (calibration backtest pending)
+
+**Completed:** 2026-04-20
+
+**Done:**
+- Full `news → scorer → analyst → seat` auto-chain wired
+- Seat agent debouncing implemented (5-min deduplication window)
+- Assess prompt enriched with historical baseline and demographics
+- Baseline calibration notes added to `agents/seat_agent/prompts/seat_assessment.txt` from known Johor electoral patterns (not yet empirically validated)
+
+**Pending — Full Backtest:**
+
+The backtest requires the full stack to be running. Follow these steps:
+
+1. **Start the stack** — `docker compose up -d` (postgres is mapped to host port 5433 to avoid clashing with other projects)
+
+2. **Ingest historical data** into the tracking_votes DB (data lives in `data/historical/`):
+   ```
+   DATABASE_URL="postgresql://johor:johor@localhost:5433/johor_elections" \
+   PYTHONPATH=/Users/wil/tracking_votes \
+   python3.11 scripts/ingest_historical.py
+   ```
+   Expected output: 112 DUN + 52 Parlimen + 82 demographics records.
+
+3. **Run the calibration script:**
+   ```
+   python scripts/calibrate_seat_agent.py --url http://localhost:8000
+   ```
+   This dispatches a seat_agent task for each of the 56 DUN seats, compares predictions against actual 2022 results, and saves output to `data/calibration_results.json`.
+
+4. **Refine calibration notes** in `agents/seat_agent/prompts/seat_assessment.txt` based on systematic errors found. Target: >60% coalition prediction accuracy across 56 DUN seats.
 
 ## Goal
 

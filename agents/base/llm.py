@@ -8,6 +8,7 @@ Both functions accept standard OpenAI-style message lists and keyword args.
 from __future__ import annotations
 
 import os
+import time
 from typing import Any, AsyncGenerator, Generator
 
 import structlog
@@ -72,19 +73,39 @@ def _anthropic_call(messages: list[dict], **kwargs) -> str:
 # Public interface
 # ---------------------------------------------------------------------------
 
+def _openrouter_call(messages: list[dict[str, Any]], **kwargs) -> str:
+    """Call OpenRouter with retry (exponential backoff, up to 3 attempts)."""
+    max_attempts = 3
+    last_exc: Exception | None = None
+    for attempt in range(max_attempts):
+        try:
+            client = _make_openai_client()
+            resp = client.chat.completions.create(
+                model=_get_model(),
+                messages=messages,
+                **kwargs,
+            )
+            return resp.choices[0].message.content or ""
+        except Exception as exc:
+            last_exc = exc
+            error_str = str(exc).lower()
+            # Don't retry auth/permission errors — fall through to Anthropic immediately
+            if any(code in error_str for code in ("401", "403", "invalid api key", "unauthorized")):
+                raise
+            if attempt < max_attempts - 1:
+                delay = 2.0 ** attempt  # 1s, 2s
+                log.warning("openrouter.retry", attempt=attempt + 1, delay=delay, error=str(exc))
+                time.sleep(delay)
+    raise last_exc  # type: ignore[misc]
+
+
 def llm_call(messages: list[dict[str, Any]], **kwargs) -> str:
     """Synchronous LLM call with Anthropic fallback.
 
     kwargs are forwarded to the OpenAI SDK (e.g. temperature, response_format).
     """
     try:
-        client = _make_openai_client()
-        resp = client.chat.completions.create(
-            model=_get_model(),
-            messages=messages,
-            **kwargs,
-        )
-        return resp.choices[0].message.content or ""
+        return _openrouter_call(messages, **kwargs)
     except Exception as exc:
         _maybe_fallback_log(exc)
         return _anthropic_call(messages, **kwargs)

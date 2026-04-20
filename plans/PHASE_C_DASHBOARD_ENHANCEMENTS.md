@@ -1,4 +1,7 @@
-# Phase C: Dashboard Enhancements
+# Phase C: Dashboard Enhancements ✅ COMPLETE
+
+**Completed:** 2026-04-21
+**Notes:** All components built (SeatDetailPanel, HistoryTable, DemographicsChart, SwingIndicator, Scoreboard). Hover tooltip shows 2022 result vs current prediction via `useHistoricalByYear(2022)` bulk fetch. Staleness indicator (24h threshold) in SeatDetailPanel. Close button returns to AnalysisPanel. Mobile/responsive not tested — verify when stack is next running.
 
 ## Goal
 
@@ -609,7 +612,7 @@ Where `isStale` checks if the prediction is more than 24 hours old.
 ## Verification
 
 1. Click a constituency on the map -> SeatDetailPanel opens in right column with 4 tabs
-2. History tab shows 2013/2018/2022 results with correct winners and margins
+2. History tab shows 2018/2022 results with correct winners and margins
 3. Demographics tab shows ethnic composition bar chart
 4. Articles tab shows news articles tagged to that constituency
 5. Scoreboard above map shows correct seat counts by party

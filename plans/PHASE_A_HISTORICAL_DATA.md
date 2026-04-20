@@ -1,4 +1,7 @@
-# Phase A: Historical Election Data Ingestion
+# Phase A: Historical Election Data Ingestion ✅ COMPLETE
+
+**Completed:** 2026-04-20
+**Notes:** 2013 data skipped — system uses 2018 + 2022 elections only (164 records). Data ingested into PostgreSQL. All 82 constituency wiki pages generated. `load_baseline` wired to real DB queries. Constituency tagger updated to dotted code format.
 
 ## Goal
 
@@ -18,9 +21,9 @@ Populate the system with structured, seat-level historical election results for 
 
 ## Data Required
 
-### 1. Johor DUN Historical Results (56 seats x 3 elections)
+### 1. Johor DUN Historical Results (56 seats x 2 elections)
 
-For each of the 56 DUN seats, across the **2013**, **2018**, and **2022** state elections:
+For each of the 56 DUN seats, across the **2018** and **2022** state elections:
 
 | Field | Type | Example |
 |-------|------|---------|
@@ -41,7 +44,7 @@ For each of the 56 DUN seats, across the **2013**, **2018**, and **2022** state 
 
 ### 2. Johor Parlimen Historical Results (26 seats x 3 elections)
 
-Same schema as DUN but for **GE13 (2013)**, **GE14 (2018)**, and **GE15 (2022)** using `code_parlimen` format.
+Same schema as DUN but for **GE14 (2018)** and **GE15 (2022)** using `code_parlimen` format.
 
 ### 3. Demographic Data Per Seat
 
@@ -86,7 +89,7 @@ data/
   "metadata": {
     "state": "Johor",
     "seat_type": "dun",
-    "elections": ["2013", "2018", "2022"],
+    "elections": ["2018", "2022"],
     "source": "SPR, Wikipedia, Undi.info",
     "last_updated": "2026-04-20"
   },
@@ -108,8 +111,7 @@ data/
             {"name": "...", "party": "Bersatu", "coalition": "PN", "votes": 1610}
           ]
         },
-        "2018": { ... },
-        "2013": { ... }
+        "2018": { ... }
       }
     },
     "N.02": { ... }
@@ -236,9 +238,6 @@ For each seat, generate a markdown page from the historical data:
 **Swing:** +5.2% to BN from 2018
 
 ### 2018 Johor State Election
-...
-
-### 2013 Johor State Election
 ...
 
 ## Analysis Notes
@@ -391,6 +390,6 @@ Also reconcile the seat names with the GeoJSON `dun` property values.
 
 ## Estimated Scope
 
-- Data compilation: ~56 DUN + 26 Parlimen seats, 3 elections each = 246 result records
+- Data compilation: ~56 DUN + 26 Parlimen seats, 2 elections each = 164 result records
 - Wiki pages: 82 files (56 DUN + 26 Parlimen)
 - Code changes: 4 files modified, 3 new scripts, 4 new data files

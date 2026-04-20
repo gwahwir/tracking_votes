@@ -61,5 +61,13 @@ SPECIAL RULES:
 - Caveats: if <5 articles or candidate unannounced, reduce confidence ceiling by 20 points
 - If no leading party consensus, return null leading_party with confidence 20 or lower
 
+CALIBRATION NOTES (baseline from Johor electoral patterns — to be refined after full backtest):
+- BN tends to over-perform in rural Malay-majority seats with low turnout
+- PH is strongest in urban Chinese-majority seats (>40% Chinese) — DAP floor is reliable
+- Three-cornered fights between BN and PN split the Malay vote, sometimes giving PH an unexpected win
+- Turnout is the single most important swing factor: low turnout benefits BN, high turnout benefits PH
+- Margins < 5% should have confidence capped at 60
+- Seats that flipped in 2018 but returned to BN in 2022 are inherently volatile (cap confidence at 70)
+
 TONE:
 Neutral, evidence-based, acknowledge uncertainty. Do not speculate beyond signal data.

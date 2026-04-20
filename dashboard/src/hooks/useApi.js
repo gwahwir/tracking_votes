@@ -1,6 +1,6 @@
 import { useState, useCallback, useEffect } from 'react'
 
-const API_BASE = 'http://localhost:8000'
+const API_BASE = import.meta.env.VITE_API_URL || 'http://localhost:8000'
 
 /**
  * Fetch all registered agents
@@ -306,6 +306,31 @@ export const useDemographics = (constituencyCode) => {
   useEffect(() => { fetchDemographics() }, [fetchDemographics])
 
   return { demographics, loading, error }
+}
+
+/**
+ * Fetch all historical results for a given year, keyed by constituency_code.
+ * Used by the map tooltip for 2022 comparison.
+ */
+export const useHistoricalByYear = (year) => {
+  const [resultsByCode, setResultsByCode] = useState({})
+  const [loading, setLoading] = useState(false)
+
+  useEffect(() => {
+    if (!year) return
+    setLoading(true)
+    fetch(`${API_BASE}/historical?year=${year}`)
+      .then((res) => res.ok ? res.json() : [])
+      .then((data) => {
+        const byCode = {}
+        data.forEach((r) => { byCode[r.constituency_code] = r })
+        setResultsByCode(byCode)
+      })
+      .catch(() => {})
+      .finally(() => setLoading(false))
+  }, [year])
+
+  return { resultsByCode, loading }
 }
 
 /**

@@ -1,7 +1,7 @@
 import { useState, useEffect } from 'react'
 import { MapContainer, TileLayer, GeoJSON, Popup } from 'react-leaflet'
 import L from 'leaflet'
-import { useSeatPredictions } from '../../hooks/useApi'
+import { useSeatPredictions, useHistoricalByYear } from '../../hooks/useApi'
 import { PARTY_COLORS, getConfidenceRing } from '../../theme'
 import { Stack, Group, Text, Badge } from '@mantine/core'
 import './ElectionMap.css'
@@ -12,6 +12,7 @@ import './ElectionMap.css'
  */
 export const ElectionMap = ({ mapType = 'parlimen', useCartogram = false, onConstituencySelect }) => {
   const { predictions, loading: predictionsLoading } = useSeatPredictions()
+  const { resultsByCode: historical2022 } = useHistoricalByYear(2022)
   const [geoJsonData, setGeoJsonData] = useState(null)
   const [selectedConstituency, setSelectedConstituency] = useState(null)
 
@@ -70,12 +71,14 @@ export const ElectionMap = ({ mapType = 'parlimen', useCartogram = false, onCons
 
     layer.on('mouseover', () => {
       const pred = getPrediction(code)
-      const tooltipHtml = `
-        <strong>${name}</strong> (${code})<br/>
-        ${pred
-          ? `Predicted: <strong>${pred.leading_party || '?'}</strong> &mdash; ${pred.confidence ?? 0}% confidence`
-          : 'No prediction data'}
-      `
+      const hist = historical2022[code]
+      const histLine = hist
+        ? `2022: <strong>${hist.winner_coalition || '?'}</strong> &mdash; ${hist.margin_pct != null ? hist.margin_pct.toFixed(1) + '% margin' : 'margin unknown'}`
+        : '2022: no data'
+      const predLine = pred
+        ? `Now:&nbsp; <strong>${pred.leading_party || '?'}</strong> &mdash; ${pred.confidence ?? 0}% confidence`
+        : 'Now:&nbsp; no prediction'
+      const tooltipHtml = `<strong>${name}</strong> (${code})<br/>${histLine}<br/>${predLine}`
       layer.bindTooltip(tooltipHtml, { sticky: true, opacity: 0.92 }).openTooltip()
     })
 
