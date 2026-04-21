@@ -3076,3 +3076,2955 @@ Pages updated: entities/constituencies/parlimen/p142-labis.md, entities/constitu
 Wiki update parse error — no changes applied.
 
 Pages updated: none
+
+## 2026-04-21T09:01:00Z
+
+Added a 2026 statement by Amanah President Mohamad Sabu on fair admonition to Saifuddin, reflecting the party's stance on balanced digital‑policy discourse.
+
+Pages updated: entities/parties/amanah.md
+
+## 2026-04-21T09:01:07Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T09:01:09Z
+
+Added a 2026 statement by Amanah President Mat Sabu on the need for fair admonition, sourced from Free Malaysia Today.
+
+Pages updated: entities/parties/amanah.md
+
+## 2026-04-21T09:01:23Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T09:01:31Z
+
+Added 2026 Amanah statements on fair criticism of PAS's parental monitoring proposals and updated coalition position tables and Johor landscape to reflect this new debate.
+
+Pages updated: entities/parties/amanah.md, comparisons/coalition-positions.md, concepts/johor-political-landscape.md
+
+## 2026-04-21T09:01:34Z
+
+Added a 2026 statement by Amanah President Mat Sabu urging fair admonition towards PAS leader Saifuddin, sourced from Free Malaysia Today.
+
+Pages updated: entities/parties/amanah.md
+
+## 2026-04-21T09:01:37Z
+
+Added 2026 Amanah statement on fair admonishment to Amanah page and updated coalition position table with the new stance.
+
+Pages updated: entities/parties/amanah.md, comparisons/coalition-positions.md
+
+## 2026-04-21T09:01:54Z
+
+Added 2026 Amanah statement on fair parental monitoring from Free Malaysia Today article.
+
+Pages updated: entities/parties/amanah.md
+
+## 2026-04-21T09:01:55Z
+
+Added Amanah's April 2026 statement on fair parental‑monitoring admonitions and updated PH/Amanah position in coalition comparison to reflect this stance.
+
+Pages updated: entities/parties/amanah.md, comparisons/coalition-positions.md
+
+## 2026-04-21T09:01:55Z
+
+Added a 2026 statement by Amanah President Mohamad Sabu on fair admonition, sourced from Free Malaysia Today.
+
+Pages updated: entities/parties/amanah.md
+
+## 2026-04-21T09:01:57Z
+
+Added 2026 statement by Amanah President Mat Sabu on fair admonition to PAS leader, updating the Recent Statements section.
+
+Pages updated: entities/parties/amanah.md
+
+## 2026-04-21T09:01:59Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T09:02:00Z
+
+Added a 2026 statement by Amanah President Mat Sabu on fair admonition to the Amanah page.
+
+Pages updated: entities/parties/amanah.md
+
+## 2026-04-21T09:02:02Z
+
+Added 2026 Amanah statement on fair parental monitoring to Amanah page, coalition position table, and Johor political landscape.
+
+Pages updated: entities/parties/amanah.md, comparisons/coalition-positions.md, concepts/johor-political-landscape.md
+
+## 2026-04-21T09:02:02Z
+
+Added 2026 Amanah statement on fair parental admonition to both the Amanah party page and the coalition positions comparison under Islam and Governance.
+
+Pages updated: entities/parties/amanah.md, comparisons/coalition-positions.md
+
+## 2026-04-21T09:02:03Z
+
+Added a 2026 statement by Amanah President Mat Sabu calling for fair admonition towards UMNO MP Saifuddin Abdullah, sourced from Free Malaysia Today.
+
+Pages updated: entities/parties/amanah.md
+
+## 2026-04-21T09:02:04Z
+
+Added a 2026 statement by Amanah President Mat Sabu urging fair admonishment towards Saifuddin, updating the Amanah page with recent statements.
+
+Pages updated: entities/parties/amanah.md
+
+## 2026-04-21T09:02:15Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T09:03:49Z
+
+Added Amanah's April 2026 statement on fair admonition to its party page and updated the coalition comparison to reflect Amanah's stance on balanced political discourse and digital regulation.
+
+Pages updated: entities/parties/amanah.md, comparisons/coalition-positions.md
+
+## 2026-04-21T09:03:50Z
+
+Added 2026 Amanah statement on fair admonition and balanced digital policy to Amanah page and updated coalition positions to reflect this stance.
+
+Pages updated: entities/parties/amanah.md, comparisons/coalition-positions.md
+
+## 2026-04-21T09:03:57Z
+
+Added Amanah's April 2026 statement on fair parental‑monitoring admonitions and updated coalition position tables to reflect this stance.
+
+Pages updated: entities/parties/amanah.md, comparisons/coalition-positions.md
+
+## 2026-04-21T09:03:58Z
+
+Added Amanah's April 2026 statement on fair parental monitoring to the party page and updated PH/Amanah position in coalition comparison to reflect this stance.
+
+Pages updated: entities/parties/amanah.md, comparisons/coalition-positions.md
+
+## 2026-04-21T09:03:59Z
+
+Added a 2026 statement by Amanah President Mat Sabu urging fair admonition to Saifuddin, reflecting new information from the Free Malaysia Today article.
+
+Pages updated: entities/parties/amanah.md
+
+## 2026-04-21T09:04:00Z
+
+Added 2026 Amanah statement on fair parental admonition and updated coalition position tables to reflect Amanah's stance on digital regulation.
+
+Pages updated: entities/parties/amanah.md, comparisons/coalition-positions.md
+
+## 2026-04-21T09:04:01Z
+
+Added Amanah's 17 April 2026 statement on fair admonition to Saifuddin and updated coalition position tables to reflect this new stance.
+
+Pages updated: entities/parties/amanah.md, comparisons/coalition-positions.md
+
+## 2026-04-21T09:04:01Z
+
+Added a 2026 statement by Amanah President Mohamad Sabu on fair admonishment to the party page.
+
+Pages updated: entities/parties/amanah.md
+
+## 2026-04-21T09:04:01Z
+
+Added 2026 statement from Amanah president Mat Sabu about fair admonition to Saifuddin.
+
+Pages updated: entities/parties/amanah.md
+
+## 2026-04-21T09:04:03Z
+
+Added a 2026 statement by Amanah President Mat Sabu calling for fair admonition to UMNO MP Saifuddin, updating the Amanah page with recent statements.
+
+Pages updated: entities/parties/amanah.md
+
+## 2026-04-21T09:04:09Z
+
+Added Amanah's 17 April 2026 statement on fair admonishment and updated PH/Amanah position on Islam and governance to reflect this new stance.
+
+Pages updated: entities/parties/amanah.md, comparisons/coalition-positions.md
+
+## 2026-04-21T09:04:31Z
+
+Added Amanah's 2026 statement on fair criticism of parental monitoring and updated PH/Amanah position on Islam and governance to reflect this new stance.
+
+Pages updated: entities/parties/amanah.md, comparisons/coalition-positions.md
+
+## 2026-04-21T09:04:31Z
+
+Added 2026 Amanah statement on fair parental‑monitoring admonitions and updated PH/Amanah stance in coalition‑positions table.
+
+Pages updated: entities/parties/amanah.md, comparisons/coalition-positions.md
+
+## 2026-04-21T09:04:32Z
+
+Added 2026 Amanah statement on fair admonition to Saifuddin, updating the Recent Statements section of the Amanah page.
+
+Pages updated: entities/parties/amanah.md
+
+## 2026-04-21T09:04:33Z
+
+Added Amanah's 2026 statement on fair parental monitoring of social media to the party page and updated PH/Amanah position in the coalition‑positions comparison to reflect this new stance.
+
+Pages updated: entities/parties/amanah.md, comparisons/coalition-positions.md
+
+## 2026-04-21T09:04:52Z
+
+Added a 2026 statement by Amanah President Mat Sabu on fair admonition to Saifuddin, sourced from Free Malaysia Today.
+
+Pages updated: entities/parties/amanah.md
+
+## 2026-04-21T09:05:16Z
+
+Added a new recent statement for Amanah on 17 April 2026 where Mat Sabu emphasized fair criticism towards PAS, updating the Recent Statements section.
+
+Pages updated: entities/parties/amanah.md
+
+## 2026-04-21T09:05:16Z
+
+Added a 2026 statement by Amanah President Mohamad Sabu urging fair admonishment to PKR's Saifuddin, updating the Amanah page with new factual content.
+
+Pages updated: entities/parties/amanah.md
+
+## 2026-04-21T09:05:18Z
+
+Added Amanah's 2026 statement on fair admonition and digital policy to its party page and updated the coalition comparison to reflect this nuanced stance.
+
+Pages updated: entities/parties/amanah.md, comparisons/coalition-positions.md
+
+## 2026-04-21T09:05:40Z
+
+Added a 2026 statement from Amanah President Mat Sabu urging fair rebuke towards PKR's Saifuddin, sourced from Free Malaysia Today.
+
+Pages updated: entities/parties/amanah.md
+
+## 2026-04-21T09:05:42Z
+
+Added Amanah's 2026 statement on fair parental‑monitoring admonition and updated PH/Amanah position on Islam and governance to reflect the call for balanced digital regulation.
+
+Pages updated: entities/parties/amanah.md, comparisons/coalition-positions.md
+
+## 2026-04-21T09:05:43Z
+
+Added a 2026 statement by Amanah President Mat Sabu calling for fair criticism of Saifuddin, sourced from Free Malaysia Today.
+
+Pages updated: entities/parties/amanah.md
+
+## 2026-04-21T09:05:44Z
+
+Added 2026 statement by Amanah President Mat Sabu on the need for fair admonition to Saifuddin, sourced from Free Malaysia Today.
+
+Pages updated: entities/parties/amanah.md
+
+## 2026-04-21T09:05:48Z
+
+Added a new recent statement for Amanah on 17 April 2026 where President Mat Sabu called for fair admonition towards Saifuddin, citing Free Malaysia Today.
+
+Pages updated: entities/parties/amanah.md
+
+## 2026-04-21T09:05:49Z
+
+Added a 2026 statement by Amanah President Mat Sabu urging fair admonition toward PKR's Saifuddin, sourced from Free Malaysia Today.
+
+Pages updated: entities/parties/amanah.md
+
+## 2026-04-21T09:05:49Z
+
+Added 2026 Amanah statement on fair admonition to parental‑monitoring debate, sourced from Free Malaysia Today.
+
+Pages updated: entities/parties/amanah.md
+
+## 2026-04-21T09:05:57Z
+
+Added Amanah's April 2026 statement on fair admonition to the Recent Statements section.
+
+Pages updated: entities/parties/amanah.md
+
+## 2026-04-21T09:05:57Z
+
+Added Amanah's 2026 statement on fair admonishment and parental monitoring to the party page and updated PH's position in the coalition comparison to reflect this new stance.
+
+Pages updated: entities/parties/amanah.md, comparisons/coalition-positions.md
+
+## 2026-04-21T09:05:58Z
+
+Added Amanah's 2026 statement on fair parental‑monitoring admonitions to the party page, completed the PH/Amanah cell in the Islam & Governance table, and incorporated the same stance into the Johor political‑landscape overview.
+
+Pages updated: entities/parties/amanah.md, comparisons/coalition-positions.md, concepts/johor-political-landscape.md
+
+## 2026-04-21T09:05:59Z
+
+Added Amanah's 17 April 2026 statement on fair admonition to the party page and reflected the same stance in the coalition‑positions comparison under Islam and Governance.
+
+Pages updated: entities/parties/amanah.md, comparisons/coalition-positions.md
+
+## 2026-04-21T09:05:59Z
+
+Added 2026 statements from Amanah President Mohamad Sabu urging fair criticism, sourced from Free Malaysia Today.
+
+Pages updated: entities/parties/amanah.md
+
+## 2026-04-21T09:06:12Z
+
+Added a 2026 statement by Amanah President Mat Sabu calling for fair admonition to Saifuddin, updating the Recent Statements section of the Amanah page.
+
+Pages updated: entities/parties/amanah.md
+
+## 2026-04-21T09:06:13Z
+
+Added a 2026 statement from Amanah President Mohamad Sabu urging fair criticism of PAS leader Saifuddin, based on the Free Malaysia Today article.
+
+Pages updated: entities/parties/amanah.md
+
+## 2026-04-21T09:06:13Z
+
+Added a 2026 statement by Amanah President Mat Sabu on fair political admonition, sourced from Free Malaysia Today.
+
+Pages updated: entities/parties/amanah.md
+
+## 2026-04-21T09:06:19Z
+
+Added 2026 Amanah statement on fair admonition to entities/parties/amanah.md.
+
+Pages updated: entities/parties/amanah.md
+
+## 2026-04-21T09:06:21Z
+
+Added 2026 Amanah and PAS statements on parental monitoring and fair admonition, and updated coalition position table to reflect Amanah's call for balanced digital policy.
+
+Pages updated: entities/parties/amanah.md, entities/parties/pas.md, comparisons/coalition-positions.md
+
+## 2026-04-21T09:06:24Z
+
+Added Amanah's 2026 statement on fair criticism and balanced digital policy, updated coalition position tables and Johor landscape with this new political dialogue.
+
+Pages updated: entities/parties/amanah.md, comparisons/coalition-positions.md, concepts/johor-political-landscape.md
+
+## 2026-04-21T09:06:24Z
+
+Added Amanah's 2026 statement on fair reprimands regarding PAS's social‑media regulation call and reflected this stance in the coalition‑positions comparison.
+
+Pages updated: entities/parties/amanah.md, comparisons/coalition-positions.md
+
+## 2026-04-21T09:06:26Z
+
+Added Amanah's 2026 statement on fair admonition and updated coalition position tables to reflect Amanah's stance on balanced digital regulation.
+
+Pages updated: entities/parties/amanah.md, comparisons/coalition-positions.md
+
+## 2026-04-21T09:06:29Z
+
+Added 2026 Amanah statement on fair criticism of PAS's parental‑monitoring proposal to Amanah page and updated coalition‑positions table with the same fact.
+
+Pages updated: entities/parties/amanah.md, comparisons/coalition-positions.md
+
+## 2026-04-21T09:06:35Z
+
+Added Amanah's 17 April 2026 statement on fair admonition to the Recent Statements section, citing Free Malaysia Today.
+
+Pages updated: entities/parties/amanah.md
+
+## 2026-04-21T09:07:03Z
+
+Added 2026 Amanah statements on fair admonition and balanced digital policy to Amanah page, coalition comparison, and Johor landscape.
+
+Pages updated: entities/parties/amanah.md, comparisons/coalition-positions.md, concepts/johor-political-landscape.md
+
+## 2026-04-21T09:07:04Z
+
+Added a 2026 statement by Amanah President Mat Sabu urging fair criticism toward PKR's Saifuddin, sourced from Free Malaysia Today.
+
+Pages updated: entities/parties/amanah.md
+
+## 2026-04-21T09:07:08Z
+
+Added Amanah's 2026 statement on fair admonition to Saifuddin and completed PH/Amanah's stance on digital‑policy and parental monitoring.
+
+Pages updated: entities/parties/amanah.md, comparisons/coalition-positions.md
+
+## 2026-04-21T09:07:40Z
+
+Added a 2026 statement by Amanah President Mat Sabu urging fair criticism of PKR's Saifuddin, updating the Recent Statements section of the Amanah page.
+
+Pages updated: entities/parties/amanah.md
+
+## 2026-04-21T09:07:51Z
+
+Added a 2026 statement by Amanah President Mohamad Sabu urging fair criticism towards Saifuddin, updating the Amanah page with recent statements.
+
+Pages updated: entities/parties/amanah.md
+
+## 2026-04-21T09:07:56Z
+
+Added Amanah's 17‑April‑2026 statement on fair criticism to the Recent Statements section.
+
+Pages updated: entities/parties/amanah.md
+
+## 2026-04-21T09:07:57Z
+
+Added 2026 statement by Amanah President Mat Sabu urging fair criticism toward PKR's Saifuddin, updating the Recent Statements section.
+
+Pages updated: entities/parties/amanah.md
+
+## 2026-04-21T09:07:59Z
+
+Added 2026 statement by Amanah President Mat Sabu urging fair criticism within PH, sourced from Free Malaysia Today.
+
+Pages updated: entities/parties/amanah.md
+
+## 2026-04-21T09:08:07Z
+
+Added Amanah's 17‑April‑2026 statement on fair admonishment and updated PH/Amanah position in coalition‑positions to reflect the new stance.
+
+Pages updated: entities/parties/amanah.md, comparisons/coalition-positions.md
+
+## 2026-04-21T09:08:09Z
+
+Added Amanah's April 2026 statement on fair rebuke to PAS and reflected it in coalition position tables.
+
+Pages updated: entities/parties/amanah.md, comparisons/coalition-positions.md
+
+## 2026-04-21T09:08:13Z
+
+Added 2026 Amanah statement on fair admonition to the party page, citing Free Malaysia Today.
+
+Pages updated: entities/parties/amanah.md
+
+## 2026-04-21T09:08:16Z
+
+Added a 2026 statement by Amanah President Mat Sabu on fair admonition, sourced from Free Malaysia Today.
+
+Pages updated: entities/parties/amanah.md
+
+## 2026-04-21T09:08:20Z
+
+Added Amanah's 17 April 2026 statement on fair admonishment and updated PH/Amanah position on digital policy to reflect this new statement.
+
+Pages updated: entities/parties/amanah.md, comparisons/coalition-positions.md
+
+## 2026-04-21T09:08:33Z
+
+Added Amanah's 2026 statement on fair political admonition to the Recent Statements section.
+
+Pages updated: entities/parties/amanah.md
+
+## 2026-04-21T09:08:36Z
+
+Added Amanah's 2026 statement on fair admonishment to its page.
+
+Pages updated: entities/parties/amanah.md
+
+## 2026-04-21T09:08:39Z
+
+Added Amanah's 2026 statement on fair parental‑monitoring admonition and updated PH/Amanah position on Islam and governance with the new citation.
+
+Pages updated: entities/parties/amanah.md, comparisons/coalition-positions.md
+
+## 2026-04-21T09:08:43Z
+
+Added Amanah's April 2026 statement on fair political admonition to the party page.
+
+Pages updated: entities/parties/amanah.md
+
+## 2026-04-21T09:08:48Z
+
+Added a 2026 statement by Amanah President Mat Sabu urging fair criticism towards PKR's Saifuddin, updating the Amanah page with recent statements.
+
+Pages updated: entities/parties/amanah.md
+
+## 2026-04-21T09:09:06Z
+
+Added Amanah's April 2026 statement on fair parental‑monitoring admonitions and reflected it in the coalition‑position comparison under Islam and Governance.
+
+Pages updated: entities/parties/amanah.md, comparisons/coalition-positions.md
+
+## 2026-04-21T09:12:38Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T09:12:45Z
+
+Added MIC election success and big‑tent comment to MIC page and noted the 2026 MIC seat retention in Johor political landscape.
+
+Pages updated: entities/parties/mic.md, concepts/johor-political-landscape.md
+
+## 2026-04-21T09:13:02Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T09:13:03Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T09:13:06Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T09:13:06Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T09:13:06Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T09:13:07Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T09:13:07Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T09:13:07Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T09:13:07Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T09:13:08Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T09:13:08Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T09:13:08Z
+
+Added MIC page with 2026 statement on seat security and BN big‑tent strategy.
+
+Pages updated: entities/parties/mic.md
+
+## 2026-04-21T09:13:08Z
+
+Added DAP page with overview and 2026 statement about Rafizi and Nik Nazmi being rebuked for criticism of FWCMS.
+
+Pages updated: entities/parties/dap.md
+
+## 2026-04-21T09:13:09Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T09:13:09Z
+
+Added 2026 statement from MIC Deputy President V. Saravanan about MIC seat security and BN's 'big‑tent' approach.
+
+Pages updated: entities/parties/mic.md
+
+## 2026-04-21T09:13:09Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T09:13:09Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T09:13:14Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T09:13:14Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T09:13:15Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T09:13:20Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T09:14:02Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T09:14:03Z
+
+Added a new 2026 statement to DAP page about Rafizi and Nik Nazmi being rebuked over FWCMS criticism and the call for collective responsibility.
+
+Pages updated: entities/parties/dap.md
+
+## 2026-04-21T09:14:03Z
+
+Added citation for MIC's 2026 electoral performance to reflect the Free Malaysia Today article confirming retained seats.
+
+Pages updated: entities/parties/mic.md
+
+## 2026-04-21T09:14:03Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T09:14:03Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T09:14:04Z
+
+Added detail that Aizuddin Abd Gaffal is a senior civil servant (Pegawai Ramanan) to DAP's recent statements.
+
+Pages updated: entities/parties/dap.md
+
+## 2026-04-21T09:14:05Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T09:14:05Z
+
+Added 2026 statement about Rafizi and Nik Nazmi's criticism of FWCMS and Aizuddin Abd Gaffal's call for collective responsibility to the DAP page.
+
+Pages updated: entities/parties/dap.md
+
+## 2026-04-21T09:14:05Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T09:14:05Z
+
+Added DAP page with overview and 2026 statement about Rafizi and Nik Nazmi’s criticism of FWCMS and the call for collective responsibility.
+
+Pages updated: entities/parties/dap.md
+
+## 2026-04-21T09:14:05Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T09:14:06Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T09:14:06Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T09:14:06Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T09:14:06Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T09:14:07Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T09:14:09Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T09:14:09Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T09:14:09Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T09:14:09Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T09:14:09Z
+
+Added the 21 April 2026 statement about Aizuddin Abd Gaffal rebuking DAP MPs Rafizi Ramli and Nik Nazmi regarding the FWCMS contract extension.
+
+Pages updated: entities/parties/dap.md
+
+## 2026-04-21T09:14:10Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T09:14:10Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T09:14:10Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T09:14:10Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T09:14:11Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T09:14:11Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T09:14:11Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T09:14:12Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T09:14:12Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T09:14:12Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T09:14:12Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T09:14:12Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T09:14:12Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T09:14:13Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T09:14:13Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T09:14:13Z
+
+Added MIC election success and BN big‑tent strategy to relevant pages, creating MIC page and updating coalition positions and Johor landscape.
+
+Pages updated: entities/parties/mic.md, comparisons/coalition-positions.md, concepts/johor-political-landscape.md
+
+## 2026-04-21T09:14:13Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T09:14:13Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T09:14:14Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T09:14:14Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T09:14:15Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T09:14:15Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T09:14:15Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T09:14:16Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T09:14:16Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T09:14:16Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T09:14:17Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T09:14:18Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T09:14:18Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T09:14:19Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T09:14:20Z
+
+Added a new section on the FWCMS issue, noting BN's call for collective cabinet responsibility and PH MPs' criticism, with citations.
+
+Pages updated: comparisons/coalition-positions.md
+
+## 2026-04-21T09:14:21Z
+
+Updated MIC page with the new 2024‑2026 statement confirming seat security.
+
+Pages updated: entities/parties/mic.md
+
+## 2026-04-21T09:14:21Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T09:14:23Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T09:14:23Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T09:14:38Z
+
+Added Pegawai Ramanan title to Aizuddin Abd Gaffal in DAP recent statements for accuracy.
+
+Pages updated: entities/parties/dap.md
+
+## 2026-04-21T09:14:38Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T09:15:12Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T09:15:13Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T09:15:14Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T09:15:14Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T09:15:15Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T09:15:18Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T09:15:18Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T09:15:19Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T09:15:19Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T09:15:20Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T09:15:21Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T09:15:21Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T09:15:22Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T09:15:22Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T09:15:23Z
+
+Added MIC 2026 election performance and big‑tent comment to coalition‑positions comparison.
+
+Pages updated: comparisons/coalition-positions.md
+
+## 2026-04-21T09:15:23Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T09:15:23Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T09:15:23Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T09:15:23Z
+
+Added the 2026 MIC election result and Saravanan's big‑tent comment to the Multi‑ethnic Representation section of coalition‑positions.
+
+Pages updated: comparisons/coalition-positions.md
+
+## 2026-04-21T09:15:24Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T09:15:24Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T09:15:24Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T09:15:24Z
+
+Added 2026 election statement to MIC page about Saravanan's confidence in seat security and BN's big‑tent strategy.
+
+Pages updated: entities/parties/mic.md
+
+## 2026-04-21T09:15:25Z
+
+Added the MIC election‑security fact and Saravanan’s big‑tent comment to the coalition‑positions page.
+
+Pages updated: comparisons/coalition-positions.md
+
+## 2026-04-21T09:15:25Z
+
+Added MIC 2026 election result and Saravanan's big‑tent comment to the coalition‑positions page.
+
+Pages updated: comparisons/coalition-positions.md
+
+## 2026-04-21T09:15:25Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T09:15:25Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T09:15:26Z
+
+Added 2026 election result and Saravanan's 'big tent' statement to the MIC page.
+
+Pages updated: entities/parties/mic.md
+
+## 2026-04-21T09:15:26Z
+
+Added 2026 statement by MIC Deputy President Saravanan about seat security and the 'big tent' approach to ensure BN's success.
+
+Pages updated: entities/parties/mic.md
+
+## 2026-04-21T09:15:27Z
+
+Added new DAP and PKR pages with 2026 statements about Rafizi and Nik Nazmi being rebuked for FWCMS criticism, citing Free Malaysia Today.
+
+Pages updated: entities/parties/dap.md, entities/parties/pkr.md
+
+## 2026-04-21T09:15:27Z
+
+Added 2026 election performance and Saravanan's 'big‑tent' statement to MIC page, reflecting recent seat retention and coalition strategy.
+
+Pages updated: entities/parties/mic.md
+
+## 2026-04-21T09:15:27Z
+
+Added 2026 election results and Deputy President Saravanan's statement about BN's big‑tent approach to the MIC page.
+
+Pages updated: entities/parties/mic.md
+
+## 2026-04-21T09:15:27Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T09:15:27Z
+
+Added 2026 election statements to MIC page, noting seat security and BN big‑tent approach per Free Malaysia Today article.
+
+Pages updated: entities/parties/mic.md
+
+## 2026-04-21T09:15:28Z
+
+Added 2026 statements about Rafizi (PKR) and Nik Nazmi (DAP) being rebuked for criticizing the FWCMS contract, highlighting cabinet collective responsibility.
+
+Pages updated: entities/parties/dap.md, entities/parties/pkr.md
+
+## 2026-04-21T09:15:28Z
+
+Added recent 2026 statement about Rafizi and Nik Nazmi's criticism of FWCMS and Aizuddin Abd Gaffal's call for collective responsibility to the DAP page.
+
+Pages updated: entities/parties/dap.md
+
+## 2026-04-21T09:15:31Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T09:15:36Z
+
+Completed the truncated sentence on MIC’s 2026 seat security in the coalition‑positions page and added citation.
+
+Pages updated: comparisons/coalition-positions.md
+
+## 2026-04-21T09:15:37Z
+
+Added 2026 election results and the ‘big‑tent’ strategy statement to the MIC page based on Free Malaysia Today article.
+
+Pages updated: entities/parties/mic.md
+
+## 2026-04-21T09:15:37Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T09:15:38Z
+
+Added 2026 statement from MIC Deputy President Saravanan about seat security and BN's big‑tent approach to the MIC page.
+
+Pages updated: entities/parties/mic.md
+
+## 2026-04-21T09:15:44Z
+
+Added April 2026 statements about Rafizi and Nik Nazmi’s criticism of the FWCMS extension and the civil servant’s call for collective responsibility to DAP and PKR pages.
+
+Pages updated: entities/parties/dap.md, entities/parties/pkr.md
+
+## 2026-04-21T09:16:03Z
+
+Added exact 2026 seat count (2) for MIC and cited Saravanan's big‑tent comment on both MIC page and coalition‑positions comparison.
+
+Pages updated: entities/parties/mic.md, comparisons/coalition-positions.md
+
+## 2026-04-21T09:16:05Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T09:16:52Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T09:18:09Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T09:18:09Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T09:18:11Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T09:18:11Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T09:18:15Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T09:18:15Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T09:18:16Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T09:18:16Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T09:18:17Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T09:18:18Z
+
+Added MIC's statement about securing seats despite Indian‑based BN allies to both the MIC page and the coalition‑positions comparison.
+
+Pages updated: entities/parties/mic.md, comparisons/coalition-positions.md
+
+## 2026-04-21T09:18:18Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T09:18:18Z
+
+Added new Saravanan quote about the big‑tent approach ensuring BN's overall success to MIC page and updated coalition‑positions page with that statement.
+
+Pages updated: entities/parties/mic.md, comparisons/coalition-positions.md
+
+## 2026-04-21T09:18:19Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T09:18:21Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T09:18:25Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T09:18:25Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T09:18:25Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T09:18:26Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T09:18:26Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T09:18:28Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T09:18:32Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T09:18:32Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T09:18:46Z
+
+Added detailed MIC big‑tent success statement to the Multi‑ethnic Representation section of coalition‑positions.
+
+Pages updated: comparisons/coalition-positions.md
+
+## 2026-04-21T09:18:50Z
+
+Added MIC 2026 election seat result and big‑tent context to coalition positions page.
+
+Pages updated: comparisons/coalition-positions.md
+
+## 2026-04-21T09:18:52Z
+
+Added MIC's 2026 election seat count to coalition‑positions page, completing previously truncated sentence.
+
+Pages updated: comparisons/coalition-positions.md
+
+## 2026-04-21T09:18:56Z
+
+Added MIC 2026 election result and Saravanan's big‑tent quote to the coalition‑positions page.
+
+Pages updated: comparisons/coalition-positions.md
+
+## 2026-04-21T09:19:04Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T09:19:05Z
+
+Added MIC 2026 election seat count to coalition positions page.
+
+Pages updated: comparisons/coalition-positions.md
+
+## 2026-04-21T09:19:09Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T09:19:09Z
+
+Added a new statement to MIC page confirming the big‑tent intent to ensure BN’s overall success and completed the BN multi‑ethnic representation bullet with MIC’s 2026 seat count.
+
+Pages updated: entities/parties/mic.md, comparisons/coalition-positions.md
+
+## 2026-04-21T09:19:10Z
+
+Added MIC's 2026 election seat count to the coalition‑positions page, completing a truncated sentence and citing the new article.
+
+Pages updated: comparisons/coalition-positions.md
+
+## 2026-04-21T09:19:11Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T09:19:11Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T09:19:12Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T09:19:12Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T09:19:12Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T09:19:13Z
+
+Added new citation and statement about MIC securing 2 seats under the BN big‑tent approach to both the MIC page and the coalition‑positions comparison.
+
+Pages updated: entities/parties/mic.md, comparisons/coalition-positions.md
+
+## 2026-04-21T09:19:14Z
+
+Added MIC 2026 seat count to coalition positions page.
+
+Pages updated: comparisons/coalition-positions.md
+
+## 2026-04-21T09:19:14Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T09:19:14Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T09:19:16Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T09:19:18Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T09:19:19Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T09:19:19Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T09:19:19Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T09:19:19Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T09:19:22Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T09:19:26Z
+
+Added MIC's 2026 seat count to coalition‑positions page, completing truncated sentence and citing the new article.
+
+Pages updated: comparisons/coalition-positions.md
+
+## 2026-04-21T09:19:33Z
+
+Added the missing statement on MIC's 2026 election result and big‑tent role to the coalition‑positions page.
+
+Pages updated: comparisons/coalition-positions.md
+
+## 2026-04-21T09:19:35Z
+
+Added MIC 2026 election seat count and Saravanan's big‑tent comment to coalition‑positions page.
+
+Pages updated: comparisons/coalition-positions.md
+
+## 2026-04-21T09:19:41Z
+
+Added MIC's 2026 seat count and big‑tent success statement to coalition‑positions page, citing Free Malaysia Today.
+
+Pages updated: comparisons/coalition-positions.md
+
+## 2026-04-21T09:21:00Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T09:21:09Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T09:21:11Z
+
+Added a new Saravanan quote and citation to MIC page and completed the BN multi‑ethnic representation section with 2026 election results and big‑tent comment.
+
+Pages updated: entities/parties/mic.md, comparisons/coalition-positions.md
+
+## 2026-04-21T09:21:14Z
+
+Added MIC’s 2026 big‑tent statement and quote to MIC page and updated coalition‑positions to reflect Saravanan’s comment on BN’s overall success.
+
+Pages updated: entities/parties/mic.md, comparisons/coalition-positions.md
+
+## 2026-04-21T09:21:18Z
+
+Added new MIC statement from 21 April 2026 article and expanded BN big‑tent description with MIC seat outcome.
+
+Pages updated: entities/parties/mic.md, comparisons/coalition-positions.md
+
+## 2026-04-21T09:21:25Z
+
+Added MIC 2026 election seat count and Saravanan's big‑tent quote to the coalition‑positions page.
+
+Pages updated: comparisons/coalition-positions.md
+
+## 2026-04-21T09:21:42Z
+
+Added detailed MIC seat outcome to coalition‑positions page, citing the 21 April 2026 Free Malaysia Today article.
+
+Pages updated: comparisons/coalition-positions.md
+
+## 2026-04-21T09:21:48Z
+
+Completed truncated bullet on BN's big‑tent approach in coalition‑positions page, adding MIC's 2‑seat result and Saravanan's statement about ensuring BN's overall success.
+
+Pages updated: comparisons/coalition-positions.md
+
+## 2026-04-21T09:21:48Z
+
+Added detailed MIC statements and citation to MIC page and completed the BN multi‑ethnic representation section with MIC's 2‑seat result from the 2026 election.
+
+Pages updated: entities/parties/mic.md, comparisons/coalition-positions.md
+
+## 2026-04-21T09:21:49Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T09:21:50Z
+
+Added full MIC statements and citation about seat security; completed BN big‑tent section with MIC’s 2026 seat result.
+
+Pages updated: entities/parties/mic.md, comparisons/coalition-positions.md
+
+## 2026-04-21T09:21:50Z
+
+Added MIC’s 2026 election nuance about winning seats despite Indian‑based BN allies to MIC page and coalition‑positions comparison.
+
+Pages updated: entities/parties/mic.md, comparisons/coalition-positions.md
+
+## 2026-04-21T09:21:56Z
+
+Added MIC 2026 election result and Saravanan's big‑tent comment to coalition‑positions page.
+
+Pages updated: comparisons/coalition-positions.md
+
+## 2026-04-21T09:21:56Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T09:21:56Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T09:21:57Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T09:22:02Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T09:22:03Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T09:22:03Z
+
+Added detailed MIC statements and citation to MIC page and expanded BN multi‑ethnic representation section with 2026 election facts about MIC seats and the big‑tent strategy.
+
+Pages updated: entities/parties/mic.md, comparisons/coalition-positions.md
+
+## 2026-04-21T09:22:03Z
+
+Added MIC 2026 election seat‑security detail to coalition‑positions page, citing Free Malaysia Today.
+
+Pages updated: comparisons/coalition-positions.md
+
+## 2026-04-21T09:22:03Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T09:22:03Z
+
+Added MIC's explicit quote on the big‑tent intention and completed the BN multi‑ethnic representation section with 2026 seat data.
+
+Pages updated: entities/parties/mic.md, comparisons/coalition-positions.md
+
+## 2026-04-21T09:22:03Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T09:22:04Z
+
+Added new MIC statement about securing seats despite Indian‑based BN allies and completed the BN big‑tent description in coalition‑positions.
+
+Pages updated: entities/parties/mic.md, comparisons/coalition-positions.md
+
+## 2026-04-21T09:22:04Z
+
+Added Saravanan's 21 April 2026 quote about the ‘big‑tent’ approach ensuring BN’s overall success to MIC page and updated BN coalition‑position summary accordingly.
+
+Pages updated: entities/parties/mic.md, comparisons/coalition-positions.md
+
+## 2026-04-21T09:22:04Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T09:22:04Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T09:22:04Z
+
+Added detailed MIC election result and big‑tent quote to coalition‑positions page, completing previously truncated sentence.
+
+Pages updated: comparisons/coalition-positions.md
+
+## 2026-04-21T09:22:04Z
+
+Added complete statement on MIC's 2026 seat win and big‑tent approach to the coalition‑positions page.
+
+Pages updated: comparisons/coalition-positions.md
+
+## 2026-04-21T09:22:04Z
+
+Added complete statement on MIC's 2026 seat win and big‑tent effectiveness to coalition‑positions page with citation.
+
+Pages updated: comparisons/coalition-positions.md
+
+## 2026-04-21T09:22:05Z
+
+Added MIC's statement about securing seats despite Indian‑based BN allies and completed the BN big‑tent entry in coalition‑positions.
+
+Pages updated: entities/parties/mic.md, comparisons/coalition-positions.md
+
+## 2026-04-21T09:22:05Z
+
+Added MIC 2026 seat count and Saravanan's big‑tent statement to coalition positions page.
+
+Pages updated: comparisons/coalition-positions.md
+
+## 2026-04-21T09:22:05Z
+
+Added completed bullet on BN's big‑tent approach with MIC's 2026 seat outcome and citation.
+
+Pages updated: comparisons/coalition-positions.md
+
+## 2026-04-21T09:22:05Z
+
+Added MIC's 2026 seat outcome and big‑tent rationale to the BN multi‑ethnic representation section, citing the new Free Malaysia Today article.
+
+Pages updated: comparisons/coalition-positions.md
+
+## 2026-04-21T09:22:06Z
+
+Added new MIC statement and completed BN multi‑ethnic representation section with details from the 21 April 2026 Free Malaysia Today article.
+
+Pages updated: entities/parties/mic.md, comparisons/coalition-positions.md
+
+## 2026-04-21T09:22:06Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T09:22:06Z
+
+Added detailed MIC statement about securing 2 seats despite Indian‑based BN allies and completed the truncated BN big‑tent description in coalition‑positions.
+
+Pages updated: entities/parties/mic.md, comparisons/coalition-positions.md
+
+## 2026-04-21T09:22:08Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T09:22:08Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T09:22:09Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T09:22:09Z
+
+Added MIC 2026 election result and Saravanan's big‑tent statement to coalition‑positions page.
+
+Pages updated: comparisons/coalition-positions.md
+
+## 2026-04-21T09:22:09Z
+
+Added complete Saravanan quote and citation to MIC page and finished truncated big‑tent description with MIC seat count in coalition‑positions page.
+
+Pages updated: entities/parties/mic.md, comparisons/coalition-positions.md
+
+## 2026-04-21T09:22:23Z
+
+Added MIC’s 2026 election statement about securing seats despite Indian‑based BN allies and completed the BN multi‑ethnic representation section with this new fact.
+
+Pages updated: entities/parties/mic.md, comparisons/coalition-positions.md
+
+## 2026-04-21T09:22:44Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T09:22:53Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T09:23:04Z
+
+Added MIC 2026 election result and Saravanan's big‑tent comment to coalition‑positions page.
+
+Pages updated: comparisons/coalition-positions.md
+
+## 2026-04-21T09:23:04Z
+
+Added MIC's statement on securing seats despite Indian‑based BN allies and updated BN big‑tent description with this fact.
+
+Pages updated: entities/parties/mic.md, comparisons/coalition-positions.md
+
+## 2026-04-21T09:23:11Z
+
+Added MIC 2026 election result and Saravanan's big‑tent quote to the coalition‑positions page.
+
+Pages updated: comparisons/coalition-positions.md
+
+## 2026-04-21T09:23:21Z
+
+Added new MIC statement about securing seats despite Indian‑based BN allies and completed the BN big‑tent description in coalition‑positions.
+
+Pages updated: entities/parties/mic.md, comparisons/coalition-positions.md
+
+## 2026-04-21T09:23:22Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T09:23:22Z
+
+Added detailed MIC statements and election performance to MIC page and completed the BN multi‑ethnic representation section with MIC's 2026 seat count and Saravanan's big‑tent comment.
+
+Pages updated: entities/parties/mic.md, comparisons/coalition-positions.md
+
+## 2026-04-21T09:23:22Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T09:23:23Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T09:23:31Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T09:23:32Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T09:23:32Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T09:23:32Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T09:23:33Z
+
+Added detailed MIC statements and citation to MIC page; completed and cited the BN ‘big‑tent’ description in coalition‑positions page with 2026 election seat data.
+
+Pages updated: entities/parties/mic.md, comparisons/coalition-positions.md
+
+## 2026-04-21T09:23:33Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T09:23:33Z
+
+Added MIC's 2026 election seat count and big‑tent success quote to the coalition‑positions comparison page.
+
+Pages updated: comparisons/coalition-positions.md
+
+## 2026-04-21T09:23:33Z
+
+Added detailed MIC statements and citation to MIC page; completed BN multi‑ethnic representation section with MIC 2026 seat result and big‑tent intent.
+
+Pages updated: entities/parties/mic.md, comparisons/coalition-positions.md
+
+## 2026-04-21T09:23:34Z
+
+Added new MIC statements and citation about securing seats despite Indian‑based BN allies and clarified BN big‑tent effectiveness in coalition‑positions page.
+
+Pages updated: entities/parties/mic.md, comparisons/coalition-positions.md
+
+## 2026-04-21T09:23:34Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T09:23:34Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T09:23:34Z
+
+Added MIC 2026 election result and Saravanan's big‑tent quote to coalition‑positions page.
+
+Pages updated: comparisons/coalition-positions.md
+
+## 2026-04-21T09:23:34Z
+
+Added detailed MIC statements and completed BN big‑tent description with 2026 election results and Saravanan quote.
+
+Pages updated: entities/parties/mic.md, comparisons/coalition-positions.md
+
+## 2026-04-21T09:23:34Z
+
+Added detailed MIC election result and Saravanan's big‑tent comment to the coalition‑positions page.
+
+Pages updated: comparisons/coalition-positions.md
+
+## 2026-04-21T09:23:35Z
+
+Added complete statements from Saravanan (Free Malaysia Today, 2026-04-21) to MIC page and completed the BN big‑tent description in coalition‑positions with MIC seat count.
+
+Pages updated: entities/parties/mic.md, comparisons/coalition-positions.md
+
+## 2026-04-21T09:23:35Z
+
+Added MIC's 2026 seat‑security quote and clarified BN's big‑tent impact in coalition‑positions page.
+
+Pages updated: entities/parties/mic.md, comparisons/coalition-positions.md
+
+## 2026-04-21T09:23:35Z
+
+Added a new MIC statement and citation to the MIC page; completed the truncated BN big‑tent entry in coalition‑positions with MIC seat data and citation.
+
+Pages updated: entities/parties/mic.md, comparisons/coalition-positions.md
+
+## 2026-04-21T09:23:36Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T09:23:36Z
+
+Added MIC's 2026 election seat count to the coalition‑positions page, completing a truncated statement and citing the new article.
+
+Pages updated: comparisons/coalition-positions.md
+
+## 2026-04-21T09:23:36Z
+
+Added new MIC statement and citation to MIC page; completed and cited the BN big‑tent entry in coalition‑positions page with the 2026 Free Malaysia Today article.
+
+Pages updated: entities/parties/mic.md, comparisons/coalition-positions.md
+
+## 2026-04-21T09:23:36Z
+
+Added new MIC statement and citation to MIC page; completed and expanded BN multi‑ethnic representation section with 2026 election result and Saravanan's big‑tent quote.
+
+Pages updated: entities/parties/mic.md, comparisons/coalition-positions.md
+
+## 2026-04-21T09:23:37Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T09:23:37Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T09:23:37Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T09:23:37Z
+
+Added a new statement to MIC page and completed the BN big‑tent entry with MIC's 2026 seat count and Saravanan's quote, citing the Free Malaysia Today article.
+
+Pages updated: entities/parties/mic.md, comparisons/coalition-positions.md
+
+## 2026-04-21T09:23:37Z
+
+Added detailed MIC statements and election performance to MIC page and completed the BN multi‑ethnic representation section with MIC seat data from the 21 April 2026 Free Malaysia Today article.
+
+Pages updated: entities/parties/mic.md, comparisons/coalition-positions.md
+
+## 2026-04-21T09:23:42Z
+
+Added complete MIC statement and citation to MIC page and completed the BN multi‑ethnic representation section with the new big‑tent comment from Saravanan.
+
+Pages updated: entities/parties/mic.md, comparisons/coalition-positions.md
+
+## 2026-04-21T09:23:42Z
+
+Added new MIC statement and citation to MIC page; completed and expanded BN multi‑ethnic representation section with 2026 seat count and big‑tent quote.
+
+Pages updated: entities/parties/mic.md, comparisons/coalition-positions.md
+
+## 2026-04-21T09:23:42Z
+
+Added full MIC statements and citation to MIC page; completed and expanded BN multi‑ethnic representation section with 2026 election seat count and Saravanan's big‑tent quote.
+
+Pages updated: entities/parties/mic.md, comparisons/coalition-positions.md
+
+## 2026-04-21T09:23:43Z
+
+Added new MIC statement about securing seats despite Indian‑based BN allies and completed the BN big‑tent bullet in coalition positions with the same fact.
+
+Pages updated: entities/parties/mic.md, comparisons/coalition-positions.md
+
+## 2026-04-21T09:23:43Z
+
+Added complete MIC statements and citation to MIC page; completed BN multi‑ethnic representation section with MIC seat‑secure fact from 21 Apr 2026 article.
+
+Pages updated: entities/parties/mic.md, comparisons/coalition-positions.md
+
+## 2026-04-21T09:23:43Z
+
+Added MIC’s 2‑seat result and Saravanan’s big‑tent quote to MIC page and completed the BN multi‑ethnic representation section with these facts.
+
+Pages updated: entities/parties/mic.md, comparisons/coalition-positions.md
+
+## 2026-04-21T09:24:02Z
+
+Added complete MIC statement and citation to MIC page; filled truncated BN multi‑ethnic representation section with MIC seat outcome and citation.
+
+Pages updated: entities/parties/mic.md, comparisons/coalition-positions.md
+
+## 2026-04-21T09:24:05Z
+
+Added MIC 2026 seat result and big‑tent rationale to coalition‑positions page per new Free Malaysia Today article.
+
+Pages updated: comparisons/coalition-positions.md
+
+## 2026-04-21T09:24:08Z
+
+Added complete statement on MIC's 2026 seat security and big‑tent impact to the coalition‑positions page.
+
+Pages updated: comparisons/coalition-positions.md
+
+## 2026-04-21T09:24:17Z
+
+Added detailed MIC statement and citation to MIC page; completed truncated BN multi‑ethnic representation section with MIC seat data and citation.
+
+Pages updated: entities/parties/mic.md, comparisons/coalition-positions.md
+
+## 2026-04-21T09:24:18Z
+
+Added complete statements from Saravanan on MIC's big‑tent strategy and election results to the MIC page and updated coalition‑positions comparison to reflect MIC's secured seats and the big‑tent intent.
+
+Pages updated: entities/parties/mic.md, comparisons/coalition-positions.md
+
+## 2026-04-21T09:24:20Z
+
+Added MIC’s 2026 statement on big‑tent approach and seat security to MIC page and reflected the same claim in the coalition‑positions comparison.
+
+Pages updated: entities/parties/mic.md, comparisons/coalition-positions.md
+
+## 2026-04-21T09:24:23Z
+
+Added new MIC statement and citation to MIC page; completed and sourced the truncated BN multi‑ethnic representation note with MIC's 2026 seat result.
+
+Pages updated: entities/parties/mic.md, comparisons/coalition-positions.md
+
+## 2026-04-21T09:24:29Z
+
+Added a new Saravanan quote about the big‑tent approach to MIC page and completed the BN multi‑ethnic representation section with MIC’s 2026 seat count and big‑tent intent.
+
+Pages updated: entities/parties/mic.md, comparisons/coalition-positions.md
+
+## 2026-04-21T09:25:24Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T09:42:47Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T09:43:03Z
+
+Attempted 
+
+Pages updated: entities/partents/dap.md
+
+## 2026-04-21T09:43:03Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T09:43:04Z
+
+Attempted invalid update.
+
+Pages updated: entities/partents/dap.md
+
+## 2026-04-21T09:43:04Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T09:43:04Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T09:43:04Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T09:43:15Z
+
+Added detailed April 2026 statement on FWCMS criticism and civil servant response to DAP page, with proper citation.
+
+Pages updated: entities/parties/dap.md
+
+## 2026-04-21T09:43:23Z
+
+Added detailed April 2026 statement on FWCMS criticism and civil servant's response to DAP page.
+
+Pages updated: entities/parties/dap.md
+
+## 2026-04-21T09:43:50Z
+
+Added the civil servant Aizuddin Abd Gaffal's response to Rafizi and Nik Nazmi's FWCMS criticism on the DAP page, with proper citation.
+
+Pages updated: entities/parties/dap.md
+
+## 2026-04-21T09:43:52Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T09:43:52Z
+
+Added detailed MIC election result and Saravanan quote to the coalition‑positions page, completing the truncated sentence and citing the 21 April 2026 Free Malaysia Today article.
+
+Pages updated: comparisons/coalition-positions.md
+
+## 2026-04-21T09:43:53Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T09:43:53Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T09:43:54Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T09:43:54Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T09:43:54Z
+
+Added Aizuddin Abd Gaffal's comment on collective responsibility to DAP page's April 2026 FWCMS controversy.
+
+Pages updated: entities/parties/dap.md
+
+## 2026-04-21T09:43:54Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T09:43:55Z
+
+Added the new Free Malaysia Today quote about MIC's big‑tent approach and BN success to the MIC page.
+
+Pages updated: entities/parties/mic.md
+
+## 2026-04-21T09:43:55Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T09:43:55Z
+
+Added the civil servant Aizuddin Abd Gaffal's statement on collective responsibility to DAP's Recent Statements section, citing Free Malaysia Today (21‑Apr‑2026).
+
+Pages updated: entities/parties/dap.md
+
+## 2026-04-21T09:43:55Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T09:43:55Z
+
+Added the civil servant Aizuddin Abd Gaffal's response to Rafizi Ramli's criticism of the FWCMS contract to the DAP page, with proper citation.
+
+Pages updated: entities/parties/dap.md
+
+## 2026-04-21T09:43:55Z
+
+Added the April 2026 statement about Rafizi Ramli's criticism of the FWCMS extension and Aizuddin Abd Gaffal's response to the DAP page.
+
+Pages updated: entities/parties/dap.md
+
+## 2026-04-21T09:43:55Z
+
+Added the civil servant Aizuddin Abd Gaffal's response to Rafizi and Nik Nazmi's FWCMS criticism on the DAP page.
+
+Pages updated: entities/parties/dap.md
+
+## 2026-04-21T09:43:56Z
+
+Added the civil servant Aizuddin Abd Gaffal's response to Rafizi and Nik Nazmi's criticism of the FWCMS extension on the DAP page.
+
+Pages updated: entities/parties/dap.md
+
+## 2026-04-21T09:43:56Z
+
+Added the joint criticism by Rafizi Ramli and Nik Nazmi on the FWCMS extension and Aizuddin Abd Gaffal's collective‑responsibility comment to the DAP page.
+
+Pages updated: entities/parties/dap.md
+
+## 2026-04-21T09:43:56Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T09:43:56Z
+
+Added new statement about Rafizi Ramli and Aizbert  
+
+Pages updated: entities/parties/dap.md, entities/parties/pkr.md
+
+## 2026-04-21T09:44:04Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T09:44:38Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T09:44:57Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T09:45:07Z
+
+Added the civil servant Aizuddin Abd Gaffal's rebuke of Rafizi (and Nik Nazmi) regarding FWCMS criticism to the DAP page, with proper citation.
+
+Pages updated: entities/parties/dap.md
+
+## 2026-04-21T09:45:08Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T09:45:09Z
+
+Added the detail that civil servant Aizuddin Abd Gaffal rebuked Rafizi Ramli and Nik Nazmi, emphasizing collective responsibility, with citation to the 21‑April‑2026 Free Malaysia Today article.
+
+Pages updated: entities/parties/dap.md, entities/parties/pkr.md
+
+## 2026-04-21T09:45:27Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T09:45:27Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T09:45:28Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T09:45:28Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T09:45:28Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T09:45:28Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T09:45:29Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T09:45:29Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T09:45:29Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T09:45:30Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T09:45:30Z
+
+Updated...
+
+Pages updated: entities/parties/dap.md, entities/parts/pkr
+
+## 2026-04-21T09:45:31Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T09:45:32Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T09:45:34Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T09:45:44Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T09:45:45Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T09:46:23Z
+
+Added new statement about Rafiki Ramli and Nik Nik...
+
+Pages updated: entities/parties/dap.md, entities/parties/pkr.md
+
+## 2026-04-21T09:46:24Z
+
+Added Aizuddin Abd Gaffal's statement on collective responsibility to DAP's April 2026 controversy entry.
+
+Pages updated: entities/parties/dap.md
+
+## 2026-04-21T09:46:24Z
+
+Added the 21 April 2026 statement and clarified Aizuddin Abd Gaffal as a Pegawai Ramanan with proper citation on DAP and PKR pages.
+
+Pages updated: entities/parties/dap.md, entities/parties/pkr.md
+
+## 2026-04-21T09:46:27Z
+
+Added direct quote from civil servant Aizuddin Abd Gaffal to PKR page, citing the 21 April 2026 Free Malaysia Today article.
+
+Pages updated: entities/parties/pkr.md
+
+## 2026-04-21T09:46:28Z
+
+Added concise April 2026 statement on Rafizi Ramli and Nik Nazmi's criticism of the FWCMS extension and Aizuddin Abd Gaffal's collective‑responsibility warning, citing Free Malaysia Today.
+
+Pages updated: entities/parties/dap.md, entities/parties/pkr.md
+
+## 2026-04-21T09:46:30Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T09:46:31Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T09:46:31Z
+
+Added MIC's 2026 seat security comment and completed BN big‑tent description with citation from Free Malaysia Today.
+
+Pages updated: entities/parties/mic.md, comparisons/coalition-positions.md
+
+## 2026-04-21T09:46:32Z
+
+Added civil servant Aizuddin Abd Gaffal's rebuttal to Rafizi Ramli's criticism of the FWCMS extension on the DAP page.
+
+Pages updated: entities/parties/dap.md
+
+## 2026-04-21T09:46:32Z
+
+Added Malay‑language detail and the title "Pegawai Ramanan" for Aizuddin Abd Gaffal to DAP and PKR pages, citing the 21 April 2026 Free Malaysia Today article.
+
+Pages updated: entities/parties/dap.md, entities/parties/pkr.md
+
+## 2026-04-21T09:46:32Z
+
+Added new statement from Saravanan confirming MIC seat security despite Indian‑based BN allies and reiterating the big‑tent intent, citing Free Malaysia Today 21 April 2026.
+
+Pages updated: entities/parties/mic.md
+
+## 2026-04-21T09:46:32Z
+
+Added Aizuddin Abd Gaffal's statement about collective responsibility to the DAP page's April 2026 controversy entry.
+
+Pages updated: entities/parties/dap.md
+
+## 2026-04-21T09:46:33Z
+
+Added detailed response from civil servant Aizuddin Abd Gaffal to Rafizi Ramli's criticism of FWCMS, noting the call for collective responsibility as they were in Cabinet.
+
+Pages updated: entities/parties/dap.md
+
+## 2026-04-21T09:46:33Z
+
+Added Aizuddin Abd Gaffal's statement on collective responsibility to the April 2026 DAP controversy entry.
+
+Pages updated: entities/parties/dap.md
+
+## 2026-04-21T09:46:42Z
+
+Added Aizuddin Abd Gaffal's statement on collective responsibility to the DAP page's recent statements section.
+
+Pages updated: entities/parties/dap.md
+
+## 2026-04-21T09:46:45Z
+
+Completed the truncated bullet on BN's multi‑ethnic representation by adding MIC's 2026 seat security and Saravanan's statement, citing Free Malaysia Today.
+
+Pages updated: comparisons/coalition-positions.md
+
+## 2026-04-21T09:47:35Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T09:48:07Z
+
+Added a new statement from MIC Deputy President Saravanan quoting "MIC seats secure despite Indian‑based BN allies" with citation, expanding the Recent Statements section.
+
+Pages updated: entities/parties/mic.md
+
+## 2026-04-21T09:48:22Z
+
+Added the full Saravanan quote and citation to MIC page and completed the BN big‑tent bullet with MIC's 2‑seat result in the coalition‑positions page.
+
+Pages updated: entities/parties/mic.md, comparisons/coalition-positions.md
+
+## 2026-04-21T09:48:22Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T09:48:29Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T09:48:30Z
+
+Added the April 2026 FWCMS criticism incident involving Rafizi Ramli and the rebuke by civil servant Aizuddin Abd Gaffal to the DAP page.
+
+Pages updated: entities/parties/dap.md
+
+## 2026-04-21T09:48:30Z
+
+Added the April 2026 rebuke of DAP MP Rafizi Ramli by civil servant Aizuddin Abd Gaffal regarding the FWCMS contract to the DAP page.
+
+Pages updated: entities/parties/dap.md
+
+## 2026-04-21T09:48:31Z
+
+Added a new recent statement and citation to MIC page and completed the BN multi‑ethnic representation section with MIC's 2026 seat count.
+
+Pages updated: entities/parties/mic.md, comparisons/coalition-positions.md
+
+## 2026-04-21T09:48:31Z
+
+Added a new citation for the April 21 2026 statement about Raf Raf...
+
+Pages updated: entities/parties/dap.md, entities/parties/pkr.md
+
+## 2026-04-21T09:48:32Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T09:48:32Z
+
+Added new statement about Raf Rafizi and Nik Nik Nik ...
+
+Pages updated: entities/parties/dap.md, entities/parties/mic.md
+
+## 2026-04-21T09:48:33Z
+
+Added detailed MIC statement and citation to MIC page; completed BN multi‑ethnic representation section with MIC 2026 seat result and citation.
+
+Pages updated: entities/parties/mic.md, comparisons/coalition-positions.md
+
+## 2026-04-21T09:48:33Z
+
+Completed the truncated bullet on BN's big‑tent approach by adding MIC's 2026 election result (2 seats) with citation.
+
+Pages updated: comparisons/coalition-positions.md
+
+## 2026-04-21T09:48:33Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T09:48:34Z
+
+Added the latest MIC election result and Saravanan's big‑tent comment to the coalition‑positions page.
+
+Pages updated: comparisons/coalition-positions.md
+
+## 2026-04-21T09:48:34Z
+
+Added MIC 2026 election seat security statement to coalition positions page.
+
+Pages updated: comparisons/coalition-positions.md
+
+## 2026-04-21T09:48:35Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T09:48:45Z
+
+Completed the truncated statement on BN's big‑tent approach in the coalition‑positions page, adding MIC's 2026 seat count and citation.
+
+Pages updated: comparisons/coalition-positions.md
+
+## 2026-04-21T09:48:45Z
+
+Added MIC 2026 election result and Saravanan's big‑tent statement to coalition‑positions page.
+
+Pages updated: comparisons/coalition-positions.md
+
+## 2026-04-21T09:48:46Z
+
+Updated DAP page with new statement from Aizuddin Abd Gaffal about collective responsibility.
+
+Pages updated: entities/parties/dap.md
+
+## 2026-04-21T09:48:47Z
+
+Added detailed MIC statement and citation to MIC page; completed the truncated Multi‑ethnic Representation section with MIC seat security info.
+
+Pages updated: entities/parties/mic.md, comparisons/coalition-positions.md
+
+## 2026-04-21T09:48:47Z
+
+Added missing details on MIC's 2026 seat security and big‑tent rationale to the coalition‑positions page.
+
+Pages updated: comparisons/coalition-positions.md
+
+## 2026-04-21T09:48:48Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T09:48:50Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T09:48:50Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T09:48:53Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T09:49:05Z
+
+Added detail that Pegawai Ramanan Aizuddin Abd Gaffal rebuked Rafizi and Nik Nazmi for criticizing the FWCMS extension, with citation.
+
+Pages updated: entities/parties/pkr.md, entities/parties/dap.md
+
+## 2026-04-21T09:49:09Z
+
+Added MIC's 2026 seat security statement and big‑tent rationale to MIC page and completed the BN multi‑ethnic representation bullet with citation.
+
+Pages updated: entities/parties/mic.md, comparisons/coalition-positions.md
+
+## 2026-04-21T09:49:13Z
+
+Added complete information on MIC's 2026 election performance and Saravanan's big‑tent statement to the coalition‑positions page.
+
+Pages updated: comparisons/coalition-positions.md
+
+## 2026-04-21T09:51:50Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T09:53:06Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T09:53:18Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T09:53:18Z
+
+Added a new statement from Saravanan to the MIC page and completed the BN big‑tent entry in coalition‑positions with the 2026 MIC seat‑security quote.
+
+Pages updated: entities/parties/mic.md, comparisons/coalition-positions.md
+
+## 2026-04-21T09:53:37Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T09:54:55Z
+
+Added Saravanan's 21 April 2026 statement about the BN big‑tent approach to MIC page and completed the BN multi‑ethnic representation section with MIC’s 2026 seat count and the same statement.
+
+Pages updated: entities/parties/mic.md, comparisons/coalition-positions.md
+
+## 2026-04-21T10:12:39Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T10:12:43Z
+
+Added a new concise statement to MIC's page and completed the BN multi‑ethnic representation section with the 21 April 2026 Saravanan quote.
+
+Pages updated: entities/parties/mic.md, comparisons/coalition-positions.md
+
+## 2026-04-21T10:12:56Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T10:12:57Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T10:12:58Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T10:12:59Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T10:12:59Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T10:12:59Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T10:12:59Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T10:13:04Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T10:13:05Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T10:13:05Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T10:13:05Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T10:13:07Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T10:13:08Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T10:13:08Z
+
+Added MIC 2026 election seat count and Saravanan's big‑tent statement to coalition‑positions page.
+
+Pages updated: comparisons/coalition-positions.md
+
+## 2026-04-21T10:13:08Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T10:13:10Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T10:13:33Z
+
+Added the specific quote and citation confirming Saravanan's statement about the big‑tent approach ensuring BN's overall success.
+
+Pages updated: entities/parties/mic.md
+
+## 2026-04-21T10:13:34Z
+
+Added the 21 April 2026 statement by MIC Deputy President Saravanan about MIC seat security and the BN big‑tent approach to both the MIC party page and the coalition‑positions comparison.
+
+Pages updated: entities/parties/mic.md, comparisons/coalition-positions.md
+
+## 2026-04-21T10:13:34Z
+
+Added the latest MIC deputy president quote on the big‑tent approach to both the MIC page and the coalition‑positions comparison.
+
+Pages updated: entities/parties/mic.md, comparisons/coalition-positions.md
+
+## 2026-04-21T10:13:37Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T10:13:37Z
+
+Added a new April 21 2026 statement by DAP ADUN Allex Seah Shoo Chin about Rohingya gatherings to the DAP page.
+
+Pages updated: entities/parties/dap.md
+
+## 2026-04-21T10:13:38Z
+
+Added MIC deputy president Saravanan's 21 April 2026 statement about the BN ‘big‑tent’ approach ensuring overall success to both the MIC page and the coalition‑positions comparison.
+
+Pages updated: entities/parties/mic.md, comparisons/coalition-positions.md
+
+## 2026-04-21T10:13:38Z
+
+Added a new bullet to DAP page documenting Allex Seah's 21 April 2026 statement on Rohingya gatherings in Melaka.
+
+Pages updated: entities/parties/dap.md
+
+## 2026-04-21T10:13:38Z
+
+Added Allex Seah Shoo Chin's April 2026 statement on Rohingya gatherings to the DAP page under Recent Statements.
+
+Pages updated: entities/parties/dap.md
+
+## 2026-04-21T10:13:38Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T10:13:39Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T10:13:39Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T10:13:39Z
+
+Completed truncated statement on BN's big‑tent approach in coalition‑positions page with MIC seat security fact from 21 April 2026 article.
+
+Pages updated: comparisons/coalition-positions.md
+
+## 2026-04-21T10:13:39Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T10:13:40Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T10:13:40Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T10:13:41Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T10:13:41Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T10:13:41Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T10:13:42Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T10:13:45Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T10:14:32Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T10:15:27Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T10:23:11Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none

@@ -12,7 +12,7 @@ from fastapi.middleware.cors import CORSMiddleware
 from .a2a_client import A2AClient
 from .config import load_settings
 from .db import close_database, init_database
-from .log import CorrelationIdMiddleware, configure_logging
+from .log import CorrelationIdMiddleware, ErrorHandlerMiddleware, configure_logging
 from .pubsub import create_broker
 from .registry import AgentRegistry
 from .routes import router
@@ -100,6 +100,7 @@ def create_app() -> FastAPI:
     app.state.a2a_client = A2AClient()
 
     # ---- Middleware ---------------------------------------------------------
+    app.add_middleware(ErrorHandlerMiddleware)
     app.add_middleware(CorrelationIdMiddleware)
     app.add_middleware(
         CORSMiddleware,

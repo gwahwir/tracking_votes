@@ -21,8 +21,8 @@ class Article(Base):
     url = Column(String(2048), unique=True, nullable=False, index=True)
     title = Column(String(512), nullable=False)
     source = Column(String(128), nullable=False, index=True)  # e.g. "thestar", "malaysiakini"
-    text = Column(Text, nullable=False)
-    scraped_at = Column(DateTime, default=lambda: datetime.now(timezone.utc), index=True)
+    content = Column(Text, nullable=True)
+    scraped_at = Column(DateTime(timezone=True), default=lambda: datetime.now(timezone.utc), index=True)
 
     # Tagging and scoring
     constituency_ids = Column(JSON, nullable=True)  # List of "P.157", "N.01", etc.
@@ -34,8 +34,8 @@ class Article(Base):
     score_flags = Column(JSON, nullable=True)  # List of flag strings
 
     # Metadata
-    created_at = Column(DateTime, default=lambda: datetime.now(timezone.utc), index=True)
-    updated_at = Column(DateTime, default=lambda: datetime.now(timezone.utc), onupdate=lambda: datetime.now(timezone.utc))
+    created_at = Column(DateTime(timezone=True), default=lambda: datetime.now(timezone.utc), index=True)
+    updated_at = Column(DateTime(timezone=True), default=lambda: datetime.now(timezone.utc), onupdate=lambda: datetime.now(timezone.utc))
 
 
 class Analysis(Base):
@@ -82,8 +82,8 @@ class SeatPrediction(Base):
     num_articles = Column(Integer, nullable=True)  # Count of articles used in this prediction
 
     # Metadata
-    created_at = Column(DateTime, default=lambda: datetime.now(timezone.utc), index=True)
-    updated_at = Column(DateTime, default=lambda: datetime.now(timezone.utc), onupdate=lambda: datetime.now(timezone.utc))
+    created_at = Column(DateTime(timezone=True), default=lambda: datetime.now(timezone.utc), index=True)
+    updated_at = Column(DateTime(timezone=True), default=lambda: datetime.now(timezone.utc), onupdate=lambda: datetime.now(timezone.utc))
 
 
 class HistoricalResult(Base):

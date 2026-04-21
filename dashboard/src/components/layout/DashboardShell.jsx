@@ -1,5 +1,4 @@
-import { useState, useCallback } from 'react'
-import { ActionIcon, Tooltip } from '@mantine/core'
+import { useState, useCallback, useEffect } from 'react'
 import { TopBar } from './TopBar'
 import { Scoreboard } from './Scoreboard'
 import { ElectionMap } from '../map/ElectionMap'
@@ -7,68 +6,73 @@ import { NewsFeedPanel } from '../news/NewsFeedPanel'
 import { AnalysisPanel } from '../analysis/AnalysisPanel'
 import { SeatDetailPanel } from '../seats/SeatDetailPanel'
 import { WikiModal } from '../wiki/WikiModal'
-import TaskMonitor from '../agents/TaskMonitor'
-// import AgentGraph from '../agents/AgentGraph'
-import { useDispatchTask, useSeatPredictions } from '../../hooks/useApi'
+import { AgentStatusBar } from '../agents/AgentStatusBar'
+import { useDispatchTask, useSeatPredictions, useTaskStream } from '../../hooks/useApi'
 import './DashboardShell.css'
 
-/**
- * DashboardShell — Main 3-column layout
- * Left: News feed | Center: Map | Right: Analysis
- * Bottom: Agent panel (collapsible)
- */
 export const DashboardShell = () => {
-  const [mapType, setMapType] = useState('parlimen')
+  const [mapType, setMapType] = useState(() => {
+    try { return JSON.parse(localStorage.getItem('jem-session'))?.mapType || 'parlimen' } catch { return 'parlimen' }
+  })
   const [useCartogram, setUseCartogram] = useState(false)
   const [selectedArticle, setSelectedArticle] = useState(null)
-  const [selectedConstituency, setSelectedConstituency] = useState(null) // { code, name }
+  const [selectedConstituency, setSelectedConstituency] = useState(null)
   const [wikiOpen, setWikiOpen] = useState(false)
   const [refreshTrigger, setRefreshTrigger] = useState(0)
   const [activeTaskId, setActiveTaskId] = useState(null)
   const [agentPanelOpen, setAgentPanelOpen] = useState(false)
-  const { dispatchTask, loading: dispatchLoading } = useDispatchTask()
+  const [refreshing, setRefreshing] = useState(false)
+
+  const { dispatchTask } = useDispatchTask()
   const { predictions } = useSeatPredictions()
+  const { status: taskStatus, nodeOutputs } = useTaskStream(activeTaskId)
 
-  const handleMapTypeChange = useCallback((type) => {
-    setMapType(type)
-  }, [])
+  useEffect(() => {
+    try {
+      const prev = JSON.parse(localStorage.getItem('jem-session')) || {}
+      localStorage.setItem('jem-session', JSON.stringify({ ...prev, mapType }))
+    } catch {}
+  }, [mapType])
 
-  const handleCartogramToggle = useCallback(() => {
-    setUseCartogram((prev) => !prev)
-  }, [])
+  const handleMapTypeChange = useCallback((type) => setMapType(type), [])
+  const handleCartogramToggle = useCallback(() => setUseCartogram((p) => !p), [])
 
   const handleRefresh = useCallback(async () => {
-    // Dispatch news_agent scrape task
+    setRefreshing(true)
     try {
       const result = await dispatchTask('news_agent', {
         role: 'user',
-        parts: [
-          {
-            type: 'text',
-            text: 'Scrape the latest news articles about Johor elections and Malaysian politics.',
-          },
-        ],
+        parts: [{ type: 'text', text: 'Scrape the latest news articles about Johor elections and Malaysian politics.' }],
       })
       if (result?.task_id) {
-        // Open agent panel and show task monitor
         setActiveTaskId(result.task_id)
         setAgentPanelOpen(true)
-        // Refresh articles after a brief delay to allow scraping to complete
-        setTimeout(() => {
-          setRefreshTrigger((prev) => prev + 1)
-        }, 2000)
+        setTimeout(() => setRefreshTrigger((p) => p + 1), 2000)
       }
     } catch (err) {
       console.error('Failed to dispatch news scrape task:', err)
+    } finally {
+      setTimeout(() => setRefreshing(false), 2000)
     }
   }, [dispatchTask])
 
   const handleArticleSelect = useCallback((article) => {
-    setSelectedArticle(article)
+    setSelectedArticle((prev) => (prev?.id === article.id ? null : article))
+    setSelectedConstituency(null)
   }, [])
 
+  const handleConstituencySelect = useCallback((code, name) => {
+    setSelectedConstituency((prev) => (prev?.code === code ? null : { code, name }))
+    setSelectedArticle(null)
+  }, [])
+
+  // Derive tasks list for agent bar from current task
+  const tasks = activeTaskId
+    ? [{ id: activeTaskId, agent: 'news_agent', status: taskStatus || 'pending', message: nodeOutputs[nodeOutputs.length - 1] || '', ts: '' }]
+    : []
+
   return (
-    <div className={`dashboard-shell ${agentPanelOpen ? 'agent-panel-open' : ''}`}>
+    <div className="dashboard-shell">
       <TopBar
         mapType={mapType}
         useCartogram={useCartogram}
@@ -76,7 +80,7 @@ export const DashboardShell = () => {
         onCartogramToggle={handleCartogramToggle}
         onRefresh={handleRefresh}
         onWikiOpen={() => setWikiOpen(true)}
-        showWikiButton={true}
+        refreshing={refreshing}
       />
 
       <Scoreboard predictions={predictions} />
@@ -95,7 +99,7 @@ export const DashboardShell = () => {
           <ElectionMap
             mapType={mapType}
             useCartogram={useCartogram}
-            onConstituencySelect={(code, name) => setSelectedConstituency({ code, name })}
+            onConstituencySelect={handleConstituencySelect}
           />
         </div>
 
@@ -116,25 +120,11 @@ export const DashboardShell = () => {
         </div>
       </div>
 
-      {/* Agent panel (collapsible) */}
-      {agentPanelOpen && activeTaskId && (
-        <div className="agent-panel">
-          <TaskMonitor taskId={activeTaskId} agentType="Active Task" />
-        </div>
-      )}
-
-      {/* Agent panel toggle button */}
-      <Tooltip label={agentPanelOpen ? 'Collapse agent panel' : 'Expand agent panel'}>
-        <ActionIcon
-          className="agent-panel-toggle"
-          onClick={() => setAgentPanelOpen(!agentPanelOpen)}
-          variant="light"
-          color="cyan"
-          size="lg"
-        >
-          {agentPanelOpen ? '▼' : '▲'} AGENTS
-        </ActionIcon>
-      </Tooltip>
+      <AgentStatusBar
+        tasks={tasks}
+        open={agentPanelOpen}
+        onToggle={() => setAgentPanelOpen((p) => !p)}
+      />
 
       {wikiOpen && <WikiModal onClose={() => setWikiOpen(false)} />}
     </div>

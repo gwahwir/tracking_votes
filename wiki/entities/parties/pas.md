@@ -22,6 +22,9 @@ PAS is one of the two anchor parties of the **Perikatan Nasional (PN)** coalitio
 
 ## Recent Statements (2026)
 
-- PAS President Abdul Hadi Awang called for stricter regulation of social‑media platforms to protect youth from extremist and immoral content, urging parents to take an active role in monitoring their children's online activities. [Source: Free Malaysia Today, 2026-04-17]
-- In a televised interview on 16 April 2026, Abdul Hadi emphasized that “parents must be the first line of defence; they should regularly check the apps their children use and discuss online behaviour with them,” reinforcing the party’s push for tighter governmental oversight of digital content. [Source: Free Malaysia Today, 2026-04-17]
-- In a press conference in Johor Bahru on 17 April 2026, PAS President Abdul Hadi Awang reiterated that “parents must be the first line of defence; they should regularly check the apps their children use and discuss online behaviour with them,” a statement emphasizing the need for parental vigilance and urging the government to enact stricter regulations on social‑media platforms to safeguard children. [Source: Free Malaysia Today, 2026-04-17]
+- **17 April 2026** – PAS President **Abdul Hadi Awang** called for stricter regulation of social‑media platforms to protect youth from extremist and immoral content, urging parents to take an active role in monitoring their children's online activities. [Source: Free Malaysia Today, 2026-04-17]
+- **16 April 2026** – In a televised interview, Abdul Hadi emphasized that “parents must be the first line of defence; they should regularly check the apps their children use and discuss online behaviour with them,” reinforcing the party’s push for tighter governmental oversight of digital content. [Source: Free Malaysia Today, 2026-04-17]
+- **17 April 2026** – In a press conference in Johor Bahru, PAS President Abdul Hadi Awang reiterated that “parents must be the first line of defence; they should regularly check the apps their children use and discuss online behaviour with them,” a
+- **16 April 2026** – PAS leader **Saifuddin** called for stricter regulation of social‑media platforms to protect youth, urging parents to monitor their children's online activities. This statement prompted a response from Amanah President Mat Sabu, who stressed the need for fair and balanced admonition. [Source: Free Malaysia Today, 2026-04-17]
+
+---

@@ -1,4 +1,4 @@
-import { useState, useEffect } from 'react'
+import { useState, useEffect, useRef } from 'react'
 import { MapContainer, TileLayer, GeoJSON, Popup } from 'react-leaflet'
 import L from 'leaflet'
 import { useSeatPredictions, useHistoricalByYear } from '../../hooks/useApi'
@@ -15,6 +15,8 @@ export const ElectionMap = ({ mapType = 'parlimen', useCartogram = false, onCons
   const { resultsByCode: historical2022 } = useHistoricalByYear(2022)
   const [geoJsonData, setGeoJsonData] = useState(null)
   const [selectedConstituency, setSelectedConstituency] = useState(null)
+  const selectedLayerRef = useRef(null)
+  const selectedCodeRef = useRef(null)
 
   // Load appropriate GeoJSON file
   useEffect(() => {
@@ -59,17 +61,45 @@ export const ElectionMap = ({ mapType = 'parlimen', useCartogram = false, onCons
     }
   }
 
+  const getBaseStyle = (feature) => getFeatureStyle(feature)
+
   const onEachFeature = (feature, layer) => {
     const code = feature.properties?.constituency_code || feature.properties?.code_parlimen || feature.properties?.code_dun || feature.properties?.code || feature.properties?.id
     const prediction = getPrediction(code)
     const name = feature.properties?.name || feature.properties?.NAME || feature.properties?.parlimen || feature.properties?.dun || code
 
     layer.on('click', () => {
+      // Restore previous selected layer to base style
+      if (selectedLayerRef.current && selectedLayerRef.current !== layer) {
+        selectedLayerRef.current.setStyle(getBaseStyle(selectedLayerRef.current.feature))
+      }
+      selectedLayerRef.current = layer
+      selectedCodeRef.current = code
+
+      layer.setStyle({
+        color: '#00d4ff',
+        weight: 3,
+        opacity: 1,
+        fillOpacity: 0.85,
+      })
+      layer.bringToFront()
+
       setSelectedConstituency({ code, name, prediction })
       if (onConstituencySelect) onConstituencySelect(code, name)
     })
 
     layer.on('mouseover', () => {
+      // Don't override the selected layer's highlight style
+      if (selectedCodeRef.current !== code) {
+        layer.setStyle({
+          fillOpacity: 0.95,
+          weight: 2.5,
+          color: '#ffffff',
+          opacity: 0.8,
+        })
+        layer.bringToFront()
+      }
+
       const pred = getPrediction(code)
       const hist = historical2022[code]
       const histLine = hist
@@ -83,16 +113,39 @@ export const ElectionMap = ({ mapType = 'parlimen', useCartogram = false, onCons
     })
 
     layer.on('mouseout', () => {
+      // Restore to selected style or base style
+      if (selectedCodeRef.current === code) {
+        layer.setStyle({
+          color: '#00d4ff',
+          weight: 3,
+          opacity: 1,
+          fillOpacity: 0.85,
+        })
+      } else {
+        layer.setStyle(getBaseStyle(feature))
+      }
       layer.closeTooltip()
     })
   }
 
   if (!geoJsonData) {
-    return <div className="election-map-loading">Loading map...</div>
+    return (
+      <div className="election-map-container">
+        <div className="map-panel-header">
+          <span className="map-panel-label">INTERACTIVE MAP</span>
+          <span className="map-panel-sublabel">{mapType.toUpperCase()}</span>
+        </div>
+        <div className="election-map-loading">Loading map...</div>
+      </div>
+    )
   }
 
   return (
     <div className="election-map-container">
+      <div className="map-panel-header">
+        <span className="map-panel-label">INTERACTIVE MAP</span>
+        <span className="map-panel-sublabel">{mapType.toUpperCase()}</span>
+      </div>
       <MapContainer center={[1.485, 103.74]} zoom={8} className="election-map">
         <TileLayer
           url="https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png"

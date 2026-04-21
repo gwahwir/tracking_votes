@@ -1,61 +1,53 @@
 import { useEffect, useState } from 'react'
-import { Stack, Text, Loader, Group, Badge } from '@mantine/core'
 import { useArticles } from '../../hooks/useApi'
 import { ArticleCard } from './ArticleCard'
 import './NewsFeedPanel.css'
 
-/**
- * NewsFeedPanel — Scrollable list of news articles
- */
 export const NewsFeedPanel = ({ selectedArticle, onArticleSelect, refreshTrigger, onTaskCreated }) => {
   const { articles, loading, error, refetch } = useArticles()
   const [displayArticles, setDisplayArticles] = useState([])
 
-  useEffect(() => {
-    refetch()
-  }, [refreshTrigger, refetch])
-
-  useEffect(() => {
-    setDisplayArticles(articles)
-  }, [articles])
+  useEffect(() => { refetch() }, [refreshTrigger, refetch])
+  useEffect(() => { setDisplayArticles(articles) }, [articles])
 
   return (
     <div className="news-feed-panel">
       <div className="feed-header">
-        <Text fw={700} c="cyan" size="sm" tt="uppercase" ls={1}>
-          News Feed
-        </Text>
-        {displayArticles.length > 0 && (
-          <Badge size="sm" variant="light" color="cyan">
-            {displayArticles.length}
-          </Badge>
-        )}
+        <span style={{
+          fontFamily: "'JetBrains Mono', monospace",
+          fontSize: '10px',
+          fontWeight: 700,
+          color: '#5c5f66',
+          letterSpacing: '0.12em',
+        }}>NEWS FEED</span>
+        <span style={{
+          background: '#1a1b1e',
+          border: '1px solid #373a40',
+          borderRadius: '10px',
+          padding: '1px 7px',
+          fontFamily: "'JetBrains Mono', monospace",
+          fontSize: '10px',
+          color: '#909296',
+        }}>{displayArticles.length}</span>
       </div>
 
-      {loading && (
-        <div className="feed-loading">
-          <Loader size="sm" color="cyan" />
-        </div>
-      )}
-
-      {error && (
-        <div className="feed-error">
-          <Text size="xs" c="red">
-            Failed to load articles
-          </Text>
-        </div>
-      )}
-
       <div className="feed-scroll">
-        {displayArticles.length === 0 && !loading && (
-          <div className="feed-empty">
-            <Text size="xs" c="dimmed">
-              No articles yet
-            </Text>
+        {loading && (
+          <div style={{ padding: '20px', textAlign: 'center', color: '#5c5f66', fontSize: '10px', fontFamily: "'JetBrains Mono', monospace" }}>
+            Loading...
           </div>
         )}
-
-        <Stack gap="xs">
+        {error && (
+          <div style={{ padding: '10px', color: '#ff3131', fontSize: '10px', fontFamily: "'JetBrains Mono', monospace" }}>
+            Failed to load articles
+          </div>
+        )}
+        {!loading && displayArticles.length === 0 && (
+          <div style={{ padding: '20px', textAlign: 'center', color: '#5c5f66', fontSize: '10px', fontFamily: "'JetBrains Mono', monospace" }}>
+            No articles yet
+          </div>
+        )}
+        <div className="feed-list">
           {displayArticles.map((article) => (
             <ArticleCard
               key={article.id}
@@ -65,7 +57,7 @@ export const NewsFeedPanel = ({ selectedArticle, onArticleSelect, refreshTrigger
               onTaskCreated={onTaskCreated}
             />
           ))}
-        </Stack>
+        </div>
       </div>
     </div>
   )

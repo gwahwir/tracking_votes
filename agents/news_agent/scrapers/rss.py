@@ -1,11 +1,15 @@
 """Generic RSS/Atom scraper using feedparser."""
 from __future__ import annotations
 
+import time
 from dataclasses import dataclass
 from datetime import datetime, timezone
 from typing import Optional
 
 import feedparser  # type: ignore
+import structlog
+
+log = structlog.get_logger(__name__)
 
 
 @dataclass
@@ -18,8 +22,26 @@ class RawArticle:
 
 
 def scrape_rss(feed_url: str, source_name: str, max_items: int = 50) -> list[RawArticle]:
-    """Parse an RSS/Atom feed and return a list of RawArticle objects."""
-    feed = feedparser.parse(feed_url)
+    """Parse an RSS/Atom feed and return a list of RawArticle objects.
+
+    Retries up to 3 times with exponential backoff on bozo/network errors.
+    """
+    last_exc: Exception | None = None
+    for attempt in range(3):
+        try:
+            feed = feedparser.parse(feed_url, request_headers={"User-Agent": "ElectionMonitor/1.0"})
+            if feed.get("bozo") and not feed.get("entries"):
+                raise ValueError(f"feedparser bozo error: {feed.get('bozo_exception')}")
+            break
+        except Exception as exc:
+            last_exc = exc
+            delay = 2.0 ** attempt
+            log.warning("rss.retry", url=feed_url, attempt=attempt + 1, delay=delay, error=str(exc))
+            time.sleep(delay)
+    else:
+        log.error("rss.failed", url=feed_url, error=str(last_exc))
+        return []
+
     articles: list[RawArticle] = []
 
     for entry in feed.entries[:max_items]:

@@ -126,7 +126,7 @@ async def load_baseline(state: dict) -> dict:
                         "winner_name": h.winner_name,
                         "margin_pct": h.margin_pct,
                         "turnout_pct": h.turnout_pct,
-                        "candidates": h.candidates,
+                        "candidates": json.loads(h.candidates) if isinstance(h.candidates, str) else (h.candidates or []),
                     }
                     for h in history
                 },
@@ -230,11 +230,14 @@ Return ONLY valid JSON, no markdown.
         )
 
         result = json.loads(response)
+        signal_breakdown = result.get("signal_breakdown")
+        if not isinstance(signal_breakdown, dict):
+            signal_breakdown = signal_summary
         state["seat_prediction"] = {
             "constituency_code": constituency_code,
             "leading_party": result.get("leading_party"),
             "confidence": result.get("confidence"),
-            "signal_breakdown": result.get("signal_breakdown"),
+            "signal_breakdown": signal_breakdown,
             "caveats": caveats,
         }
 

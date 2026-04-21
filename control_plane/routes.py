@@ -344,6 +344,23 @@ async def get_seat_predictions(request: Request, limit: int = 100):
         return []
 
 
+@router.delete("/seat-predictions")
+async def delete_seat_predictions(request: Request):
+    """Delete all seat predictions (used to reset before calibration runs)."""
+    task_store = request.app.state.task_store
+    if not hasattr(task_store, "_pool") or task_store._pool is None:
+        return {"deleted": 0}
+    try:
+        async with task_store._pool.acquire() as conn:
+            result = await conn.execute("DELETE FROM seat_predictions")
+        deleted = int(result.split()[-1])
+        log.info("seat_predictions.cleared", deleted=deleted)
+        return {"deleted": deleted}
+    except Exception as exc:
+        log.error("seat_predictions.clear_error", error=str(exc))
+        raise HTTPException(status_code=500, detail="Internal server error")
+
+
 @router.get("/seat-predictions/{constituency_code}")
 async def get_seat_prediction(request: Request, constituency_code: str):
     """Return a single seat prediction for a constituency."""
@@ -493,3 +510,49 @@ async def get_wiki_pages(request: Request):
 @router.get("/health")
 async def health():
     return {"status": "ok"}
+
+
+@router.get("/health/detailed")
+async def health_detailed(request: Request):
+    """Health check including all agents, DB, and Redis."""
+    registry = request.app.state.registry
+    task_store = request.app.state.task_store
+    broker = request.app.state.broker
+
+    agents = registry.get_all()
+    healthy_agents = [a for a in agents if a.is_healthy]
+
+    db_ok = False
+    try:
+        session_maker = request.app.state.settings.database_url and task_store._session_maker if hasattr(task_store, "_session_maker") else None
+        if session_maker:
+            async with session_maker() as session:
+                await session.execute(__import__("sqlalchemy").text("SELECT 1"))
+            db_ok = True
+        elif task_store is not None:
+            db_ok = True  # in-memory store — no DB to check
+    except Exception:
+        pass
+
+    redis_ok = False
+    try:
+        if hasattr(broker, "_redis") and broker._redis:
+            await broker._redis.ping()
+            redis_ok = True
+        elif not request.app.state.settings.redis_url:
+            redis_ok = True  # Redis not configured — not required
+    except Exception:
+        pass
+
+    all_ok = db_ok and redis_ok and len(healthy_agents) == len(agents)
+
+    return {
+        "status": "ok" if all_ok else "degraded",
+        "database": "ok" if db_ok else "down",
+        "redis": "ok" if redis_ok else "down",
+        "agents": {
+            "total": len(agents),
+            "healthy": len(healthy_agents),
+            "unhealthy": [a.name for a in agents if not a.is_healthy],
+        },
+    }

@@ -4,6 +4,30 @@
   height: 100%;
   display: flex;
   flex-direction: column;
+  background: #050508;
+}
+
+.map-panel-header {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  padding: 10px 14px;
+  border-bottom: 1px solid #373a40;
+  flex-shrink: 0;
+}
+
+.map-panel-label {
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 10px;
+  font-weight: 700;
+  color: #5c5f66;
+  letter-spacing: 0.12em;
+}
+
+.map-panel-sublabel {
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 10px;
+  color: #373a40;
 }
 
 .election-map {
@@ -116,9 +140,13 @@
   margin-bottom: 0;
 }
 
-/* GeoJSON feature hover effect */
-.leaflet-interactive:hover {
-  opacity: 0.9 !important;
+/* Remove Leaflet's default blue focus rectangle on click */
+.leaflet-interactive:focus {
+  outline: none !important;
+}
+
+.leaflet-container path.leaflet-interactive:focus {
+  outline: none !important;
 }
 
 /* Cartogram styling (thicker borders, distinct regions) */

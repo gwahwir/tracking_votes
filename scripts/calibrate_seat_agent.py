@@ -16,8 +16,8 @@ import sys
 import httpx
 
 DEFAULT_URL = "http://localhost:8000"
-POLL_INTERVAL = 2
-POLL_ATTEMPTS = 30
+POLL_INTERVAL = 3
+POLL_ATTEMPTS = 100  # up to 5 min per seat
 
 
 async def main(control_plane_url: str) -> None:
@@ -32,6 +32,13 @@ async def main(control_plane_url: str) -> None:
         if not actual_results:
             print("ERROR: No 2022 DUN results found. Run Phase A data ingestion first.", file=sys.stderr)
             sys.exit(1)
+
+        # Clear stale predictions so we don't read cached results from a previous run
+        del_resp = await client.delete(f"{control_plane_url}/seat-predictions")
+        if del_resp.status_code == 200:
+            print(f"Cleared {del_resp.json().get('deleted', 0)} stale predictions.")
+        else:
+            print(f"WARNING: Could not clear predictions ({del_resp.status_code}) — results may be stale.")
 
         print(f"Loaded {len(actual_results)} constituencies. Starting calibration...\n")
 
@@ -94,7 +101,9 @@ async def main(control_plane_url: str) -> None:
                 "confidence": confidence,
                 "correct": match,
             })
-            print(f"{'OK  ' if match else 'MISS'} {code:<12} predicted={predicted_party:<4} actual={actual_party:<4} confidence={confidence}")
+            pred_str = (predicted_party or 'None')
+            actual_str = (actual_party or 'None')
+            print(f"{'OK  ' if match else 'MISS'} {code:<12} predicted={pred_str:<4} actual={actual_str:<4} confidence={confidence}")
 
         print(f"\n{'='*50}")
         print(f"CALIBRATION RESULTS")

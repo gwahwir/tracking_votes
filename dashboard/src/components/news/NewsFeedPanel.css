@@ -2,29 +2,26 @@
   display: flex;
   flex-direction: column;
   height: 100%;
-  background: #0a0a0f;
-  border-right: 1px solid #373a40;
   overflow: hidden;
 }
 
 .feed-header {
   display: flex;
-  justify-content: space-between;
   align-items: center;
-  padding: 12px;
+  gap: 8px;
+  padding: 10px 14px;
   border-bottom: 1px solid #373a40;
-  background: rgba(0, 212, 255, 0.02);
   flex-shrink: 0;
 }
 
 .feed-scroll {
   flex: 1;
   overflow-y: auto;
-  padding: 8px;
+  overflow-x: hidden;
 }
 
 .feed-scroll::-webkit-scrollbar {
-  width: 6px;
+  width: 4px;
 }
 
 .feed-scroll::-webkit-scrollbar-track {
@@ -33,33 +30,12 @@
 
 .feed-scroll::-webkit-scrollbar-thumb {
   background: #373a40;
-  border-radius: 3px;
+  border-radius: 2px;
 }
 
-.feed-scroll::-webkit-scrollbar-thumb:hover {
-  background: #00d4ff;
-}
-
-.feed-loading {
-  flex: 1;
+.feed-list {
   display: flex;
-  align-items: center;
-  justify-content: center;
-  color: #999;
-}
-
-.feed-error {
-  padding: 12px;
-  background: rgba(255, 49, 49, 0.05);
-  border: 1px solid #ff3131;
-  border-radius: 4px;
-  margin: 8px;
-}
-
-.feed-empty {
-  flex: 1;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  color: #666;
+  flex-direction: column;
+  gap: 6px;
+  padding: 10px;
 }

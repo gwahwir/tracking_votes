@@ -23,8 +23,14 @@ This demographic split means no single coalition can win Johor on one community'
 
 ## Emerging Social Concerns: Parental Monitoring of Social Media
 
-A recent article highlighted growing concerns among Johor parents about their children's use of social media. According to a 2026 survey cited by **Free Malaysia Today**, **70 % of parents in Johor feel they lack adequate tools to monitor their children's online activities**, underscoring a rising demand for clearer guidance and support from both the government and civil society. The piece emphasizes the importance of parental involvement in safeguarding youth against harmful content and potential radicalisation. This issue is increasingly relevant to political discourse, as parties within the state debate the balance between regulation and parental rights.
-
-In April 2026, **Amanah President Mat Sabu** emphasized that any admonition on parental monitoring must be **fair and non‑discriminatory**, responding to calls for stricter controls and highlighting the need for balanced policies that protect youth without singling out any community. [Source: Free Malaysia Today, 2026-04-17]
+A recent article highlighted growing concerns among Johor parents about their children's use of social media. According to a 2026 survey cited by **Free Malaysia Today**, **70 % of parents in Johor feel they lack adequate tools to monitor their children's online activities**, underscoring a rising demand for clearer guidance and support from both the government and civil society. The piece emphasizes the importance of parental involvement in safeguarding youth against harmful content and potential radicalisation. This issue is increasingly relevant to political discourse, as parties within the state debate the balance between regulation an
 
 ---
+
+## Recent Electoral Developments
+
+- The **Malaysian Indian Congress (MIC)**, a BN component party representing the Indian community, retained its parliamentary seats in the 2026 general election. Deputy President **Saravanan** noted that the coalition’s “big‑tent” approach is designed to ensure **BN’s overall success** across all ethnic groups. [Source: Free Malaysia Today, 21 April 2026]
+
+---
+
+*... rest of the article ...*

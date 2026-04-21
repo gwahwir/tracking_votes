@@ -1,6 +1,6 @@
 # Wiki Index — Johor Election Dashboard
 
-Last updated: 2026-04-20
+Last updated: 2026-04-21
 
 ---
 
@@ -100,9 +100,12 @@ Last updated: 2026-04-20
 - [P.163 Kulai](entities/constituencies/parlimen/p163-kulai.md)
 - [P.164 Pontian](entities/constituencies/parlimen/p164-pontian.md)
 - [P.165 Tanjung Piai](entities/constituencies/parlimen/p165-tanjung-piai.md)
+- [Democratic Action Party (DAP) — Democratic Action Party](entities/partenties/dap.md)
+- [dap](entities/partents/dap.md)
 - [National Trust Party (Amanah) — Parti Amanah Negara](entities/parties/amanah.md)
 - [Malaysian United Indigenous Party (Bersatu / PPBM)](entities/parties/bersatu.md)
 - [Barisan Nasional (BN) / United Malays National Organisation (UMNO)](entities/parties/bn-umno.md)
-- [Democratic Action Party (DAP)](entities/parties/dap.md)
+- [Democratic Action Party (DAP) — Democratic Action Party](entities/parties/dap.md)
+- [Malaysian Indian Congress (MIC) — Malaysian Indian Congress](entities/parties/mic.md)
 - [Parti Islam Se-Malaysia (PAS) — Malaysian Islamic Party](entities/parties/pas.md)
 - [Parti Keadilan Rakyat (PKR) — People's Justice Party](entities/parties/pkr.md)

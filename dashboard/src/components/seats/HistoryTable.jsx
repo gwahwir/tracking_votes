@@ -5,7 +5,12 @@ export const HistoryTable = ({ results, loading }) => {
   if (loading) return <Text c="dimmed" size="sm">Loading history...</Text>
   if (!results?.length) return <Text c="dimmed" size="sm">No historical data available.</Text>
 
-  const sorted = [...results].sort((a, b) => b.election_year - a.election_year)
+  const sorted = [...results]
+    .sort((a, b) => b.election_year - a.election_year)
+    .map((r) => ({
+      ...r,
+      candidates: typeof r.candidates === 'string' ? JSON.parse(r.candidates) : (r.candidates ?? []),
+    }))
 
   return (
     <Stack gap="md" mt="sm">

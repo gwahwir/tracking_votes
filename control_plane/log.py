@@ -6,6 +6,7 @@ import sys
 import uuid
 
 import structlog
+from fastapi.responses import JSONResponse
 from starlette.middleware.base import BaseHTTPMiddleware
 from starlette.requests import Request
 
@@ -32,6 +33,27 @@ def configure_logging(log_level: str = "INFO") -> None:
         logger_factory=structlog.stdlib.LoggerFactory(),
         cache_logger_on_first_use=True,
     )
+
+
+class ErrorHandlerMiddleware(BaseHTTPMiddleware):
+    """Return a clean JSON 500 for any unhandled exception and log it."""
+
+    async def dispatch(self, request: Request, call_next):
+        try:
+            return await call_next(request)
+        except Exception as exc:
+            log = structlog.get_logger(__name__)
+            log.error(
+                "unhandled_error",
+                path=request.url.path,
+                method=request.method,
+                error=str(exc),
+                exc_info=True,
+            )
+            return JSONResponse(
+                status_code=500,
+                content={"detail": "Internal server error", "type": type(exc).__name__},
+            )
 
 
 class CorrelationIdMiddleware(BaseHTTPMiddleware):

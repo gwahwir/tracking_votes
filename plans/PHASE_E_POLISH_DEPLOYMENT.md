@@ -1,5 +1,21 @@
 # Phase E: Polish & Deployment
 
+**Status:** IN PROGRESS — 2026-04-21
+
+**Completed:**
+- Step 2 (LLM retry) — already implemented in `_openrouter_call` (3 attempts, exponential backoff) ✅
+- Step 11 (Periodic auto-scrape) — already implemented in `control_plane/server.py` (`_periodic_scrape`, configurable via `SCRAPE_INTERVAL_SECONDS`, default 30min) ✅
+- Step 1 (`.env.template`) — already existed ✅
+- Step 3 (Scraper retry) — added retry + backoff to `agents/news_agent/scrapers/rss.py` and `newsapi.py` ✅
+- Step 6 (Error handling middleware) — `ErrorHandlerMiddleware` added to `control_plane/log.py`, wired into `server.py` ✅
+- Step 7 (`/health/detailed` endpoint) — added to `control_plane/routes.py` ✅
+
+**Skipped (out of scope for Johor-only use case):**
+- Step 4 (Authentication) — not needed unless dashboard is publicly exposed
+- Step 5 (Alembic migrations) — `create_all` sufficient for single-team tool
+- Step 8 (Production docker-compose) — deferred to actual deployment
+- Step 9 (CI/CD GitHub Actions) — deferred to actual deployment
+
 ## Goal
 
 Harden the system for production use: error handling, rate limiting, authentication, CI/CD, and cloud deployment. Make it reliable enough to run unattended during an election cycle.

@@ -1,115 +1,71 @@
-import { useState } from 'react'
-import { Group, Text, Badge, Button, ActionIcon, Tooltip } from '@mantine/core'
+import { useState, useEffect } from 'react'
 import './TopBar.css'
 
-/**
- * TopBar — Header with title, status, controls
- */
 export const TopBar = ({
-  status = 'LIVE',
   mapType = 'parlimen',
   useCartogram = false,
   onMapTypeChange,
   onCartogramToggle,
   onRefresh,
   onWikiOpen,
-  showWikiButton = true,
+  refreshing = false,
 }) => {
+  const [pulse, setPulse] = useState(true)
+
+  useEffect(() => {
+    const t = setInterval(() => setPulse((p) => !p), 1000)
+    return () => clearInterval(t)
+  }, [])
+
   return (
     <div className="topbar">
       <div className="topbar-left">
-        <Text fw={700} c="cyan" size="xl" className="title">
-          JOHOR ELECTION MONITOR
-        </Text>
+        <span className="topbar-title">JOHOR ELECTION MONITOR</span>
       </div>
 
       <div className="topbar-center">
-        <Group gap="xs">
-          <Badge
-            size="lg"
-            color={status === 'LIVE' ? 'lime' : 'red'}
-            variant="light"
-            leftSection={<StatusIndicator status={status} />}
-          >
-            {status}
-          </Badge>
-        </Group>
+        <div className="live-badge">
+          <span className="live-dot" style={{ opacity: pulse ? 1 : 0.3 }} />
+          LIVE
+        </div>
       </div>
 
       <div className="topbar-right">
-        <Group gap="md">
-          {/* Map Type Toggle */}
-          <Group gap="xs" className="map-toggle">
-            <button
-              className={`toggle-btn ${mapType === 'parlimen' ? 'active' : ''}`}
-              onClick={() => onMapTypeChange('parlimen')}
-            >
-              Parlimen
-            </button>
-            <button
-              className={`toggle-btn ${mapType === 'dun' ? 'active' : ''}`}
-              onClick={() => onMapTypeChange('dun')}
-            >
-              DUN
-            </button>
-          </Group>
+        <div className="map-toggle-group">
+          <button
+            className={`toggle-btn ${mapType === 'parlimen' ? 'active' : ''}`}
+            onClick={() => onMapTypeChange('parlimen')}
+          >
+            Parlimen
+          </button>
+          <button
+            className={`toggle-btn ${mapType === 'dun' ? 'active' : ''}`}
+            onClick={() => onMapTypeChange('dun')}
+          >
+            DUN
+          </button>
+        </div>
 
-          {/* Cartogram Toggle */}
-          <Tooltip label={useCartogram ? 'Regular Map' : 'Cartogram'} withArrow>
-            <ActionIcon
-              variant={useCartogram ? 'filled' : 'light'}
-              color="cyan"
-              size="lg"
-              onClick={onCartogramToggle}
-              title="Toggle cartogram view"
-            >
-              {useCartogram ? '🗺' : '🗺'}
-            </ActionIcon>
-          </Tooltip>
+        <button
+          title={useCartogram ? 'Regular Map' : 'Cartogram'}
+          className={`icon-btn ${useCartogram ? 'active' : ''}`}
+          onClick={onCartogramToggle}
+        >
+          ⊞
+        </button>
 
-          {/* Refresh */}
-          <Tooltip label="Refresh data" withArrow>
-            <ActionIcon
-              variant="light"
-              color="cyan"
-              size="lg"
-              onClick={onRefresh}
-              title="Refresh all data"
-            >
-              🔄
-            </ActionIcon>
-          </Tooltip>
+        <button
+          title="Refresh"
+          className={`icon-btn ${refreshing ? 'spin' : ''}`}
+          onClick={onRefresh}
+        >
+          ↻
+        </button>
 
-          {/* Wiki */}
-          {showWikiButton && (
-            <Tooltip label="Wiki knowledge base" withArrow>
-              <ActionIcon
-                variant="light"
-                color="cyan"
-                size="lg"
-                onClick={onWikiOpen}
-                title="Open wiki"
-              >
-                📚
-              </ActionIcon>
-            </Tooltip>
-          )}
-        </Group>
+        <button title="Wiki" className="icon-btn" onClick={onWikiOpen}>
+          ⊟
+        </button>
       </div>
     </div>
   )
 }
-
-const StatusIndicator = ({ status }) => (
-  <span
-    className="status-indicator"
-    style={{
-      display: 'inline-block',
-      width: 8,
-      height: 8,
-      borderRadius: '50%',
-      backgroundColor: status === 'LIVE' ? '#39ff14' : '#ff3131',
-      animation: status === 'LIVE' ? 'pulse 1s infinite' : 'none',
-    }}
-  />
-)

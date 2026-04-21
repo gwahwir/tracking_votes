@@ -1,173 +1,199 @@
-import { Stack, Group, Text, Badge, Tabs, Card, ActionIcon } from '@mantine/core'
+import { useState } from 'react'
 import { useHistorical, useDemographics, useConstituencyArticles, useSeatPredictions } from '../../hooks/useApi'
-import { PARTY_COLORS, getConfidenceRing } from '../../theme'
+import { PARTY_COLORS } from '../../theme'
 import { HistoryTable } from './HistoryTable'
 import { DemographicsChart } from './DemographicsChart'
-import { SwingIndicator } from './SwingIndicator'
 
-const ISTALENESS_HOURS = 24
+const TABS = [
+  { id: 'overview', label: 'OVERVIEW' },
+  { id: 'history', label: 'HISTORY' },
+  { id: 'demographics', label: 'DEMOGRAPHICS' },
+  { id: 'articles', label: 'ARTICLES' },
+]
 
-const isStale = (updatedAt) => {
-  if (!updatedAt) return false
-  return (Date.now() - new Date(updatedAt).getTime()) > ISTALENESS_HOURS * 3600 * 1000
-}
+const confColor = (c) => c >= 70 ? '#39ff14' : c >= 40 ? '#ffcc00' : '#ff3131'
 
-const getConfidenceColor = (confidence) => {
-  if (confidence >= 70) return 'lime'
-  if (confidence >= 40) return 'yellow'
-  return 'red'
-}
-
-const OverviewTab = ({ prediction, history, demographics }) => {
-  const lastResult = history?.sort((a, b) => b.election_year - a.election_year)[0] ?? null
-
+const StrengthBar = ({ value }) => {
+  const color = value >= 70 ? '#39ff14' : value >= 40 ? '#ffcc00' : '#ff3131'
   return (
-    <Stack gap="sm" mt="sm">
-      <SwingIndicator prediction={prediction} lastResult={lastResult} />
+    <div style={{ display: 'flex', alignItems: 'center', gap: '8px', flex: 1 }}>
+      <div style={{ flex: 1, height: '5px', background: '#1a1b1e', borderRadius: '3px', overflow: 'hidden' }}>
+        <div style={{ width: `${value}%`, height: '100%', background: `linear-gradient(90deg, ${color}80, ${color})`, borderRadius: '3px', transition: 'width 0.6s ease' }} />
+      </div>
+      <span style={{ fontFamily: "'JetBrains Mono', monospace", fontSize: '10px', color, fontWeight: 700, minWidth: '28px' }}>
+        {Math.round(value)}%
+      </span>
+    </div>
+  )
+}
 
+const OverviewTab = ({ prediction }) => {
+  const partyColor = PARTY_COLORS[prediction?.leading_party] || '#aaa'
+  return (
+    <div style={{ display: 'flex', flexDirection: 'column', gap: '14px' }}>
       {prediction?.signal_breakdown && (
-        <>
-          <Text fw={600} size="sm" c="cyan">Signal Breakdown</Text>
-          <Stack gap="xs">
-            {Object.entries(prediction.signal_breakdown).map(([lens, data]) => {
-              if (!data) return null
-              return (
-                <Group key={lens} justify="space-between" wrap="nowrap">
-                  <Text size="xs" tt="capitalize" style={{ minWidth: 90 }}>{lens.replace('_', ' ')}</Text>
-                  {data.direction && (
-                    <Badge size="xs" variant="light">{data.direction}</Badge>
-                  )}
-                  {data.strength != null && (
-                    <Text size="xs" c="dimmed">{data.strength}%</Text>
-                  )}
-                </Group>
-              )
-            })}
-          </Stack>
-        </>
+        <div>
+          <div style={sectionLabel}>SIGNAL BREAKDOWN</div>
+          {Object.entries(prediction.signal_breakdown).map(([lens, data]) => {
+            if (!data) return null
+            return (
+              <div key={lens} style={{ display: 'flex', alignItems: 'center', gap: '6px', padding: '4px 0', borderBottom: '1px solid #1a1b1e' }}>
+                <span style={{ fontFamily: "'JetBrains Mono', monospace", fontSize: '9px', color: '#909296', minWidth: '80px', textTransform: 'capitalize' }}>
+                  {lens.replace('_', ' ')}
+                </span>
+                {data.direction && (
+                  <span style={{ fontFamily: "'JetBrains Mono', monospace", fontSize: '10px', fontWeight: 700, color: partyColor, minWidth: '50px' }}>
+                    {data.direction}
+                  </span>
+                )}
+                {data.strength != null && <StrengthBar value={data.strength} />}
+              </div>
+            )
+          })}
+        </div>
       )}
-
       {prediction?.caveats?.length > 0 && (
-        <>
-          <Text fw={600} size="sm" c="red">Caveats</Text>
+        <div>
+          <div style={sectionLabel}>CAVEATS</div>
           {prediction.caveats.map((c, i) => (
-            <Text key={i} size="xs" c="red">• {c}</Text>
+            <div key={i} style={{ fontFamily: "'JetBrains Mono', monospace", fontSize: '10px', color: '#ff3131', padding: '4px 0' }}>
+              ⚠ {c}
+            </div>
           ))}
-        </>
+        </div>
       )}
-    </Stack>
+      {!prediction && (
+        <div style={{ fontFamily: "'JetBrains Mono', monospace", fontSize: '11px', color: '#5c5f66' }}>No prediction data yet.</div>
+      )}
+    </div>
   )
 }
 
 const ArticlesList = ({ articles, loading }) => {
-  if (loading) return <Text c="dimmed" size="sm" mt="sm">Loading articles...</Text>
-  if (!articles?.length) return <Text c="dimmed" size="sm" mt="sm">No articles tagged to this constituency.</Text>
-
+  if (loading) return <div style={dimText}>Loading articles...</div>
+  if (!articles?.length) return <div style={dimText}>No articles tagged to this constituency.</div>
   return (
-    <Stack gap="xs" mt="sm">
+    <div style={{ display: 'flex', flexDirection: 'column', gap: '8px' }}>
       {articles.map((a) => (
-        <Card key={a.id} p="xs">
-          <Text size="sm" fw={500} lineClamp={2}>{a.title}</Text>
-          <Group gap="xs" mt={4}>
-            <Text size="xs" c="dimmed">{a.source}</Text>
+        <div key={a.id} style={{ padding: '8px', background: '#1a1b1e', borderRadius: '3px', border: '1px solid #2c2e33' }}>
+          <div style={{ fontFamily: "'JetBrains Mono', monospace", fontSize: '11px', color: '#e0e0e0', lineHeight: 1.4 }}>{a.title}</div>
+          <div style={{ display: 'flex', gap: '8px', marginTop: '3px' }}>
+            <span style={{ fontFamily: "'JetBrains Mono', monospace", fontSize: '9px', color: '#5c5f66', textTransform: 'uppercase' }}>{a.source}</span>
             {a.reliability_score != null && (
-              <Badge size="xs" color={a.reliability_score >= 60 ? 'lime' : 'orange'}>
-                score {a.reliability_score}
-              </Badge>
+              <span style={{ fontFamily: "'JetBrains Mono', monospace", fontSize: '9px', color: a.reliability_score >= 70 ? '#39ff14' : a.reliability_score >= 40 ? '#ffcc00' : '#ff3131' }}>
+                {a.reliability_score}%
+              </span>
             )}
-            {a.published_at && (
-              <Text size="xs" c="dimmed">
-                {new Date(a.published_at).toLocaleDateString()}
-              </Text>
-            )}
-          </Group>
-        </Card>
+          </div>
+        </div>
       ))}
-    </Stack>
+    </div>
   )
 }
 
-/**
- * SeatDetailPanel — Full constituency detail view with 4 tabs.
- * Renders in the right column when a constituency is selected on the map.
- */
+const sectionLabel = {
+  fontFamily: "'JetBrains Mono', monospace",
+  fontSize: '9px',
+  color: '#5c5f66',
+  letterSpacing: '0.12em',
+  marginBottom: '10px',
+  paddingBottom: '4px',
+  borderBottom: '1px solid #1a1b1e',
+}
+
+const dimText = {
+  fontFamily: "'JetBrains Mono', monospace",
+  fontSize: '11px',
+  color: '#5c5f66',
+  paddingTop: '8px',
+}
+
 export const SeatDetailPanel = ({ constituencyCode, seatName, onClose }) => {
+  const [activeTab, setActiveTab] = useState('overview')
   const { results: history, loading: histLoading } = useHistorical(constituencyCode)
   const { demographics, loading: demoLoading } = useDemographics(constituencyCode)
   const { articles, loading: artLoading } = useConstituencyArticles(constituencyCode)
   const { predictions } = useSeatPredictions(constituencyCode)
   const prediction = predictions?.[0] ?? null
 
-  const stale = prediction ? isStale(prediction.updated_at) : false
+  const partyColor = PARTY_COLORS[prediction?.leading_party] || '#aaa'
+  const confidence = prediction?.confidence ?? null
 
   return (
-    <Stack className="seat-detail-panel" gap="sm" style={{ height: '100%', overflow: 'auto', padding: '0.75rem' }}>
+    <div style={{ display: 'flex', flexDirection: 'column', height: '100%', overflow: 'hidden' }}>
       {/* Header */}
-      <Group justify="space-between" wrap="nowrap">
+      <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'flex-start', padding: '12px 14px', borderBottom: '1px solid #373a40', flexShrink: 0 }}>
         <div>
-          <Text fw={700} c="cyan" size="lg">{seatName}</Text>
-          <Text c="dimmed" size="xs">{constituencyCode}</Text>
+          <div style={{ fontFamily: "'JetBrains Mono', monospace", fontSize: '14px', fontWeight: 700, color: '#00d4ff' }}>
+            {seatName}
+          </div>
+          <div style={{ fontFamily: "'JetBrains Mono', monospace", fontSize: '10px', color: '#5c5f66', marginTop: '2px' }}>
+            {constituencyCode}
+          </div>
         </div>
-        <ActionIcon onClick={onClose} variant="subtle" color="gray" size="sm">✕</ActionIcon>
-      </Group>
+        <button onClick={onClose} style={{ background: 'none', border: 'none', color: '#909296', fontSize: '14px', cursor: 'pointer', padding: '2px 6px' }}>
+          ✕
+        </button>
+      </div>
 
-      {/* Current prediction summary */}
-      {prediction ? (
-        <Card p="sm">
-          <Group gap="sm" wrap="nowrap">
-            <Badge
-              size="lg"
-              style={
-                PARTY_COLORS[prediction.leading_party]
-                  ? { backgroundColor: PARTY_COLORS[prediction.leading_party], color: '#fff' }
-                  : {}
-              }
-            >
-              {prediction.leading_party || 'No Data'}
-            </Badge>
-            <Text fw={700} c={getConfidenceColor(prediction.confidence)} size="sm">
-              {prediction.confidence}% confidence
-            </Text>
-            <Text size="xs" c="dimmed">
-              {prediction.num_articles ?? 0} articles
-            </Text>
-            {stale && <Badge size="xs" color="red">STALE</Badge>}
-          </Group>
-          {prediction.updated_at && (
-            <Text size="xs" c="dimmed" mt={4}>
-              Updated {new Date(prediction.updated_at).toLocaleString()}
-            </Text>
-          )}
-        </Card>
-      ) : (
-        <Text c="dimmed" size="sm">No prediction data yet.</Text>
+      {/* Prediction card */}
+      {prediction && (
+        <div style={{
+          margin: '10px 14px',
+          padding: '10px 12px',
+          background: '#1a1b1e',
+          border: '1px solid #373a40',
+          borderLeft: `3px solid ${partyColor}`,
+          borderRadius: '4px',
+          flexShrink: 0,
+        }}>
+          <div style={{ display: 'flex', alignItems: 'center', gap: '10px' }}>
+            <span style={{ background: partyColor, color: '#000', padding: '2px 10px', borderRadius: '3px', fontFamily: "'JetBrains Mono', monospace", fontSize: '11px', fontWeight: 700 }}>
+              {prediction.leading_party}
+            </span>
+            <span style={{ fontFamily: "'JetBrains Mono', monospace", fontSize: '12px', fontWeight: 700, color: confColor(confidence) }}>
+              {confidence}% confidence
+            </span>
+          </div>
+          <div style={{ fontFamily: "'JetBrains Mono', monospace", fontSize: '9px', color: '#5c5f66', marginTop: '6px' }}>
+            {prediction.updated_at ? `Updated ${new Date(prediction.updated_at).toLocaleString()} · ` : ''}
+            Based on {prediction.num_articles ?? 0} articles
+          </div>
+        </div>
       )}
 
       {/* Tabs */}
-      <Tabs defaultValue="overview" style={{ flex: 1 }}>
-        <Tabs.List>
-          <Tabs.Tab value="overview">Overview</Tabs.Tab>
-          <Tabs.Tab value="history">History</Tabs.Tab>
-          <Tabs.Tab value="demographics">Demographics</Tabs.Tab>
-          <Tabs.Tab value="articles">Articles {articles.length > 0 && `(${articles.length})`}</Tabs.Tab>
-        </Tabs.List>
+      <div style={{ display: 'flex', borderBottom: '1px solid #373a40', flexShrink: 0 }}>
+        {TABS.map((t) => (
+          <button
+            key={t.id}
+            onClick={() => setActiveTab(t.id)}
+            style={{
+              flex: 1,
+              padding: '7px 2px',
+              background: activeTab === t.id ? 'rgba(0,212,255,0.05)' : 'transparent',
+              border: 'none',
+              borderBottom: `2px solid ${activeTab === t.id ? '#00d4ff' : 'transparent'}`,
+              color: activeTab === t.id ? '#00d4ff' : '#5c5f66',
+              fontFamily: "'JetBrains Mono', monospace",
+              fontSize: '8px',
+              cursor: 'pointer',
+              letterSpacing: '0.05em',
+              transition: 'all 0.12s',
+            }}
+          >
+            {t.label}
+          </button>
+        ))}
+      </div>
 
-        <Tabs.Panel value="overview">
-          <OverviewTab prediction={prediction} history={history} demographics={demographics} />
-        </Tabs.Panel>
-
-        <Tabs.Panel value="history">
-          <HistoryTable results={history} loading={histLoading} />
-        </Tabs.Panel>
-
-        <Tabs.Panel value="demographics">
-          <DemographicsChart demographics={demographics} loading={demoLoading} />
-        </Tabs.Panel>
-
-        <Tabs.Panel value="articles">
-          <ArticlesList articles={articles} loading={artLoading} />
-        </Tabs.Panel>
-      </Tabs>
-    </Stack>
+      {/* Tab content */}
+      <div style={{ flex: 1, overflowY: 'auto', padding: '14px' }}>
+        {activeTab === 'overview' && <OverviewTab prediction={prediction} />}
+        {activeTab === 'history' && <HistoryTable results={history} loading={histLoading} />}
+        {activeTab === 'demographics' && <DemographicsChart demographics={demographics} loading={demoLoading} />}
+        {activeTab === 'articles' && <ArticlesList articles={articles} loading={artLoading} />}
+      </div>
+    </div>
   )
 }

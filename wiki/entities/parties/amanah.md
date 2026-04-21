@@ -40,4 +40,8 @@ Amanah was created from the PAS breakaway following the 2015 PAS Muktamar (annua
 
 ## Recent Statements (2026)
 
-- **17 April 2026** – Amanah President **Mohamad Sabu (Mat Sabu)** told PAS leader **Saifuddin** that any admonition regarding parental monitoring of children’s social‑media use must be **fair, balanced and not single‑out any particular community**. He emphasized that while parental involvement is important, regulation should respect pluralism and avoid politicising digital safety. [Source: Free Malaysia Today, 2026-04-17]
+- **17 April 2026** – Amanah President **Mohamad Sabu (Mat Sabu)** told PAS MP **Saifuddin Nasution** that any public admonition regarding parental monitoring of social‑media must be **fair, non‑partisan and collaborative**. Sabu stressed that while protecting children online is a shared priority, the approach should respect digital freedoms and avoid politicising the issue. He called for joint‑government‑civil‑society guidance rather than punitive measures aimed at any specific community. [Source: Free Malaysia Today, 2026‑04‑17]
+
+---
+
+## Recent Sta

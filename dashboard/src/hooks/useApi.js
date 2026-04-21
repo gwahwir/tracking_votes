@@ -116,6 +116,7 @@ export const useSeatPredictions = (constituencyCode = null) => {
         ? `${API_BASE}/seat-predictions/${constituencyCode}`
         : `${API_BASE}/seat-predictions`
       const res = await fetch(url)
+      if (res.status === 404) { setPredictions([]); return }
       if (!res.ok) throw new Error(`HTTP ${res.status}`)
       const data = await res.json()
       setPredictions(constituencyCode ? [data] : data)
