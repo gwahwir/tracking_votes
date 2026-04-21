@@ -1,9 +1,8 @@
 import { useState, useEffect, useRef } from 'react'
-import { MapContainer, TileLayer, GeoJSON, Popup } from 'react-leaflet'
+import { MapContainer, TileLayer, GeoJSON } from 'react-leaflet'
 import L from 'leaflet'
 import { useSeatPredictions, useHistoricalByYear } from '../../hooks/useApi'
 import { PARTY_COLORS, getConfidenceRing } from '../../theme'
-import { Stack, Group, Text, Badge } from '@mantine/core'
 import './ElectionMap.css'
 
 /**
@@ -14,20 +13,24 @@ export const ElectionMap = ({ mapType = 'parlimen', useCartogram = false, onCons
   const { predictions, loading: predictionsLoading } = useSeatPredictions()
   const { resultsByCode: historical2022 } = useHistoricalByYear(2022)
   const [geoJsonData, setGeoJsonData] = useState(null)
-  const [selectedConstituency, setSelectedConstituency] = useState(null)
   const selectedLayerRef = useRef(null)
   const selectedCodeRef = useRef(null)
 
   // Load appropriate GeoJSON file
   useEffect(() => {
-    const filename = useCartogram
-      ? `johor_cartogram_${mapType}_2022.geojson`
-      : `johor-${mapType}.geojson`
+    let filename
+    if (!useCartogram) {
+      filename = `johor-${mapType}.geojson`
+    } else if (mapType === 'parlimen') {
+      filename = 'johor_cartogram_parlimen_2022.geojson'
+    } else {
+      filename = 'johor_cartogram_electorate_2022.geojson'
+    }
 
     fetch(`/geojson/${filename}`)
-      .then((res) => res.json())
+      .then((res) => { if (!res.ok) throw new Error(`${res.status}`); return res.json() })
       .then((data) => setGeoJsonData(data))
-      .catch((err) => console.error('Failed to load GeoJSON:', err))
+      .catch((err) => console.error('Failed to load GeoJSON:', filename, err))
   }, [mapType, useCartogram])
 
   // Look up prediction for a constituency
@@ -84,7 +87,6 @@ export const ElectionMap = ({ mapType = 'parlimen', useCartogram = false, onCons
       })
       layer.bringToFront()
 
-      setSelectedConstituency({ code, name, prediction })
       if (onConstituencySelect) onConstituencySelect(code, name)
     })
 
@@ -133,7 +135,7 @@ export const ElectionMap = ({ mapType = 'parlimen', useCartogram = false, onCons
       <div className="election-map-container">
         <div className="map-panel-header">
           <span className="map-panel-label">INTERACTIVE MAP</span>
-          <span className="map-panel-sublabel">{mapType.toUpperCase()}</span>
+          <span className="map-panel-sublabel">{mapType.toUpperCase()}{useCartogram ? ' · CARTOGRAM' : ''}</span>
         </div>
         <div className="election-map-loading">Loading map...</div>
       </div>
@@ -144,7 +146,7 @@ export const ElectionMap = ({ mapType = 'parlimen', useCartogram = false, onCons
     <div className="election-map-container">
       <div className="map-panel-header">
         <span className="map-panel-label">INTERACTIVE MAP</span>
-        <span className="map-panel-sublabel">{mapType.toUpperCase()}</span>
+        <span className="map-panel-sublabel">{mapType.toUpperCase()}{useCartogram ? ' · CARTOGRAM' : ''}</span>
       </div>
       <MapContainer center={[1.485, 103.74]} zoom={8} className="election-map">
         <TileLayer
@@ -155,123 +157,6 @@ export const ElectionMap = ({ mapType = 'parlimen', useCartogram = false, onCons
         <GeoJSON data={geoJsonData} style={getFeatureStyle} onEachFeature={onEachFeature} />
       </MapContainer>
 
-      {selectedConstituency && (
-        <div className="constituency-popup">
-          <ConstituencyPopup
-            code={selectedConstituency.code}
-            name={selectedConstituency.name}
-            prediction={selectedConstituency.prediction}
-            onClose={() => setSelectedConstituency(null)}
-          />
-        </div>
-      )}
     </div>
   )
-}
-
-/**
- * ConstituencyPopup — Show prediction details and signal breakdown
- */
-const ConstituencyPopup = ({ code, name, prediction, onClose }) => {
-  if (!prediction) {
-    return (
-      <Stack className="popup">
-        <Group justify="space-between">
-          <div>
-            <Text fw={700} c="cyan" size="lg">
-              {name}
-            </Text>
-            <Text c="dimmed" size="sm">
-              {code}
-            </Text>
-          </div>
-          <button className="popup-close" onClick={onClose}>
-            ✕
-          </button>
-        </Group>
-        <Text c="dimmed">No prediction data available.</Text>
-      </Stack>
-    )
-  }
-
-  const { leading_party, confidence, signal_breakdown, caveats, num_articles } = prediction
-
-  return (
-    <Stack className="popup">
-      <Group justify="space-between">
-        <div>
-          <Text fw={700} c="cyan" size="lg">
-            {name}
-          </Text>
-          <Text c="dimmed" size="sm">
-            {code}
-          </Text>
-        </div>
-        <button className="popup-close" onClick={onClose}>
-          ✕
-        </button>
-      </Group>
-
-      <Group>
-        <Badge size="lg" color={PARTY_COLORS[leading_party] || 'gray'}>
-          {leading_party || 'No Data'}
-        </Badge>
-        <Text fw={700} c={getConfidenceColor(confidence)}>
-          {confidence}% confidence
-        </Text>
-      </Group>
-
-      <Stack gap="xs" className="signal-breakdown">
-        <Text fw={700} size="sm" c="cyan">
-          Signal Breakdown:
-        </Text>
-        {signal_breakdown &&
-          Object.entries(signal_breakdown).map(([lens, data]) => (
-            <div key={lens} className="signal-lens">
-              <Group justify="space-between">
-                <Text size="sm" fw={500} tt="capitalize">
-                  {lens}
-                </Text>
-                {data.direction && (
-                  <Badge size="sm" variant="light">
-                    {data.direction}
-                  </Badge>
-                )}
-              </Group>
-              {data.strength && <Text size="xs" c="dimmed">{data.strength}% strength</Text>}
-              {data.summary && <Text size="xs" c="dimmed">{data.summary}</Text>}
-            </div>
-          ))}
-      </Stack>
-
-      {caveats && caveats.length > 0 && (
-        <Stack gap="xs" className="caveats">
-          <Text fw={700} size="sm" c="red">
-            Caveats:
-          </Text>
-          <ul>
-            {caveats.map((caveat, i) => (
-              <li key={i}>
-                <Text size="xs" c="red">
-                  {caveat}
-                </Text>
-              </li>
-            ))}
-          </ul>
-        </Stack>
-      )}
-
-      {num_articles && (
-        <Text size="xs" c="dimmed">
-          Based on {num_articles} article{num_articles !== 1 ? 's' : ''}
-        </Text>
-      )}
-    </Stack>
-  )
-}
-
-const getConfidenceColor = (confidence) => {
-  if (confidence >= 70) return 'lime'
-  if (confidence >= 40) return 'yellow'
-  return 'red'
 }

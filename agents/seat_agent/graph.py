@@ -16,8 +16,31 @@ from control_plane.db import get_session_maker
 log = structlog.get_logger(__name__)
 
 
+def _extract_analyses(articles, analyses_map: dict) -> dict:
+    """Aggregate lens analyses from a list of articles into signal buckets."""
+    signals = {"political": [], "demographic": [], "historical": [], "strategic": [], "factcheck": [], "bridget_welsh": []}
+    for article in articles:
+        for analysis in analyses_map.get(article.id, []):
+            lens = analysis.lens_name
+            if lens in signals:
+                signals[lens].append({
+                    "article_id": article.id,
+                    "source": article.source,
+                    "direction": analysis.direction,
+                    "strength": analysis.strength,
+                    "summary": analysis.summary,
+                })
+    return signals
+
+
 async def gather_signals(state: dict) -> dict:
-    """Gather multi-lens analysis signals for the constituency."""
+    """Gather multi-lens analysis signals for the constituency.
+
+    Produces two buckets:
+    - signals: from articles specifically tagged to this constituency
+    - state_signals: from Johor-wide articles (no specific constituency tag)
+    Both are passed to assess so the LLM has full context.
+    """
     constituency_code = state.get("constituency_code")
     if not constituency_code:
         state["error"] = "No constituency_code provided"
@@ -25,61 +48,65 @@ async def gather_signals(state: dict) -> dict:
 
     log.info("seat.gather_signals", constituency_code=constituency_code)
 
-    # Get database session
     session_maker = get_session_maker()
     if not session_maker:
         state["error"] = "Database not initialized"
         return state
 
-    signals = {"political": [], "demographic": [], "historical": [], "strategic": [], "factcheck": [], "bridget_welsh": []}
+    empty_signals = {"political": [], "demographic": [], "historical": [], "strategic": [], "factcheck": [], "bridget_welsh": []}
 
     try:
         async with session_maker() as session:
-            # Find all articles tagged to this constituency (last 30 days)
-            stmt = select(Article).where(
+            # Bucket 1: articles specifically tagged to this constituency
+            stmt_specific = select(Article).where(
                 Article.constituency_ids.contains([constituency_code])
             ).order_by(Article.scraped_at.desc()).limit(100)
+            result_specific = await session.execute(stmt_specific)
+            specific_articles = result_specific.scalars().all()
 
-            result = await session.execute(stmt)
-            articles = result.scalars().all()
+            # Bucket 2: state-level articles — Johor-relevant but no constituency tag
+            stmt_state = select(Article).where(
+                Article.constituency_ids == []
+            ).order_by(Article.scraped_at.desc()).limit(50)
+            result_state = await session.execute(stmt_state)
+            state_articles = result_state.scalars().all()
 
-            if not articles:
-                log.warning("seat.no_articles", constituency_code=constituency_code)
-                state["num_articles"] = 0
-                state["signals"] = signals
-                state["caveats"] = [f"No articles found for {constituency_code}"]
-                return state
-
-            # For each article, gather its lens analyses
-            for article in articles:
-                stmt_analyses = select(Analysis).where(Analysis.article_id == article.id)
+            # Fetch all analyses in one query per article set
+            all_article_ids = [a.id for a in specific_articles] + [a.id for a in state_articles]
+            analyses_map: dict = {}
+            if all_article_ids:
+                stmt_analyses = select(Analysis).where(Analysis.article_id.in_(all_article_ids))
                 result_analyses = await session.execute(stmt_analyses)
-                analyses = result_analyses.scalars().all()
+                for analysis in result_analyses.scalars().all():
+                    analyses_map.setdefault(analysis.article_id, []).append(analysis)
 
-                for analysis in analyses:
-                    lens = analysis.lens_name
-                    if lens in signals:
-                        signals[lens].append(
-                            {
-                                "article_id": article.id,
-                                "source": article.source,
-                                "direction": analysis.direction,
-                                "strength": analysis.strength,
-                                "summary": analysis.summary,
-                            }
-                        )
+            signals = _extract_analyses(specific_articles, analyses_map)
+            state_signals = _extract_analyses(state_articles, analyses_map)
 
-            state["num_articles"] = len(articles)
+            state["num_articles"] = len(specific_articles)
+            state["num_state_articles"] = len(state_articles)
             state["signals"] = signals
+            state["state_signals"] = state_signals
             state["caveats"] = []
 
-            if len(articles) < 5:
-                state["caveats"].append(f"Only {len(articles)} article(s) found — low confidence")
+            if not specific_articles and not state_articles:
+                state["caveats"].append("No articles found — prediction based on historical baseline only")
+            elif not specific_articles:
+                state["caveats"].append(f"No constituency-specific articles — using {len(state_articles)} state-level articles only")
+            elif len(specific_articles) < 5:
+                state["caveats"].append(f"Only {len(specific_articles)} constituency-specific article(s) found — low confidence")
 
-            log.info("seat.signals_gathered", constituency_code=constituency_code, num_articles=len(articles), num_lenses=sum(len(v) for v in signals.values()))
+            log.info("seat.signals_gathered",
+                     constituency_code=constituency_code,
+                     specific_articles=len(specific_articles),
+                     state_articles=len(state_articles),
+                     specific_signals=sum(len(v) for v in signals.values()),
+                     state_signals=sum(len(v) for v in state_signals.values()))
 
     except Exception as e:
         log.error("seat.gather_signals.error", error=str(e), constituency_code=constituency_code)
+        state["signals"] = empty_signals
+        state["state_signals"] = empty_signals
         state["error"] = f"Error gathering signals: {str(e)}"
 
     return state
@@ -159,25 +186,33 @@ async def assess(state: dict) -> dict:
     """LLM-based assessment: aggregate signals into SeatPrediction."""
     constituency_code = state.get("constituency_code")
     signals = state.get("signals", {})
+    state_signals = state.get("state_signals", {})
     caveats = state.get("caveats", [])
 
     log.info("seat.assess", constituency_code=constituency_code)
 
-    # Prepare signal summary for LLM
-    signal_summary = {}
-    for lens, analyses in signals.items():
-        if analyses:
-            avg_strength = sum(a.get("strength", 0) for a in analyses) / len(analyses)
-            directions = [a.get("direction") for a in analyses if a.get("direction")]
-            leading = max(set(directions), key=directions.count) if directions else None
-            signal_summary[lens] = {"direction": leading, "strength": int(avg_strength)}
-        else:
-            signal_summary[lens] = None
+    def _summarise_signals(raw: dict) -> dict:
+        summary = {}
+        for lens, analyses in raw.items():
+            if analyses:
+                avg_strength = sum(a.get("strength", 0) for a in analyses if isinstance(a, dict)) / len(analyses)
+                directions = [a.get("direction") for a in analyses if isinstance(a, dict) and a.get("direction")]
+                leading = max(set(directions), key=directions.count) if directions else None
+                summary[lens] = {"direction": leading, "strength": int(avg_strength)}
+            else:
+                summary[lens] = None
+        return summary
+
+    signal_summary = _summarise_signals(signals)
+    state_signal_summary = _summarise_signals(state_signals)
 
     baseline = state.get("wiki_baseline", {})
     historical_winners = baseline.get("historical_winners", {})
     voter_demographics = baseline.get("voter_demographics", {})
     constituency_name = baseline.get("constituency_name", constituency_code)
+
+    num_specific = state.get("num_articles", 0)
+    num_state = state.get("num_state_articles", 0)
 
     prompt = f"""
 You are an election analyst for Johor, Malaysia. Assess constituency {constituency_code} ({constituency_name}).
@@ -188,10 +223,17 @@ You are an election analyst for Johor, Malaysia. Assess constituency {constituen
 ## Voter Demographics
 {json.dumps(voter_demographics, indent=2)}
 
-## Current Signals from News Analysis
+## Constituency-Specific Signals  ({num_specific} articles tagged directly to {constituency_code})
+These signals are from articles that explicitly mention this constituency or its candidates.
+Weight these heavily when available.
 {json.dumps(signal_summary, indent=2)}
 
-Based on the historical patterns, demographic composition, and current news signals, predict the likely winner.
+## State-Level Signals  ({num_state} Johor-wide articles, no specific constituency tag)
+These signals reflect broader Johor political trends. Apply them as background context
+for all seats — weight them at roughly half the importance of constituency-specific signals.
+{json.dumps(state_signal_summary, indent=2)}
+
+Based on all of the above, predict the likely winner of this constituency.
 
 Return a JSON object:
 {{
@@ -211,7 +253,8 @@ Return a JSON object:
 }}
 
 Key guidelines:
-- If no current news signals exist, weight historical baseline heavily (confidence 30-50 range)
+- If no constituency-specific signals exist, rely on state-level signals + historical baseline
+- If no signals exist at all, weight historical baseline heavily (confidence 30-50 range)
 - If signals contradict history, note this and lower confidence
 - Factor in demographic composition when assessing party strength
 - Consider three-cornered fight dynamics (BN vs PH vs PN vote splitting)

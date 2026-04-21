@@ -35,8 +35,8 @@ def _make_openai_client():
     )
 
 
-def _get_model() -> str:
-    return os.environ.get("OPENAI_MODEL", "openai/gpt-4o")
+def _get_model(override: str | None = None) -> str:
+    return override or os.environ.get("OPENAI_MODEL", "openai/gpt-4o")
 
 
 # ---------------------------------------------------------------------------
@@ -73,7 +73,7 @@ def _anthropic_call(messages: list[dict], **kwargs) -> str:
 # Public interface
 # ---------------------------------------------------------------------------
 
-def _openrouter_call(messages: list[dict[str, Any]], **kwargs) -> str:
+def _openrouter_call(messages: list[dict[str, Any]], model: str | None = None, **kwargs) -> str:
     """Call OpenRouter with retry (exponential backoff, up to 3 attempts)."""
     max_attempts = 3
     last_exc: Exception | None = None
@@ -81,7 +81,7 @@ def _openrouter_call(messages: list[dict[str, Any]], **kwargs) -> str:
         try:
             client = _make_openai_client()
             resp = client.chat.completions.create(
-                model=_get_model(),
+                model=_get_model(model),
                 messages=messages,
                 **kwargs,
             )
@@ -99,13 +99,14 @@ def _openrouter_call(messages: list[dict[str, Any]], **kwargs) -> str:
     raise last_exc  # type: ignore[misc]
 
 
-def llm_call(messages: list[dict[str, Any]], **kwargs) -> str:
+def llm_call(messages: list[dict[str, Any]], model: str | None = None, **kwargs) -> str:
     """Synchronous LLM call with Anthropic fallback.
 
     kwargs are forwarded to the OpenAI SDK (e.g. temperature, response_format).
+    Pass model= to override the default (e.g. a cheaper/faster model for classification).
     """
     try:
-        return _openrouter_call(messages, **kwargs)
+        return _openrouter_call(messages, model=model, **kwargs)
     except Exception as exc:
         _maybe_fallback_log(exc)
         return _anthropic_call(messages, **kwargs)
