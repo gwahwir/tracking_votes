@@ -202,7 +202,7 @@ def _upsert_node(state: NewsState) -> NewsState:
                     await conn.execute(
                         """
                         INSERT INTO articles
-                            (id, url, title, content, source, published_at, constituency_ids)
+                            (id, url, title, content, source, scraped_at, constituency_ids)
                         VALUES ($1, $2, $3, $4, $5, $6, $7)
                         ON CONFLICT (url) DO UPDATE
                             SET title=EXCLUDED.title,
