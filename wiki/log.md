@@ -6028,3 +6028,2943 @@ Pages updated: none
 Wiki update parse error — no changes applied.
 
 Pages updated: none
+
+## 2026-04-21T16:06:10Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:06:17Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:06:19Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:06:20Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:06:21Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:06:21Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:06:22Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:06:26Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:06:26Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:06:39Z
+
+Added a new April 2026 entry on DAP’s Jamaliah and MCA Youth leader Andy Teoh’s criticism of a book ban, citing Free Malaysia Today.
+
+Pages updated: entities/parties/dap.md
+
+## 2026-04-21T16:06:39Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:06:39Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:06:40Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:06:40Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:06:40Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:06:54Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:06:54Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:07:01Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:07:04Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:07:09Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:07:09Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:07:09Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:07:09Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:07:10Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:07:10Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:07:10Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:07:24Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:07:24Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:07:25Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:07:25Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:07:34Z
+
+Added a new person page for Justice Gan Techiong documenting his High Court appointment on 21 April 2026, sourced from Free Malaysia Today.
+
+Pages updated: entities/people/gan_techiong.md
+
+## 2026-04-21T16:07:40Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:07:40Z
+
+Added a new page for Justice Gan Techiong documenting his High Court appointment and family details from the 21 April 2026 article.
+
+Pages updated: entities/people/justice-gan-techiong.md
+
+## 2026-04-21T16:07:40Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:07:40Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:07:40Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:07:40Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:07:42Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:07:42Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:07:42Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:07:42Z
+
+Added recent news about DAP MP Gan Kim Sing attending his son Justice Gan Techiong's High Court oath‑taking (21 Apr 2026).
+
+Pages updated: entities/parties/dap.md
+
+## 2026-04-21T16:07:46Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:07:46Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:07:46Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:07:46Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:07:49Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:07:49Z
+
+Added news of DAP MP Gan Kim Sing's son being appointed High Court judge on 21 April 2026.
+
+Pages updated: entities/parties/dap.md
+
+## 2026-04-21T16:07:49Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:07:49Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:07:49Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:07:49Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:07:50Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:07:55Z
+
+Added a new person page for Gan Kim Sing, noting his profession, MP role, and his son Justice Gan Techiong's High Court appointment on 21 April 2026.
+
+Pages updated: entities/people/gan_kim_sing.md
+
+## 2026-04-21T16:07:55Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:07:55Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:08:01Z
+
+Added mention of DAP MP Jam Jamaliah's controversy over a book ban, referencing the new article.
+
+Pages updated: entities/parties/dap.md
+
+## 2026-04-21T16:08:02Z
+
+Added a recent news item about DAP MP Gan Kim Sing attending his son Justice Gan Techiong's High Court oath‑taking on 21 April 2026.
+
+Pages updated: entities/parties/dap.md
+
+## 2026-04-21T16:08:02Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:08:02Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:08:02Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:08:06Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:08:06Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:08:09Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:08:09Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:08:10Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:08:10Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:08:13Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:08:24Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:08:24Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:08:24Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:08:24Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:08:26Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:08:26Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:08:26Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:08:26Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:08:29Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:08:29Z
+
+Added frail health detail of Gan Kim Sing to Justice Gan Techiong and DAP pages.
+
+Pages updated: entities/people/justice-gan-techiong.md, entities/parties/dap.md
+
+## 2026-04-21T16:08:32Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:08:35Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:08:35Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:08:35Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:08:35Z
+
+Added a new bullet to DAP's Recent News about Jamaliah's alliance with MCA Youth leader Andy Teoh over a book ban, citing Free Malaysia Today (2026‑04‑21).
+
+Pages updated: entities/parties/dap.md
+
+## 2026-04-21T16:08:35Z
+
+Added ​  
+
+Pages updated: entities/parties/dap.md
+
+## 2026-04-21T16:08:35Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:08:35Z
+
+Added detail about Gan Kim Sing's frail health to Justice Gan Techiong and DAP pages, citing Free Malaysia Today article.
+
+Pages updated: entities/people/justice-gan-techiong.md, entities/people/gan_techiong.md, entities/parties/dap.md
+
+## 2026-04-21T16:08:41Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:08:41Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:08:41Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:08:43Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:08:43Z
+
+Added note about Gan Kim Sing's frail health during his travel to his son's oath‑taking ceremony.
+
+Pages updated: entities/people/gan_kim_sing.md
+
+## 2026-04-21T16:08:43Z
+
+Added frail health detail to Gan Kim Sing page per article.
+
+Pages updated: entities/people/gan_kim_sing.md
+
+## 2026-04-21T16:08:43Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:08:44Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:08:45Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:08:45Z
+
+Added mention of Gan Kim Sing's frail health to his, his son's, and DAP pages, citing the 21‑April‑2026 Free Malaysia Today article.
+
+Pages updated: entities/people/gan_kim_sing.md, entities/people/justice-gan-techiong.md, entities/parties/dap.md
+
+## 2026-04-21T16:08:46Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:08:46Z
+
+Added new page for NGO Antara documenting the 21 April 2026 detention of its deputy chairman over RM230 million zakat misappropriation.
+
+Pages updated: entities/organizations/antara.md
+
+## 2026-04-21T16:08:46Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:08:46Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:08:46Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:08:46Z
+
+Added a new bullet to DAP page noting MP Gan Kim Sing's son Justice Gan Techiong's High Court appointment on 21 April 2026.
+
+Pages updated: entities/parties/dap.md
+
+## 2026-04-21T16:08:46Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:08:47Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:08:48Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T16:08:49Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:09:02Z
+
+Added a new recent‑news entry about DAP member Jamaliah's alliance with an MCA Youth leader over a book ban and Andy Teoh's criticism, citing Free Malaysia Today (2026‑04‑21).
+
+Pages updated: entities/parties/dap.md
+
+## 2026-04-21T16:09:11Z
+
+Added details about Gan Kim Sing and Tiong Choo traveling from Johor Bahru to the oath‑taking ceremony to relevant pages.
+
+Pages updated: entities/people/justice-gan-techiong.md, entities/people/gan_techiong.md, entities/parties/dap.md
+
+## 2026-04-21T16:09:16Z
+
+Added new person page for MCA Youth leader Andy Teoh, documenting his April 2026 statement supporting DAP’s Jamaliah on the book‑ban issue.
+
+Pages updated: entities/people/andy_teoh.md
+
+## 2026-04-21T16:09:17Z
+
+Added new page for NGO Antara documenting the 21 April 2026 detention of its deputy chairman over RM230 million zakat misappropriation.
+
+Pages updated: entities/organizations/ngo-antara.md
+
+## 2026-04-21T16:09:22Z
+
+Added a new 'Recent Controversies' section to the Johor political landscape page to record the April 2026 NGO zakat misappropriation case.
+
+Pages updated: concepts/johor-political-landscape.md
+
+## 2026-04-21T16:09:31Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:09:36Z
+
+Added a new recent‑news entry to the DAP page about Jamaliah's collaboration with an MCA Youth leader on a book‑ban issue.
+
+Pages updated: entities/parties/dap.md
+
+## 2026-04-21T16:09:37Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T16:09:57Z
+
+Added the detail that Gan Kim Sing attended his son's oath‑taking despite frail health to both Gan Kim Sing and Justice Gan Techiong pages.
+
+Pages updated: entities/people/gan_kim_sing.md, entities/people/justice-gan-techiong.md
+
+## 2026-04-21T16:17:41Z
+
+Updated the relevant pages to reflect the father and mother’s travel from Johor ‑ the new article adds that they travelled from Johor Bahru.
+
+Pages updated: entities/people/justice-gan-techiong.md, entities/people/gan_techiong.md
+
+## 2026-04-21T16:24:41Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:24:42Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:24:42Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:24:43Z
+
+Added details of three arrests and asset seizures (luxury vehicles and RM11 million in property) to both NGO Antara pages.
+
+Pages updated: entities/organizations/ngo-antara.md, entities/organizations/antara.md
+
+## 2026-04-21T16:24:43Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:24:43Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:24:44Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:24:44Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:24:44Z
+
+Added new page for Jamaliah documenting her alliance with Andy Teoh over the book ban.
+
+Pages updated: entities/people/jamaliah.md
+
+## 2026-04-21T16:24:45Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:24:45Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T16:24:46Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:24:46Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:24:47Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:24:48Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:24:48Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T16:24:48Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:24:51Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:24:51Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:24:51Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:24:52Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T16:24:52Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T16:24:52Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:24:52Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:24:52Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:24:53Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:24:54Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:24:57Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T16:24:57Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T16:24:58Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T16:25:01Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:25:01Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:25:03Z
+
+Added the April 21 2026 book‑ban incident to Jamaliah, Andy Teoh, and DAP pages.
+
+Pages updated: entities/people/jamaliah.md, entities/people/andy_teoh.md, entities/parties/dap.md
+
+## 2026-04-21T16:25:03Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:25:05Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T16:25:05Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:25:14Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T16:25:15Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:25:15Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:25:15Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:25:15Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:25:15Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:25:16Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:25:30Z
+
+Updated ...
+
+Pages updated: entities/people/jamaliah.md, entities/people/andy_teoh.md, entities/parties/dap.md
+
+## 2026-04-21T16:25:30Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:25:30Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T16:25:31Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:25:31Z
+
+Added the new alliance between Jamaliah and Andy Teoh and updated Andy Teoh's notable statement with citation.
+
+Pages updated: entities/people/andy_teoh.md, entities/parties/dap.md
+
+## 2026-04-21T16:25:31Z
+
+Added the April 21 2026 book‑ban controversy to Jamaliah, Andy Teoh and DAP pages.
+
+Pages updated: entities/people/jamaliah.md, entities/people/andy_teoh.md, entities/parties/dap.md
+
+## 2026-04-21T16:25:31Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T16:25:31Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:25:31Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:25:31Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:25:31Z
+
+Added the April 21 2026 book‑ban incident to Jamaliah, Andy Teoh and DAP pages.
+
+Pages updated: entities/people/jamaliah.md, entities/people/andy_teoh.md, entities/parties/dap.md
+
+## 2026-04-21T16:25:31Z
+
+Added MACC seizure details (18 luxury vehicles and RM11 million in properties) to Antara NGO pages.
+
+Pages updated: entities/organizations/ngo-antara.md, entities/organizations/antara.md
+
+## 2026-04-21T16:25:31Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:25:31Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:25:31Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:26:06Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:26:06Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:26:06Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:26:06Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:26:06Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:26:06Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:26:06Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:26:06Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:26:06Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:26:06Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:26:06Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:26:06Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:26:06Z
+
+Added 
+
+Pages updated: entities/people/jamaliah.md, entities/people/andy_t... (truncated)
+
+## 2026-04-21T16:26:06Z
+
+Added Andy Teoh's 21 April 2026 comment on the book ban, citing Free Malaysia Today.
+
+Pages updated: entities/people/andy_teoh.md
+
+## 2026-04-21T16:26:08Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:26:08Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:26:08Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:26:08Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:26:08Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:26:08Z
+
+Added the 21 April 2026 book‑ban incident to Jamaliah and Andy Teoh pages.
+
+Pages updated: entities/people/jamaliah.md, entities/people/andy_teoh.md
+
+## 2026-04-21T16:26:12Z
+
+Added Andy Teoh's 21 April 2026 statement on the book ban to his page.
+
+Pages updated: entities/people/andy_teoh.md
+
+## 2026-04-21T16:26:12Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T16:26:12Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:26:12Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:26:12Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:26:12Z
+
+Added the April 21, 2026 event linking Jamaliah and Andy Teoh over the book ban to both individuals' pages.
+
+Pages updated: entities/people/jamaliah.md, entities/people/andy_teoh.md
+
+## 2026-04-21T16:26:13Z
+
+Added citation and corrected details for Jamaliah’s recent ally with MCA Youth leader Andy Teoh, and expanded Andy Teoh’s notable statements with the book‑ban comment.
+
+Pages updated: entities/people/jamaliah.md, entities/people/andy_teoh.md
+
+## 2026-04-21T16:26:13Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:26:13Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:26:15Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:26:17Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:26:17Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:26:19Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:26:19Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:26:19Z
+
+Added Andy Teoh's 21 April 2026 statement on the book ban, providing citation from Free Malaysia Today.
+
+Pages updated: entities/people/andy_teoh.md
+
+## 2026-04-21T16:26:19Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:26:19Z
+
+Added t​t
+
+Pages updated: entities/people/jamaliah.md, entities/people/andy_teoh.md
+
+## 2026-04-21T16:26:19Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:26:19Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:26:24Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:26:24Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T16:26:34Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:26:34Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:26:37Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:26:38Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:26:39Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:26:39Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:26:39Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:26:47Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:26:47Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:26:47Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:26:47Z
+
+Added the April 21 2026 book‑ban controversy to Jamaliah, Andy Teoh, and DAP pages.
+
+Pages updated: entities/people/jamaliah.md, entities/people/andy_teoh.md, entities/parties/dap.md
+
+## 2026-04-21T16:26:48Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:26:48Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:26:48Z
+
+Added the new April 21 2024/2026 article details to Jamaliae and Andy ...
+
+Pages updated: entities/people/jamaliah.md, entities/people/andy_teoh.md, entities/parties/dap.md
+
+## 2026-04-21T16:26:48Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:26:48Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:26:48Z
+
+Added the April 21 2026 book‑ban controversy involving Jamaliah and Andy Teoh to their pages and the DAP party news.
+
+Pages updated: entities/people/jamaliah.md, entities/people/andy_teoh.md, entities/parties/dap.md
+
+## 2026-04-21T16:26:48Z
+
+Added that three individuals were nabbed (including the deputy chairman) and clarified the allegations as 'allegedly siphoning' on both NGO Antara pages.
+
+Pages updated: entities/organizations/ngo-antara.md, entities/organizations/antara.md
+
+## 2026-04-21T16:26:48Z
+
+Added the April 21 2026 book‑ban incident to Jamaliah, Andy Teoh and DAP pages.
+
+Pages updated: entities/people/jamaliah.md, entities/people/andy_teoh.md, entities/parties/dap.md
+
+## 2026-04-21T16:26:48Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:26:48Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:26:48Z
+
+Updated Antara NGO pages to reflect that three people were detained (not just the deputy chairman) in the RM230 million zakat fund scandal, with citations.
+
+Pages updated: entities/organizations/ngo-antara.md, entities/organizations/antara.md
+
+## 2026-04-21T16:26:48Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:26:52Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:26:52Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:26:56Z
+
+Added the April 21 2026 book‑ban incident to Jamaliah, Andy Teoh and DAP pages.
+
+Pages updated: entities/people/jamaliah.md, entities/people/andy_teoh.md, entities/parties/dap.md
+
+## 2026-04-21T16:26:57Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:26:57Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:26:57Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:26:57Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:26:57Z
+
+Added detail that three individuals were nabbed in the RM230 million zakat fund scandal and updated both Antara pages with this fact.
+
+Pages updated: entities/organizations/ngo-antara.md, entities/organizations/antara.md
+
+## 2026-04-21T16:26:57Z
+
+Added Andy Teoh page with his role as MCA Youth leader and his comment on the book ban, linking him to Jamaliah.
+
+Pages updated: entities/people/andy_teoh.md
+
+## 2026-04-21T16:26:58Z
+
+Added that three individuals were nabbed in the Antara zakat fund scandal, reflecting the new detail from the article.
+
+Pages updated: entities/organizations/ngo-antara.md, entities/organizations/antara.md
+
+## 2026-04-21T16:26:58Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T16:27:02Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:27:02Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:27:02Z
+
+Added a full profile for Andy Teoh with his MCA Youth leadership role and his comment on the book ban, citing the 21 April 2026 Free Malaysia Today article.
+
+Pages updated: entities/people/andy_teoh.md
+
+## 2026-04-21T16:27:02Z
+
+Added Andy Teoh page with his role as MCA Youth leader and his comment on the book ban, citing the Free Malaysia Today article.
+
+Pages updated: entities/people/andy_teoh.md
+
+## 2026-04-21T16:27:02Z
+
+Added Andy Teoh profile with his MCA Youth role and his comment on the book ban, citing Free Malaysia Today.
+
+Pages updated: entities/people/andy_teoh.md
+
+## 2026-04-21T16:27:02Z
+
+Added the fact that three individuals were nabbed for siphoning RM230 million in zakat funds to both NGO Antara pages.
+
+Pages updated: entities/organizations/ngo-antara.md, entities/organizations/antara.md
+
+## 2026-04-21T16:27:05Z
+
+Added the fact that three individuals were detained (including the deputy chairman) to both Antara NGO pages, reflecting the new article.
+
+Pages updated: entities/organizations/ngo-antara.md, entities/organizations/antara.md
+
+## 2026-04-21T16:27:08Z
+
+Added Andy Teoh page with his role as MCA Youth leader and his comment on the book ban, linking him as Jamaliah's unexpected ally.
+
+Pages updated: entities/people/andy_teoh.md
+
+## 2026-04-21T16:27:08Z
+
+Added Andy Teoh page with role and statement; expanded Jamaliah page with detailed news bullet about the book ban and Andy Teoh's comment.
+
+Pages updated: entities/people/andy_teoh.md, entities/people/jamaliah.md
+
+## 2026-04-21T16:27:16Z
+
+Added that three individuals were detained in the Antara zakat fund scandal, updating both Antara pages with the new detail.
+
+Pages updated: entities/organizations/ngo-antara.md, entities/organizations/antara.md
+
+## 2026-04-21T16:27:17Z
+
+Added that three individuals were detained in the Antara zakat fund scandal, updating both Antara pages with the new detail.
+
+Pages updated: entities/organizations/ngo-antara.md, entities/organizations/antara.md
+
+## 2026-04-21T16:27:17Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:27:17Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:27:17Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T16:27:17Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:27:17Z
+
+Added the fact that three individuals were nabbed in the Antara zakat fund scandal to both Antara pages.
+
+Pages updated: entities/organizations/ngo-antara.md, entities/organizations/antara.md
+
+## 2026-04-21T16:27:17Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:27:17Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T16:27:18Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:27:19Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:27:21Z
+
+Added that three individuals (including the deputy chairman) were nabbed for allegedly siphoning RM230 million in zakat funds to both NGO Antara pages.
+
+Pages updated: entities/organizations/ngo-antara.md, entities/antara.md
+
+## 2026-04-21T16:27:30Z
+
+Added new page for UM Students’ Group documenting police disruption of an anti‑graft forum on 21 April 2026.
+
+Pages updated: entities/organizations/um_students_group.md
+
+## 2026-04-21T16:27:34Z
+
+Added the new April 21, 2026 article about Jamaliah and Andy Teoh to relevant pages.
+
+Pages updated: entities/people/jamaliah.md, entities/people/andy_teoh.md, entities/parties/dap.md
+
+## 2026-04-21T16:27:38Z
+
+Updated Jamaliac...
+
+Pages updated: entities/people/jamaliah.md, entities/people/andy_teoh.md, entities/parties/dap.md
+
+## 2026-04-21T16:27:46Z
+
+Marked Jamaliah's designation as MP as contradictory, since the article identifies her as a DAP State Assembly Member.
+
+Pages updated: entities/parties/dap.md
+
+## 2026-04-21T16:27:54Z
+
+Added the fact that three individuals were nabbed in the RM230 million zakat fund scandal to both Antara NGO pages.
+
+Pages updated: entities/organizations/ngo-antara.md, entities/organizations/antara.md
+
+## 2026-04-21T16:27:54Z
+
+Added that three individuals were nabbed and retained seizure details on vehicles and properties to both Antara pages.
+
+Pages updated: entities/organizations/ngo-antara.md, entities/organizations/antara.md
+
+## 2026-04-21T16:27:55Z
+
+Added that three individuals were nabbed in the RM230 million zakat fund scandal and updated both Antara pages with this detail.
+
+Pages updated: entities/organizations/ngo-antara.md, entities/organizations/antara.md
+
+## 2026-04-21T16:28:16Z
+
+Added that three individuals were nabbed (including the deputy chairman) and retained seizure details on vehicles and property to both Antara pages.
+
+Pages updated: entities/organizations/ngo-antara.md, entities/organizations/antara.md
+
+## 2026-04-21T16:28:24Z
+
+Added the fact that three individuals were nabbed in the RM230 million zakat fund scandal to both Antara pages.
+
+Pages updated: entities/organizations/ngo-antara.md, entities/organizations/antara.md
+
+## 2026-04-21T16:39:55Z
+
+Updated   
+
+Pages updated: entities/people/jamaliah.md
+
+## 2026-04-21T16:49:36Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:49:37Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:49:38Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:49:39Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T16:49:46Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:49:46Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:49:46Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:49:49Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:49:50Z
+
+Added detail that UM students’ group expressed regret and claimed police blocked the anti‑corruption forum on 21 April 2026.
+
+Pages updated: entities/organizations/um_students_group.md
+
+## 2026-04-21T16:49:50Z
+
+Added the group's expressed regret about police halting the anti‑graft forum to the UM Students’ Group page.
+
+Pages updated: entities/organizations/um_students_group.md
+
+## 2026-04-21T16:49:50Z
+
+Added a second bullet to the UM Students’ Group page to capture the group's claim that police disrupted the anti‑graft forum, with proper citation.
+
+Pages updated: entities/organizations/um_students_group.md
+
+## 2026-04-21T16:49:51Z
+
+Added the group's expressed regret and claim of police interference to the UM Students’ Group page, with citation.
+
+Pages updated: entities/organizations/um_students_group.md
+
+## 2026-04-21T16:49:55Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T16:49:58Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:50:03Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T16:50:06Z
+
+Added the new report of police halting the anti‑graft forum to the UM Students’ Group page.
+
+Pages updated: entities/organizations/um_students_group.md
+
+## 2026-04-21T16:50:06Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T16:50:06Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:50:06Z
+
+Added the specific claim of police halting the anti‑graft forum to the UM Students’ Group page.
+
+Pages updated: entities/organizations/um_students_group.md
+
+## 2026-04-21T16:50:06Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:50:07Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:50:08Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:50:08Z
+
+Added the new report of police halting the anti‑graft forum to the UM Students’ Group page.
+
+Pages updated: entities/organizations/um_students_group.md
+
+## 2026-04-21T16:50:11Z
+
+No relevant updates needed as the article's facts are already reflected in existing pages.
+
+Pages updated: none
+
+## 2026-04-21T16:50:13Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:50:15Z
+
+Added the new article about police halting the UM anti‑graft forum to the UM Students’ Group page.
+
+Pages updated: entities/organizations/um_students_group.md
+
+## 2026-04-21T16:50:15Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T16:50:16Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:50:16Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:50:25Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:50:25Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:50:27Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:50:27Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:50:30Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:50:30Z
+
+Added the new report of police halting the anti‑graft forum to the UM Students’ Group page.
+
+Pages updated: entities/organizations/um_students_group.md
+
+## 2026-04-21T16:50:31Z
+
+Added the group's expressed regret ("kesal") and clarified the police interruption of the anti‑graft forum.
+
+Pages updated: entities/organizations/um_students_group.md
+
+## 2026-04-21T16:50:31Z
+
+Added Malay-language detail from the new article to the UM Students’ Group page.
+
+Pages updated: entities/organizations/um_students_group.md
+
+## 2026-04-21T16:50:31Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T16:50:32Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:50:32Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:50:33Z
+
+Added the specific claim of police halting the anti‑graft forum to the UM Students’ Group page.
+
+Pages updated: entities/organizations/um_students_group.md
+
+## 2026-04-21T16:50:34Z
+
+Added the new report of police halting the anti‑graft forum to the UM Students’ Group page.
+
+Pages updated: entities/organizations/um_students_group.md
+
+## 2026-04-21T16:50:35Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:50:35Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:50:35Z
+
+Added the students' regret statement and claim of police suppression to the UM Students’ Group page.
+
+Pages updated: entities/organizations/um_students_group.md
+
+## 2026-04-21T16:50:37Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:50:37Z
+
+Added the new report of police halting the anti‑graft forum to the UM Students’ Group page.
+
+Pages updated: entities/organizations/um_students_group.md
+
+## 2026-04-21T16:50:38Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:50:41Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T16:50:42Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T16:50:43Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T16:50:45Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T16:50:46Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:50:50Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:50:50Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T16:50:54Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T16:51:01Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T16:51:06Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:51:08Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T16:51:08Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:51:08Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T16:51:10Z
+
+Added the specific claim of police halting the anti‑graft forum to the UM Students’ Group page.
+
+Pages updated: entities/organizations/um_students_group.md
+
+## 2026-04-21T16:51:10Z
+
+Added a second bullet with a new citation from the Bahasa Free Malaysia Today article confirming police disruption of the UM anti‑graft forum.
+
+Pages updated: entities/organizations/um_students_group.md
+
+## 2026-04-21T16:51:10Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T16:51:11Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:51:12Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T16:51:13Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:51:15Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:51:16Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T16:51:16Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T16:51:19Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T16:51:21Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T16:51:21Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T16:51:21Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:51:22Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T16:51:24Z
+
+Added a new bullet to the UM Students’ Group page summarizing the article's claim that police halted the anti‑graft forum, suppressing student assembly rights.
+
+Pages updated: entities/organizations/um_students_group.md
+
+## 2026-04-21T16:51:26Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:51:27Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T16:51:29Z
+
+Updated UM Students’ Group page with detailed description and citation of the 21 April 2026 police halt incident.
+
+Pages updated: entities/organizations/um_students_group.md
+
+## 2026-04-21T16:51:31Z
+
+Added the students' claim of police‑blocked anti‑graft forum and their regret, citing the new article.
+
+Pages updated: entities/organizations/um_students_group.md
+
+## 2026-04-21T16:51:36Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T16:51:40Z
+
+Added citation from Free Malaysia Today confirming police halted the anti‑graft forum organized by the UM students’ group.
+
+Pages updated: entities/organizations/um_students_group.md
+
+## 2026-04-21T16:51:46Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:51:47Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T16:51:49Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T16:51:50Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T16:51:50Z
+
+Added citation to UM Students’ Group page confirming police halted anti‑graft forum on 21 April 2026.
+
+Pages updated: entities/organizations/um_students_group.md
+
+## 2026-04-21T16:51:55Z
+
+Updated UM Students’ Group page with detailed account and citation of the 21 April 2026 police halt of the anti‑graft forum.
+
+Pages updated: entities/organizations/um_students_group.md
+
+## 2026-04-21T16:51:55Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T16:51:56Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T16:51:57Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T16:51:59Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:51:59Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T16:51:59Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T16:52:02Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T16:52:03Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T16:52:04Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T16:52:09Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T16:52:10Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T16:52:21Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T16:52:37Z
+
+Added Bahasa‑Malaysia report details and explicit expression of regret (kesal) by the UM students’ group regarding police blockage of the anti‑corruption forum.
+
+Pages updated: entities/organizations/um_students_group.md
+
+## 2026-04-21T17:00:51Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T17:00:58Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T17:19:30Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T17:19:34Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T17:19:35Z
+
+Added a new bullet to UM Students’ Group page reflecting the Bahasa Malaysia report that police disrupted the anti‑corruption forum, reinforcing existing information.
+
+Pages updated: entities/organizations/um_students_group.md
+
+## 2026-04-21T17:19:35Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T17:19:36Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T17:19:37Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T17:19:37Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T17:19:39Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T17:19:39Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T17:19:39Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T17:19:41Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T17:19:41Z
+
+Added citation for the new article to the UM Students’ Group page.
+
+Pages updated: entities/organizations/um_students_group.md
+
+## 2026-04-21T17:19:42Z
+
+Added a new bullet to the UM Students’ Group page documenting the article’s claim that police halted the anti‑graft forum, reinforcing existing coverage.
+
+Pages updated: entities/organizations/um_students_group.md
+
+## 2026-04-21T17:19:43Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T17:19:43Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T17:19:45Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T17:19:45Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T17:19:46Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T17:19:46Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T17:19:47Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T17:19:48Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T17:19:48Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T17:19:48Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T17:19:48Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T17:19:52Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T17:19:52Z
+
+Added a new bullet documenting Umany's claim that police disrupted the anti‑graft forum, citing the Free Malaysia Today article.
+
+Pages updated: entities/organizations/um_students_group.md
+
+## 2026-04-21T17:19:54Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T17:19:54Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T17:19:55Z
+
+Added a new fact from the Bahasa article confirming UM students’ group said police disrupted the anti‑corruption forum, with proper citation.
+
+Pages updated: entities/organizations/um_students_group.md
+
+## 2026-04-21T17:19:56Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T17:19:57Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T17:19:57Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T17:19:57Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T17:19:57Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T17:19:58Z
+
+Added a new bullet to UM Students’ Group page reflecting the Bahasa Malaysia report that police disrupted the anti‑corruption forum, restricting students' assembly rights.
+
+Pages updated: entities/organizations/um_students_group.md
+
+## 2026-04-21T17:19:58Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T17:20:04Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T17:20:04Z
+
+Added a new bullet to the UM Students’ Group page citing the Bahasa‑Malaysia article about police blocking the anti‑corruption forum.
+
+Pages updated: entities/organizations/um_students_group.md
+
+## 2026-04-21T17:20:13Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T17:20:13Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T17:20:13Z
+
+Added a new bullet to UM Students’ Group page reflecting the Bahasa‑Malaysia article claim about police disruption of the anti‑corruption forum.
+
+Pages updated: entities/organizations/um_students_group.md
+
+## 2026-04-21T17:20:13Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T17:20:13Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T17:20:13Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T17:20:13Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T17:20:13Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T17:20:14Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T17:20:14Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T17:20:14Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T17:20:14Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T17:20:21Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T17:20:22Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T17:20:22Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T17:20:22Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T17:20:22Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T17:20:22Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T17:20:22Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T17:20:24Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T17:20:24Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T17:20:26Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T17:20:28Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T17:20:28Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T17:20:28Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T17:20:28Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T17:20:28Z
+
+Added a new bullet to UM Students’ Group page reflecting the Bahasa‑Malaysia article that reported the group’s regret (kesal) over police blocking the anti‑corruption forum.
+
+Pages updated: entities/organizations/um_students_group.md
+
+## 2026-04-21T17:20:28Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T17:20:33Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T17:20:33Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T17:20:33Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T17:20:39Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T17:20:39Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T17:20:40Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T17:20:40Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T17:20:40Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T17:20:40Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T17:20:40Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T17:20:42Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T17:20:42Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T17:20:43Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T17:20:45Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T17:20:45Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T17:20:45Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T17:20:45Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T17:20:45Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T17:20:45Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T17:20:45Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T17:20:46Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T17:20:47Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T17:20:47Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T17:20:47Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T17:20:49Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T17:20:49Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T17:20:51Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T17:20:52Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T17:20:52Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T17:20:53Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T17:20:53Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T17:20:57Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T17:20:58Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T17:21:04Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T17:21:11Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T17:21:12Z
+
+Added a complete bullet for the 21 April 2026 event, fixed a truncated entry, and included an additional summary bullet on the UM Students’ Group page.
+
+Pages updated: entities/organizations/um_students_group.md
+
+## 2026-04-21T17:21:14Z
+
+Added a new bullet to UM Students’ Group page citing the Bahasa‑Malaysia article about police disrupting the anti‑corruption forum.
+
+Pages updated: entities/organizations/um_students_group.md
+
+## 2026-04-21T17:21:15Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T17:21:19Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T17:23:49Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T17:23:49Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T17:23:53Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none

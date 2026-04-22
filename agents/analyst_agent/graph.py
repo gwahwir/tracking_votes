@@ -349,23 +349,21 @@ def _persist_analyses(state: AnalystState) -> None:
     async def _do_persist():
         conn = await asyncpg.connect(database_url)
         try:
-            for code in state.get("constituency_codes", []) or ["JOHOR"]:
-                for lens_name, lens_data in state["lenses"].items():
-                    await conn.execute(
-                        """
-                        INSERT INTO analyses
-                            (id, article_id, constituency_code, lens, direction, strength, summary)
-                        VALUES ($1,$2,$3,$4,$5,$6,$7)
-                        ON CONFLICT DO NOTHING
-                        """,
-                        str(uuid.uuid4()),
-                        state["article_id"],
-                        code,
-                        lens_name,
-                        lens_data.get("direction", ""),
-                        lens_data.get("strength"),
-                        lens_data.get("summary", "")[:2000],
-                    )
+            for lens_name, lens_data in state["lenses"].items():
+                await conn.execute(
+                    """
+                    INSERT INTO analyses
+                        (id, article_id, lens_name, direction, strength, summary)
+                    VALUES ($1,$2,$3,$4,$5,$6)
+                    ON CONFLICT DO NOTHING
+                    """,
+                    str(uuid.uuid4()),
+                    state["article_id"],
+                    lens_name,
+                    lens_data.get("direction", ""),
+                    lens_data.get("strength"),
+                    lens_data.get("summary", "")[:2000],
+                )
         finally:
             await conn.close()
 

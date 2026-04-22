@@ -27,10 +27,6 @@ A recent article highlighted growing concerns among Johor parents about their ch
 
 ---
 
-## Recent Electoral Developments
+## Recent Controversies
 
-- The **Malaysian Indian Congress (MIC)**, a BN component party representing the Indian community, retained its parliamentary seats in the 2026 general election. Deputy President **Saravanan** noted that the coalition’s “big‑tent” approach is designed to ensure **BN’s overall success** across all ethnic groups. [Source: Free Malaysia Today, 21 April 2026]
-
----
-
-*... rest of the article ...*
+- **April 2026** – The deputy chairman of a local non‑governmental organisation (NGO) was detained after investigations revealed the alleged misappropriation of **RM230 million** of zakat funds, which were transferred into the NGO leader’s personal company account for investment and personal use. The case has sparked calls for greater transparency and oversight of zakat management in Johor. [Source: Free Malaysia Today, 2026‑04‑21]

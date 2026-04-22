@@ -205,10 +205,10 @@ async def get_news(request: Request, limit: int = 50, constituency: str | None =
             params.append(json.dumps([constituency]))
 
         sql = f"""
-            SELECT id, url, title, source, published_at, constituency_ids, reliability_score, created_at
+            SELECT id, url, title, source, scraped_at, constituency_ids, reliability_score, created_at
             FROM articles
             {where}
-            ORDER BY published_at DESC NULLS LAST
+            ORDER BY scraped_at DESC NULLS LAST
             LIMIT $1
         """
         async with task_store._pool.acquire() as conn:
@@ -276,7 +276,7 @@ async def get_articles(request: Request, limit: int = 100, offset: int = 0, cons
             params.append(json.dumps([constituency]))
 
         sql = f"""
-            SELECT id, url, title, source, content, constituency_ids, reliability_score, created_at, published_at
+            SELECT id, url, title, source, content, constituency_ids, reliability_score, created_at, scraped_at
             FROM articles
             {where}
             ORDER BY created_at DESC
