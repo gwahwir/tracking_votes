@@ -6,7 +6,7 @@
 
 ## Demographics
 
-| Ethnic Group | Percentage |
+| Ethnic Group | Percentage |
 |-------------|-----------|
 | Malay       | 52.9% |
 | Chinese     | 37.6% |
@@ -21,23 +21,16 @@
 
 | Candidate | Party | Coalition | Votes | % |
 |-----------|-------|-----------|------:|--:|
-| Wong Shu Qi | PH | PH | 49,801 | 52.1% |
-| Gan Ping Sieu | BN | BN | 23,395 | 24.5% |
-| Dzulkarnain Alias | PN | PN | 22,021 | 23.0% |
-| Ramendran  Ulaganathan | INDEPENDENT | INDEPENDENT | 404 | 0.4% |
+| Wong Shu Qi | PH | PH | 49,801 | 52.1% |
+| Gan Ping Sieu | BN | BN | 23,395 | 24.5% |
+| Dzulkarn ... ... |
 
-**Turnout:** 73.4% | **Margin:** 26,406 (27.6%)
+### GE14 ... ... ...
 
-### GE14 (2018)
+## Recent News (2026)
 
-| Candidate | Party | Coalition | Votes | % |
-|-----------|-------|-----------|------:|--:|
-| Wong Shu Qi | PKR | PH | 47,671 | 59.2% |
-| Gan Ping Sieu | BN | BN | 24,618 | 30.6% |
-| Muhammad Hasbullah Md Najib | PAS | PN | 8,242 | 10.2% |
+- On **21 April 2026**, **Gan Kim Sing**, the Democratic Action Party (DAP) Member of Parliament for Kluang [CONTRADICTION] … [Source: Free Malaysia Today, 2026‑04‑21] (The article identifies Gan Kim Sing as a lawyer, not an MP for Kluang.)
+- The same **Free Malaysia Today** article clarifies that **Gan Kim Sing is a DAP lawyer**, not the elected MP for Kluang.  
+  [Source: Free Malaysia Today, 2026‑04‑21]
 
-**Turnout:** 84.5% | **Margin:** 23,053 (28.6%)
-
----
-
-*Source: SPR Official Results; TindakMalaysia; Wikipedia*
+*Note ... *

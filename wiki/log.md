@@ -6028,3 +6028,6741 @@ Pages updated: none
 Wiki update parse error — no changes applied.
 
 Pages updated: none
+
+## 2026-04-21T16:04:09Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:04:10Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:04:11Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:04:12Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T16:04:14Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:04:17Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T16:04:24Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:04:24Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:04:26Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:04:32Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:04:35Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:04:35Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:04:42Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:04:43Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:04:47Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:04:49Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:04:54Z
+
+Added a recent statement about DAP MP Gan Kim Sing attending his son Justice Gan Techiong's High Court oath‑taking ceremony (21 Apr 2026).
+
+Pages updated: entities/parties/dap.md
+
+## 2026-04-21T16:04:55Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:04:56Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:04:57Z
+
+Added detail about Gan Kim Sing's travel from Johor Bahru and his frail health to the DAP page's recent statements.
+
+Pages updated: entities/parties/dap.md
+
+## 2026-04-21T16:04:59Z
+
+Added travel detail (Johor Bahru and wife Tiong Choo) to Gan Kim Sing's recent statement on his son's High Court appointment.
+
+Pages updated: entities/parties/dap.md
+
+## 2026-04-21T16:05:02Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:05:02Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:05:07Z
+
+Added a new event on 21 April 2026 about a zakat misappropriation scandal involving an NGO deputy chairman to the Johor political landscape page.
+
+Pages updated: concepts/johor-political-landscape.md
+
+## 2026-04-21T16:05:14Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:05:15Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:05:16Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:05:17Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:05:17Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:05:18Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T16:05:20Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:05:23Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:05:23Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:05:23Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:05:23Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:05:23Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:05:24Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:05:33Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:05:38Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:05:39Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:05:42Z
+
+Added frail‑health detail and lawyer profession to Gan Kim Sing statement on 21 April 2026.
+
+Pages updated: entities/parties/dap.md
+
+## 2026-04-21T16:05:48Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:05:48Z
+
+Added a Recent News section to the Kluang constituency page noting MP Gan Kim Sing's attendance at his son's High Court judge oath‑taking on 21 April 2026.
+
+Pages updated: entities/constituencies/parlimen/p152-kluang.md
+
+## 2026-04-21T16:05:49Z
+
+Added Gan Kim Sing's profession and frail‑health detail to DAP recent statements.
+
+Pages updated: entities/parties/dap.md
+
+## 2026-04-21T16:05:49Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:05:49Z
+
+Corrected the travel origin typo to 'Johor Bahru' in the DAP page's recent statement about Gan Kim Sing.
+
+Pages updated: entities/parties/dap.md
+
+## 2026-04-21T16:05:54Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:05:55Z
+
+Added detailed account of Gan Kim Sing's travel from Johor Bahru to the oath‑taking ceremony, updating the DAP page with new factual information.
+
+Pages updated: entities/parties/dap.md
+
+## 2026-04-21T16:05:55Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T16:06:00Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:06:02Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:06:13Z
+
+Updated DAP page to flag the incorrect MP constituency (Kepong) as a contradiction per the new article confirming Gan Kim Sing is MP for Kluang.
+
+Pages updated: entities/parties/dap.md
+
+## 2026-04-21T16:06:13Z
+
+Added detailed account of Gan Kim Sing's travel from Johor Bahru to the oath‑taking ceremony, citing Free Malaysia Today.
+
+Pages updated: entities/parties/dap.md
+
+## 2026-04-21T16:06:14Z
+
+Added the new detail about Gan Kim Sing traveling from Johor Bahru with his wife to the oath‑taking ceremony.
+
+Pages updated: entities/parties/dap.md
+
+## 2026-04-21T16:06:14Z
+
+Added a new subsection on zakat fund misappropriation in Johor, citing the 2026 Free Malaysia Today report of RM230 million transferred by an NGO deputy chairman.
+
+Pages updated: concepts/johor-political-landscape.md
+
+## 2026-04-21T16:06:16Z
+
+Corrected Gan Kim Sing's constituency to Kluang and added frail‑health detail per the 21 April 2026 article.
+
+Pages updated: entities/parties/dap.md
+
+## 2026-04-21T16:06:17Z
+
+Added new page for Antara NGO documenting the 2026 alleged RM230 million zakat misappropriation and the deputy chairman's detention.
+
+Pages updated: entities/ngos/antara.md
+
+## 2026-04-21T16:06:25Z
+
+Added the specific travel detail (Johor Bahru) to Gan Kim Sing's recent statement on 21 April 2026.
+
+Pages updated: entities/parties/dap.md
+
+## 2026-04-21T16:06:25Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:06:42Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T16:06:43Z
+
+Added [CONTRADICTION] to Kluang page's claim that Gan Kim Sing is MP for Kluang, reflecting inconsistency with election data.
+
+Pages updated: entities/constituencies/parlimen/p152-kluang.md
+
+## 2026-04-21T16:07:07Z
+
+Updated DAP and Kluang pages to correct Gan Kim Sing's role from MP to lawyer, adding contradiction markers and proper citation.
+
+Pages updated: entities/parties/dap.md, entities/constituencies/parlimen/p152-kluang.md
+
+## 2026-04-21T16:07:32Z
+
+Added ...
+
+Pages updated: entities/parties/dap.md, entities/constituencies/parlimen/p152-kluang.md
+
+## 2026-04-21T16:08:02Z
+
+Added detailed info about Gan Kim Sing's travel from Johor Bahru with his wife to the oath‑taking ceremony, updating DAP and Kluang constituency pages.
+
+Pages updated: entities/parties/dap.md, entities/constituencies/parlimen/p152-kluang.md
+
+## 2026-04-21T16:08:05Z
+
+Added detailed travel info from Johor Bahru to Putrajala for Gan Kim Sing and his wife, updating DAP and Kluang pages.
+
+Pages updated: entities/parties/dap.md, entities/constituencies/parlimen/p152-kluang.md
+
+## 2026-04-21T16:14:27Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T16:15:04Z
+
+Added frail‑health detail to Gan Kim Sing statement on DAP page and flagged contradictory claim about him being MP for Kluang.
+
+Pages updated: entities/parties/dap.md, entities/constituencies/parlimen/p152-kluang.md
+
+## 2026-04-21T16:34:20Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:34:24Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:34:24Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:34:24Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:34:25Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:34:26Z
+
+Added details on three arrests, seizure of 18 luxury vehicles and RM11 million in properties to the Antara NGO page.
+
+Pages updated: entities/ngos/antara.md
+
+## 2026-04-21T16:34:26Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:34:33Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:34:36Z
+
+Added details about three arrests and MACC's seizure of luxury vehicles and RM11 million in assets to the Antara NGO page.
+
+Pages updated: entities/ngos/antara.md
+
+## 2026-04-21T16:34:37Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:34:40Z
+
+Added MACC asset seizure details (18 luxury vehicles and RM11 million in properties) to Antara NGO page.
+
+Pages updated: entities/ngos/antara.md
+
+## 2026-04-21T16:34:40Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T16:34:41Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T16:34:41Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:34:42Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:34:54Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:34:56Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:34:58Z
+
+Added citation for luxury‑asset seizure to Antara NGO page, reflecting details from the 21 April 2026 Free Malaysia Today article.
+
+Pages updated: entities/ngos/antara.md
+
+## 2026-04-21T16:34:59Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:35:00Z
+
+Added details of three arrests and MACC asset seizure (18 luxury cars, RM11 M property) to Antara NGO page.
+
+Pages updated: entities/ngos/antara.md
+
+## 2026-04-21T16:35:00Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:35:50Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:35:57Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:35:58Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:35:59Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:35:59Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:36:00Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:36:00Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:36:00Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:36:00Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:36:01Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:36:01Z
+
+Added the second Free Malaysia Today source to Antara NGO page to cite the asset‑seizure details from the new article.
+
+Pages updated: entities/ngos/antara.md
+
+## 2026-04-21T16:36:02Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:36:13Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:36:22Z
+
+Added a new bullet noting that three individuals were arrested for siphoning RM230 million in zakat funds, with citation, to the Antara NGO page.
+
+Pages updated: entities/ngos/antara.md
+
+## 2026-04-21T16:36:39Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:36:52Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:36:53Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:36:54Z
+
+Added a bullet noting that three individuals were nabbed and included the new source citation; reinforced asset‑seizure citation with the new article.
+
+Pages updated: entities/ngos/antara.md
+
+## 2026-04-21T16:36:54Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:36:54Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:36:54Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:36:55Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:36:55Z
+
+Added citation to the new Free Malaysia Today article for the seizure of luxury assets and clarified arrest details on the Antara NGO page.
+
+Pages updated: entities/ngos/antara.md
+
+## 2026-04-21T16:36:55Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:36:56Z
+
+Added citation for MACC asset seizure and included the new nation‑section article to Antara NGO page.
+
+Pages updated: entities/ngos/antara.md
+
+## 2026-04-21T16:36:58Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:36:58Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:36:59Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T16:37:00Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:37:02Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:37:03Z
+
+Added detail that three individuals were arrested (including the deputy chairman) per the new article and included the second source citation.
+
+Pages updated: entities/ngos/antara.md
+
+## 2026-04-21T16:37:09Z
+
+Added new page for UMANY documenting the 21 April 2026 police‑halted anti‑graft forum at University of Malaya.
+
+Pages updated: entities/organizations/umany.md
+
+## 2026-04-21T16:37:10Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:37:11Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T16:37:11Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:37:19Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:37:19Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:37:21Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:37:28Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:37:28Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:37:30Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:37:31Z
+
+Added inline citations for the RM230 million misappropriation, deputy chairman detention, and MACC asset seizure details on the Antara NGO page.
+
+Pages updated: entities/ngos/antara.md
+
+## 2026-04-21T16:37:31Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:37:32Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:37:33Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:37:34Z
+
+Added detail that three individuals were arrested in the Antara NGO zakat fund scandal, citing the Free Malaysia Today article.
+
+Pages updated: entities/ngos/antara.md
+
+## 2026-04-21T16:37:35Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:37:37Z
+
+Added UMANY regret statement from 21 April 2026 Bahasa article.
+
+Pages updated: entities/organizations/umany.md
+
+## 2026-04-21T16:37:38Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:37:38Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:37:40Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:37:41Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:37:41Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:37:41Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:37:42Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:37:43Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:37:44Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:37:45Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:37:45Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:37:46Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:37:55Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:37:56Z
+
+Added UM Students’ Group page documenting police‑halted anti‑graft forum on 21 April 2026.
+
+Pages updated: entities/organizations/um-students-group.md
+
+## 2026-04-21T16:37:58Z
+
+Corrected the recent news entry for P.152 Kluang to note that Gan Kim Sing is a DAP lawyer, not the constituency MP, with citation.
+
+Pages updated: entities/constituencies/parlimen/p152-kluang.md
+
+## 2026-04-21T16:37:59Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:38:00Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:38:06Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:38:09Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:38:11Z
+
+Added police justification detail and full citation to UMANY page based on 21 April 2026 article.
+
+Pages updated: entities/organizations/umany.md
+
+## 2026-04-21T16:38:24Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:38:29Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T16:38:49Z
+
+Added citation for MACC asset seizure to Antara NGO page, incorporating the new Free Malaysia Today article.
+
+Pages updated: entities/ngos/antara.md
+
+## 2026-04-21T17:04:14Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T17:04:17Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T17:04:18Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T17:04:20Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T17:04:21Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T17:04:21Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T17:04:21Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T17:04:22Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T17:04:22Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T17:04:23Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T17:04:23Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T17:04:25Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T17:04:31Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T17:04:32Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T17:04:32Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T17:04:33Z
+
+Added police justification details to UM Students’ Group and UMANY pages, reflecting the new information from the Free Malaysia Today article.
+
+Pages updated: entities/organizations/um-students-group.md, entities/organizations/umany.md
+
+## 2026-04-21T17:04:33Z
+
+Added police justification to the UM Students’ Group page to reflect details from the Free Malaysia Today article.
+
+Pages updated: entities/organizations/um-students-group.md
+
+## 2026-04-21T17:04:34Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T17:04:34Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T17:04:37Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T17:04:38Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T17:04:43Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T17:04:43Z
+
+Added police justification for the disruption to the UM Students’ Group page, citing the Free Malaysia Today article.
+
+Pages updated: entities/organizations/um-students-group.md
+
+## 2026-04-21T17:04:44Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T17:04:45Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T17:04:45Z
+
+No relevant updates needed as the Antara NGO page already contains the asset seizure details with appropriate citations.
+
+Pages updated: none
+
+## 2026-04-21T17:04:45Z
+
+Added police statement details to UM Students’ Group page to reflect the full account from the Free Malaysia Today article.
+
+Pages updated: entities/organizations/um-students-group.md
+
+## 2026-04-21T17:04:45Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T17:04:46Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T17:04:46Z
+
+Added police justification details to UM Students’ Group page to reflect statements from the Free Malaysia Today article.
+
+Pages updated: entities/organizations/um-students-group.md
+
+## 2026-04-21T17:04:47Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T17:04:50Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T17:04:50Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T17:04:51Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T17:04:51Z
+
+Added Bahasa-language source citation for UMANY and UM Students’ Group police disruption incident.
+
+Pages updated: entities/organizations/umany.md, entities/organizations/um-students-group.md
+
+## 2026-04-21T17:04:52Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T17:04:58Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T17:05:00Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T17:05:00Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T17:05:00Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T17:05:00Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T17:05:01Z
+
+Added the Malay‑language statement from UMANY confirming police blocked the anti‑graft forum, with citations, to both UMANY and UM Students’ Group pages.
+
+Pages updated: entities/organizations/umany.md, entities/organizations/um-students-group.md
+
+## 2026-04-21T17:05:01Z
+
+Added Bahasa Free Malaysia Today source to UMANY and UM Students’ Group pages to reflect additional coverage of the police‑blocked anti‑graft forum.
+
+Pages updated: entities/organizations/umany.md, entities/organizations/um-students-group.md
+
+## 2026-04-21T17:05:01Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T17:05:02Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T17:05:03Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T17:05:03Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T17:05:11Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T17:05:12Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T17:05:12Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T17:05:12Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T17:05:17Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T17:05:20Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T17:05:20Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T17:05:21Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T17:05:21Z
+
+Added Bahasa Free Malaysia Today source to UMANY and UM Students’ Group pages to reflect the new article reporting police blockage of the anti‑corruption forum.
+
+Pages updated: entities/organizations/umany.md, entities/organizations/um-students-group.md
+
+## 2026-04-21T17:05:21Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T17:05:21Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T17:05:21Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T17:05:23Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T17:05:23Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T17:05:23Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T17:05:23Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T17:05:24Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T17:05:24Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T17:05:24Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T17:05:24Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T17:05:25Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T17:05:25Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T17:05:26Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T17:05:28Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T17:05:34Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T17:05:40Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T17:05:41Z
+
+Added police justification for halting the anti‑graft forum to the UM Students’ Group page, reflecting details from the Free Malaysia Today article.
+
+Pages updated: entities/organizations/um-students-group.md
+
+## 2026-04-21T17:05:45Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T17:05:49Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T17:05:53Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T17:05:54Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T17:05:55Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T17:05:55Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T17:05:55Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T17:05:55Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T17:05:55Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T17:05:56Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T17:05:57Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T17:05:58Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T17:05:58Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T17:05:58Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T17:05:59Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T17:05:59Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T17:06:02Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T17:06:02Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T17:06:11Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T17:06:12Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T17:06:18Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T17:06:19Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T17:06:22Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T17:06:23Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T17:06:23Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T17:06:23Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T17:06:28Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T17:06:29Z
+
+Added the Bahasa Free Malaysia Today source to UMANY and UM Students’ Group pages to reflect the reported police disruption of the anti‑graft forum on 21 April 2026.
+
+Pages updated: entities/organizations/umany.md, entities/organizations/um-students-group.md
+
+## 2026-04-21T17:06:30Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T17:06:33Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T17:06:33Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T17:06:35Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T17:06:37Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T17:06:39Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T17:06:40Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T17:06:46Z
+
+Added police justification details to UM Students’ Group page, citing the Free Malaysia Today article.
+
+Pages updated: entities/organizations/um-students-group.md
+
+## 2026-04-21T17:06:51Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T17:06:51Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T17:06:53Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T17:06:54Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T17:06:54Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T17:06:55Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T17:06:55Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T17:06:57Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T17:07:00Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T17:07:00Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T17:07:02Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T17:07:02Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T17:07:03Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T17:07:03Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T17:07:03Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T17:07:04Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T17:07:04Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T17:07:05Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T17:07:05Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T17:07:06Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T17:07:06Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T17:07:10Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T17:07:12Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T17:07:15Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T17:07:15Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T17:07:30Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T17:07:32Z
+
+Added Bahasa source citation and expanded group response wording on UM Students’ Group page to reflect the new article.
+
+Pages updated: entities/organizations/um-students-group.md
+
+## 2026-04-21T17:07:34Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T17:07:36Z
+
+Added the Bahasa‑language claim that police curbed students' right to assemble and fight for academic freedom to both UMANY and UM Students’ Group pages, citing the new Free Malaysia Today article.
+
+Pages updated: entities/organizations/umany.md, entities/organizations/um-students-group.md
+
+## 2026-04-21T17:07:45Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T17:07:56Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T17:07:58Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T17:08:02Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T17:08:33Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T17:09:02Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T17:12:25Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T17:13:17Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T17:18:16Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T17:34:09Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T17:34:10Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T17:34:12Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T17:34:12Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T17:34:13Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T17:34:16Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T17:34:16Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T17:34:18Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T17:34:18Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T17:34:19Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T17:34:21Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T17:34:21Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T17:34:21Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T17:34:23Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T17:34:23Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T17:34:24Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T17:34:25Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T17:34:25Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T17:34:25Z
+
+Added MACC asset seizure details (18 vehicles, RM11 M property) to Antara NGO page.
+
+Pages updated: entities/ngos/antara.md
+
+## 2026-04-21T17:34:25Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T17:34:26Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T17:34:29Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T17:34:29Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T17:34:36Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T17:34:40Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T17:34:40Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T17:34:40Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T17:34:41Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T17:34:41Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T17:34:44Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T17:34:48Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T17:34:49Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T17:34:53Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T17:34:53Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T17:34:54Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T17:34:55Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T17:34:55Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T17:34:56Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T17:34:56Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T17:34:57Z
+
+Added citation for MACC asset seizure to Antara NGO page, referencing the new ‘3 nabbed…’ article.
+
+Pages updated: entities/ngos/antara.md
+
+## 2026-04-21T17:34:58Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T17:34:58Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T17:35:00Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T17:35:01Z
+
+Added citation for MACC asset seizure fact on Antara NGO page.
+
+Pages updated: entities/ngos/antara.md
+
+## 2026-04-21T17:35:02Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T17:35:02Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T17:35:02Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T17:35:02Z
+
+Added the new Free Malaysia Today article as a citation for the asset seizure and included it in the references on the Antara NGO page.
+
+Pages updated: entities/ngos/antara.md
+
+## 2026-04-21T17:35:03Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T17:35:03Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T17:35:04Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T17:35:04Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T17:35:05Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T17:35:06Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T17:35:06Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T17:35:07Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T17:35:12Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T17:35:17Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T17:35:20Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T17:35:21Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T17:35:22Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T17:35:23Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T17:35:24Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T17:35:24Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T17:35:25Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T17:35:26Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T17:35:26Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T17:35:27Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T17:35:27Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T17:35:27Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T17:35:28Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T17:35:29Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T17:35:29Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T17:35:29Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T17:35:30Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T17:35:30Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T17:35:31Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T17:35:31Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T17:35:32Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T17:35:37Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T17:35:38Z
+
+Added citation from the new article confirming MACC's seizure of 18 luxury vehicles and RM11 million in property to the Antara NGO page.
+
+Pages updated: entities/ngos/antara.md
+
+## 2026-04-21T17:35:38Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T17:35:38Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T17:35:38Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T17:35:38Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T17:35:38Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T17:35:39Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T17:35:39Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T17:35:39Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T17:35:42Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T17:35:42Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T17:35:42Z
+
+Added additional citations from the new Free Malaysia Today article to Antara NGO page for arrests of three individuals and asset seizure.
+
+Pages updated: entities/ngos/antara.md
+
+## 2026-04-21T17:35:44Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T17:35:46Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T17:35:48Z
+
+Added citation for the asset‑seizure details from the new ‘3 nabbed…’ article to the Antara NGO page.
+
+Pages updated: entities/ngos/antara.md
+
+## 2026-04-21T17:35:50Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T17:35:55Z
+
+Added citation for MACC asset seizure from the new '3 nabbed' article to the Antara NGO page.
+
+Pages updated: entities/ngos/antara.md
+
+## 2026-04-21T17:36:03Z
+
+Added the new Free Malaysia Today article as a citation for the MACC asset seizure details on the Antara NGO page.
+
+Pages updated: entities/ngos/antara.md
+
+## 2026-04-21T17:36:14Z
+
+Added citation to the new Free Malaysia Today article confirming MACC's seizure of 18 luxury vehicles and RM11 million in property.
+
+Pages updated: entities/ngos/antara.md
+
+## 2026-04-21T17:36:56Z
+
+Added citations to the Antara NGO page for the arrests and asset seizure details from the new Free Malaysia Today article.
+
+Pages updated: entities/ngos/antara.md
+
+## 2026-04-21T18:04:00Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T18:04:04Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T18:04:05Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T18:04:06Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T18:04:07Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T18:04:07Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T18:04:07Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T18:04:09Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T18:04:09Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T18:04:10Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T18:04:10Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T18:04:10Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T18:04:11Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T18:04:11Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T18:04:16Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T18:04:17Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T18:04:25Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T18:04:26Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T18:04:27Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T18:04:28Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T18:04:30Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T18:04:30Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T18:04:31Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T18:04:33Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T18:04:37Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T18:04:39Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T18:04:43Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T18:04:43Z
+
+Added the missing reference URL for the "3 nabbed" article and ensured all citations for the asset seizure and arrests are present on the Antara NGO page.
+
+Pages updated: entities/ngos/antara.md
+
+## 2026-04-21T18:04:44Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T18:04:44Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T18:04:45Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T18:04:54Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T18:04:55Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T18:04:55Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T18:04:55Z
+
+Added a citation for the MACC asset seizure from the “3 nabbed for allegedly pilfering RM230mil in zakat funds” article and completed the reference URL.
+
+Pages updated: entities/ngos/antara.md
+
+## 2026-04-21T18:04:56Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T18:04:56Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T18:04:56Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T18:04:58Z
+
+Added citations to Antara NGO page for the 3 arrests and MACC asset seizure, referencing the new Free Malaysia Today article.
+
+Pages updated: entities/ngos/antara.md
+
+## 2026-04-21T18:04:58Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T18:05:00Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T18:05:00Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T18:05:01Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T18:05:04Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T18:05:04Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T18:05:05Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T18:05:05Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T18:05:07Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T18:05:07Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T18:05:07Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T18:05:10Z
+
+Added citations from the new Free Malaysia Today article to the Antara NGO page for the three arrests and asset seizure details.
+
+Pages updated: entities/ngos/antara.md
+
+## 2026-04-21T18:05:10Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T18:05:14Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T18:05:18Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T18:05:18Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T18:05:19Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T18:05:20Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T18:05:20Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T18:05:20Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T18:05:23Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T18:05:23Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T18:05:26Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T18:05:28Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T18:05:28Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T18:05:33Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T18:05:36Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T18:05:36Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T18:05:36Z
+
+Added new bullet and citation confirming three nabbed for siphoning RM230 million and included the latest Free Malaysia Today article in references.
+
+Pages updated: entities/ngos/antara.md
+
+## 2026-04-21T18:05:37Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T18:05:37Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T18:05:39Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T18:05:41Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T18:05:43Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T18:05:47Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T18:06:01Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T18:06:02Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T18:34:08Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T18:34:13Z
+
+Added citation for MACC asset seizure fact on Antara NGO page.
+
+Pages updated: entities/ngos/antara.md
+
+## 2026-04-21T18:34:14Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T18:34:16Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T18:34:16Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T18:34:16Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T18:34:17Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T18:34:17Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T18:34:17Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T18:34:17Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T18:34:17Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T18:34:17Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T18:34:18Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T18:34:19Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T18:34:23Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T18:34:28Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T18:34:29Z
+
+Added citation for MACC asset seizure and updated references on Antara NGO page with the new Free Malaysia Today article.
+
+Pages updated: entities/ngos/antara.md
+
+## 2026-04-21T18:34:30Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T18:34:33Z
+
+Added the new Free Malaysia Today article about the three arrests and MACC asset seizure to Antara NGO page and updated references.
+
+Pages updated: entities/ngos/antara.md
+
+## 2026-04-21T18:34:34Z
+
+Added the new Free Malaysia Today article to Antara NGO page references and ensured all recent controversy bullets cite the 21 April 2026 source.
+
+Pages updated: entities/ngos/antara.md
+
+## 2026-04-21T18:34:35Z
+
+Added the new Free Malaysia Today article as a reference to Antara NGO page, confirming the MACC seizure of 18 luxury vehicles and RM11 million in property.
+
+Pages updated: entities/ngos/antara.md
+
+## 2026-04-21T18:34:36Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T18:34:36Z
+
+Added citation for the MACC asset seizure from the new '3 nabbed...' article and completed the reference entry.
+
+Pages updated: entities/ngos/antara.md
+
+## 2026-04-21T18:34:37Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T18:34:43Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T18:34:44Z
+
+Added English source citations to the claim statements on UMANY and UM Students’ Group pages to reflect the new article.
+
+Pages updated: entities/organizations/umany.md, entities/organizations/um-students-group.md
+
+## 2026-04-21T18:34:44Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T18:34:48Z
+
+Added a new reference for the Free Malaysia Today article on 3 nabbed for siphoning RM230 million and ensured all controversy bullets cite this source.
+
+Pages updated: entities/ngos/antara.md
+
+## 2026-04-21T18:34:48Z
+
+Added the specific Free Malaysia Today article URL as a citation for the asset seizure detail and included it in the references on the Antara NGO page.
+
+Pages updated: entities/ngos/antara.md
+
+## 2026-04-21T18:34:49Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T18:34:49Z
+
+Added citation for MACC asset seizure to Antara NGO page and included the new article in references.
+
+Pages updated: entities/ngos/antara.md
+
+## 2026-04-21T18:34:49Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T18:34:50Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T18:34:50Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T18:34:50Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T18:35:04Z
+
+Added complete citation for the '3 nabbed for allegedly siphoning RM230mil in zakat funds' article and ensured reference list is accurate.
+
+Pages updated: entities/ngos/antara.md
+
+## 2026-04-21T18:35:07Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T18:35:14Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T18:35:16Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T18:35:16Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T18:35:18Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T18:35:18Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T18:35:18Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T18:35:19Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T18:35:19Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T18:35:19Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T18:35:20Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T18:35:20Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T18:35:20Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T18:35:21Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T18:35:21Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T18:35:23Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T18:35:23Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T18:35:27Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T18:35:30Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T18:35:39Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T18:35:40Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T18:35:41Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T18:35:41Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T18:35:41Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T18:35:45Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T18:35:45Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T18:35:53Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T18:35:55Z
+
+Added complete citation for the 3‑nabbed article and updated reference list on the Antara NGO page.
+
+Pages updated: entities/ngos/antara.md
+
+## 2026-04-21T18:35:56Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T18:35:57Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T18:35:59Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T18:36:00Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T18:36:00Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T18:36:00Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T18:36:00Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T18:36:01Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T18:36:01Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T18:36:02Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T18:36:02Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T18:36:03Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T18:36:04Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T18:36:05Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T18:36:08Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T18:36:11Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T18:36:12Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T18:36:15Z
+
+Added the new Free Malaysia Today article as a reference and citation to Antara NGO page, confirming asset seizure details.
+
+Pages updated: entities/ngos/antara.md
+
+## 2026-04-21T18:36:21Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T18:36:27Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T18:36:28Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T18:36:34Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T18:36:39Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T18:36:40Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T18:36:41Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T18:36:41Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T18:36:41Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T18:36:41Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T18:36:41Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T18:36:42Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T18:36:42Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T18:36:42Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T18:36:42Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T18:36:42Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T18:36:43Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T18:36:44Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T18:36:44Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T18:36:44Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T18:36:44Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T18:36:45Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T18:36:45Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T18:36:45Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T18:36:45Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T18:36:46Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T18:36:46Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T18:36:52Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T18:36:52Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T18:36:53Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T18:36:56Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T18:36:56Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T18:36:57Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T18:37:00Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T18:37:02Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T18:37:07Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T18:37:08Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T18:37:10Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T18:37:12Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T18:37:13Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T18:37:17Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T18:37:24Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T19:04:05Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T19:04:05Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T19:04:06Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T19:04:07Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T19:04:10Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T19:04:12Z
+
+Added the new Free Malaysia Today article on 21 April 2026 to Antara NGO page and updated references.
+
+Pages updated: entities/ngos/antara.md
+
+## 2026-04-21T19:04:13Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T19:04:14Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T19:04:14Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T19:04:14Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T19:04:15Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T19:04:16Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T19:04:17Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T19:04:17Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T19:04:18Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T19:04:19Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T19:04:22Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T19:04:23Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T19:04:25Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T19:04:26Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T19:04:26Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T19:04:29Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T19:04:32Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T19:04:35Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T19:04:36Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T19:04:44Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T19:04:45Z
+
+Added MACC asset seizure details and citation to Antara NGO page.
+
+Pages updated: entities/ngos/antara.md
+
+## 2026-04-21T19:04:45Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T19:04:46Z
+
+Added the new Free Malaysia Today article to Antara NGO page references and ensured all recent controversy bullets cite the source.
+
+Pages updated: entities/ngos/antara.md
+
+## 2026-04-21T19:04:46Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T19:04:52Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T19:04:53Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T19:05:00Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T19:05:02Z
+
+Added the 21 April 2026 Free Malaysia Today article on three arrests and MACC asset seizure to the Antara NGO page and updated references.
+
+Pages updated: entities/ngos/antara.md
+
+## 2026-04-21T19:05:02Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T19:05:04Z
+
+Added a new bullet on the three arrests and cited the specific '3 nabbed...' article; also added the article to the references.
+
+Pages updated: entities/ngos/antara.md
+
+## 2026-04-21T19:05:08Z
+
+Added detailed asset seizure info and citation to Antara NGO page.
+
+Pages updated: entities/ngos/antara.md
+
+## 2026-04-21T19:05:21Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T19:05:22Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T19:05:22Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T19:05:22Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T19:05:22Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T19:05:23Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T19:05:23Z
+
+Added MACC asset seizure details to Antara NGO page based on new article.
+
+Pages updated: entities/ngos/antara.md
+
+## 2026-04-21T19:05:28Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T19:05:36Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T19:05:36Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T19:05:37Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T19:05:42Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T19:05:43Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T19:05:44Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T19:05:45Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T19:05:47Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T19:05:48Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T19:05:52Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T19:05:52Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T19:05:52Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T19:05:56Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T19:05:57Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T19:05:57Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T19:05:58Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T19:06:01Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T19:06:09Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T19:06:10Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T19:06:11Z
+
+Added citation of the new article and a summary bullet to Antara NGO page to reflect the reported MACC seizure of 18 luxury vehicles and RM11 million in property.
+
+Pages updated: entities/ngos/antara.md
+
+## 2026-04-21T19:06:20Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T19:06:21Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T19:06:29Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T19:06:58Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T19:07:03Z
+
+Added the new Free Malaysia Today article to Antara NGO page references and ensured all controversy bullets cite the 21 April 2026 source.
+
+Pages updated: entities/ngos/antara.md
+
+## 2026-04-21T19:07:03Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T19:07:03Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T19:07:03Z
+
+Added the new Free Malaysia Today article as a citation and completed the references list on the Antara NGO page.
+
+Pages updated: entities/ngos/antara.md
+
+## 2026-04-21T19:07:04Z
+
+Added citation and reference for MACC seizure of 18 luxury vehicles and RM11 million property to Antara NGO page.
+
+Pages updated: entities/ngos/antara.md
+
+## 2026-04-21T19:07:04Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T19:07:04Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T19:07:07Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T19:07:08Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T19:07:09Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T19:07:10Z
+
+Added citation and reference for MACC seizure of 18 luxury vehicles and RM11 million property from Antara NGO deputy chairman.
+
+Pages updated: entities/ngos/antara.md
+
+## 2026-04-21T19:07:11Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T19:07:12Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T19:07:12Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T19:07:13Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T19:07:13Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T19:07:13Z
+
+Added citation and new reference for MACC asset seizure details from the 21 April 2026 Free Malaysia Today article.
+
+Pages updated: entities/ngos/antara.md
+
+## 2026-04-21T19:07:13Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T19:07:20Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T19:07:21Z
+
+Added citation to Free Malaysia Today article confirming MACC seizure of 18 luxury vehicles and RM11 million in properties linked to Antara NGO zakat fund scandal.
+
+Pages updated: entities/ngos/antara.md
+
+## 2026-04-21T19:07:22Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T19:07:23Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T19:07:27Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T19:07:27Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T19:07:27Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T19:07:28Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T19:07:28Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T19:07:32Z
+
+Added the new Free Malaysia Today article as a source and citation for the asset seizure details on Antara NGO page.
+
+Pages updated: entities/ngos/antara.md
+
+## 2026-04-21T19:07:32Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T19:07:37Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T19:07:41Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T19:07:44Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T19:07:45Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T19:07:49Z
+
+Added citation and reference for MACC asset seizure and three‑person nabbed details from the 21 April 2026 Free Malaysia Today article.
+
+Pages updated: entities/ngos/antara.md
+
+## 2026-04-21T19:07:50Z
+
+Added citation to the new Free Malaysia Today article on asset seizure and updated Antara NGO page with the latest source.
+
+Pages updated: entities/ngos/antara.md
+
+## 2026-04-21T19:07:54Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T19:07:55Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T19:07:55Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T19:07:56Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T19:07:56Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T19:08:11Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T19:08:12Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T19:08:12Z
+
+Added the new Free Malaysia Today article as a reference and citation to Antara NGO page to document the MACC seizure details.
+
+Pages updated: entities/ngos/antara.md
+
+## 2026-04-21T19:08:13Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T19:08:15Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T19:08:15Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T19:08:16Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T19:08:16Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T19:08:16Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T19:08:27Z
+
+Added citation and reference for MACC seizure of 18 luxury vehicles and RM11 million property on Antara NGO page.
+
+Pages updated: entities/ngos/antara.md
+
+## 2026-04-21T19:08:31Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T19:08:32Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T19:08:34Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T19:08:42Z
+
+Added a new bullet and reference for the Free Malaysia Today article on 3 nabbed for siphoning RM230 million, ensuring the Antara NGO page reflects the latest source.
+
+Pages updated: entities/ngos/antara.md
+
+## 2026-04-21T19:08:47Z
+
+Added citation to the new Free Malaysia Today article and included it in the references on the Antara NGO page.
+
+Pages updated: entities/ngos/antara.md
+
+## 2026-04-21T19:08:53Z
+
+Added a third citation to the asset‑seizure bullet on the Antara NGO page, referencing the new article confirming MACC’s seizure of 18 luxury vehicles and RM11 million in property.
+
+Pages updated: entities/ngos/antara.md
+
+## 2026-04-21T19:09:07Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T19:09:07Z
+
+Added citation and reference for MACC asset seizure to Antara NGO page, incorporating new facts from the 21 April 2026 article.
+
+Pages updated: entities/ngos/antara.md
+
+## 2026-04-21T19:09:17Z
+
+Added citation and reference for the MACC seizure of 18 luxury vehicles and RM11 million property from the new Free Malaysia Today article.
+
+Pages updated: entities/ngos/antara.md
+
+## 2026-04-21T19:09:18Z
+
+Added the new Free Malaysia Today article to Antara NGO page and included it in the reference list.
+
+Pages updated: entities/ngos/antara.md
+
+## 2026-04-21T19:09:33Z
+
+Added citation to the new Free Malaysia Today article and updated the asset‑seizure bullet on the Antara NGO page.
+
+Pages updated: entities/ngos/antara.md
+
+## 2026-04-21T19:09:33Z
+
+Added the new Free Malaysia Today article as a source for the asset‑seizure bullet and included it in the references on the Antara NGO page.
+
+Pages updated: entities/ngos/antara.md
+
+## 2026-04-21T19:10:05Z
+
+Added the new Free Malaysia Today source confirming MACC's seizure of 18 luxury vehicles and RM11 million in property to the Antara NGO page.
+
+Pages updated: entities/ngos/antara.md
+
+## 2026-04-21T19:34:01Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T19:34:03Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T19:34:04Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T19:34:05Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T19:34:07Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T19:34:07Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T19:34:07Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T19:34:07Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T19:34:08Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T19:34:09Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T19:34:09Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T19:34:09Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T19:34:10Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T19:34:10Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T19:34:12Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T19:34:17Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T19:34:18Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T19:34:20Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T19:34:21Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T19:34:23Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T19:34:27Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T19:34:28Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T19:34:28Z
+
+Added explicit citations to Antara NGO page for the 3 arrests, the 3 nabbed claim, and the MACC asset seizure, reflecting details from the new Free Malaysia Today article.
+
+Pages updated: entities/ngos/antara.md
+
+## 2026-04-21T19:34:29Z
+
+Added a new citation for the MACC asset seizure to Antara NGO page, reflecting the additional Free Malaysia Today article.
+
+Pages updated: entities/ngos/antara.md
+
+## 2026-04-21T19:34:29Z
+
+Added an extra citation for the MACC asset seizure and included the new article in the references on the Antara NGO page.
+
+Pages updated: entities/ngos/antara.md
+
+## 2026-04-21T19:34:31Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T19:34:31Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T19:34:35Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T19:34:36Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T19:34:37Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T19:34:41Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T19:34:42Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T19:34:42Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T19:34:54Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T19:34:55Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T19:34:55Z
+
+Added the new Free Malaysia Today article as a citation for the asset seizure and confirmed the three‑nabbed incident on the Antara NGO page.
+
+Pages updated: entities/ngos/antara.md
+
+## 2026-04-21T19:34:55Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T19:34:57Z
+
+Added a new bullet and citation for the "3 nabbed for allegedly siphoning RM230mil in zakat funds" article and included its source in the asset‑seizure citations on the Antara NGO page.
+
+Pages updated: entities/ngos/antara.md
+
+## 2026-04-21T19:34:58Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T19:34:58Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T19:34:58Z
+
+Added the new Free Malaysia Today article to Antara NGO page references and retained existing citations.
+
+Pages updated: entities/ngos/antara.md
+
+## 2026-04-21T19:34:59Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T19:35:00Z
+
+Added citation for the new Free Malaysia Today article confirming MACC's seizure of 18 luxury vehicles and RM11 million in property to the Antara NGO page.
+
+Pages updated: entities/ngos/antara.md
+
+## 2026-04-21T19:35:00Z
+
+Added citations to Antara NGO page for the new Free Malaysia Today article confirming arrests and MACC asset seizure.
+
+Pages updated: entities/ngos/antara.md
+
+## 2026-04-21T19:35:05Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T19:35:06Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T19:35:13Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T19:35:19Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T19:35:20Z
+
+Added detailed asset seizure info and citation to Antara NGO page.
+
+Pages updated: entities/ngos/antara.md
+
+## 2026-04-21T19:35:26Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T19:35:26Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T19:35:26Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T19:35:27Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T19:35:27Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T19:35:29Z
+
+Added MACC asset seizure details to Antara NGO page from the new article.
+
+Pages updated: entities/ngos/antara.md
+
+## 2026-04-21T19:35:29Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T19:35:30Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T19:35:30Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T19:35:31Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T19:35:31Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T19:35:31Z
+
+Added new bullet and citation for the "3 nabbed" article and included its source in the asset‑seizure citations on the Antara NGO page.
+
+Pages updated: entities/ngos/antara.md
+
+## 2026-04-21T19:35:32Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T19:35:36Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T19:35:39Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T19:35:40Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T19:35:42Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T19:35:43Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T19:35:43Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T19:35:46Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T19:35:48Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T19:35:52Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T19:35:53Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T19:35:53Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T19:35:55Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T19:35:57Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T19:35:59Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T19:35:59Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T19:36:00Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T19:36:00Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T19:36:01Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T19:36:04Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T19:36:15Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T19:36:18Z
+
+Added the new Free Malaysia Today article as a source for the arrests and MACC asset seizure on the Antara NGO page.
+
+Pages updated: entities/ngos/antara.md
+
+## 2026-04-21T19:36:18Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T19:36:20Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T19:36:21Z
+
+Added citation and clarified asset seizure details on Antara NGO page using the new Free Malaysia Today article.
+
+Pages updated: entities/ngos/antara.md
+
+## 2026-04-21T19:36:28Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T19:36:29Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T19:36:29Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T19:36:30Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T19:36:30Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T19:36:30Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T19:36:35Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T19:36:39Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T19:36:40Z
+
+Added new citation and bullet for the "3 nabbed" article and ensured asset‑seizure details are sourced on the Antara NGO page.
+
+Pages updated: entities/ngos/antara.md
+
+## 2026-04-21T19:36:41Z
+
+Added the group's expressed regret ("kesal") from the Bahasa article to both UMANY and UM Students’ Group pages.
+
+Pages updated: entities/organizations/umany.md, entities/organizations/um-students-group.md
+
+## 2026-04-21T19:36:42Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T19:36:43Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T19:36:46Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T19:36:47Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T19:36:48Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T19:36:50Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T19:36:52Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T19:36:53Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T19:36:55Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T19:36:57Z
+
+Added a new bullet referencing the "3 nabbed for allegedly siphoning RM230 million" article and cited the MACC asset‑seizure details on the Antara NGO page.
+
+Pages updated: entities/ngos/antara.md
+
+## 2026-04-21T19:36:57Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T19:37:06Z
+
+Added the new asset‑seizure details and citation from the 21 April 2026 article to the Antara NGO page.
+
+Pages updated: entities/ngos/antara.md
+
+## 2026-04-21T19:37:07Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T19:37:10Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T19:37:11Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T19:37:12Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T19:37:15Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T19:37:16Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T19:37:17Z
+
+Added citation and reference for the MACC asset seizure details from the new article on 21 April 2026.
+
+Pages updated: entities/ngos/antara.md
+
+## 2026-04-21T19:37:25Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T19:37:27Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T19:37:27Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T19:37:28Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T19:37:28Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T19:37:45Z
+
+Added a new bullet about the three arrests and updated the asset‑seizure citation on the Antara NGO page to reflect the 21 April 2026 Free Malaysia Today article.
+
+Pages updated: entities/ngos/antara.md
+
+## 2026-04-21T19:37:46Z
+
+Added citation of the new Free Malaysia Today article to Antara NGO page, confirming asset seizure details.
+
+Pages updated: entities/ngos/antara.md
+
+## 2026-04-21T19:37:46Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T19:37:47Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T19:37:47Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T19:37:48Z
+
+Added citation and reference for the MACC seizure of 18 luxury vehicles and RM11 million property from the new Free Malaysia Today article.
+
+Pages updated: entities/ngos/antara.md
+
+## 2026-04-21T19:37:48Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T19:37:48Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T19:37:48Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T19:37:49Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T19:37:49Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T19:37:49Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T19:37:49Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T19:37:49Z
+
+Added the full article URL as citation to UMANY and UM Students’ Group pages to reflect the new source details.
+
+Pages updated: entities/organizations/umany.md, entities/organizations/um-students-group.md
+
+## 2026-04-21T19:37:50Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T19:37:50Z
+
+Added Bahasa‑language source citations and URLs to UMANY and UM Students’ Group pages to reflect the new Free Malaysia Today article.
+
+Pages updated: entities/organizations/umany.md, entities/organizations/um-students-group.md
+
+## 2026-04-21T19:37:50Z
+
+Added the new Free Malaysia Today article as a source and citation to the Antara NGO page, confirming MACC's seizure of 18 luxury vehicles and RM11 million in property.
+
+Pages updated: entities/ngos/antara.md
+
+## 2026-04-21T19:37:51Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T19:38:08Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T19:38:08Z
+
+Added the new Free Malaysia Today article as a reference on the Antara NGO page to document the MACC asset seizure details.
+
+Pages updated: entities/ngos/antara.md
+
+## 2026-04-21T19:38:11Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T19:38:18Z
+
+Added citation for the Free Malaysia Today article confirming the MACC seizure of 18 luxury vehicles and RM11 million in property on the Antara NGO page.
+
+Pages updated: entities/ngos/antara.md
+
+## 2026-04-21T19:38:22Z
+
+Added citation for the asset‑seizure details from the new Free Malaysia Today article confirming MACC seized 18 luxury vehicles and RM11 million in property.
+
+Pages updated: entities/ngos/antara.md
+
+## 2026-04-21T19:38:23Z
+
+Updated Antara NGO page with complete citation for the RM230 million zakat fund siphoning article and corrected the reference entry.
+
+Pages updated: entities/ngos/antara.md
+
+## 2026-04-21T19:38:32Z
+
+Added a third citation to the asset‑seizure bullet on Antara NGO page to reference the new Free Malaysia Today article confirming the seizure of 18 luxury vehicles and RM11 million in property.
+
+Pages updated: entities/ngos/antara.md
+
+## 2026-04-21T19:38:49Z
+
+Added the new Free Malaysia Today article about three arrests and updated citations on the Antara NGO page.
+
+Pages updated: entities/ngos/antara.md
+
+## 2026-04-21T19:38:52Z
+
+Added the Bahasa‑language source URL to the reference sections of UMANY and UM Students’ Group pages to reflect the new article.
+
+Pages updated: entities/organizations/umany.md, entities/organizations/um-students-group.md
+
+## 2026-04-21T19:38:53Z
+
+Added a new bullet confirming MACC's seizure of 18 luxury vehicles and RM11 million in property, with citation, to the Antara NGO page.
+
+Pages updated: entities/ngos/antara.md
+
+## 2026-04-21T19:38:59Z
+
+Added citation for the new Free Malaysia Today article confirming asset seizure details on Antara NGO page.
+
+Pages updated: entities/ngos/antara.md
+
+## 2026-04-21T19:39:05Z
+
+Added the Bahasa‑language Free Malaysia Today source and its URL to both UMANY and UM Students’ Group pages, citing the new article for all related claims.
+
+Pages updated: entities/organizations/umany.md, entities/organizations/um-students-group.md
+
+## 2026-04-21T19:39:24Z
+
+Added citation for the "Three nabbed" arrest and reinforced asset‑seizure citation on the Antara NGO page.
+
+Pages updated: entities/ngos/antara.md
+
+## 2026-04-21T19:40:14Z
+
+Added additional citation for MACC asset seizure on Antara NGO page using the new article.
+
+Pages updated: entities/ngos/antara.md
+
+## 2026-04-21T20:04:02Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T20:04:03Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T20:04:06Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T20:04:10Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T20:04:16Z
+
+Added citation of the specific Free Malaysia Today article title to both UMANY and UM Students’ Group pages.
+
+Pages updated: entities/organizations/umany.md, entities/organizations/um-students-group.md
+
+## 2026-04-21T20:04:19Z
+
+No relevant updates needed as the article's facts are already reflected in the existing Antara NGO page.
+
+Pages updated: none
+
+## 2026-04-21T20:04:21Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T20:04:26Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T20:04:27Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T20:04:28Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T20:04:30Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T20:04:31Z
+
+Added the full article URL as a citation to both UMANY and UM Students’ Group pages to reflect the new source detail.
+
+Pages updated: entities/organizations/umany.md, entities/organizations/um-students-group.md
+
+## 2026-04-21T20:04:31Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T20:04:32Z
+
+Added citation for MACC asset seizure from the new ‘3 nabbed…’ article to the Antara NGO page.
+
+Pages updated: entities/ngos/antara.md
+
+## 2026-04-21T20:04:32Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T20:04:33Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T20:04:33Z
+
+Added Bahasa coverage citation to UMANY page to reflect new Free Malaysia Today Bahasa article.
+
+Pages updated: entities/organizations/umany.md
+
+## 2026-04-21T20:04:34Z
+
+Added the new Free Malaysia Today article citation to Antara NGO page and ensured all controversy details are properly sourced.
+
+Pages updated: entities/ngos/antara.md
+
+## 2026-04-21T20:04:35Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T20:04:36Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T20:04:39Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T20:04:44Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T20:04:46Z
+
+Added citation to Bahasa Free Malaysia Today article on 21 April 2026 for UMANY and UM Students’ Group pages.
+
+Pages updated: entities/organizations/umany.md, entities/organizations/um-students-group.md
+
+## 2026-04-21T20:04:58Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T20:05:00Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T20:05:01Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T20:05:01Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T20:05:02Z
+
+Added the Bahasa-language article URL as a citation to both UMANY and UM Students’ Group pages to reflect the new source.
+
+Pages updated: entities/organizations/umany.md, entities/organizations/um-students-group.md
+
+## 2026-04-21T20:05:07Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T20:05:09Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T20:05:10Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T20:05:12Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T20:05:16Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T20:05:20Z
+
+Added specific Bahasa article URL citations to UMANY and UM Students’ Group pages to reflect the new Free Malaysia Today Bahasa coverage.
+
+Pages updated: entities/organizations/umany.md, entities/organizations/um-students-group.md
+
+## 2026-04-21T20:05:20Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T20:05:20Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T20:05:21Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T20:05:22Z
+
+Added citation to the new Free Malaysia Today article for the arrests and asset seizure details on Antara NGO.
+
+Pages updated: entities/ngos/antara.md
+
+## 2026-04-21T20:05:24Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T20:05:24Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T20:05:25Z
+
+Added alias for UMANY and completed citation URLs; updated UM Students’ Group page with full article URL.
+
+Pages updated: entities/organizations/umany.md, entities/organizations/um-students-group.md
+
+## 2026-04-21T20:05:25Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T20:05:25Z
+
+Corrected the reference URL for the UM Students’ Group page and ensured citations reflect the 21 April 2026 Free Malaysia Today article.
+
+Pages updated: entities/organizations/um-students-group.md
+
+## 2026-04-21T20:05:28Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T20:05:28Z
+
+Added Bahasa Malay coverage of the 21 April 2026 UM student group anti‑graft forum disruption to UMANY and UM Students’ Group pages with proper citations.
+
+Pages updated: entities/organizations/umany.md, entities/organizations/um-students-group.md
+
+## 2026-04-21T20:05:29Z
+
+Added Bahasa‑Malay source citations and reference entries to UMANY and UM Students’ Group pages to reflect the new Free Malaysia Today Bahasa article.
+
+Pages updated: entities/organizations/umany.md, entities/organizations/um-students-group.md
+
+## 2026-04-21T20:05:30Z
+
+Added Bahasa‑Malay coverage of the 21 April 2026 UM student forum disruption to both UMANY and UM Students’ Group pages, including new citations and reference entries.
+
+Pages updated: entities/organizations/umany.md, entities/organizations/um-students-group.md
+
+## 2026-04-21T20:05:32Z
+
+Added the article URL as a citation to both UMANY and UM Students’ Group pages, ensuring all facts are fully sourced.
+
+Pages updated: entities/organizations/umany.md, entities/organizations/um-students-group.md
+
+## 2026-04-21T20:05:41Z
+
+Added Bahasa‑language statements and citations to UMANY and UM Students’ Group pages to reflect the new Free Malaysia Today Bahasa article.
+
+Pages updated: entities/organizations/umany.md, entities/organizations/um-students-group.md
+
+## 2026-04-21T20:05:42Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T20:05:45Z
+
+Added citation for the Bahasa Malay Free Malaysia Today article to both UMANY and UM Students’ Group pages, reflecting the new source.
+
+Pages updated: entities/organizations/umany.md, entities/organizations/um-students-group.md
+
+## 2026-04-21T20:05:48Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T20:05:54Z
+
+Added the article URL as a cited fact to both UM Students’ Group and UMANY pages to reflect the source of the police disruption claim.
+
+Pages updated: entities/organizations/um-students-group.md, entities/organizations/umany.md
+
+## 2026-04-21T20:05:56Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T20:05:56Z
+
+Added complete Bahasa coverage citation to UMANY page, fixing truncated reference.
+
+Pages updated: entities/organizations/umany.md
+
+## 2026-04-21T20:05:58Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T20:05:59Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T20:06:00Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T20:06:00Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T20:06:01Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T20:06:01Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T20:06:02Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T20:06:03Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T20:06:04Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T20:06:04Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T20:06:05Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T20:06:06Z
+
+Added complete citation details and corrected URLs for the UMANY and UM Students’ Group pages to reflect the 21 April 2026 Free Malaysia Today article.
+
+Pages updated: entities/organizations/umany.md, entities/organizations/um-students-group.md
+
+## 2026-04-21T20:06:06Z
+
+Added full article URL to UM Students’ Group and UMANY reference sections to correct incomplete citation.
+
+Pages updated: entities/organizations/um-students-group.md, entities/organizations/umany.md
+
+## 2026-04-21T20:06:07Z
+
+Added detailed vehicle types to Antara NGO asset seizure bullet and ensured citation from Free Malaysia Today 2026‑04‑21.
+
+Pages updated: entities/ngos/antara.md
+
+## 2026-04-21T20:06:07Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T20:06:09Z
+
+Added Bahasa‑Malay coverage of the UM students’ anti‑graft forum disruption to UMANY and UM Students’ Group pages, including URLs for the new source.
+
+Pages updated: entities/organizations/umany.md, entities/organizations/um-students-group.md
+
+## 2026-04-21T20:06:09Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T20:06:11Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T20:06:13Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T20:06:19Z
+
+Added Bahasa Malay coverage of the 21 April 2026 police disruption to the UMANY page.
+
+Pages updated: entities/organizations/umany.md
+
+## 2026-04-21T20:06:19Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T20:06:20Z
+
+Added citation of the new article and a media‑report bullet to the Antara NGO page to reflect the reported asset seizure.
+
+Pages updated: entities/ngos/antara.md
+
+## 2026-04-21T20:06:22Z
+
+Added Bahasa Malaysia source to UMANY page to reflect new article covering the same 21 April 2026 police disruption.
+
+Pages updated: entities/organizations/umany.md
+
+## 2026-04-21T20:06:24Z
+
+Added Bahasa Malay coverage of the 21 April 2026 UMANY anti‑graft forum disruption to the UMANY page.
+
+Pages updated: entities/organizations/umany.md
+
+## 2026-04-21T20:06:25Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T20:06:26Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T20:06:29Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T20:06:41Z
+
+Added missing Bahasa article URL and completed incomplete sections for UMANY and UM Students’ Group pages.
+
+Pages updated: entities/organizations/umany.md, entities/organizations/um-students-group.md
+
+## 2026-04-21T20:06:42Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T20:06:50Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T20:06:56Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T20:06:56Z
+
+Added the Bahasa Malay article citation to UMANY and UM Students’ Group pages, updating media coverage details.
+
+Pages updated: entities/organizations/umany.md, entities/organizations/um-students-group.md
+
+## 2026-04-21T20:06:57Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T20:06:58Z
+
+Added citation for the 3‑nabbed article and reinforced asset‑seizure details on the Antara NGO page.
+
+Pages updated: entities/ngos/antara.md
+
+## 2026-04-21T20:06:58Z
+
+Added complete Bahasa coverage citation and an extra source to the UMANY claim on 21 April 2026.
+
+Pages updated: entities/organizations/umany.md
+
+## 2026-04-21T20:06:59Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T20:06:59Z
+
+Added Bahasa Malaysia coverage of the 21 April 2026 UM anti‑graft forum disruption to both UMANY and UM Students’ Group pages, including new citations and reference entries.
+
+Pages updated: entities/organizations/umany.md, entities/organizations/um-students-group.md
+
+## 2026-04-21T20:06:59Z
+
+Added the article title and URL citations to UMANY and UM Students’ Group pages to reflect the Free Malaysia Today report.
+
+Pages updated: entities/organizations/umany.md, entities/organizations/um-students-group.md
+
+## 2026-04-21T20:06:59Z
+
+Added the Bahasa Malay source URL and citation to both UMANY and UM Students’ Group pages to reflect the new article.
+
+Pages updated: entities/organizations/umany.md, entities/organizations/um-students-group.md
+
+## 2026-04-21T20:06:59Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T20:07:00Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T20:07:00Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T20:07:00Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T20:07:01Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T20:07:02Z
+
+Added the article title and URL citations to UMANY and UM Students’ Group pages to reflect the new source details.
+
+Pages updated: entities/organizations/umany.md, entities/organizations/um-students-group.md
+
+## 2026-04-21T20:07:03Z
+
+Added complete English and Bahasa citations and URLs to UMANY and UM Students’ Group pages, fixing truncated content.
+
+Pages updated: entities/organizations/umany.md, entities/organizations/um-students-group.md
+
+## 2026-04-21T20:07:03Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T20:07:04Z
+
+Added complete Bahasa citation to UMANY page to reflect the new Free Malaysia Today article.
+
+Pages updated: entities/organizations/umany.md
+
+## 2026-04-21T20:07:04Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T20:07:05Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T20:07:05Z
+
+Added complete English and Bahasa coverage details (titles, URLs, citations) to UMANY and UM Students’ Group pages to reflect the new article.
+
+Pages updated: entities/organizations/umany.md, entities/organizations/um-students-group.md
+
+## 2026-04-21T20:07:05Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T20:07:06Z
+
+Added the Bahasa article source and URL to UMANY and UM Students’ Group pages to reflect the new citation.
+
+Pages updated: entities/organizations/umany.md, entities/organizations/um-students-group.md
+
+## 2026-04-21T20:07:06Z
+
+Added the Bahasa-language article URL and citation to both UMANY and UM Students’ Group pages to reflect the new source.
+
+Pages updated: entities/organizations/umany.md, entities/organizations/um-students-group.md
+
+## 2026-04-21T20:07:07Z
+
+Added specific Bahasa article URL citations to UMANY and UM Students’ Group pages to reflect the new source.
+
+Pages updated: entities/organizations/umany.md, entities/organizations/um-students-group.md
+
+## 2026-04-21T20:07:10Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T20:07:19Z
+
+Added Bahasa Malaysia citation to UMANY and UM Students’ Group pages to reflect the new Free Malaysia Today article.
+
+Pages updated: entities/organizations/umany.md, entities/organizations/um-students-group.md
+
+## 2026-04-21T20:07:20Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T20:07:21Z
+
+Added MACC asset seizure details (18 luxury vehicles and RM11 million in properties) to Antara NGO controversy page.
+
+Pages updated: entities/ngos/antara.md
+
+## 2026-04-21T20:07:21Z
+
+Added Bahasa‑language citations and completed the UM Students’ Group page to reflect the new Free Malaysia Today article.
+
+Pages updated: entities/organizations/umany.md, entities/organizations/um-students-group.md
+
+## 2026-04-21T20:07:22Z
+
+Added MACC asset seizure details (18 luxury vehicles and RM11 million in properties) to Antara NGO controversy page.
+
+Pages updated: entities/ngos/antara.md
+
+## 2026-04-21T20:07:23Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T20:07:27Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T20:07:32Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T20:07:32Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T20:07:46Z
+
+Added the Bahasa‑language Free Malaysia Today article as a citation to both UMANY and UM Students’ Group pages.
+
+Pages updated: entities/organizations/umany.md, entities/organizations/um-students-group.md
+
+## 2026-04-21T20:07:47Z
+
+Added MACC asset seizure details to Antara NGO page, citing the 21 April 2026 Free Malaysia Today article.
+
+Pages updated: entities/ngos/antara.md
+
+## 2026-04-21T20:08:04Z
+
+Added Bahasa‑language citation for the UM students’ group claim to both UM Students’ Group and UMANY pages.
+
+Pages updated: entities/organizations/um-students-group.md, entities/organizations/umany.md
+
+## 2026-04-21T20:08:14Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T20:08:33Z
+
+Added complete Bahasa citation to UMANY page to reflect the Free Malaysia Today article.
+
+Pages updated: entities/organizations/umany.md
+
+## 2026-04-21T20:09:44Z
+
+Added complete Bahasa coverage citation to UMANY page, fixing truncated entry.
+
+Pages updated: entities/organizations/umany.md
+
+## 2026-04-21T20:12:44Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T20:12:50Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T20:34:03Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T20:34:03Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T20:34:04Z
+
+Added proper Bahasa source citation and corrected outlet name on UMANY page.
+
+Pages updated: entities/organizations/umany.md
+
+## 2026-04-21T20:34:07Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T20:34:08Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T20:34:09Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T20:34:11Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T20:34:13Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T20:34:13Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T20:34:14Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T20:34:19Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T20:34:22Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T20:34:23Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T20:34:23Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T20:34:24Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T20:34:27Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T20:34:27Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T20:34:31Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T20:34:32Z
+
+Added Bahasa‑Malay source citations and corrected media coverage entry for UMANY to reflect the new article.
+
+Pages updated: entities/organizations/umany.md
+
+## 2026-04-21T20:34:33Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T20:34:35Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T20:34:36Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T20:34:42Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T20:34:42Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T20:34:46Z
+
+Added proper Bahasa Malay media citation to UMANY page, correcting typo and providing URL.
+
+Pages updated: entities/organizations/umany.md
+
+## 2026-04-21T20:34:46Z
+
+Added Bahasa‑Malay source citations and URLs to UMANY and UM Students’ Group pages to reflect the new Free Malaysia Today article.
+
+Pages updated: entities/organizations/umany.md, entities/organizations/um-students-group.md
+
+## 2026-04-21T20:34:53Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T20:35:03Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T20:35:05Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T20:35:07Z
+
+Added the specific article URL and citation to both UMANY and UM Students’ Group pages to reflect the new source details.
+
+Pages updated: entities/organizations/umany.md, entities/organizations/um-students-group.md
+
+## 2026-04-21T20:35:08Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T20:35:08Z
+
+Added full article URLs to English media citations on UMANY and UM Students’ Group pages.
+
+Pages updated: entities/organizations/umany.md, entities/organizations/um-students-group.md
+
+## 2026-04-21T20:35:09Z
+
+Added the specific English article title and URL citation to UMANY and UM Students’ Group pages to reflect the new source.
+
+Pages updated: entities/organizations/umany.md, entities/organizations/um-students-group.md
+
+## 2026-04-21T20:35:09Z
+
+Added the specific article URL to citations on UMANY and UM Students’ Group pages to reflect the new source details.
+
+Pages updated: entities/organizations/umany.md, entities/organizations/um-students-group.md
+
+## 2026-04-21T20:35:10Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T20:35:10Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T20:35:10Z
+
+Added the article URL to citations on UMANY and UM Students’ Group pages to reflect the new source details.
+
+Pages updated: entities/organizations/umany.md, entities/organizations/um-students-group.md
+
+## 2026-04-21T20:35:11Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T20:35:11Z
+
+Added Bahasa‑Malay coverage citation and URL to UMANY and UM Students’ Group pages to reflect the new Free Malaysia Today article.
+
+Pages updated: entities/organizations/umany.md, entities/organizations/um-students-group.md
+
+## 2026-04-21T20:35:12Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T20:35:13Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T20:35:14Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T20:35:14Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T20:35:15Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T20:35:18Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T20:35:31Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T20:35:32Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T20:35:32Z
+
+Added Bahasa source citation, corrected outlet name, and included URLs for UMANY page.
+
+Pages updated: entities/organizations/umany.md
+
+## 2026-04-21T20:35:32Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T20:35:33Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T20:35:35Z
+
+Added Bahasa‑Malay source citations and corrected the media coverage entry for UMANY, ensuring both UMANY and UM Students’ Group pages reflect the new Free Malaysia Today article.
+
+Pages updated: entities/organizations/umany.md, entities/organizations/um-students-group.md
+
+## 2026-04-21T20:35:36Z
+
+Added the specific Free Malaysia Today article URL and citation to both UMANY and UM Students’ Group pages to reflect the new source.
+
+Pages updated: entities/organizations/umany.md, entities/organizations/um-students-group.md
+
+## 2026-04-21T20:35:36Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T20:35:37Z
+
+Added detailed Bahasa coverage citation, title, URL, and direct quote to UMANY and UM Students’ Group pages.
+
+Pages updated: entities/organizations/umany.md, entities/organizations/um-students-group.md
+
+## 2026-04-21T20:35:37Z
+
+Added the Bahasa Malaysia Free Malaysia Today article as a source and corrected the media coverage entry for UMANY and UM Students’ Group.
+
+Pages updated: entities/organizations/umany.md, entities/organizations/um-students-group.md
+
+## 2026-04-21T20:35:38Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T20:35:41Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T20:35:41Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T20:35:46Z
+
+Added Bahasa‑language source citations and a new statement bullet to both UM Students’ Group and UMANY pages to reflect the Free Malaysia Today article.
+
+Pages updated: entities/organizations/um-students-group.md, entities/organizations/umany.md
+
+## 2026-04-21T20:35:49Z
+
+Added the specific article title and URL citation to both UMANY and UM Students’ Group pages to reflect the new source.
+
+Pages updated: entities/organizations/umany.md, entities/organizations/um-students-group.md
+
+## 2026-04-21T20:35:50Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T20:35:50Z
+
+Added the Bahasa Free Malaysia Today article URL as a citation to both UMANY and UM Students’ Group pages to reflect the new source.
+
+Pages updated: entities/organizations/umany.md, entities/organizations/um-students-group.md
+
+## 2026-04-21T20:35:51Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T20:35:52Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T20:35:53Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T20:35:53Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T20:35:54Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T20:35:54Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T20:35:54Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T20:35:54Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T20:35:55Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T20:35:55Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T20:35:56Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T20:35:56Z
+
+Added proper Bahasa article citation to UMANY page and corrected media coverage entry.
+
+Pages updated: entities/organizations/umany.md
+
+## 2026-04-21T20:35:56Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T20:36:06Z
+
+Added the specific Free Malaysia Today Bahasa article URL as citation to UMANY and UM Students’ Group pages, reinforcing the reported police disruption of the anti‑graft forum.
+
+Pages updated: entities/organizations/umany.md, entities/organizations/um-students-group.md
+
+## 2026-04-21T20:36:14Z
+
+Added complete English article URL and clarified citations on UMANY and UM Students’ Group pages.
+
+Pages updated: entities/organizations/umany.md, entities/organizations/um-students-group.md
+
+## 2026-04-21T20:36:15Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T20:36:16Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T20:36:17Z
+
+Added English‑language citation and article title to UMANY and UM Students’ Group pages to reflect the new Free Malaysia Today report.
+
+Pages updated: entities/organizations/umany.md, entities/organizations/um-students-group.md
+
+## 2026-04-21T20:36:18Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T20:36:20Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T20:36:20Z
+
+Added Bahasa source citation for UMANY incident to reflect new Free Malaysia Today article.
+
+Pages updated: entities/organizations/umany.md
+
+## 2026-04-21T20:36:21Z
+
+Added the specific article URL and citation to the UMANY and UM Students’ Group pages to reflect the new source details.
+
+Pages updated: entities/organizations/umany.md, entities/organizations/um-students-group.md
+
+## 2026-04-21T20:36:22Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T20:36:23Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T20:36:24Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T20:36:25Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T20:36:25Z
+
+Added the Bahasa Malaysia Free Malaysia Today article as a source to both UM Students’ Group pages, correcting and completing the citation URLs.
+
+Pages updated: entities/organizations/um-students-group.md, entities/organizations/umany.md
+
+## 2026-04-21T20:36:27Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T20:36:27Z
+
+Added detailed Bahasa Malaysia coverage (title and URL) to UMANY page and corrected source name.
+
+Pages updated: entities/organizations/umany.md
+
+## 2026-04-21T20:36:28Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T20:36:30Z
+
+Added proper citation and URL for the Bahasa Malay coverage of the UMANY police disruption incident.
+
+Pages updated: entities/organizations/umany.md
+
+## 2026-04-21T20:36:31Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T20:36:32Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T20:36:34Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-21T20:36:35Z
+
+Added Bahasa Malaysia source citations and claim details to UMANY and UM Students’ Group pages.
+
+Pages updated: entities/organizations/umany.md, entities/organizations/um-students-group.md
+
+## 2026-04-21T20:36:35Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-21T20:36:44Z
+
+Added the English Free Malaysia Today article URL as a citation to both UMANY and UM Students’ Group pages to reflect the new source.
+
+Pages updated: entities/organizations/umany.md, entities/organizations/um-students-group.md
+
+## 2026-04-21T20:36:49Z
+
+Added missing URLs and completed citations for English and Bahasa media coverage of the UM students’ group anti‑graft forum incident.
+
+Pages updated: entities/organizations/umany.md, entities/organizations/um-students-group.md
+
+## 2026-04-21T20:36:57Z
+
+Added new citation from Free Malaysia Today (nation) to UMANY and UM Students’ Group pages to reflect the reported claim of police halting the anti‑graft forum.
+
+Pages updated: entities/organizations/umany.md, entities/organizations/um-students-group.md
+
+## 2026-04-21T20:37:13Z
+
+Added citation to the English Free Malaysia Today article and clarified that police allegedly halted the anti‑graft forum on 21 April 2026 in both UMANY and UM Students’ Group pages.
+
+Pages updated: entities/organizations/umany.md, entities/organizations/um-students-group.md
+
+## 2026-04-21T20:38:15Z
+
+Added citation to new Free Malaysia Today article confirming UMANY/UM Students’ Group claim of rights suppression.
+
+Pages updated: entities/organizations/umany.md, entities/organizations/um-students-group.md
+
+## 2026-04-21T20:41:45Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
