@@ -114,7 +114,12 @@ export const SeatDetailPanel = ({ constituencyCode, seatName, onClose }) => {
   const { demographics, loading: demoLoading } = useDemographics(constituencyCode)
   const { articles, loading: artLoading } = useConstituencyArticles(constituencyCode)
   const { predictions } = useSeatPredictions(constituencyCode)
-  const prediction = predictions?.[0] ?? null
+  const raw = (predictions ?? []).find((p) => p.constituency_code === constituencyCode && p.leading_party) ?? null
+  const prediction = raw ? {
+    ...raw,
+    caveats: (() => { try { return typeof raw.caveats === 'string' ? JSON.parse(raw.caveats) : (raw.caveats ?? []) } catch { return [] } })(),
+    signal_breakdown: (() => { try { return typeof raw.signal_breakdown === 'string' ? JSON.parse(raw.signal_breakdown) : (raw.signal_breakdown ?? {}) } catch { return {} } })(),
+  } : null
 
   const partyColor = PARTY_COLORS[prediction?.leading_party] || '#aaa'
   const confidence = prediction?.confidence ?? null
@@ -156,7 +161,7 @@ export const SeatDetailPanel = ({ constituencyCode, seatName, onClose }) => {
             </span>
           </div>
           <div style={{ fontFamily: "'JetBrains Mono', monospace", fontSize: '9px', color: '#5c5f66', marginTop: '6px' }}>
-            {prediction.updated_at ? `Updated ${new Date(prediction.updated_at).toLocaleString()} · ` : ''}
+            {prediction.updated_at ? `Updated ${(() => { try { return new Date(prediction.updated_at).toLocaleString() } catch { return prediction.updated_at } })() } · ` : ''}
             Based on {prediction.num_articles ?? 0} articles
           </div>
         </div>

@@ -25,7 +25,7 @@ services:
     image: redis:7-alpine
     restart: unless-stopped
     ports:
-      - "6380:6379"
+      - "7379:6379"
     healthcheck:
       test: ["CMD", "redis-cli", "ping"]
       interval: 5s
@@ -47,7 +47,7 @@ services:
       CONTROL_PLANE_URL: http://control_plane:8000
       AGENT_URLS: news_agent@http://news_agent:8001,scorer_agent@http://scorer_agent:8002,analyst_agent@http://analyst_agent:8003,seat_agent@http://seat_agent:8004,wiki_agent@http://wiki_agent:8005
     ports:
-      - "9000:8000"
+      - "8000:8000"
     depends_on:
       postgres:
         condition: service_healthy
@@ -74,7 +74,7 @@ services:
       CONTROL_PLANE_URL: http://control_plane:8000
       AGENT_HOSTNAME: wiki_agent
     ports:
-      - "9005:8005"
+      - "7005:8005"
     volumes:
       - ./wiki:/app/wiki
     depends_on:
@@ -127,7 +127,7 @@ services:
       CONTROL_PLANE_URL: http://control_plane:8000
       AGENT_HOSTNAME: analyst_agent
     ports:
-      - "9003:8003"
+      - "7003:8003"
     depends_on:
       control_plane:
         condition: service_healthy
@@ -158,7 +158,7 @@ services:
       context: ./dashboard
       dockerfile: Dockerfile
     environment:
-      VITE_API_URL: http://localhost:9000
+      VITE_API_URL: http://localhost:8000
     ports:
       - "5175:5173"
     depends_on:

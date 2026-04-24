@@ -32,5 +32,5 @@
 - On **21 April 2026**, **Gan Kim Sing**, the Democratic Action Party (DAP) Member of Parliament for Kluang [CONTRADICTION] … [Source: Free Malaysia Today, 2026‑04‑21] (The article identifies Gan Kim Sing as a lawyer, not an MP for Kluang.)
 - The same **Free Malaysia Today** article clarifies that **Gan Kim Sing is a DAP lawyer**, not the elected MP for Kluang.  
   [Source: Free Malaysia Today, 2026‑04‑21]
-
-*Note ... *
+- On **24 April 2026**, Johor police seized **RM1.8 million** worth of drugs and crippled a drug syndicate operating in the area, marking a major law‑enforcement success in the constituency.  
+  [Source: Free Malaysia Today, 24 April 2026, URL: https://www.freemalaysiatoday.com/category/nation/2026/04/24/johor-cops-cripple-syndicate-seize-rm1-8mil-in-drugs]

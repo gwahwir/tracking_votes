@@ -1,6 +1,6 @@
 # Wiki Index — Johor Election Dashboard
 
-Last updated: 2026-04-21
+Last updated: 2026-04-24
 
 ---
 
@@ -18,6 +18,7 @@ Last updated: 2026-04-21
 
 ## Entities
 
+- [Antara (NGO)](entities/antara.md)
 - [N.01 Buloh Kasap](entities/constituencies/dun/n01-buloh-kasap.md)
 - [N.02 Jementah](entities/constituencies/dun/n02-jementah.md)
 - [N.03 Pemanis](entities/constituencies/dun/n03-pemanis.md)
@@ -101,7 +102,10 @@ Last updated: 2026-04-21
 - [P.164 Pontian](entities/constituencies/parlimen/p164-pontian.md)
 - [P.165 Tanjung Piai](entities/constituencies/parlimen/p165-tanjung-piai.md)
 - [Antara NGO — Antara Non‑Governmental Organization](entities/ngos/antara.md)
+- [Antara (NGO)](entities/organizations/antara.md)
+- [NGO Antara](entities/organizations/ngo-antara.md)
 - [UM Students’ Group – University of Malaya](entities/organizations/um-students-group.md)
+- [UM Students’ Group (University of Malaya)](entities/organizations/um_students_group.md)
 - [UMANY — University of Malaya Students’ Group](entities/organizations/umany.md)
 - [Democratic Action Party (DAP) — Democratic Action Party](entities/partenties/dap.md)
 - [dap](entities/partents/dap.md)
@@ -112,3 +116,8 @@ Last updated: 2026-04-21
 - [Malaysian Indian Congress (MIC) — Malaysian Indian Congress](entities/parties/mic.md)
 - [Parti Islam Se-Malaysia (PAS) — Malaysian Islamic Party](entities/parties/pas.md)
 - [Parti Keadilan Rakyat (PKR) — People's Justice Party](entities/parties/pkr.md)
+- [Andy Teoh](entities/people/andy_teoh.md)
+- [Gan Kim Sing](entities/people/gan_kim_sing.md)
+- [Justice Gan Techiong](entities/people/gan_techiong.md)
+- [Jamaliah — DAP State Assembly Member](entities/people/jamaliah.md)
+- [Justice Gan Techiong](entities/people/justice-gan-techiong.md)

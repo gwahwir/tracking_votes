@@ -305,12 +305,13 @@ async def get_analyses(request: Request, article_id: str | None = None, limit: i
             where = "WHERE article_id = $1"
             params = [article_id]
 
+        limit_ph = f"${len(params) + 1}"
         sql = f"""
             SELECT id, article_id, lens_name, direction, strength, summary, full_result, created_at, updated_at
             FROM analyses
             {where}
             ORDER BY created_at DESC
-            LIMIT {len(params) + 1}
+            LIMIT {limit_ph}
         """
         async with task_store._pool.acquire() as conn:
             rows = await conn.fetch(sql, *params, limit)

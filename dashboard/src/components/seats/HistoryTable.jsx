@@ -10,7 +10,7 @@ export const HistoryTable = ({ results, loading }) => {
     .sort((a, b) => b.election_year - a.election_year)
     .map((r) => ({
       ...r,
-      candidates: typeof r.candidates === 'string' ? JSON.parse(r.candidates) : (r.candidates ?? []),
+      candidates: (() => { try { return typeof r.candidates === 'string' ? JSON.parse(r.candidates) : (r.candidates ?? []) } catch { return [] } })(),
     }))
 
   return (

@@ -12766,3 +12766,153 @@ Pages updated: entities/organizations/umany.md, entities/organizations/um-studen
 Wiki update parse error — no changes applied.
 
 Pages updated: none
+
+## 2026-04-23T09:41:04Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-23T10:11:04Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-23T10:11:47Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-23T10:11:48Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T00:13:22Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T09:35:49Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T09:35:49Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T09:35:55Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T09:36:02Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T09:46:17Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T09:46:20Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T09:46:21Z
+
+Added 24 April 2026 drug bust news to the Kluang constituency page.
+
+Pages updated: entities/constituencies/parlimen/p152-kluang.md
+
+## 2026-04-24T09:46:26Z
+
+Added 24 April 2026 drug seizure news to P.152 Kluang constituency page.
+
+Pages updated: entities/constituencies/parlimen/p152-kluang.md
+
+## 2026-04-24T09:46:28Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T09:46:31Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T09:46:35Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T09:46:37Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T09:46:37Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T09:46:42Z
+
+Added detailed information about the 24 April 2026 drug seizure in Kluang, including NCID involvement, drug type, and arrests.
+
+Pages updated: entities/constituencies/parlimen/p152-kluang.md
+
+## 2026-04-24T09:46:47Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T09:46:48Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T09:46:52Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T09:46:53Z
+
+Added detailed facts about the 24 April 2026 drug syndicate bust in Kluang, including seized drug types and arrests.
+
+Pages updated: entities/constituencies/parlimen/p152-kluang.md
+
+## 2026-04-24T09:47:18Z
+
+Added URL citation to the 24 April 2026 drug seizure entry in P.152 Kluang page.
+
+Pages updated: entities/constituencies/parlimen/p152-kluang.md
+
+## 2026-04-24T09:47:29Z
+
+No relevant updates needed.
+
+Pages updated: none

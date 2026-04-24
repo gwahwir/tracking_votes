@@ -1,4 +1,4 @@
-import { useState, useCallback, useEffect } from 'react'
+import { useState, useCallback, useEffect, Component } from 'react'
 import { TopBar } from './TopBar'
 import { Scoreboard } from './Scoreboard'
 import { ElectionMap } from '../map/ElectionMap'
@@ -9,6 +9,21 @@ import { WikiModal } from '../wiki/WikiModal'
 import { AgentStatusBar } from '../agents/AgentStatusBar'
 import { useDispatchTask, useSeatPredictions, useTaskStream } from '../../hooks/useApi'
 import './DashboardShell.css'
+
+class PanelErrorBoundary extends Component {
+  constructor(props) { super(props); this.state = { error: null } }
+  static getDerivedStateFromError(err) { return { error: err } }
+  render() {
+    if (this.state.error) return (
+      <div style={{ padding: '14px', fontFamily: "'JetBrains Mono', monospace", fontSize: '10px', color: '#ff3131' }}>
+        <div style={{ marginBottom: '8px', fontWeight: 700 }}>PANEL ERROR</div>
+        <div style={{ color: '#909296', wordBreak: 'break-all' }}>{this.state.error.message}</div>
+        <div style={{ color: '#5c5f66', marginTop: '8px', whiteSpace: 'pre-wrap' }}>{this.state.error.stack?.split('\n').slice(0,4).join('\n')}</div>
+      </div>
+    )
+    return this.props.children
+  }
+}
 
 export const DashboardShell = () => {
   const [mapType, setMapType] = useState(() => {
@@ -105,11 +120,13 @@ export const DashboardShell = () => {
 
         <div className="column analysis-column">
           {selectedConstituency ? (
-            <SeatDetailPanel
-              constituencyCode={selectedConstituency.code}
-              seatName={selectedConstituency.name}
-              onClose={() => setSelectedConstituency(null)}
-            />
+            <PanelErrorBoundary onReset={() => setSelectedConstituency(null)}>
+              <SeatDetailPanel
+                constituencyCode={selectedConstituency.code}
+                seatName={selectedConstituency.name}
+                onClose={() => setSelectedConstituency(null)}
+              />
+            </PanelErrorBoundary>
           ) : (
             <AnalysisPanel
               article={selectedArticle}
