@@ -1,67 +1,96 @@
-"""Optional Langfuse tracing integration.
+"""Langfuse v4 tracing integration.
 
-If LANGFUSE_PUBLIC_KEY / LANGFUSE_SECRET_KEY are not set, all functions
-are no-ops so agents require no code changes to run without tracing.
+If LANGFUSE_PUBLIC_KEY / LANGFUSE_SECRET_KEY are not set, the @observe
+decorators become no-ops because Langfuse itself handles that gracefully.
+
+Public API used by agents:
+  - observe_trace(func)   — wraps an async generator as a root trace
+  - observe_llm(func)     — wraps a function as a generation observation
 """
 from __future__ import annotations
 
 import os
 from typing import Any
 
-_langfuse = None
+# Ensure Langfuse picks up keys before any decorator is evaluated
+# (env is already loaded by run-local.sh / uvicorn at process start)
+
+def _langfuse_configured() -> bool:
+    return bool(
+        os.environ.get("LANGFUSE_PUBLIC_KEY")
+        and os.environ.get("LANGFUSE_SECRET_KEY")
+    )
 
 
-def _get_langfuse():
-    global _langfuse
-    if _langfuse is not None:
-        return _langfuse
+def _init_env() -> None:
+    """Copy LANGFUSE_BASE_URL → LANGFUSE_HOST if only the former is set."""
+    base_url = os.environ.get("LANGFUSE_BASE_URL")
+    if base_url and not os.environ.get("LANGFUSE_HOST"):
+        os.environ["LANGFUSE_HOST"] = base_url
 
-    pub = os.environ.get("LANGFUSE_PUBLIC_KEY")
-    sec = os.environ.get("LANGFUSE_SECRET_KEY")
-    host = os.environ.get("LANGFUSE_HOST", "https://cloud.langfuse.com")
 
-    if not pub or not sec:
-        return None
+_init_env()
 
+try:
+    from langfuse import observe as _observe, get_client as _get_client  # type: ignore
+    _HAS_LANGFUSE = True
+except ImportError:
+    _HAS_LANGFUSE = False
+
+
+# ---------------------------------------------------------------------------
+# Decorators
+# ---------------------------------------------------------------------------
+
+def observe_trace(name: str | None = None):
+    """Decorator: wraps a function as a Langfuse root trace."""
+    if not _HAS_LANGFUSE:
+        def _noop(fn):
+            return fn
+        return _noop
+    return _observe(name=name)
+
+
+def observe_llm(name: str | None = None):
+    """Decorator: wraps a function as a Langfuse generation observation."""
+    if not _HAS_LANGFUSE:
+        def _noop(fn):
+            return fn
+        return _noop
+    return _observe(name=name, as_type="generation")
+
+
+# ---------------------------------------------------------------------------
+# Low-level helper for manual generation logging (used by streaming paths)
+# ---------------------------------------------------------------------------
+
+def log_generation(
+    name: str,
+    model: str,
+    input: Any,
+    output: str,
+    usage: dict[str, int] | None = None,
+    metadata: dict[str, Any] | None = None,
+) -> None:
+    """Log a generation inside the currently active Langfuse trace/span."""
+    if not _HAS_LANGFUSE or not _langfuse_configured():
+        return
     try:
-        from langfuse import Langfuse  # type: ignore
-
-        _langfuse = Langfuse(public_key=pub, secret_key=sec, host=host)
-    except ImportError:
-        pass
-
-    return _langfuse
-
-
-class Trace:
-    """Thin wrapper around a Langfuse trace; no-ops if Langfuse is unavailable."""
-
-    def __init__(self, name: str, metadata: dict[str, Any] | None = None) -> None:
-        lf = _get_langfuse()
-        self._trace = lf.trace(name=name, metadata=metadata or {}) if lf else None
-
-    def span(self, name: str, input: Any = None) -> "Span":
-        return Span(self._trace, name, input)
-
-    def score(self, name: str, value: float, comment: str = "") -> None:
-        if self._trace:
-            self._trace.score(name=name, value=value, comment=comment)
-
-    def update(self, output: Any = None, metadata: dict[str, Any] | None = None) -> None:
-        if self._trace:
-            self._trace.update(output=output, metadata=metadata or {})
-
-
-class Span:
-    def __init__(self, trace, name: str, input: Any = None) -> None:
-        self._span = trace.span(name=name, input=input) if trace else None
-
-    def end(self, output: Any = None) -> None:
-        if self._span:
-            self._span.end(output=output)
-
-    def __enter__(self):
-        return self
-
-    def __exit__(self, *_):
-        self.end()
+        client = _get_client()
+        with client.start_as_current_observation(
+            type="generation",
+            name=name,
+            model=model,
+            input=input,
+            metadata=metadata or {},
+        ) as gen:
+            gen.update(output=output)
+            if usage:
+                gen.update(
+                    usage_details={
+                        "input": usage.get("prompt_tokens", 0),
+                        "output": usage.get("completion_tokens", 0),
+                    }
+                )
+    except Exception:
+        pass  # never let tracing break the agent

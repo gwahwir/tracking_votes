@@ -11,6 +11,7 @@ from __future__ import annotations
 import asyncio
 import json
 import os
+import re
 import uuid
 from pathlib import Path
 from typing import Any, TypedDict
@@ -106,30 +107,41 @@ def _run_lenses_node(state: AnalystState) -> AnalystState:
     article = state["article_text"][:4000]
 
     def _call_lens(name: str, lens_prompt: str) -> tuple[str, Any]:
-        raw = llm_call(
-            [
-                {"role": "system", "content": f"{system}\n\n{lens_prompt}"},
-                {"role": "user", "content": f"Analyse this article:\n\n{article}"},
-            ],
-            response_format={"type": "json_object"},
-            temperature=0.3,
-        )
-        try:
-            return name, json.loads(raw)
-        except json.JSONDecodeError:
-            return name, {"direction": "unclear", "strength": 0, "summary": raw[:200], "parse_error": True}
+        messages = [
+            {"role": "system", "content": f"{system}\n\n{lens_prompt}"},
+            {"role": "user", "content": f"Analyse this article:\n\n{article}"},
+        ]
+        for attempt in range(2):
+            raw = llm_call(messages, response_format={"type": "json_object"}, temperature=0.3)
+            # Strip markdown code fences if present
+            cleaned = raw.strip().removeprefix("```json").removeprefix("```").removesuffix("```").strip()
+            try:
+                return name, json.loads(cleaned)
+            except json.JSONDecodeError:
+                if attempt == 0:
+                    log.warning("analyst.lens_parse_retry", lens=name)
+                    continue
+                log.warning("analyst.lens_parse_failed", lens=name)
+                return name, {"parse_error": True}
 
     import concurrent.futures
     results: dict[str, Any] = {}
+    article_id = state.get("article_id", "")
     with concurrent.futures.ThreadPoolExecutor(max_workers=6) as pool:
         futures = {pool.submit(_call_lens, name, prompt): name for name, prompt in _LENS_PROMPTS.items()}
-        for future in concurrent.futures.as_completed(futures):
+        done, not_done = concurrent.futures.wait(futures, timeout=90)
+        for future in done:
             name, result = future.result()
             results[name] = result
             log.debug("analyst.lens_done", lens=name)
+            _persist_single_lens(article_id, name, result)
+        for future in not_done:
+            name = futures[future]
+            log.warning("analyst.lens_timeout", lens=name)
+            results[name] = {"parse_error": True, "timeout": True}
+            future.cancel()
 
     state["lenses"] = results
-    _persist_analyses(state)
     state["output"] = json.dumps({"article_id": state["article_id"], "lenses": state["lenses"]})
     return state
 
@@ -138,15 +150,44 @@ def _run_lenses_node(state: AnalystState) -> AnalystState:
 # Node 3: chain_to_seat
 # ---------------------------------------------------------------------------
 
+def _extract_codes_from_political_lens(lenses: dict[str, Any]) -> list[str]:
+    """Pull constituency codes out of the political lens seat_implications list."""
+    political = lenses.get("political", {})
+    implications = political.get("seat_implications", [])
+    codes: list[str] = []
+    for item in implications:
+        # item may be a dict with a "code" key, or a plain string
+        raw = item.get("code", "") if isinstance(item, dict) else str(item)
+        # Match P<digits> or N<digits>, e.g. "P154", "P.154", "N04", "N.04"
+        for m in re.finditer(r'\b([PN])\.?(\d+)\b', raw, re.IGNORECASE):
+            letter = m.group(1).upper()
+            number = m.group(2)
+            codes.append(f"{letter}.{number}")
+    return codes
+
+
 def _chain_to_seat_node(state: AnalystState) -> AnalystState:
     import httpx
 
     control_plane_url = os.environ.get("CONTROL_PLANE_URL", "http://control_plane:8000")
-    constituency_codes = state.get("constituency_codes", [])
+
+    # Merge pre-tagged codes with any codes the political lens identified
+    raw_tagged = state.get("constituency_codes", [])
+    if isinstance(raw_tagged, str):
+        try:
+            raw_tagged = json.loads(raw_tagged)
+        except (json.JSONDecodeError, TypeError):
+            raw_tagged = [raw_tagged] if raw_tagged else []
+    tagged_codes: list[str] = [c for c in raw_tagged if isinstance(c, str)]
+    political_codes = _extract_codes_from_political_lens(state.get("lenses", {}))
+    constituency_codes = list(dict.fromkeys(tagged_codes + political_codes))  # deduplicate, preserve order
 
     if not constituency_codes:
         log.info("chain.no_constituencies", article_id=state.get("article_id"))
         return state
+
+    log.info("chain.constituencies", article_id=state.get("article_id"),
+             tagged=tagged_codes, from_political=political_codes, total=len(constituency_codes))
 
     async def _dispatch():
         async with httpx.AsyncClient(timeout=10.0) as client:
@@ -178,6 +219,51 @@ def _chain_to_seat_node(state: AnalystState) -> AnalystState:
     return state
 
 
+def _persist_single_lens(article_id: str, lens_name: str, lens_data: dict) -> None:
+    """Write one lens result to DB immediately after it completes."""
+    if lens_data.get("parse_error"):
+        return
+    database_url = os.environ.get("DATABASE_URL")
+    if not database_url or not article_id:
+        return
+
+    import asyncpg  # type: ignore
+
+    async def _do():
+        conn = await asyncpg.connect(database_url)
+        try:
+            await conn.execute(
+                """
+                INSERT INTO analyses
+                    (id, article_id, lens_name, direction, strength, summary)
+                VALUES ($1,$2,$3,$4,$5,$6)
+                ON CONFLICT (article_id, lens_name)
+                DO UPDATE SET
+                    direction = EXCLUDED.direction,
+                    strength  = EXCLUDED.strength,
+                    summary   = EXCLUDED.summary
+                """,
+                str(uuid.uuid4()),
+                article_id,
+                lens_name,
+                lens_data.get("direction", ""),
+                lens_data.get("strength"),
+                (lens_data.get("summary", "") or "")[:2000],
+            )
+        finally:
+            await conn.close()
+
+    try:
+        new_loop = asyncio.new_event_loop()
+        asyncio.set_event_loop(new_loop)
+        try:
+            new_loop.run_until_complete(_do())
+        finally:
+            new_loop.close()
+    except Exception as exc:
+        log.warning("analyst.db_error", lens=lens_name, error=str(exc))
+
+
 def _persist_analyses(state: AnalystState) -> None:
     database_url = os.environ.get("DATABASE_URL")
     if not database_url or not state.get("article_id"):
@@ -189,19 +275,29 @@ def _persist_analyses(state: AnalystState) -> None:
         conn = await asyncpg.connect(database_url)
         try:
             for lens_name, lens_data in state["lenses"].items():
+                # Skip only hard parse failures
+                if lens_data.get("parse_error"):
+                    continue
+                direction = lens_data.get("direction", "")
+                strength = lens_data.get("strength")
+                summary = (lens_data.get("summary", "") or "")[:2000]
                 await conn.execute(
                     """
                     INSERT INTO analyses
                         (id, article_id, lens_name, direction, strength, summary)
                     VALUES ($1,$2,$3,$4,$5,$6)
-                    ON CONFLICT DO NOTHING
+                    ON CONFLICT (article_id, lens_name)
+                    DO UPDATE SET
+                        direction = EXCLUDED.direction,
+                        strength  = EXCLUDED.strength,
+                        summary   = EXCLUDED.summary
                     """,
                     str(uuid.uuid4()),
                     state["article_id"],
                     lens_name,
-                    lens_data.get("direction", ""),
-                    lens_data.get("strength"),
-                    lens_data.get("summary", "")[:2000],
+                    direction,
+                    strength,
+                    summary,
                 )
         finally:
             await conn.close()

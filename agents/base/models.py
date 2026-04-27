@@ -81,9 +81,9 @@ class SeatPrediction(Base):
     caveats = Column(JSON, nullable=True)  # ["Only 3 articles", "Candidate unannounced"]
     num_articles = Column(Integer, nullable=True)  # Count of articles used in this prediction
 
-    # Metadata
-    created_at = Column(DateTime(timezone=True), default=lambda: datetime.now(timezone.utc), index=True)
-    updated_at = Column(DateTime(timezone=True), default=lambda: datetime.now(timezone.utc), onupdate=lambda: datetime.now(timezone.utc))
+    # Metadata — server_default avoids asyncpg tz-mismatch when DB column is TIMESTAMP WITHOUT TIME ZONE
+    created_at = Column(DateTime(timezone=True), server_default=func.now(), index=True)
+    updated_at = Column(DateTime(timezone=True), server_default=func.now(), onupdate=func.now())
 
 
 class HistoricalResult(Base):

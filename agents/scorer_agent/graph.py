@@ -97,33 +97,35 @@ def _score_node(state: ScorerState) -> ScorerState:
 
     article_block = f"Source outlet: {state['source']}\n\n{state['article_text'][:4000]}"
 
-    raw = llm_call(
-        [
-            {"role": "system", "content": prompt},
-            {"role": "user", "content": f"Score this article:\n\n{article_block}"},
-        ],
-        response_format={"type": "json_object"},
-        temperature=0.1,
-    )
+    messages = [
+        {"role": "system", "content": prompt},
+        {"role": "user", "content": f"Score this article:\n\n{article_block}"},
+    ]
 
-    try:
-        result = json.loads(raw)
-        # Validate required top-level keys
-        for key in ("score", "sourceAuthority", "accuracySignals", "biasIndicators", "justification"):
-            if key not in result:
-                raise ValueError(f"Missing key: {key}")
-        state["score_result"] = result
-        log.info("scorer.scored", article_id=state["article_id"], score=result["score"])
-    except (json.JSONDecodeError, ValueError) as exc:
-        log.warning("scorer.parse_error", error=str(exc))
-        state["score_result"] = {
-            "score": 0,
-            "sourceAuthority": {"tier": 3, "outlet": state["source"], "score": 0},
-            "accuracySignals": {"score": 0, "positives": [], "negatives": ["LLM parse error"]},
-            "biasIndicators": {"score": 0, "flags": []},
-            "justification": f"Scoring failed: {exc}",
-            "flags": ["SCORING_ERROR"],
-        }
+    state["score_result"] = {
+        "score": 0,
+        "sourceAuthority": {"tier": 3, "outlet": state["source"], "score": 0},
+        "accuracySignals": {"score": 0, "positives": [], "negatives": ["LLM parse error"]},
+        "biasIndicators": {"score": 0, "flags": []},
+        "justification": "Scoring failed: parse error",
+        "flags": ["SCORING_ERROR"],
+    }
+
+    for attempt in range(2):
+        raw = llm_call(messages, response_format={"type": "json_object"}, temperature=0.1)
+        cleaned = raw.strip().removeprefix("```json").removeprefix("```").removesuffix("```").strip()
+        try:
+            result = json.loads(cleaned)
+            for key in ("score", "sourceAuthority", "accuracySignals", "biasIndicators", "justification"):
+                if key not in result:
+                    raise ValueError(f"Missing key: {key}")
+            state["score_result"] = result
+            log.info("scorer.scored", article_id=state["article_id"], score=result["score"])
+            break
+        except (json.JSONDecodeError, ValueError) as exc:
+            log.warning("scorer.parse_error", attempt=attempt + 1, error=str(exc))
+            if attempt == 1:
+                log.warning("scorer.parse_failed_both_attempts", article_id=state["article_id"])
 
     return state
 
@@ -131,9 +133,10 @@ def _score_node(state: ScorerState) -> ScorerState:
 def _store_node(state: ScorerState) -> ScorerState:
     """Persist score to DB and emit downstream tasks (wiki ingest, analyst)."""
     score = state["score_result"].get("score", 0)
+    is_error = "SCORING_ERROR" in state["score_result"].get("flags", [])
     database_url = os.environ.get("DATABASE_URL")
 
-    if database_url and state.get("article_id"):
+    if database_url and state.get("article_id") and not is_error:
         import asyncio
         import asyncpg  # type: ignore
 

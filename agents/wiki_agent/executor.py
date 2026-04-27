@@ -71,6 +71,5 @@ class WikiAgentExecutor(LangGraphA2AExecutor):
             return f"NODE_OUTPUT::lint: {report.get('summary', 'done')}"
         return super()._summarise_node_output(node_name, node_output)
 
-    async def _get_final_output(self, graph, initial_state: dict) -> str:
-        result = await graph.ainvoke(initial_state)
-        return result.get("output", "done")
+    def _extract_final_output(self, final_state: dict) -> str:
+        return final_state.get("output", "done")

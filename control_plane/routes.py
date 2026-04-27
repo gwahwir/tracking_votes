@@ -290,6 +290,28 @@ async def get_articles(request: Request, limit: int = 100, offset: int = 0, cons
         return []
 
 
+@router.get("/articles/{article_id}")
+async def get_article(article_id: str, request: Request):
+    """Return a single article by id."""
+    task_store = request.app.state.task_store
+    if not hasattr(task_store, "_pool") or task_store._pool is None:
+        raise HTTPException(status_code=404, detail="Not found")
+    try:
+        async with task_store._pool.acquire() as conn:
+            row = await conn.fetchrow(
+                "SELECT id, url, title, source, content, constituency_ids, reliability_score, created_at, scraped_at FROM articles WHERE id = $1",
+                article_id,
+            )
+        if not row:
+            raise HTTPException(status_code=404, detail="Article not found")
+        return dict(row)
+    except HTTPException:
+        raise
+    except Exception as exc:
+        log.error("article.fetch_error", error=str(exc))
+        raise HTTPException(status_code=500, detail="Internal server error")
+
+
 @router.get("/analyses")
 async def get_analyses(request: Request, article_id: str | None = None, limit: int = 100):
     """Return analyses from the database, optionally filtered by article_id."""
@@ -307,10 +329,11 @@ async def get_analyses(request: Request, article_id: str | None = None, limit: i
 
         limit_ph = f"${len(params) + 1}"
         sql = f"""
-            SELECT id, article_id, lens_name, direction, strength, summary, full_result, created_at, updated_at
+            SELECT DISTINCT ON (lens_name)
+                id, article_id, lens_name, direction, strength, summary, full_result, created_at, updated_at
             FROM analyses
             {where}
-            ORDER BY created_at DESC
+            ORDER BY lens_name, (direction IS NOT NULL AND direction != '') DESC, created_at DESC NULLS LAST
             LIMIT {limit_ph}
         """
         async with task_store._pool.acquire() as conn:

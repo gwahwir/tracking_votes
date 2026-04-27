@@ -194,9 +194,16 @@ async def assess(state: dict) -> dict:
     def _summarise_signals(raw: dict) -> dict:
         summary = {}
         for lens, analyses in raw.items():
-            if analyses:
-                avg_strength = sum(a.get("strength", 0) for a in analyses if isinstance(a, dict)) / len(analyses)
-                directions = [a.get("direction") for a in analyses if isinstance(a, dict) and a.get("direction")]
+            # Flatten any nested lists, keep only dicts
+            flat = []
+            for a in (analyses or []):
+                if isinstance(a, dict):
+                    flat.append(a)
+                elif isinstance(a, list):
+                    flat.extend(x for x in a if isinstance(x, dict))
+            if flat:
+                avg_strength = sum(a.get("strength", 0) or 0 for a in flat) / len(flat)
+                directions = [a.get("direction") for a in flat if a.get("direction")]
                 leading = max(set(directions), key=directions.count) if directions else None
                 summary[lens] = {"direction": leading, "strength": int(avg_strength)}
             else:
@@ -272,7 +279,8 @@ Return ONLY valid JSON, no markdown.
             response_format={"type": "json_object"},
         )
 
-        result = json.loads(response)
+        cleaned = response.strip().removeprefix("```json").removeprefix("```").removesuffix("```").strip()
+        result = json.loads(cleaned)
         signal_breakdown = result.get("signal_breakdown")
         if not isinstance(signal_breakdown, dict):
             signal_breakdown = signal_summary

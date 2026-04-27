@@ -15,7 +15,6 @@ from typing import Any, AsyncGenerator
 import structlog
 
 from .cancellation import CancellableMixin
-from .tracing import Trace
 
 log = structlog.get_logger(__name__)
 
@@ -58,22 +57,14 @@ class LangGraphA2AExecutor(CancellableMixin):
         message_text: str,
         metadata: dict[str, Any],
     ) -> AsyncGenerator[str, None]:
-        """Run the LangGraph graph and yield SSE-formatted lines.
-
-        Each node completion yields a ``NODE_OUTPUT::`` line so the dashboard
-        can render live progress in the TaskMonitor.
-        """
-        trace = Trace(
-            name=f"{self.AGENT_TYPE_ID}.execute",
-            metadata={"task_id": task_id},
-        )
+        """Run the LangGraph graph and yield SSE-formatted lines."""
         log.info("executor.start", agent=self.AGENT_TYPE_ID, task_id=task_id)
 
         initial_state = self._build_initial_state(message_text, metadata)
         graph = self._get_graph()
 
         try:
-            # LangGraph streams (node_name, output) tuples when using .astream()
+            final_state: dict[str, Any] = {}
             async for chunk in graph.astream(initial_state, stream_mode="updates"):
                 self.raise_if_cancelled()
 
@@ -82,10 +73,10 @@ class LangGraphA2AExecutor(CancellableMixin):
                     line = f"data: {_sse_json(node_name, summary)}\n\n"
                     log.debug("executor.node", agent=self.AGENT_TYPE_ID, node=node_name)
                     yield line
+                    if isinstance(node_output, dict):
+                        final_state.update(node_output)
 
-            # Final result
-            final = await self._get_final_output(graph, initial_state)
-            trace.update(output=final)
+            final = self._extract_final_output(final_state)
             yield f"data: {_sse_json('__result__', final)}\n\n"
             yield "data: [DONE]\n\n"
 
@@ -114,15 +105,12 @@ class LangGraphA2AExecutor(CancellableMixin):
             return f"{NODE_OUTPUT_PREFIX}{node_name}: keys={keys}"
         return f"{NODE_OUTPUT_PREFIX}{node_name}: done"
 
-    async def _get_final_output(self, graph, initial_state: dict) -> str:
-        """Run the graph to completion and return the final output string.
+    def _extract_final_output(self, final_state: dict[str, Any]) -> str:
+        """Extract the final output string from the accumulated stream state.
 
-        This is called after streaming to collect the final answer.
-        Override if your graph stores the result in a specific state key.
+        Subclasses may override to pull from a specific state key.
         """
-        # Re-invoke (non-streaming) to get the final state
-        result = await graph.ainvoke(initial_state)
-        return str(result.get("output", result))
+        return str(final_state.get("output", "done"))
 
     # ------------------------------------------------------------------
     # Agent card (served at /.well-known/agent-card.json)

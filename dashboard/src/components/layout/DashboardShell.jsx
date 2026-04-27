@@ -130,6 +130,7 @@ export const DashboardShell = () => {
           ) : (
             <AnalysisPanel
               article={selectedArticle}
+              taskId={activeTaskId}
               refreshTrigger={refreshTrigger}
               onTaskCreated={setActiveTaskId}
             />

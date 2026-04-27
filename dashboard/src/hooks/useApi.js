@@ -151,13 +151,14 @@ export const useDispatchTask = () => {
       const messageStr = typeof message === 'string'
         ? message
         : message.parts?.[0]?.text || JSON.stringify(message)
+      const metadata = typeof message === 'object' ? (message.metadata || {}) : {}
 
       const res = await fetch(`${API_BASE}/agents/${agentType}/tasks`, {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({
           message: messageStr,
-          metadata: {},
+          metadata,
         }),
       })
       if (!res.ok) throw new Error(`HTTP ${res.status}`)
@@ -194,6 +195,9 @@ export const useTaskStream = (taskId) => {
     ws.onmessage = (event) => {
       try {
         const msg = JSON.parse(event.data)
+        // Server sends { type: "state", state: "running"|"completed"|"failed"|... }
+        if (msg.type === 'state' && msg.state) setStatus(msg.state)
+        // Legacy field fallback
         if (msg.status) setStatus(msg.status)
         if (msg.node_output) {
           setNodeOutputs((prev) => [...prev, msg.node_output])
@@ -359,6 +363,18 @@ export const useConstituencyArticles = (constituencyCode) => {
   useEffect(() => { fetchArticles() }, [fetchArticles])
 
   return { articles, loading }
+}
+
+/**
+ * Fetch a single article by id
+ */
+export const useFetchArticle = () => {
+  const fetchArticle = useCallback(async (articleId) => {
+    const res = await fetch(`${API_BASE}/articles/${articleId}`)
+    if (!res.ok) return null
+    return res.json()
+  }, [])
+  return { fetchArticle }
 }
 
 /**

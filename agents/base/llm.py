@@ -13,6 +13,8 @@ from typing import Any, AsyncGenerator, Generator
 
 import structlog
 
+from .tracing import log_generation
+
 log = structlog.get_logger(__name__)
 
 # ---------------------------------------------------------------------------
@@ -32,6 +34,7 @@ def _make_openai_client():
             "HTTP-Referer": os.environ.get("APP_URL", "http://localhost:5173"),
             "X-Title": "Johor Election Dashboard",
         },
+        timeout=60.0,
     )
 
 
@@ -51,7 +54,6 @@ def _make_anthropic_client():
 
 def _anthropic_call(messages: list[dict], **kwargs) -> str:
     client = _make_anthropic_client()
-    # Convert OpenAI message format → Anthropic format
     system = ""
     anthro_messages = []
     for m in messages:
@@ -60,13 +62,26 @@ def _anthropic_call(messages: list[dict], **kwargs) -> str:
         else:
             anthro_messages.append({"role": m["role"], "content": m["content"]})
 
+    model = "claude-sonnet-4-6"
     resp = client.messages.create(
-        model="claude-sonnet-4-6",
+        model=model,
         max_tokens=kwargs.get("max_tokens", 4096),
         system=system,
         messages=anthro_messages,
     )
-    return resp.content[0].text
+    output = resp.content[0].text
+    log_generation(
+        name="anthropic.chat",
+        model=model,
+        input=messages,
+        output=output,
+        usage={
+            "prompt_tokens": resp.usage.input_tokens,
+            "completion_tokens": resp.usage.output_tokens,
+            "total_tokens": resp.usage.input_tokens + resp.usage.output_tokens,
+        },
+    )
+    return output
 
 
 # ---------------------------------------------------------------------------
@@ -88,7 +103,22 @@ def _openrouter_call(messages: list[dict[str, Any]], model: str | None = None, *
                 messages=messages,
                 **kwargs,
             )
-            return resp.choices[0].message.content or ""
+            output = resp.choices[0].message.content or ""
+            usage = {}
+            if resp.usage:
+                usage = {
+                    "prompt_tokens": resp.usage.prompt_tokens,
+                    "completion_tokens": resp.usage.completion_tokens,
+                    "total_tokens": resp.usage.total_tokens,
+                }
+            log_generation(
+                name="openrouter.chat",
+                model=_get_model(model),
+                input=messages,
+                output=output,
+                usage=usage or None,
+            )
+            return output
         except Exception as exc:
             last_exc = exc
             error_str = str(exc).lower()

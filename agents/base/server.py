@@ -108,11 +108,14 @@ def build_a2a_app(executor, lifespan_override=None) -> FastAPI:
         task_executor = deepcopy(executor)
 
         async def _generate():
-            async for chunk in task_executor.execute(task_id, text, meta):
-                yield chunk
+            try:
+                async for chunk in task_executor.execute(task_id, text, meta):
+                    yield chunk
+            finally:
+                _active.pop(task_id, None)
 
-        task = asyncio.create_task(_wrap_stream(task_id, _active, task_executor, text, meta))
-        _active[task_id] = task
+        # Store executor reference for cancellation support
+        _active[task_id] = task_executor
 
         return StreamingResponse(
             _generate(),
@@ -130,10 +133,10 @@ def build_a2a_app(executor, lifespan_override=None) -> FastAPI:
     @app.post("/tasks/cancel")
     async def tasks_cancel(body: A2ACancelRequest):
         task_id = body.params.id
-        task = _active.get(task_id)
-        if task is None:
+        task_executor = _active.get(task_id)
+        if task_executor is None:
             raise HTTPException(status_code=404, detail="Task not found or already complete")
-        task.cancel()
+        task_executor.cancel()
         _active.pop(task_id, None)
         log.info("task.cancelled", task_id=task_id)
         return {"jsonrpc": "2.0", "id": task_id, "result": {"status": "cancelled"}}
@@ -160,12 +163,3 @@ def _extract_text(message: A2AMessage) -> str:
     return ""
 
 
-async def _wrap_stream(task_id, active, executor, text, meta):
-    """Background task that drives the executor; cleans up _active on finish."""
-    try:
-        async for _ in executor.execute(task_id, text, meta):
-            pass
-    except asyncio.CancelledError:
-        pass
-    finally:
-        active.pop(task_id, None)

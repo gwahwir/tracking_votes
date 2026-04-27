@@ -1,6 +1,6 @@
 # Wiki Index — Johor Election Dashboard
 
-Last updated: 2026-04-24
+Last updated: 2026-04-27
 
 ---
 
@@ -122,6 +122,7 @@ Last updated: 2026-04-24
 - [Parti Keadilan Rakyat (PKR) — People's Justice Party](entities/parties/pkr.md)
 - [Andy Teoh](entities/people/andy_teoh.md)
 - [Anwar Ibrahim – Prime Minister of Malaysia](entities/people/anwar_ibrahim.md)
+- [Azmin Ali – Malaysian Politician](entities/people/azmin_ali.md)
 - [Fadillah Yusof – Deputy Prime Minister of Malaysia](entities/people/fadillah_yusof.md)
 - [Gan Kim Sing](entities/people/gan_kim_sing.md)
 - [Justice Gan Techiong](entities/people/gan_techiong.md)

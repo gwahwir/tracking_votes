@@ -1,5 +1,5 @@
-import { useState } from 'react'
-import { useDispatchTask } from '../../hooks/useApi'
+import { useState, useEffect } from 'react'
+import { useDispatchTask, useTaskStream, useFetchArticle } from '../../hooks/useApi'
 
 const ReliabilityBar = ({ score }) => {
   if (score == null) return null
@@ -16,10 +16,85 @@ const ReliabilityBar = ({ score }) => {
   )
 }
 
-export const ArticleCard = ({ article, isSelected, onSelect, onTaskCreated }) => {
-  const [hovered, setHovered] = useState(false)
-  const [isScoring, setIsScoring] = useState(false)
+const ScoreButton = ({ article, onScored, onTaskCreated }) => {
+  const [taskId, setTaskId] = useState(null)
+  const [phase, setPhase] = useState('idle') // idle | running | done | error
   const { dispatchTask } = useDispatchTask()
+  const { fetchArticle } = useFetchArticle()
+  const { status } = useTaskStream(taskId)
+
+  // Watch WebSocket status transitions
+  useEffect(() => {
+    if (!status) return
+    if (status === 'completed') {
+      // Refetch the article to get the updated reliability_score
+      fetchArticle(article.id).then((updated) => {
+        if (updated) onScored?.(updated)
+        setPhase('done')
+      })
+    } else if (status === 'failed' || status === 'cancelled') {
+      setPhase('error')
+    }
+  }, [status])
+
+  const handleClick = async (e) => {
+    e.stopPropagation()
+    setPhase('running')
+    try {
+      const result = await dispatchTask('scorer_agent', {
+        role: 'user',
+        parts: [{ type: 'text', text: `Score this article:\n\nTitle: ${article.title}\n\nURL: ${article.url}\n\nSource: ${article.source}\n\n${article.content || ''}` }],
+        metadata: { article_id: article.id, source: article.source, constituency_codes: article.constituency_ids || [] },
+      })
+      if (result?.task_id) {
+        setTaskId(result.task_id)
+        onTaskCreated?.(result.task_id)
+      }
+    } catch {
+      setPhase('error')
+    }
+  }
+
+  const alreadyScored = article.reliability_score != null
+  const isRunning = phase === 'running'
+  const isError = phase === 'error'
+
+  let label, bg, border, color, cursor
+  if (alreadyScored) {
+    label = 'Scored'; bg = 'rgba(90,90,90,0.1)'; border = '#37373730'; color = '#5c5f66'; cursor = 'default'
+  } else if (isRunning) {
+    label = 'Scoring…'; bg = 'rgba(255,204,0,0.07)'; border = '#ffcc0040'; color = '#ffcc00'; cursor = 'default'
+  } else if (isError) {
+    label = 'Failed'; bg = 'rgba(255,49,49,0.07)'; border = '#ff313140'; color = '#ff3131'; cursor = 'pointer'
+  } else {
+    label = 'Score'; bg = 'rgba(57,255,20,0.07)'; border = '#39ff1430'; color = '#39ff14'; cursor = 'pointer'
+  }
+
+  return (
+    <button
+      onClick={alreadyScored || isRunning ? undefined : handleClick}
+      disabled={alreadyScored || isRunning}
+      style={{
+        flex: 1, padding: '4px',
+        background: bg, border: `1px solid ${border}`, borderRadius: '3px',
+        color, fontFamily: "'JetBrains Mono', monospace", fontSize: '10px',
+        cursor, opacity: alreadyScored ? 0.6 : 1,
+        animation: isRunning ? 'pulse 1.2s ease-in-out infinite' : 'none',
+      }}
+    >
+      {label}
+    </button>
+  )
+}
+
+export const ArticleCard = ({ article: initialArticle, isSelected, onSelect, onTaskCreated }) => {
+  const [article, setArticle] = useState(initialArticle)
+  const [hovered, setHovered] = useState(false)
+
+  // Keep in sync if parent refreshes the article list
+  useEffect(() => { setArticle(initialArticle) }, [initialArticle])
+
+  const handleScored = (updated) => setArticle(updated)
 
   const formatDate = (d) =>
     new Date(d).toLocaleDateString('en-MY', { month: 'short', day: 'numeric', hour: '2-digit', minute: '2-digit' })
@@ -32,22 +107,6 @@ export const ArticleCard = ({ article, isSelected, onSelect, onTaskCreated }) =>
 
   const shown = constituencies.slice(0, 2).map((c) => (typeof c === 'string' ? c.split('.').pop() : c)).join(', ')
   const extra = constituencies.length > 2 ? ` +${constituencies.length - 2}` : ''
-
-  const handleScoreArticle = async (e) => {
-    e.stopPropagation()
-    setIsScoring(true)
-    try {
-      const result = await dispatchTask('scorer_agent', {
-        role: 'user',
-        parts: [{ type: 'text', text: `Score this article:\n\nTitle: ${article.title}\n\nURL: ${article.url}\n\nSource: ${article.source}` }],
-      })
-      if (result?.task_id) onTaskCreated?.(result.task_id)
-    } catch (err) {
-      console.error('Failed to dispatch score task:', err)
-    } finally {
-      setIsScoring(false)
-    }
-  }
 
   const cardStyle = {
     padding: '10px 12px',
@@ -62,8 +121,6 @@ export const ArticleCard = ({ article, isSelected, onSelect, onTaskCreated }) =>
     boxShadow: isSelected ? '0 0 10px rgba(0,212,255,0.1)' : 'none',
   }
 
-  const alreadyScored = article.reliability_score != null
-
   return (
     <div
       style={cardStyle}
@@ -71,16 +128,19 @@ export const ArticleCard = ({ article, isSelected, onSelect, onTaskCreated }) =>
       onMouseEnter={() => setHovered(true)}
       onMouseLeave={() => setHovered(false)}
     >
+      <style>{`
+        @keyframes pulse {
+          0%, 100% { opacity: 1; }
+          50% { opacity: 0.4; }
+        }
+      `}</style>
+
       <div style={{
         fontFamily: "'JetBrains Mono', monospace",
-        fontSize: '12px',
-        fontWeight: 600,
-        lineHeight: 1.4,
+        fontSize: '12px', fontWeight: 600, lineHeight: 1.4,
         color: isSelected ? '#00d4ff' : '#e0e0e0',
-        display: '-webkit-box',
-        WebkitLineClamp: 2,
-        WebkitBoxOrient: 'vertical',
-        overflow: 'hidden',
+        display: '-webkit-box', WebkitLineClamp: 2,
+        WebkitBoxOrient: 'vertical', overflow: 'hidden',
       }}>
         {article.title}
       </div>
@@ -106,38 +166,23 @@ export const ArticleCard = ({ article, isSelected, onSelect, onTaskCreated }) =>
         <button
           onClick={(e) => { e.stopPropagation(); onSelect() }}
           style={{
-            flex: 1,
-            padding: '4px',
+            flex: 1, padding: '4px',
             background: isSelected ? '#00d4ff' : 'rgba(0,212,255,0.1)',
             border: `1px solid ${isSelected ? '#00d4ff' : '#00d4ff40'}`,
             borderRadius: '3px',
             color: isSelected ? '#000' : '#00d4ff',
-            fontFamily: "'JetBrains Mono', monospace",
-            fontSize: '10px',
-            fontWeight: isSelected ? 700 : 400,
-            cursor: 'pointer',
+            fontFamily: "'JetBrains Mono', monospace", fontSize: '10px',
+            fontWeight: isSelected ? 700 : 400, cursor: 'pointer',
           }}
         >
           {isSelected ? '✓ Selected' : 'Select'}
         </button>
-        <button
-          onClick={alreadyScored ? undefined : handleScoreArticle}
-          disabled={alreadyScored || isScoring}
-          style={{
-            flex: 1,
-            padding: '4px',
-            background: alreadyScored ? 'rgba(90,90,90,0.1)' : 'rgba(57,255,20,0.07)',
-            border: `1px solid ${alreadyScored ? '#37373730' : '#39ff1430'}`,
-            borderRadius: '3px',
-            color: alreadyScored ? '#5c5f66' : '#39ff14',
-            fontFamily: "'JetBrains Mono', monospace",
-            fontSize: '10px',
-            cursor: alreadyScored ? 'default' : 'pointer',
-            opacity: alreadyScored ? 0.6 : 1,
-          }}
-        >
-          {isScoring ? '...' : alreadyScored ? 'Scored' : 'Score'}
-        </button>
+
+        <ScoreButton
+          article={article}
+          onScored={handleScored}
+          onTaskCreated={onTaskCreated}
+        />
       </div>
     </div>
   )

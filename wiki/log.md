@@ -26872,3 +26872,375 @@ Pages updated: none
 Added a new bullet citing the specific Free Malaysia Today article on 24 April 2026 to DAP and Puad Zarkashi pages (including URL) to reflect Puad's challenge and rally comment.
 
 Pages updated: entities/parties/dap.md, entities/people/puad_zarkashi.md, entities/partenties/dap.md
+
+## 2026-04-27T03:11:23Z
+
+Added 2026 news that Bersatu is considering Azmin Ali as PN head in Selangor and notes his role as opposition leader.
+
+Pages updated: entities/parties/bersatu.md
+
+## 2026-04-27T03:11:27Z
+
+Added 2026 update on Azmin Ali being mooted as PN head in Selangor per Free Malaysia Today.
+
+Pages updated: entities/parties/bersatu.md
+
+## 2026-04-27T03:11:29Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-27T03:11:38Z
+
+Added 2026 update to Bersatu page noting Azmin Ali mooted as PN head in Selangor and identified as opposition leader.
+
+Pages updated: entities/parties/bersatu.md
+
+## 2026-04-27T03:11:45Z
+
+Added 2026 development about Azmin Ali being mooted as PN head in Selangor to the Bersatu page.
+
+Pages updated: entities/parties/bersatu.md
+
+## 2026-04-27T03:11:53Z
+
+Added 2026 development noting Muhyiddin Yassin's comment that Azmin Ali is the opposition leader in Selangor and is being considered as PN head in the state.
+
+Pages updated: entities/parties/bersatu.md
+
+## 2026-04-27T03:12:02Z
+
+Added 2026 news that Bersatu is considering Azmin Ali as head of PN in Selangor and noted his role as opposition leader; created/updated Azmin Ali page with these facts.
+
+Pages updated: entities/parties/bersatu.md, entities/people/azmin_ali.md
+
+## 2026-04-27T03:12:08Z
+
+Added 2026 update to Bersatu page noting Muhyiddin's proposal of Azmin Ali as PN head in Selangor and his role as opposition leader.
+
+Pages updated: entities/parties/bersatu.md
+
+## 2026-04-27T03:12:11Z
+
+Added 2026 development to Bersatu page noting Muhyiddin Yassin's statement that Azmin Ali is opposition leader in Selangor and mooted as head of PN in the state.
+
+Pages updated: entities/parties/bersatu.md
+
+## 2026-04-27T03:12:17Z
+
+Added 2026 update on Bersatu mooting Azmin Ali as PN head in Selangor and noting his role as opposition leader.
+
+Pages updated: entities/parties/bersatu.md
+
+## 2026-04-27T03:12:26Z
+
+Added 2026 update on Bersatu considering Azmin Ali as PN head in Selangor and noting his role as opposition leader.
+
+Pages updated: entities/parties/bersatu.md
+
+## 2026-04-27T03:12:45Z
+
+Added 2026 statement about Azmin Ali being mooted as head of PN in Selangor to the Bersatu page.
+
+Pages updated: entities/parties/bersatu.md
+
+## 2026-04-27T03:40:56Z
+
+Added 2026 development to Bersatu page noting Muhyiddin's statement that Azmin Ali is opposition leader and mooted as PN head in Selangor.
+
+Pages updated: entities/parties/bersatu.md
+
+## 2026-04-27T03:40:57Z
+
+Added 2026 development to Bersatu page noting Muhyiddin Yassin's statement about Azmin Ali as opposition leader and potential PN head in Selangor.
+
+Pages updated: entities/parties/bersatu.md
+
+## 2026-04-27T03:41:03Z
+
+Added 2026 development to Bersatu page noting Muhyiddin Yassin's statement that Azmin Ali is opposition leader in Selangor and is being mooted as PN head in the state.
+
+Pages updated: entities/parties/bersatu.md
+
+## 2026-04-27T03:41:03Z
+
+Added 2026 development to Bersatu page noting Muhyiddin Yassin's statement that Azmin Ali is opposition leader and mooted as PN head in Selangor.
+
+Pages updated: entities/parties/bersatu.md
+
+## 2026-04-27T03:41:04Z
+
+Added 2026 development about Azmin being mooted as PN head in Selangor to Bersatu page and expanded Azmin Ali page with precise citation to the article.
+
+Pages updated: entities/parties/bersatu.md, entities/people/azmin_ali.md
+
+## 2026-04-27T03:41:06Z
+
+Added 2026 development noting Muhyiddin Yassin's statement that Azmin Ali is opposition leader and mooted as head of PN in Selangor.
+
+Pages updated: entities/parties/bersatu.md
+
+## 2026-04-27T03:41:11Z
+
+Added 2026 development to Bersatu page noting Muhyiddin Yassin's statement that Azmin Ali is opposition leader in Selangor and mooted as PN head.
+
+Pages updated: entities/parties/bersatu.md
+
+## 2026-04-27T03:41:12Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-27T03:41:22Z
+
+Added a 2026 Development section to Bersatu page noting Muhyiddin Yassin's statement that Azmin Ali is opposition leader in Selangor and is being mooted to head PN in the state.
+
+Pages updated: entities/parties/bersatu.md
+
+## 2026-04-27T03:41:23Z
+
+Added 26 April 2026 details about Azmin being mooted as PN head in Selangor and updated Berserk ...
+
+Pages updated: entities/people/azmin_ali.md, entities/parties/bersatu.md
+
+## 2026-04-27T03:41:31Z
+
+Added new 2026 facts about Azmin Ali being mooted as PN head in Selangor and his role as Opposition Leader, updating his page and Bersatu party page.
+
+Pages updated: entities/people/azmin_ali.md, entities/parties/bersatu.md
+
+## 2026-04-27T03:41:40Z
+
+Added 26 April 2026 statement by Muhyiddin Yassin about Azmin Ali being mooted as PN head in Selangor and recognized as opposition leader.
+
+Pages updated: entities/parties/bersatu.md
+
+## 2026-04-27T03:41:42Z
+
+Added full 26 April 2026 development to Bersatu page, detailing Azmin Ali being mooted as head of PN in Selangor and confirming his opposition leader role.
+
+Pages updated: entities/parties/bersatu.md
+
+## 2026-04-27T03:41:44Z
+
+Added full 2026 Development statement about Azmin Ali being opposition leader and mooted as head of PN in Selangor.
+
+Pages updated: entities/parties/bersatu.md
+
+## 2026-04-27T03:41:52Z
+
+Completed the truncated 2026 Development bullet on Bersatu page with full statement that Azmin Ali is the opposition leader and is mooted as head of PN in Selangor, adding proper citation.
+
+Pages updated: entities/parties/bersatu.md
+
+## 2026-04-27T03:58:11Z
+
+Added full 2026 development details to Bersatu page, confirming Azmin Ali as opposition leader and potential PN head in Selangor.
+
+Pages updated: entities/parties/bersatu.md
+
+## 2026-04-27T03:58:16Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-27T03:58:39Z
+
+Completed the truncated 2026 Development entry in bersatu.md with full statement about Azmin Ali being opposition leader and mooted as PN head in Selangor.
+
+Pages updated: entities/parties/bersatu.md
+
+## 2026-04-27T03:59:11Z
+
+Updated Bersatu page to include the full 26 April 2026 statement that Azmin Ali is opposition leader in Selangor and is mooted as head of PN in Selangor.
+
+Pages updated: entities/parties/bersatu.md
+
+## 2026-04-27T04:12:48Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-27T04:12:53Z
+
+Added complete 2026 development detail to Bersatu page, fixing truncated sentence about Azmin Ali being mooted as head of PN in Selangor.
+
+Pages updated: entities/parties/bersatu.md
+
+## 2026-04-27T04:12:56Z
+
+Added the new 26 April 2026 statements about Azmin Ali being mooted as PN head in Selangor and confirmed as opposition leader.
+
+Pages updated: entities/people/azmin_ali.md, entities/parties/bersatu.md
+
+## 2026-04-27T04:13:05Z
+
+Added new 26 April 2026 statements about Azmin Ali being mooted as PN head in Selangor and confirmed as opposition leader.
+
+Pages updated: entities/people/azmin_ali.md, entities/parties/bersatu.md
+
+## 2026-04-27T04:13:07Z
+
+Added the new 26 April 2026 statements about Azmin Ali being mooted as PN head in Selangor and being the opposition leader, updating Azmin Ali and Bersatu pages.
+
+Pages updated: entities/people/azmin_ali.md, entities/parties/bersatu.md
+
+## 2026-04-27T04:13:09Z
+
+Added the 26 April 2026 statement that Azmin Ali is being mooted as head of PN in Selangor and confirmed as opposition leader in the Selangor Assembly to both Azmin Ali and Bersatu pages.
+
+Pages updated: entities/people/azmin_ali.md, entities/parties/bersatu.md
+
+## 2026-04-27T04:13:12Z
+
+Added 26 April 2026 statements about Azmin Ali being mooted as PN head in Selangor and confirmed as opposition leader, updating Azmin Ali and Bersatu pages with citations.
+
+Pages updated: entities/people/azmin_ali.md, entities/parties/bersatu.md
+
+## 2026-04-27T04:13:12Z
+
+Added 2026 development noting Muhyiddin Yassin mooting Azmin Ali as PN head in Selangor and confirming his role as opposition leader.
+
+Pages updated: entities/parties/bersatu.md
+
+## 2026-04-27T04:13:13Z
+
+Added full 26 April 2026 statements about Azmin Ali's opposition leader role and PN head candidacy to Azmin Ali and Bersatu pages.
+
+Pages updated: entities/people/azmin_ali.md, entities/parties/bersatu.md
+
+## 2026-04-27T04:13:15Z
+
+Added missing detail to Bersatu 2026 Development about Azmin being mooted as head of PN in Selangor, completing truncated sentence.
+
+Pages updated: entities/parties/bersatu.md
+
+## 2026-04-27T04:13:15Z
+
+Added attribution to Muhyiddin Yassin for Azmin Ali's opposition leader role and completed the 2026 Development entry on Bersatu with the head‑of‑PN‑in‑Selangor detail per Free Malaysia Today article.
+
+Pages updated: entities/people/azmin_ali.md, entities/parties/bersatu.md
+
+## 2026-04-27T04:13:35Z
+
+Added complete 2026 development to Bersatu page, fixing truncated sentence about Azmin Ali being mooted as head of PN in Selangor.
+
+Pages updated: entities/parties/bersatu.md
+
+## 2026-04-27T04:13:37Z
+
+Added attribution and citation for Muhyiddin Yassin's statement about Azmin Ali being opposition leader and mooted as PN head in Selangor, updating Azmin Ali and Bersatu pages.
+
+Pages updated: entities/people/azmin_ali.md, entities/parties/bersatu.md
+
+## 2026-04-27T04:13:41Z
+
+Added complete 2026 development entry to Bersatu page, including Azmin Ali being mooted as PN head in Selangor.
+
+Pages updated: entities/parties/bersatu.md
+
+## 2026-04-27T04:13:44Z
+
+Added the new 26 April 2026 statement about Azmin Ali being mooted as PN head in Selangor and confirmed his opposition leader status.
+
+Pages updated: entities/people/azmin_ali.md, entities/parties/bersatu.md
+
+## 2026-04-27T04:18:26Z
+
+Added 26 April 2026 development about Bersatu president Muhyiddin Yassin mooting Azmin Ali as head of PN in Selangor and confirming his opposition‑leader role.
+
+Pages updated: entities/parties/bersatu.md
+
+## 2026-04-27T04:18:28Z
+
+Added accurate 2026 development to Bersatu page, replacing placeholder contradiction with citation of Muhyiddin Yassin's statement about Azmin Ali.
+
+Pages updated: entities/parties/bersatu.md
+
+## 2026-04-27T04:18:35Z
+
+Added accurate 2026 development info for Bersatu, replacing placeholder with statement that Muhyiddin Yassin mooted Azmin Ali as head of PN in Selangor and noted his opposition leader role.
+
+Pages updated: entities/parties/bersatu.md
+
+## 2026-04-27T04:18:46Z
+
+Updated Bersatu party page with April 26, 2026 statement that Muhyiddin Yassin mooted Azmin Ali as PN head in Selangor and confirmed his opposition leader role.
+
+Pages updated: entities/parties/bersatu.md
+
+## 2026-04-27T04:25:43Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-27T04:25:44Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-27T04:25:46Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-27T04:25:46Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-27T04:34:09Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-27T04:34:12Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-27T04:34:12Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-27T04:34:15Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-27T04:45:21Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-27T04:49:04Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-27T04:54:30Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-27T04:59:35Z
+
+No relevant updates needed.
+
+Pages updated: none

@@ -65,15 +65,17 @@ async def _lifespan(app: FastAPI):
     # Start health polling
     app.state.registry.start_health_polling()
 
-    # Start periodic news scraping
+    # Start periodic news scraping (disabled when SCRAPE_ENABLED=false)
     scrape_interval = int(os.environ.get("SCRAPE_INTERVAL_SECONDS", "1800"))
-    scrape_task = asyncio.create_task(_periodic_scrape(scrape_interval))
+    scrape_enabled = os.environ.get("SCRAPE_ENABLED", "true").lower() != "false"
+    scrape_task = asyncio.create_task(_periodic_scrape(scrape_interval)) if scrape_enabled else None
 
-    log.info("control_plane.started", port=settings.port, scrape_interval=scrape_interval)
+    log.info("control_plane.started", port=settings.port, scrape_interval=scrape_interval, scrape_enabled=scrape_enabled)
     yield
 
     # Shutdown
-    scrape_task.cancel()
+    if scrape_task:
+        scrape_task.cancel()
     app.state.registry.stop_health_polling()
     await app.state.a2a_client.close()
     await app.state.broker.close()
