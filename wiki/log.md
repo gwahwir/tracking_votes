@@ -12916,3 +12916,13959 @@ Pages updated: entities/constituencies/parlimen/p152-kluang.md
 No relevant updates needed.
 
 Pages updated: none
+
+## 2026-04-24T09:51:17Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T09:51:19Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T09:51:21Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T09:51:27Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T09:51:30Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T09:51:41Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T09:51:41Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T09:51:44Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T09:52:06Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T09:52:08Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T09:52:09Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T09:52:11Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T09:52:37Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T09:52:37Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T09:52:37Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T09:52:38Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T09:52:38Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T09:52:39Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T09:52:39Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T09:52:47Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T09:53:00Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T09:53:25Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T09:53:26Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T09:53:27Z
+
+Added detailed police raid information (arrests and mastermind) to the Kluang constituency page, citing the 24 April 2026 Free Malaysia Today article.
+
+Pages updated: entities/constituencies/parlimen/p152-kluang.md
+
+## 2026-04-24T09:53:27Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T09:53:28Z
+
+Added detailed information about the 24 April 2026 drug bust in Kluang, including arrests of four suspects, to the constituency page.
+
+Pages updated: entities/constituencies/parlimen/p152-kluang.md
+
+## 2026-04-24T09:53:37Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T09:53:37Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T09:53:38Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T09:53:38Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T09:53:38Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T09:53:38Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T09:53:38Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T09:53:39Z
+
+Added details of four arrests (mastermind and girlfriend) to the Kluang constituency news entry for 24 April 2026.
+
+Pages updated: entities/constituencies/parlimen/p152-kluang.md
+
+## 2026-04-24T09:53:39Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T09:53:39Z
+
+Added details of the 24 April 2026 drug seizure in Kluang, including arrests of four suspects, to the constituency page.
+
+Pages updated: entities/constituencies/parlimen/p152-kluang.md
+
+## 2026-04-24T09:53:52Z
+
+Added details of arrests (mastermind, two suspects, 22‑year‑old female) to the 24 April 2026 drug‑seizure entry for P.152 Kluang.
+
+Pages updated: entities/constituencies/parlimen/p152-kluang.md
+
+## 2026-04-24T09:53:53Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T09:53:57Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T09:55:42Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T09:55:48Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T09:56:11Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T09:56:31Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T09:56:34Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T09:56:35Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T09:56:36Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T09:56:44Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T09:56:45Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T09:56:46Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T09:56:49Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T09:56:50Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T09:56:51Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T09:56:52Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T09:56:53Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T09:56:54Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T09:56:55Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T09:56:55Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T09:56:55Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T09:56:56Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T09:56:56Z
+
+Added detailed information about the 24 April 2026 drug‑syndicate raid in Kluang, specifying the mastermind, two other suspects and the 22‑year‑old girlfriend, with proper citation.
+
+Pages updated: entities/constituencies/parlimen/p152-kluang.md
+
+## 2026-04-24T09:56:56Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T09:56:57Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T09:56:57Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T09:56:57Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T09:56:58Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T09:56:58Z
+
+Added detailed arrest information from 24 April 2026 drug‑seizure article to the Kluang constituency page.
+
+Pages updated: entities/constituencies/parlimen/p152-kluang.md
+
+## 2026-04-24T09:56:58Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T09:56:59Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T09:56:59Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T09:57:00Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T09:57:00Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T09:57:07Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T09:57:33Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T09:57:34Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T09:57:40Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T09:57:40Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T09:57:41Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T09:57:41Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T09:57:42Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T09:57:44Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T09:57:45Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T09:57:46Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T09:57:47Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T09:57:59Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T09:58:03Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T09:58:05Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T09:58:06Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T09:58:08Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T09:58:08Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T09:58:08Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T09:58:08Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T09:58:09Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T09:58:09Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T09:58:09Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T09:58:10Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T09:58:12Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T09:58:13Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T09:58:15Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T09:58:25Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T09:58:39Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T09:59:10Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T10:00:19Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T10:00:47Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T10:01:07Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T10:01:08Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T10:01:09Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T10:01:09Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T10:01:09Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T10:01:11Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T10:01:11Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T10:01:11Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T10:01:12Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T10:01:12Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T10:01:12Z
+
+Added 2026 ‘Reset’ initiative by Hamzah Zainudin to Bersatu page, reflecting new political maneuver and continued activity after losing opposition leader role.
+
+Pages updated: entities/parties/bersatu.md
+
+## 2026-04-24T10:01:12Z
+
+Updated Kluang constituency page with clarified details of the 24 April 2026 drug‑syndicate bust and marked contradictions regarding the nature of the RM1.8 million seizure.
+
+Pages updated: entities/constituencies/parlimen/p152-kluang.md
+
+## 2026-04-24T10:01:13Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T10:01:13Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T10:01:14Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T10:01:14Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T10:01:14Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T10:01:15Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T10:01:40Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T10:01:41Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T10:02:00Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T10:02:01Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T10:02:02Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T10:02:04Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T10:02:05Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T10:02:06Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T10:02:07Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T10:02:08Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T10:02:09Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T10:02:12Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T10:02:13Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T10:02:14Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T10:02:14Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T10:02:15Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T10:02:15Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T10:02:16Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T10:02:16Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T10:02:17Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T10:02:23Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T10:02:28Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T10:02:43Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T10:03:34Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T10:04:30Z
+
+Added confirmed Bahasa Malaysia source for the 24 April 2026 Johor drug‑syndicate bust and removed the prior contradiction tag on the RM1.8 million seizure.
+
+Pages updated: entities/constituencies/parlimen/p152-kluang.md
+
+## 2026-04-24T10:07:15Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T10:07:31Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T10:13:30Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T10:13:31Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T10:13:31Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T10:13:32Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T10:13:33Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T10:13:33Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T10:13:33Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T10:13:34Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T10:13:34Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T10:13:35Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T10:13:37Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T10:13:38Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T10:13:39Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T10:13:40Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T10:13:41Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T10:13:41Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T10:13:42Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T10:13:42Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T10:14:06Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T10:14:11Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T10:14:11Z
+
+Added Anwar Ibrahim's election timing statement to DAP page as recent political news.
+
+Pages updated: entities/parties/dap.md
+
+## 2026-04-24T10:14:12Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T10:14:13Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T10:14:14Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T10:14:14Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T10:14:14Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T10:14:14Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T10:14:14Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T10:14:15Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T10:14:15Z
+
+Added a new 2026 news item to the Kluang constituency page about Anwar Ibrahim considering an early October election.
+
+Pages updated: entities/constituencies/parlimen/p152-kluang.md
+
+## 2026-04-24T10:14:15Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T10:14:16Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T10:14:16Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T10:14:17Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T10:14:17Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T10:14:18Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T10:14:18Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T10:14:19Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T10:14:22Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T10:14:29Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T10:14:34Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T10:14:35Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T10:14:36Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T10:14:40Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T10:14:42Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T10:14:43Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T10:14:44Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T10:14:45Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T10:14:45Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T10:14:45Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T10:14:46Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T10:14:46Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T10:14:47Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T10:15:23Z
+
+Added a new bullet to the Kluang constituency page citing the Bahasa‑Malaysia article on the 24 April 2026 drug‑syndicate bust.
+
+Pages updated: entities/constituencies/parlimen/p152-kluang.md
+
+## 2026-04-24T10:15:30Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T10:15:31Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T10:15:31Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T10:16:28Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T10:16:50Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T10:16:57Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T10:17:09Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T10:17:09Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T10:17:11Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T10:17:11Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T10:17:12Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T10:17:13Z
+
+Added a new statement about Anwar Ibrahim considering polls by October, flagged as contradictory to the earlier third‑quarter claim.
+
+Pages updated: entities/parties/dap.md
+
+## 2026-04-24T10:17:13Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T10:17:14Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T10:17:14Z
+
+Added detailed Bahasa Malaysia citation for the 24 April 2026 Johor drug syndicate bust and clarified arrest details.
+
+Pages updated: entities/constituencies/parlimen/p152-kluang.md
+
+## 2026-04-24T10:17:15Z
+
+Added Anwar's election timing statement to DAP page and noted contradiction in Kluang page regarding Anwar's election timing.
+
+Pages updated: entities/parties/dap.md, entities/constituencies/parlimen/p152-kluang.md
+
+## 2026-04-24T10:17:15Z
+
+Updated P.152 Kluang page with complete citation and clarified Anwar Ibrahim's election timing statement.
+
+Pages updated: entities/constituencies/parlimen/p152-kluang.md
+
+## 2026-04-24T10:17:15Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T10:17:16Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T10:17:16Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T10:17:17Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T10:17:17Z
+
+Added new bullet to Kluang constituency page reflecting Anwar's third‑quarter election consideration and flagged contradiction with earlier October‑timing claim.
+
+Pages updated: entities/constituencies/parlimen/p152-kluang.md
+
+## 2026-04-24T10:17:17Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T10:17:17Z
+
+Updated Kluang constituency page with clarified Anwar Ibrahim election timing and fuel subsidy context.
+
+Pages updated: entities/constituencies/parlimen/p152-kluang.md
+
+## 2026-04-24T10:17:18Z
+
+Added new statement about Anwar Ibrahim considering a third‑quarter election, flagged as contradictory to the earlier October‑date claim.
+
+Pages updated: entities/constituencies/parlimen/p152-kluang.md
+
+## 2026-04-24T10:17:18Z
+
+Added Anwar's election consideration to DAP statements and Kluang constituency news.
+
+Pages updated: entities/parties/dap.md, entities/constituencies/parlimen/p152-kluang.md
+
+## 2026-04-24T10:17:18Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T10:17:18Z
+
+Added a new statement for Anwar Ibrahim about calling an election by October, flagged as contradictory to the earlier third‑quarter claim.
+
+Pages updated: entities/parties/dap.md
+
+## 2026-04-24T10:17:18Z
+
+Updated DAP page with Anwar's October election timeline (marked contradiction) and corrected citation on Kluang constituency news.
+
+Pages updated: entities/parties/dap.md, entities/constituencies/parlimen/p152-kluang.md
+
+## 2026-04-24T10:17:19Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T10:17:19Z
+
+Updated DAP page to reflect Anwar Ibrahim's statement that the election could be called by October, adding the new detail from the 24 April 2026 article.
+
+Pages updated: entities/parties/dap.md
+
+## 2026-04-24T10:17:19Z
+
+Updated P.152 Kluang page to correct and expand the recent news bullet about Anwar Ibrahim's consideration of an early election, adding full citation.
+
+Pages updated: entities/constituencies/parlimen/p152-kluang.md
+
+## 2026-04-24T10:17:19Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T10:17:19Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T10:17:20Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T10:17:20Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T10:17:20Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T10:17:20Z
+
+Added new bullet about Anwar considering a third‑quarter election, marked as a contradiction to the earlier October‑polls claim.
+
+Pages updated: entities/constituencies/parlimen/p152-kluang.md
+
+## 2026-04-24T10:17:20Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T10:17:21Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T10:17:21Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T10:17:21Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T10:17:21Z
+
+Added Anwar's election timing statement to DAP page and clarified Kluang news with new fuel‑substance‑cut context.
+
+Pages updated: entities/parties/dap.md, entities/constituencies/parlimen/p152-kluang.md
+
+## 2026-04-24T10:17:22Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T10:17:22Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T10:17:22Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T10:17:22Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T10:18:04Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T10:18:07Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T10:18:15Z
+
+Added new bullet reflecting Anwar's third‑quarter election consideration and marked earlier October claim as contradictory.
+
+Pages updated: entities/constituencies/parlimen/p152-kluang.md
+
+## 2026-04-24T10:18:30Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T10:18:31Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T10:18:53Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T10:18:53Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T10:18:53Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T10:18:54Z
+
+Added new fact about Anwar Ibrahim considering a third‑quarter election and marked the earlier October claim as contradictory.
+
+Pages updated: entities/constituencies/parlimen/p152-kluang.md
+
+## 2026-04-24T10:18:54Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T10:18:54Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T10:18:55Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T10:18:55Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T10:18:55Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T10:18:55Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T10:18:56Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T10:18:56Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T10:19:09Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T10:19:09Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T10:19:10Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T10:19:19Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T10:19:20Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T10:19:20Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T10:19:21Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T10:19:23Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T10:19:24Z
+
+Added the new statement about Anwar's potential election timing to DAP and Kluang pages.
+
+Pages updated: entities/parties/dap.md, entities/constituencies/parlimen/p152-kluang.md
+
+## 2026-04-24T10:19:28Z
+
+Updated D​​ ​  
+
+Pages updated: entities/parties/dap.md
+
+## 2026-04-24T10:20:30Z
+
+Added the missing citation and completed the sentence about Anwar Ibrahim's potential October election in the Kluang constituency page.
+
+Pages updated: entities/constituencies/parlimen/p152-kluang.md
+
+## 2026-04-24T10:20:30Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T10:20:31Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T10:20:33Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T10:20:33Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T10:20:33Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T10:20:34Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T10:20:36Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T10:20:37Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T10:20:37Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T10:20:38Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T10:20:38Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T10:20:39Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T10:20:39Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T10:20:39Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T10:20:39Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T10:20:40Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T10:20:40Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T10:20:40Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T10:20:40Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T10:20:41Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T10:20:41Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T10:20:41Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T10:20:41Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T10:20:42Z
+
+Added new statement about Anwar considering a PRU as early as October, marking contradiction with earlier third‑quarter claim.
+
+Pages updated: entities/parties/dap.md
+
+## 2026-04-24T10:20:42Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T10:20:42Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T10:20:43Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T10:21:29Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T10:21:54Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T10:21:55Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T10:21:56Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T10:22:46Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T10:22:47Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T10:22:48Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T10:22:49Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T10:23:03Z
+
+Added new page for Police Johor documenting the 24 April 2026 drug syndicate bust and RM1.8 million seizure.
+
+Pages updated: entities/organizations/police_johor.md
+
+## 2026-04-24T10:23:03Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T10:23:04Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T10:23:07Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T10:23:08Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T10:23:11Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T10:23:13Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T10:23:14Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T10:23:14Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T10:23:16Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T10:23:17Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T10:23:45Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T10:23:45Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T10:23:57Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T10:24:08Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T10:24:26Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T10:24:39Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T10:24:47Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T10:26:35Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T10:43:35Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T10:43:45Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T10:43:45Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T10:44:01Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T10:44:12Z
+
+Added a new recent event to Police Johor page about a 24 April 2026 shooting linked to a debt dispute, citing Free Malaysia Today.
+
+Pages updated: entities/organizations/police_johor.md
+
+## 2026-04-24T10:44:13Z
+
+Added shooting incident on 24 April 2026 to Police Johor page, detailing suspect age, debt dispute, and RM50,000 loan.
+
+Pages updated: entities/organizations/police_johor.md
+
+## 2026-04-24T10:44:14Z
+
+Updated Police Johor page to reflect the RM1.8 million drug seizure and arrests of four suspects (mastermind and girlfriend) in the April 24 2026 raid.
+
+Pages updated: entities/organizations/police_johor.md
+
+## 2026-04-24T10:44:17Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T10:44:18Z
+
+Updated Police Johor page with detailed arrest info (four suspects, mastermind and girlfriend) and added URL citation.
+
+Pages updated: entities/organizations/police_johor.md
+
+## 2026-04-24T10:44:18Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T10:44:19Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T10:44:20Z
+
+Updated Police Johor page with new details of the 24 April 2026 drug seizure and arrests, marking previous cash‑asset claim as contradictory.
+
+Pages updated: entities/organizations/police_johor.md
+
+## 2026-04-24T10:44:25Z
+
+Updated Police Johor page with detailed location and arrest count from the 24 April 2026 drug‑seizure article.
+
+Pages updated: entities/organizations/police_johor.md
+
+## 2026-04-24T10:44:30Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T10:44:30Z
+
+Added a new shooting incident on 24 April 2026 to Police Johor's recent events, citing the debt‑dispute motive and RM50,000 loan.
+
+Pages updated: entities/organizations/police_johor.md
+
+## 2026-04-24T10:44:34Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T10:44:35Z
+
+Added new Bahasa Malaysia statements about Anwar possibly calling a general election as early as October, linking them to the 24 April 2026 article, and marked contradictions where previously noted.
+
+Pages updated: entities/parties/dap.md, entities/constituencies/parlimen/p152-kluang.md
+
+## 2026-04-24T10:44:42Z
+
+Added new shooting incident on 24 April 2026 to Police Johor page, citing debt‑dispute motive and RM50k loan.
+
+Pages updated: entities/organizations/police_johor.md
+
+## 2026-04-24T10:45:15Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T10:45:42Z
+
+Added the new Free Malaysia Today report on Anwar's election timing to DAP's recent statements and updated Kluang constituency news with the same information, marking contradictions where applicable.
+
+Pages updated: entities/parties/dap.md, entities/constituencies/parlimen/p152-kluang.md
+
+## 2026-04-24T10:45:46Z
+
+Added complete, sourced statements about Anwar's potential election timing to the Kluang constituency page and fixed an incomplete bullet.
+
+Pages updated: entities/constituencies/parlimen/p152-kluang.md
+
+## 2026-04-24T10:48:05Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T10:48:06Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T10:48:10Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T10:48:11Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T10:48:12Z
+
+Added clarified recent news entries for Anwar Ibrahim's election timing statements on 24 April 2026, including citation and contradiction marker.
+
+Pages updated: entities/constituencies/parlimen/p152-kluang.md
+
+## 2026-04-24T10:48:16Z
+
+Added a new bullet to Police Johor page documenting the 24 April 2026 shooting linked to a debt dispute.
+
+Pages updated: entities/organizations/police_johor.md
+
+## 2026-04-24T10:48:20Z
+
+Added a new bullet to Police Johor page about the 24 April 2026 shooting linked to a debt dispute, citing Free Malaysia Today.
+
+Pages updated: entities/organizations/police_johor.md
+
+## 2026-04-24T10:48:20Z
+
+Added a new recent event to Police Johor page about the 24 April 2026 shooting linked to a debt dispute, citing the Free Malaysia Today article.
+
+Pages updated: entities/organizations/police_johor.md
+
+## 2026-04-24T10:48:21Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T10:48:21Z
+
+Updated DAP page with new Anwar statements and marked contradiction; attempted to update Gan Gan...
+
+Pages updated: entities/parties/dap.md, entities/people/gan_kim_sing.md
+
+## 2026-04-24T10:48:22Z
+
+Updated DAP page to reflect that the 24 April 2026 article supports the third‑quarter election claim and contradicts the October claim.
+
+Pages updated: entities/parties/dap.md
+
+## 2026-04-24T10:48:23Z
+
+Added shooting incident to Police Johor page, citing police statement about debt dispute and 71-year-old suspect.
+
+Pages updated: entities/organizations/police_johor.md
+
+## 2026-04-24T10:48:23Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T10:48:23Z
+
+Added a new statement to DAP page confirming Anwar's consideration of a third‑quarter election per the 24 April 2026 report.
+
+Pages updated: entities/parties/dap.md
+
+## 2026-04-24T10:48:23Z
+
+Added police statement about 24 April 2026 Johor shooting and debt dispute to Police Johor page.
+
+Pages updated: entities/organizations/police_johor.md
+
+## 2026-04-24T10:48:24Z
+
+Added a clarified third‑quarter election statement and marked the combined third‑quarter/October claim as contradictory on the Kluang constituency page.
+
+Pages updated: entities/constituencies/parlimen/p152-kluang.md
+
+## 2026-04-24T10:48:25Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T10:48:25Z
+
+Added new statement about Anwar's October election timeline to DAP page and updated Kluang constituency news with the same fact, citing the 24 April 2026 Free Malaysia Today report.
+
+Pages updated: entities/parties/dap.md, entities/constituencies/parlimen/p152-kluang.md
+
+## 2026-04-24T10:48:25Z
+
+Added new statement from 24 April 2026 Bahasa article about Anwar considering a PRU by October, citing the source and preserving existing contradiction marker.
+
+Pages updated: entities/parties/dap.md
+
+## 2026-04-24T10:48:27Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T10:48:27Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T10:48:27Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T10:48:27Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T10:48:29Z
+
+Added new bullet to Kluang constituency page confirming Anwar's third‑quarter election consideration per 24 April 2026 report.
+
+Pages updated: entities/constituencies/parlimen/p152-kluang.md
+
+## 2026-04-24T10:48:29Z
+
+Completed the truncated bullet on Anwar Ibrahim's early‑October election consideration in the Kluang constituency page, adding the full statement and citation.
+
+Pages updated: entities/constituencies/parlimen/p152-kluang.md
+
+## 2026-04-24T10:48:29Z
+
+Added new statement about Anwar Ibrahim considering a third‑quarter election from the 24 April 2026 report to both the DAP party page and the Kluang constituency page.
+
+Pages updated: entities/parties/dap.md, entities/constituencies/parlimen/p152-kluang.md
+
+## 2026-04-24T10:48:31Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T10:48:31Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T10:48:32Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T10:48:32Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T10:48:32Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T10:48:33Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T10:48:33Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T10:48:33Z
+
+No relevant updates needed as the Anwar statement is already recorded on the DAP page.
+
+Pages updated: none
+
+## 2026-04-24T10:48:34Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T10:48:34Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T10:48:35Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T10:48:35Z
+
+Added citation with URL for Anwar Ibrahim's October election statement and retained contradiction marker.
+
+Pages updated: entities/parties/dap.md
+
+## 2026-04-24T10:48:36Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T10:48:36Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T10:48:36Z
+
+Added a [CONTRADICTION] marker to the first Anwar statement to reflect the new Bahasa article indicating the election could be as early as October.
+
+Pages updated: entities/parties/dap.md
+
+## 2026-04-24T10:48:36Z
+
+Added new Anwar election‑timing statement from 24 April 2026 to DAP party page and expanded Kluang constituency news with two separate, cited bullets for the same report.
+
+Pages updated: entities/parties/dap.md, entities/constituencies/parlimen/p152-kluang.md
+
+## 2026-04-24T10:48:37Z
+
+Added citation and clarified Anwar's election timing statements in the Kluang constituency page, marking the October claim as contradictory.
+
+Pages updated: entities/constituencies/parlimen/p152-kluang.md
+
+## 2026-04-24T10:48:38Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T10:48:39Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T10:48:41Z
+
+Added detailed raid information (location, drugs seized, girlfriend arrested) to Police Johor page and flagged contradiction with earlier cash/assets claim.
+
+Pages updated: entities/organizations/police_johor.md
+
+## 2026-04-24T10:48:41Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T10:48:42Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T10:48:51Z
+
+Added detailed citations for Anwar Ibrahim's 24 April 2026 statements on possible election timing and fuel‑subsidy condition to the Kluang constituency page.
+
+Pages updated: entities/constituencies/parlimen/p152-kluang.md
+
+## 2026-04-24T10:48:56Z
+
+Updated Police Johor page with detailed drug seizure info and marked previous cash‑asset claim as contradictory.
+
+Pages updated: entities/organizations/police_johor.md
+
+## 2026-04-24T10:49:17Z
+
+Added new citation of Anwar's October election consideration to DAP page and marked the contradictory timing claim in Kluang constituency news.
+
+Pages updated: entities/parties/dap.md, entities/constituencies/parlimen/p152-kluang.md
+
+## 2026-04-24T10:49:23Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T10:50:03Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T10:50:34Z
+
+Added detailed citation and clarification to Police Johor page about the 24 April 2026 shooting linked to a debt dispute.
+
+Pages updated: entities/organizations/police_johor.md
+
+## 2026-04-24T10:50:39Z
+
+Updated Police Johor page to reflect new details from the 24 April 2026 drug syndicate raid, marking previous cash‑asset claim as contradictory.
+
+Pages updated: entities/organizations/police_johor.md
+
+## 2026-04-24T10:50:41Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T10:50:41Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T10:50:42Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T10:50:42Z
+
+Updated Police Johor page to correct seizure description to drugs and added location and arrest details, marking previous cash/assets claim as a contradiction.
+
+Pages updated: entities/police_johor.md
+
+## 2026-04-24T10:50:44Z
+
+Added a new bullet to Kluang constituency page noting Anwar Ibrahim's statement about possibly holding elections by October, flagged as a contradiction to the earlier third‑quarter claim.
+
+Pages updated: entities/constituencies/parlimen/p152-kluang.md
+
+## 2026-04-24T10:50:56Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T10:50:56Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T10:50:58Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T10:50:59Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T10:51:00Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T10:51:02Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T10:51:07Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T10:51:08Z
+
+Added a complete bullet on Anwar Ibrahim's election timing remarks to the Kluang constituency page, fixing a truncated entry.
+
+Pages updated: entities/constituencies/parlimen/p152-kluang.md
+
+## 2026-04-24T10:51:29Z
+
+Added full statement about Anwar Ibrahim eyeing October polls to Kluang constituency page, replacing truncated entry.
+
+Pages updated: entities/constituencies/parlimen/p152-kluang.md
+
+## 2026-04-24T10:51:30Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T10:51:47Z
+
+Completed the truncated October election statement in Kluang constituency page and added contradiction markers where the two Anwar statements conflict.
+
+Pages updated: entities/constituencies/parlimen/p152-kluang.md
+
+## 2026-04-24T10:51:58Z
+
+Added detailed raid location and clarified four arrests (mastermind and girlfriend) to Police Johor page.
+
+Pages updated: entities/organizations/police_johor.md
+
+## 2026-04-24T10:52:29Z
+
+Added a new statement about Anwar Ibrahim eyeing October polls to the DAP page and clarified and expanded the Kluang constituency news with the latest report, marking contradictions where applicable.
+
+Pages updated: entities/parties/dap.md, entities/constituencies/parlimen/p152-kluang.md
+
+## 2026-04-24T10:53:10Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T10:53:10Z
+
+Added complete statement about Anwar Ibrahim eyeing October polls to Kluang constituency page and fixed truncated entry.
+
+Pages updated: entities/constituencies/parlimen/p152-kluang.md
+
+## 2026-04-24T10:53:11Z
+
+Added the 24 April 2026 police shooting incident to the P.152 Kluang recent news section.
+
+Pages updated: entities/constituencies/parlimen/p152-kluang.md
+
+## 2026-04-24T10:53:12Z
+
+Added detailed location and arrest count to Police Johor and Kluang constituency pages based on the 24 April 2026 drug bust article.
+
+Pages updated: entities/police_johor.md, entities/constituencies/parlimen/p152-kluang.md
+
+## 2026-04-24T10:53:55Z
+
+Updated Police Johor page with correct details of the 24 April 2026 drug bust (drugs seized, raid location, four arrests) and marked contradiction with previous claim of cash/assets.
+
+Pages updated: entities/organizations/police_johor.md
+
+## 2026-04-24T10:55:59Z
+
+Added a complete bullet on 24 April 2026 stating Anwar Ibrahim suggested an October election, fixing a truncated entry in the Kluang constituency page.
+
+Pages updated: entities/constituencies/parlimen/p152-kluang.md
+
+## 2026-04-24T10:56:00Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T10:56:01Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T10:56:01Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T10:56:02Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T10:56:02Z
+
+Updated Police Johor page with detailed raid info (girlfriend arrested, drugs seized) and marked contradiction with earlier cash/assets claim.
+
+Pages updated: entities/organizations/police_johor.md
+
+## 2026-04-24T10:56:03Z
+
+Updated Police Johor page to reflect drug seizure details and four arrests, marking previous cash/assets claim as contradictory.
+
+Pages updated: entities/organizations/police_johor.md
+
+## 2026-04-24T10:56:03Z
+
+Added a new bullet to DAP page citing the Bahasa article that Anwar may call a general election as early as October if no further fuel subsidy cuts are needed.
+
+Pages updated: entities/parties/dap.md
+
+## 2026-04-24T10:56:05Z
+
+Added a new Bahasa Malaysia citation of Anwar Ibrahim's 24 April 2026 statement that a general election could be held as early as October if no further fuel subsidy cuts are needed.
+
+Pages updated: entities/parties/dap.md
+
+## 2026-04-24T10:56:05Z
+
+Updated Police Johor page to incorporate new details from the 24 April 2026 raid, clarifying that the RM1.8 million seizure was of drugs and adding citation to the specific article.
+
+Pages updated: entities/organizations/police_johor.md
+
+## 2026-04-24T10:56:05Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T10:56:05Z
+
+Added a new statement on Anwar Ibrahim's October election timing linked to fuel subsidy cuts, preserving existing contradictory entries.
+
+Pages updated: entities/parties/dap.md
+
+## 2026-04-24T10:56:06Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T10:56:06Z
+
+Added the latest details from the 24 April 2026 Free Malaysia Today article about Police Johor crippling a drug syndicate and seizing RM1.8 million in drugs, updating both the Police Johor and Kluang constituency pages.
+
+Pages updated: entities/organizations/police_johor.md, entities/constituencies/parlimen/p152-kluang.md
+
+## 2026-04-24T10:56:06Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T10:56:06Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T10:56:07Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T10:56:45Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T10:56:58Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T10:56:59Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T10:57:00Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T10:57:01Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T10:57:02Z
+
+Added a new statement on 24 April 2026 from the Bahasa article confirming Anwar may call a PRU as early as October, with citation.
+
+Pages updated: entities/parties/dap.md
+
+## 2026-04-24T10:57:03Z
+
+Added new statement about Anwar Ibrahim's possible October election from 24 April 2026 Bahasa article to DAP page.
+
+Pages updated: entities/parties/dap.md
+
+## 2026-04-24T10:57:21Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T10:57:22Z
+
+Added complete statement about Anwar Ibrahim possibly holding elections by October to Kluang constituency news, fixing an incomplete bullet.
+
+Pages updated: entities/constituencies/parlimen/p152-kluang.md
+
+## 2026-04-24T10:57:23Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T10:57:23Z
+
+Added the specific Free Malaysia Today article (24 April 2026) as a source to Police Johor and Kluang constituency pages, clarifying the drug‑seizure details and arrests.
+
+Pages updated: entities/organizations/police_johor.md, entities/constituencies/parlimen/p152-kluang.md
+
+## 2026-04-24T10:57:25Z
+
+Added the missing October‑poll statement and clarified the third‑quarter election comment in the Kluang constituency page.
+
+Pages updated: entities/constituencies/parlimen/p152-kluang.md
+
+## 2026-04-24T10:57:26Z
+
+Added detailed drug‑syndicate raid info to Police Johor and Kluang pages, noting the RM1.8 million drug seizure and arrests.
+
+Pages updated: entities/organizations/police_johor.md, entities/constituencies/parlimen/p152-kluang.md
+
+## 2026-04-24T10:57:27Z
+
+Added a new bullet to the DAP page citing Anwar Ibrahim's April 24 2026 statement about possibly holding a general election as early as October, conditional on no further fuel‑subsidy cuts.
+
+Pages updated: entities/parties/dap.md
+
+## 2026-04-24T10:57:28Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T10:57:34Z
+
+Added contradiction marker and a new bullet about the RM1.8 million drug seizure to the Police Johor page to incorporate the latest article.
+
+Pages updated: entities/police_johor.md
+
+## 2026-04-24T10:57:59Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T10:57:59Z
+
+Added location (Johor Bahru apartment) and total number of arrests to Police Johor entry, citing the 24 April 2026 Free Malaysia Today article.
+
+Pages updated: entities/organizations/police_johor.md
+
+## 2026-04-24T10:58:36Z
+
+Added the specific Free Malaysia Today article URL to police and constituency pages and removed an erroneous contradiction tag.
+
+Pages updated: entities/organizations/police_johor.md, entities/police_johor.md, entities/constituencies/parlimen/p152-kluang.md
+
+## 2026-04-24T10:58:38Z
+
+No relevant updates needed as the article's fact is already recorded in the DAP page.
+
+Pages updated: none
+
+## 2026-04-24T11:00:20Z
+
+Added Anwar Ibrahim's October election condition to DAP statements and Kluang constituency news, marking contradictions with earlier third‑quarter claim.
+
+Pages updated: entities/parties/dap.md, entities/constituencies/parlimen/p152-kluang.md
+
+## 2026-04-24T11:01:59Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T11:05:00Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T11:13:35Z
+
+Updated Police Johor page to correct the seizure description to drugs, marking the previous cash/assets claim as a contradiction.
+
+Pages updated: entities/police_johor.md
+
+## 2026-04-24T11:13:36Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T11:13:37Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T11:13:38Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T11:13:39Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T11:13:50Z
+
+Added the Bahasa article’s statement about Anwar possibly calling a general election by October, with citation and contradiction marker.
+
+Pages updated: entities/parties/dap.md
+
+## 2026-04-24T11:13:50Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T11:14:19Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T11:14:20Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T11:14:22Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T11:14:24Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T11:14:30Z
+
+Added the detailed raid information to Police Johor pages, ensuring citation and preserving existing shooting incident entry.
+
+Pages updated: entities/organizations/police_johor.md, entities/police_johor.md
+
+## 2026-04-24T11:14:30Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T11:14:30Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T11:14:31Z
+
+No relevant updates needed as the article's facts are already reflected in existing pages.
+
+Pages updated: none
+
+## 2026-04-24T11:14:33Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T11:14:33Z
+
+Corrected Police Johor page to reflect that the 24 April 2026 raid seized RM1.8 million worth of drugs, removing the contradictory cash claim.
+
+Pages updated: entities/police_johor.md
+
+## 2026-04-24T11:14:33Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T11:14:34Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T11:14:34Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T11:14:34Z
+
+Added citation to Anwar Ibrahim's 24 April 2026 statement about a third‑quarter election in dap.md.
+
+Pages updated: entities/parties/dap.md
+
+## 2026-04-24T11:14:35Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T11:14:43Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T11:14:46Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T11:14:47Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T11:16:48Z
+
+Added new Bahasa Malaysia statement about Anwar possibly calling a general election as early as October to DAP party page and Kluang constituency page, marking contradiction where it conflicts with earlier third‑quarter timing.
+
+Pages updated: entities/parties/dap.md, entities/constituencies/parlimen/p152-kluang.md
+
+## 2026-04-24T11:19:47Z
+
+Added Bahasa Malaysia source confirming Anwar's possible October election statement to DAP party page and Kluang constituency news.
+
+Pages updated: entities/parties/dap.md, entities/constituencies/parlimen/p152-kluang.md
+
+## 2026-04-24T11:19:48Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T11:19:48Z
+
+Added Bahasa‑language report of Anwar's October election consideration to DAP statements and Kluang constituency news.
+
+Pages updated: entities/parties/dap.md, entities/constituencies/parlimen/p152-kluang.md
+
+## 2026-04-24T11:19:50Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T11:19:51Z
+
+Added URL citation to Anwar Ibrahim's 24 April 2026 third‑quarter election statement in DAP page.
+
+Pages updated: entities/parties/dap.md
+
+## 2026-04-24T11:19:51Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T11:19:55Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T11:19:56Z
+
+Added a new statement about Anwar eyeing polls by October (fuel‑subsidy context) to DAP party page and updated Kluang constituency news with the same fact.
+
+Pages updated: entities/parties/dap.md, entities/constituencies/parlimen/p152-kluang.md
+
+## 2026-04-24T11:19:57Z
+
+Added a new statement on 24 April 2026 about Anwar considering a poll by October amid fuel‑subsidy cuts to DAP page.
+
+Pages updated: entities/parties/dap.md
+
+## 2026-04-24T11:19:58Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T11:19:58Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T11:20:00Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T11:20:00Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T11:20:01Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T11:20:01Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T11:20:02Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T11:20:18Z
+
+Added the new statement about Anwar's consideration of a third‑quarter election and marked the contradictory October‑by‑by‑by‑by‑by‑by‑by‑by‑by‑by‑by‑statement as a contradiction.
+
+Pages updated: entities/parties/dap.md, entities/constituencies/parlimen/p152-kluang.md
+
+## 2026-04-24T11:20:18Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T11:20:19Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T11:20:20Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T11:20:21Z
+
+Added the new statement about Anwar considering a PRU in October if subsidies aren't cut, marking contradictions where previous statements conflicted.
+
+Pages updated: entities/parties/dap.md
+
+## 2026-04-24T11:21:05Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T11:21:06Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T11:21:08Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T11:21:08Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T11:21:08Z
+
+Added citation for the 24 April 2026 shooting incident on the Police Johor page to reference the new Free Malaysia Today article.
+
+Pages updated: entities/organizations/police_johor.md
+
+## 2026-04-24T11:21:09Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T11:21:09Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T11:21:10Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T11:21:10Z
+
+Added a Bahasa‑language citation for Anwar Ibrahim's 24 April 2026 statement about a possible October election, preserving existing contradictory markers.
+
+Pages updated: entities/parties/dap.md
+
+## 2026-04-24T11:21:11Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T11:21:11Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T11:21:11Z
+
+Added the new detail that Anwar may hold a general election as early as October, noting the contradiction with existing statements.
+
+Pages updated: entities/parties/dap.md
+
+## 2026-04-24T11:21:12Z
+
+Added the URL citation for the 24 April 2026 drug‑syndicate raid to Police Johor pages and the Kluang constituency news entry.
+
+Pages updated: entities/police_johor.md, entities/organizations/police_johor.md, entities/constituencies/parlimen/p152-kluang.md
+
+## 2026-04-24T11:21:12Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T11:21:12Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T11:21:12Z
+
+Added a new Bahasa Malaysia citation for Anwar Ibrahim's statement about possibly holding a general election by October, confirming the condition on fuel‑subsidy cuts.
+
+Pages updated: entities/parties/dap.md
+
+## 2026-04-24T11:21:13Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T11:21:13Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T11:21:14Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T11:21:14Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T11:21:14Z
+
+Added the full article URL to the citation for the 24 April 2026 drug‑syndicate raid on the Police Johor page.
+
+Pages updated: entities/organizations/police_johor.md
+
+## 2026-04-24T11:21:15Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T11:21:16Z
+
+Added URL citation to Police Johor organization page for the 24 April 2026 drug syndicate raid.
+
+Pages updated: entities/organizations/police_johor.md
+
+## 2026-04-24T11:21:16Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T11:21:16Z
+
+Added a new statement to DAP page reflecting Anwar's 24 April 2026 comment on a third‑quarter election amid fuel‑subsidy cuts, citing the specific Free Malaysia Today report.
+
+Pages updated: entities/parties/dap.md
+
+## 2026-04-24T11:21:16Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T11:21:17Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T11:21:17Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T11:21:34Z
+
+Added the article URL to the citations for the 24 April 2026 drug‑seizure event on both Police Johor entity and organization pages.
+
+Pages updated: entities/police_johor.md, entities/organizations/police_johor.md
+
+## 2026-04-24T11:22:46Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T11:22:46Z
+
+Added the specific URL citation for the 24 April 2026 Johor shooting debt‑dispute article to both Police Johor pages.
+
+Pages updated: entities/police_johor.md, entities/organizations/police_johor.md
+
+## 2026-04-24T11:22:51Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T11:23:00Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T11:23:00Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T11:23:15Z
+
+Added the new 24 April 2026 statement about Anwar eyeing polls by October as fuel‑subsidy cuts loom to both the DAP party page and the Kluang constituency page.
+
+Pages updated: entities/parties/dap.md, entities/constituencies/parlimen/p152-kluang.md
+
+## 2026-04-24T11:23:15Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T11:23:16Z
+
+Added the specific URL citation for the 24 April 2026 drug‑syndicate raid to Police Johor and Kluang constituency pages.
+
+Pages updated: entities/organizations/police_johor.md, entities/constituencies/parlimen/p152-kluang.md
+
+## 2026-04-24T11:23:18Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T11:23:19Z
+
+Added URL to Anwar Ibrahim statement in DAP page to reference the Bahasa article.
+
+Pages updated: entities/parties/dap.md
+
+## 2026-04-24T11:23:20Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T11:23:21Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T11:23:22Z
+
+Added detailed citation and URL for the 24 April 2026 Johor shooting incident to Police Johor pages.
+
+Pages updated: entities/police_johor.md, entities/organizations/police_johor.md
+
+## 2026-04-24T11:23:31Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T11:23:32Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T11:23:56Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T11:23:56Z
+
+Added the Bahasa Malaysia statement about Anwar considering an October election with a contradiction marker.
+
+Pages updated: entities/parties/dap.md
+
+## 2026-04-24T11:23:59Z
+
+No relevant updates needed as the article's facts are already recorded in existing pages.
+
+Pages updated: none
+
+## 2026-04-24T11:24:18Z
+
+Added URL to citation for the 24 April 2026 drug‑syndicate raid on Police Johor page.
+
+Pages updated: entities/organizations/police_johor.md
+
+## 2026-04-24T11:25:12Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T11:25:47Z
+
+Added a new bullet to the Kluang constituency page noting Anwar Ibrahim's statement on 24 April 2026 that he was eyeing a poll by October amid looming fuel‑subsidy cuts.
+
+Pages updated: entities/constituencies/parlimen/p152-kluang.md
+
+## 2026-04-24T11:27:31Z
+
+Added Anwar's statement about possibly holding a PRU in October 2026 to the DAP page.
+
+Pages updated: entities/parties/dap.md
+
+## 2026-04-24T11:27:32Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T11:27:33Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T11:27:37Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T11:27:38Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T11:27:38Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T11:27:39Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T11:27:41Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T11:27:41Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T11:27:42Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T11:27:42Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T11:27:42Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T11:27:43Z
+
+Added new bullet to P.152 Kluang page about Anwar considering an October election with fuel‑subsidy condition, marked as a contradiction to earlier third‑quarter claim.
+
+Pages updated: entities/constituencies/parlimen/p152-kluang.md
+
+## 2026-04-24T11:27:43Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T11:27:44Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T11:27:44Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T11:27:44Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T11:27:45Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T11:27:45Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T11:27:45Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T11:27:45Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T11:27:46Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T11:27:46Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T11:27:46Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T11:27:47Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T11:28:08Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T11:28:21Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T11:28:23Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T11:28:24Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T11:28:32Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T11:28:32Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T11:28:35Z
+
+Added a new citation from the Bahasa Free Malaysia Today article confirming Anwar's consideration of an October 2026 election.
+
+Pages updated: entities/parties/dap.md
+
+## 2026-04-24T11:28:36Z
+
+Added a new statement about Anwar considering an October election amid fuel subsidy concerns.
+
+Pages updated: entities/parties/dap.md
+
+## 2026-04-24T11:28:37Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T11:28:38Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T11:28:40Z
+
+Added new statement about Anwar considering polls by October 2026 per the latest article.
+
+Pages updated: entities/parties/dap.md
+
+## 2026-04-24T11:28:41Z
+
+Added a new statement to DAP page reflecting Anwar's consideration of an October 2026 election amid fuel subsidy cuts.
+
+Pages updated: entities/parties/dap.md
+
+## 2026-04-24T11:28:42Z
+
+Added citation and clarified details of the 24 April 2026 shooting incident (71‑year‑old suspect, RM50,000 debt) to Police Johor pages.
+
+Pages updated: entities/police_johor.md, entities/organizations/police_johor.md
+
+## 2026-04-24T11:28:43Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T11:28:43Z
+
+Added a new statement on Anwar Ibrahim's consideration of an October 2026 election linked to fuel subsidy cuts.
+
+Pages updated: entities/parties/dap.md
+
+## 2026-04-24T11:28:48Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T11:28:50Z
+
+Added new bullet to P.152 Kluang page about Anwar's October 2026 election consideration, reflecting the latest Free Malaysia Today report.
+
+Pages updated: entities/constituencies/parlimen/p152-kluang.md
+
+## 2026-04-24T11:28:57Z
+
+Added new statement about Anwar's election timing linked to fuel subsidy cuts to the DAP page.
+
+Pages updated: entities/parties/dap.md
+
+## 2026-04-24T11:29:01Z
+
+Added a new statement about Anwar linking third‑quarter election timing to fuel subsidy cuts, based on the 24 April 2026 Free Malaysia Today report.
+
+Pages updated: entities/parties/dap.md
+
+## 2026-04-24T11:29:02Z
+
+Added new statements about Anwar Ibrahim's potential October 2026 election call linked to fuel subsidy cuts to DAP party page and Kluang constituency page.
+
+Pages updated: entities/parties/dap.md, entities/constituencies/parlimen/p152-kluang.md
+
+## 2026-04-24T11:29:25Z
+
+Added new statement about Anwar's October election timing to DAP party page and Kluang constituency news, citing the 24 April 2026 Free Malaysia Today report.
+
+Pages updated: entities/parties/dap.md, entities/constituencies/parlimen/p152-kluang.md
+
+## 2026-04-24T11:32:07Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T11:36:57Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T11:43:15Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T11:43:15Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T11:43:16Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T11:43:17Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T11:43:18Z
+
+Added the October‑polls statement by PM Anwar on 24 April 2026 to the Kluang constituency news.
+
+Pages updated: entities/constituencies/parlimen/p152-kluang.md
+
+## 2026-04-24T11:43:20Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T11:43:21Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T11:43:22Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T11:43:27Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T11:43:29Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T11:43:29Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T11:43:29Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T11:43:31Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T11:43:32Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T11:44:01Z
+
+Added detailed citation and corrected location typo for the 24 April 2026 drug‑syndicate raid on Police Johor pages.
+
+Pages updated: entities/police_johor.md, entities/organizations/police_johor.md
+
+## 2026-04-24T11:44:01Z
+
+Added new bullet to Kluang constituency page about Anwar Ibrahim eyeing polls by October, reflecting the 24 April 2026 report.
+
+Pages updated: entities/constituencies/parlimen/p152-kluang.md
+
+## 2026-04-24T11:44:02Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T11:44:03Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T11:44:03Z
+
+Added a new bullet to the Kluang constituency page documenting Anwar Ibrahim's statement about possibly holding elections by October, reflecting the latest report.
+
+Pages updated: entities/constituencies/parlimen/p152-kluang.md
+
+## 2026-04-24T11:44:04Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T11:44:04Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T11:44:04Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T11:44:05Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T11:44:05Z
+
+Added full citation URLs and clarified Anwar Ibrahim's election timing statements in DAP and Kluang constituency pages.
+
+Pages updated: entities/parties/dap.md, entities/constituencies/parlimen/p152-kluang.md
+
+## 2026-04-24T11:44:06Z
+
+Added a new bullet to Kluang constituency page noting Anwar Ibrahim's October poll comment from 24 April 2026.
+
+Pages updated: entities/constituencies/parlimen/p152-kluang.md
+
+## 2026-04-24T11:44:06Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T11:44:07Z
+
+Added the new Free Malaysia Today article about Anwar eyeing October polls to both the DAP recent statements and Kluang constituency recent news.
+
+Pages updated: entities/parties/dap.md, entities/constituencies/parlimen/p152-kluang.md
+
+## 2026-04-24T11:44:07Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T11:44:08Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T11:44:08Z
+
+Added new statements about Anwar's October election consideration to DAP party page and Kluang constituency news, marking contradictions where they conflict with earlier third‑quarter election remarks.
+
+Pages updated: entities/parties/dap.md, entities/constituencies/parlimen/p152-kluang.md
+
+## 2026-04-24T11:44:12Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T11:44:12Z
+
+Added URL citation for the 24 April 2026 Johor shooting incident to Police Johor pages.
+
+Pages updated: entities/police_johor.md, entities/organizations/police_johor.md
+
+## 2026-04-24T11:44:12Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T11:44:13Z
+
+Added a new bullet to Kluang constituency page noting Anwar Ibrahim's statement about eyeing polls by October, sourced from Free Malaysia Today (24 April 2026).
+
+Pages updated: entities/constituencies/parlimen/p152-kluang.md
+
+## 2026-04-24T11:44:13Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T11:44:16Z
+
+Added the specific Free Malaysia Today URL for Anwar's October‑poll comment and corrected the truncated bullet in Kluang constituency news.
+
+Pages updated: entities/parties/dap.md, entities/constituencies/parlimen/p152-kluang.md
+
+## 2026-04-24T11:44:18Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T11:44:20Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T11:44:21Z
+
+Added new bullet to Kluang constituency page noting Anwar Ibrahim's October poll comment on 24 April 2026.
+
+Pages updated: entities/constituencies/parlimen/p152-kluang.md
+
+## 2026-04-24T11:44:22Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T11:44:26Z
+
+Added the debt‑dispute shooting incident to Police Johor pages.
+
+Pages updated: entities/police_johor.md, entities/organizations/police_johor.md
+
+## 2026-04-24T11:44:29Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T11:44:30Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T11:44:32Z
+
+Added citation URL for Anwar's October poll comment in DAP page and recorded the same statement in Kluang constituency page.
+
+Pages updated: entities/parties/dap.md, entities/constituencies/parlimen/p152-kluang.md
+
+## 2026-04-24T11:44:39Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T11:45:01Z
+
+Added the new Free Malaysia Today report on Anwar's October‑polls statement to both the DAP party page and the Kluang constituency page, including URLs for citation.
+
+Pages updated: entities/parties/dap.md, entities/constituencies/parlimen/p152-kluang.md
+
+## 2026-04-24T11:45:02Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T11:45:02Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T11:45:03Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T11:45:04Z
+
+Added URL citations for Anwar Ibrahim's April 24 statements and included the October‑poll remark in both the DAP party page and the Kluang constituency news.
+
+Pages updated: entities/parties/dap.md, entities/constituencies/parlimen/p152-kluang.md
+
+## 2026-04-24T11:45:05Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T11:45:06Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T11:45:08Z
+
+Added new bullet about Anwar Ibrahim eyeing polls by October on 24 April 2026 to the Kluang constituency page.
+
+Pages updated: entities/constituencies/parlimen/p152-kluang.md
+
+## 2026-04-24T11:45:09Z
+
+Added the specific Free Malaysia Today URL citation for the 24 April 2026 Johor shooting incident to both Police Johor pages.
+
+Pages updated: entities/police_johor.md, entities/organizations/police_johor.md
+
+## 2026-04-24T11:45:10Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T11:45:11Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T11:45:12Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T11:45:12Z
+
+Added new recent news entry for Kluang noting Anwar Ibrahim eyeing polls by October, marked as contradiction with existing third‑quarter election statement.
+
+Pages updated: entities/constituencies/parlimen/p152-kluang.md
+
+## 2026-04-24T11:45:13Z
+
+Added new bullet to Kluang constituency page noting Anwar Ibrahim's October poll comment from 24 April 2026.
+
+Pages updated: entities/constituencies/parlimen/p152-kluang.md
+
+## 2026-04-24T11:45:14Z
+
+Added a new bullet to the Kluang constituency page documenting Anwar Ibrahim's October‑poll comment and completed the third‑quarter election comment citation.
+
+Pages updated: entities/constituencies/parlimen/p152-kluang.md
+
+## 2026-04-24T11:45:14Z
+
+Added the new Free Malaysia Today article on Anwar's October poll plans to both the DAP recent statements and Kluang constituency news.
+
+Pages updated: entities/parties/dap.md, entities/constituencies/parlimen/p152-kluang.md
+
+## 2026-04-24T11:45:14Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T11:45:14Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T11:45:15Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T11:45:16Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T11:45:16Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T11:45:17Z
+
+Added new bullet about Anwar Ibrahim eyeing October polls to Kluang constituency page, marking contradiction with earlier third‑quarter election statement.
+
+Pages updated: entities/constituencies/parlimen/p152-kluang.md
+
+## 2026-04-24T11:45:18Z
+
+Added a new bullet to the Kluang constituency page noting Anwar Ibrahim's October poll comment from the 24 April 2026 article.
+
+Pages updated: entities/constituencies/parlimen/p152-kluang.md
+
+## 2026-04-24T11:45:18Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T11:45:27Z
+
+Added new bullet to Kluang constituency page noting Anwar's October poll comment from 24 April 2026.
+
+Pages updated: entities/constituencies/parlimen/p152-kluang.md
+
+## 2026-04-24T11:45:30Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T11:45:43Z
+
+Added the October‑poll statement by PM Anwar to Kluang constituency page to reflect new report.
+
+Pages updated: entities/constituencies/parlimen/p152-kluang.md
+
+## 2026-04-24T11:45:46Z
+
+Added Anwar Ibrahim's October‑poll statement to Kluang constituency news with a contradiction tag.
+
+Pages updated: entities/constituencies/parlimen/p152-kluang.md
+
+## 2026-04-24T11:45:51Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T11:45:52Z
+
+Added new statement about Anwar's October‑poll eyeing to DAP party page and Kluang constituency news.
+
+Pages updated: entities/parties/dap.md, entities/constituencies/parlimen/p152-kluang.md
+
+## 2026-04-24T11:45:52Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T11:45:53Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T11:45:53Z
+
+Added a new bullet to Kluang constituency page noting Anwar Ibrahim's October poll timeline from the 24 April 2026 Free Malaysia Today report.
+
+Pages updated: entities/constituencies/parlimen/p152-kluang.md
+
+## 2026-04-24T11:45:54Z
+
+Added detailed drug‑syndicate raid information with citation to Police Johor organization page.
+
+Pages updated: entities/organizations/police_johor.md
+
+## 2026-04-24T11:45:55Z
+
+Added detailed entry for Police Johor organization about the 24 April 2026 drug syndicate raid, replacing placeholder content.
+
+Pages updated: entities/organizations/police_johor.md
+
+## 2026-04-24T11:45:55Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T11:45:55Z
+
+Added shooting incident details and corrected drug raid entry in Police Johor organization page.
+
+Pages updated: entities/organizations/police_johor.md
+
+## 2026-04-24T11:45:56Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T11:45:56Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T11:45:57Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T11:45:58Z
+
+Added a new bullet to Kluang constituency page noting Anwar Ibrahim's statement about eyeing polls by October, with proper citation.
+
+Pages updated: entities/constituencies/parlimen/p152-kluang.md
+
+## 2026-04-24T11:45:58Z
+
+Added URL citation to Police Johor page for the shooting debt‑dispute incident.
+
+Pages updated: entities/organizations/police_johor.md
+
+## 2026-04-24T11:46:06Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T11:46:07Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T11:46:08Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T11:46:11Z
+
+Added a new bullet to Kluang constituency page noting Anwar Ibrahim's October poll comment on 24 April 2026.
+
+Pages updated: entities/constituencies/parlimen/p152-kluang.md
+
+## 2026-04-24T11:46:12Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T11:46:20Z
+
+Added Anwar Ibrahim's October‑poll statement to Kluang constituency recent news.
+
+Pages updated: entities/constituencies/parlimen/p152-kluang.md
+
+## 2026-04-24T11:46:21Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T11:46:35Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T11:46:36Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T11:46:36Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T11:46:37Z
+
+Added a new bullet to Kluang constituency page noting Anwar Ibrahim's statement about eyeing polls by October amid fuel subsidy cuts.
+
+Pages updated: entities/constituencies/parlimen/p152-kluang.md
+
+## 2026-04-24T11:46:38Z
+
+Added a new bullet to Kluang constituency page noting Anwar Ibrahim's October poll comment from 24 April 2026.
+
+Pages updated: entities/constituencies/parlimen/p152-kluang.md
+
+## 2026-04-24T11:46:39Z
+
+Added the specific Free Malaysia Today article URL to DAP's recent statements and recorded Anwar's October‑poll comment in the Kluang constituency news.
+
+Pages updated: entities/parties/dap.md, entities/constituencies/parlimen/p152-kluang.md
+
+## 2026-04-24T11:46:40Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T11:46:57Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T11:46:57Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T11:47:42Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T11:48:11Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T11:48:11Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T11:48:12Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T11:48:13Z
+
+Added a new statement to DAP page reflecting Anwar's 24 April 2026 comment on a potential third‑quarter election amid fuel‑subsidy cuts, with citation to the specific article.
+
+Pages updated: entities/parties/dap.md
+
+## 2026-04-24T11:48:14Z
+
+Added new bullet to Kluang constituency page citing Anwar's October poll comment from 24 April 2026.
+
+Pages updated: entities/constituencies/parlimen/p152-kluang.md
+
+## 2026-04-24T11:48:15Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T11:48:16Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T11:48:17Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T11:48:18Z
+
+Added the URL citation for the 24 April 2026 Johor shooting incident to both Police Johor pages.
+
+Pages updated: entities/police_johor.md, entities/organizations/police_johor.md
+
+## 2026-04-24T11:48:22Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T11:48:23Z
+
+Added URL citation for the 24 April 2026 Johor shooting incident on Police Johor pages.
+
+Pages updated: entities/police_johor.md, entities/organizations/police_johor.md
+
+## 2026-04-24T11:48:24Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T11:48:25Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T11:48:37Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T11:48:40Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T11:48:41Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T11:48:43Z
+
+Added Anwar Ibrahim's October poll eye statement to Kluang constituency recent news.
+
+Pages updated: entities/constituencies/parlimen/p152-kluang.md
+
+## 2026-04-24T11:48:44Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T11:48:52Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T11:48:52Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T11:48:53Z
+
+Added the October‑poll statement from the 24 April 2026 Free Malaysia Today report to the Kluang constituency page.
+
+Pages updated: entities/constituencies/parlimen/p152-kluang.md
+
+## 2026-04-24T11:48:53Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T11:48:58Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T11:49:10Z
+
+Added missing URLs to citations on Police Johor page for the 24 April 2026 drug raid and shooting incident.
+
+Pages updated: entities/organizations/police_johor.md
+
+## 2026-04-24T11:49:13Z
+
+Added a new news item for Kluang constituency noting Anwar Ibrahim's statement about eyeing polls by October as fuel subsidy cuts loom.
+
+Pages updated: entities/constituencies/parlimen/p152-kluang.md
+
+## 2026-04-24T11:49:26Z
+
+Added complete citations and clarified Anwar Ibrahim's election timing statements in the Kluang constituency page.
+
+Pages updated: entities/constituencies/parlimen/p152-kluang.md
+
+## 2026-04-24T11:49:40Z
+
+Added the October‑polls statement from 24 April 2026 to the Kluang constituency page as a new recent‑news item.
+
+Pages updated: entities/constituencies/parlimen/p152-kluang.md
+
+## 2026-04-24T11:49:51Z
+
+Added October poll statement to Kluang constituency page, marking contradiction with earlier third‑quarter claim.
+
+Pages updated: entities/constituencies/parlimen/p152-kluang.md
+
+## 2026-04-24T11:49:58Z
+
+Added the 24 April 2026 Anwar Ibrahim poll‑timing report to DAP statements and corrected the incomplete citation in Kluang constituency news.
+
+Pages updated: entities/parties/dap.md, entities/constituencies/parlimen/p152-kluang.md
+
+## 2026-04-24T11:50:06Z
+
+Added the new fact that Anwar Ibrahim was eyeing polls by October as fuel subsidy cuts loomed to both the DAP party page and the Kluang constituency page, with proper citations.
+
+Pages updated: entities/parties/dap.md, entities/constituencies/parlimen/p152-kluang.md
+
+## 2026-04-24T12:13:18Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T12:13:18Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T12:13:20Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T12:13:31Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T12:13:58Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T12:13:59Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T12:14:00Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T12:14:01Z
+
+Added a new bullet to the Kluang constituency page noting Anwar Ibrahim's statement on 24 April 2026 that he was eyeing polls by October amid fuel subsidy cuts.
+
+Pages updated: entities/constituencies/parlimen/p152-kluang.md
+
+## 2026-04-24T12:14:01Z
+
+Added the new statement about Anwar possibly calling a PRU by October, marked as a contradiction with existing statements.
+
+Pages updated: entities/parties/dap.md
+
+## 2026-04-24T12:14:01Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T12:14:02Z
+
+Added the new Free Malaysia Today article about Anwar eyeing October polls to both the DAP party page and the Kluang constituency page.
+
+Pages updated: entities/parties/dap.md, entities/constituencies/parlimen/p152-kluang.md
+
+## 2026-04-24T12:14:04Z
+
+Added the latest Free Malaysia Today report on Anwar's October poll consideration to DAP statements and Kluang constituency news, marking the new October claim as a contradiction to the earlier third‑quarter statement.
+
+Pages updated: entities/parties/dap.md, entities/constituencies/parlimen/p152-kluang.md
+
+## 2026-04-24T12:14:07Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T12:14:08Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T12:14:13Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T12:14:18Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T12:14:19Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T12:14:20Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T12:14:38Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T12:15:22Z
+
+Added new bullet to Kluang constituency page noting Anwar's October poll eyeing, marked as contradiction with existing third‑quarter claim.
+
+Pages updated: entities/constituencies/parlimen/p152-kluang.md
+
+## 2026-04-24T12:15:26Z
+
+Added new fact to Kluang constituency page about Anwar Ibrahim eyeing polls by October, reflecting the 24 April 2026 report.
+
+Pages updated: entities/constituencies/parlimen/p152-kluang.md
+
+## 2026-04-24T12:15:54Z
+
+Added citation with URL for Anwar Ibrahim's October poll statement to DAP page and added corresponding news bullet to Kluang constituency page.
+
+Pages updated: entities/parties/dap.md, entities/constituencies/parlimen/p152-kluang.md
+
+## 2026-04-24T12:16:03Z
+
+Added the specific Free Malaysia Today article about Anwar eyeing October polls to both the DAP party page and the Kluang constituency page.
+
+Pages updated: entities/parties/dap.md, entities/constituencies/parlimen/p152-kluang.md
+
+## 2026-04-24T12:16:03Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T12:16:09Z
+
+Added new citation of Anwar's October poll eyeing to DAP party page and Kluang constituency news.
+
+Pages updated: entities/parties/dap.md, entities/constituencies/parlimen/p152-kluang.md
+
+## 2026-04-24T12:16:10Z
+
+Added new Bahasa source statement about Anwar considering an October election to DAP page.
+
+Pages updated: entities/parties/dap.md
+
+## 2026-04-24T12:16:12Z
+
+Added Bahasa article citation to DAP statements and recorded October election claim with contradiction on Kluang constituency page.
+
+Pages updated: entities/parties/dap.md, entities/constituencies/parlimen/p152-kluang.md
+
+## 2026-04-24T12:16:18Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T12:16:19Z
+
+No relevant updates needed as the article's claim is already recorded in dap.md with appropriate citation and contradiction marker.
+
+Pages updated: none
+
+## 2026-04-24T12:16:19Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T12:16:20Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T12:16:21Z
+
+Added new citation for Anwar Ibrahim's third‑quarter election consideration to DAP party page and Kluang constituency page.
+
+Pages updated: entities/parties/dap.md, entities/constituencies/parlimen/p152-kluang.md
+
+## 2026-04-24T12:16:22Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T12:16:22Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T12:16:22Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T12:16:23Z
+
+Added the 24 April 2026 report that Anwar Ibrahim is eyeing polls by October as fuel subsidy cuts loom to both the DAP statements page and the Kluang constituency news.
+
+Pages updated: entities/parties/dap.md, entities/constituencies/parlimen/p152-kluang.md
+
+## 2026-04-24T12:16:24Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T12:16:24Z
+
+No relevant updates needed as the article's facts are already reflected in the Police Johor pages.
+
+Pages updated: none
+
+## 2026-04-24T12:16:25Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T12:16:26Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T12:16:26Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T12:16:27Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T12:16:27Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T12:16:27Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T12:16:28Z
+
+Added a new statement entry to DAP page and updated Kluang constituency news to reflect Anwar's 24 April 2026 report on considering a third‑quarter election amid fuel‑subsidy cuts.
+
+Pages updated: entities/parties/dap.md, entities/constituencies/parlimen/p152-kluang.md
+
+## 2026-04-24T12:16:28Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T12:16:28Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T12:16:29Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T12:16:30Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T12:16:31Z
+
+Added a new statement to DAP page reflecting Anwar's 24 April 2026 comment on polls and fuel subsidy cuts.
+
+Pages updated: entities/parties/dap.md
+
+## 2026-04-24T12:16:32Z
+
+Added new Bahasa article citation about Anwar possibly calling a PRU as early as October to DAP statements and Kluang constituency news, marking the October claim as contradictory to earlier third‑quarter statement.
+
+Pages updated: entities/parties/dap.md, entities/constituencies/parlimen/p152-kluang.md
+
+## 2026-04-24T12:16:33Z
+
+Added new Bahasa article about Anwar considering an October election to DAP statements and Kluang constituency news, marking contradictions where they conflict with the third‑quarter election claim.
+
+Pages updated: entities/parties/dap.md, entities/constituencies/parlimen/p152-kluang.md
+
+## 2026-04-24T12:16:34Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T12:16:34Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T12:16:35Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T12:16:35Z
+
+Added the specific Free Malaysia Today article (24 April 2026) to DAP's recent statements and Kluang constituency news, including the URL citation.
+
+Pages updated: entities/parties/dap.md, entities/constituencies/parlimen/p152-kluang.md
+
+## 2026-04-24T12:16:35Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T12:16:36Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T12:16:36Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T12:16:36Z
+
+Added a new Bahasa Malaysia statement about Anwar's October election consideration to DAP recent statements and updated Kluang constituency news with the same fact.
+
+Pages updated: entities/parties/dap.md, entities/constituencies/parlimen/p152-kluang.md
+
+## 2026-04-24T12:16:37Z
+
+Added the specific Free Malaysia Today article URL to Anwar Ibrahim's election timing statements on both the DAP party page and the Kluang constituency page.
+
+Pages updated: entities/parties/dap.md, entities/constituencies/parlimen/p152-kluang.md
+
+## 2026-04-24T12:16:37Z
+
+Added new citation for Anwar Ibrahim's election timing statement to DAP and Kluang pages.
+
+Pages updated: entities/parties/dap.md, entities/constituencies/parlimen/p152-kluang.md
+
+## 2026-04-24T12:16:37Z
+
+Added new bullet to Kluang constituency page noting Anwar's October poll eye, sourced from Free Malaysia Today 24 April 2026.
+
+Pages updated: entities/constituencies/parlimen/p152-kluang.md
+
+## 2026-04-24T12:16:38Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T12:16:38Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T12:16:38Z
+
+Added confirmation of Anwar's October election possibility from the new Bahasa article to both the DAP party page and the Kluang constituency page.
+
+Pages updated: entities/parties/dap.md, entities/constituencies/parlimen/p152-kluang.md
+
+## 2026-04-24T12:16:39Z
+
+Added the October‑PRU statement from the 24 April 2026 Bahasa article to both the DAP party page and the Kluang constituency page.
+
+Pages updated: entities/parties/dap.md, entities/constituencies/parlimen/p152-kluang.md
+
+## 2026-04-24T12:16:39Z
+
+Added complete citation for Anwar's third‑quarter election comment and a new bullet noting his October poll outlook on 24 April 2026 in the Kluang constituency page.
+
+Pages updated: entities/constituencies/parlimen/p152-kluang.md
+
+## 2026-04-24T12:16:40Z
+
+Added Bahasa source for Anwar's October election consideration to DAP page.
+
+Pages updated: entities/parties/dap.md
+
+## 2026-04-24T12:16:41Z
+
+Added a new bullet to the Kluang constituency page noting Anwar Ibrahim's statement about eyeing polls by October, with citation.
+
+Pages updated: entities/constituencies/parlimen/p152-kluang.md
+
+## 2026-04-24T12:16:42Z
+
+Added the new statement about Anwar considering an October election tied to fuel subsidy issues, marked as a contradiction.
+
+Pages updated: entities/parties/dap.md
+
+## 2026-04-24T12:16:45Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T12:16:45Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T12:16:46Z
+
+Added new citation of Anwar's October election consideration to DAP party page and Kluang constituency page.
+
+Pages updated: entities/parties/dap.md, entities/constituencies/parlimen/p152-kluang.md
+
+## 2026-04-24T12:16:46Z
+
+Added new Bahasa source about Anwar considering an October election, marked as contradiction.
+
+Pages updated: entities/parties/dap.md
+
+## 2026-04-24T12:16:47Z
+
+Added new citation for Anwar's October poll statement to DAP party page and updated Kluang constituency page with the same fact.
+
+Pages updated: entities/parties/dap.md, entities/constituencies/parlimen/p152-kluang.md
+
+## 2026-04-24T12:16:49Z
+
+Added the new Free Malaysia Today report on Anwar's October election timing to both the DAP party page and the Kluang constituency page.
+
+Pages updated: entities/parties/dap.md, entities/constituencies/parlimen/p152-kluang.md
+
+## 2026-04-24T12:16:50Z
+
+Added new bullet to Kluang constituency page about Anwar eyeing October polls, reflecting the latest Free Malaysia Today report.
+
+Pages updated: entities/constituencies/parlimen/p152-kluang.md
+
+## 2026-04-24T12:16:53Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T12:16:55Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T12:16:58Z
+
+Added new citation of Anwar's October poll statement to DAP party page and Kluang constituency news.
+
+Pages updated: entities/parties/dap.md, entities/constituencies/parlimen/p152-kluang.md
+
+## 2026-04-24T12:17:00Z
+
+Added new bullet to Kluang constituency page noting Anwar Ibrahim's October poll outlook per 24 April 2026 report.
+
+Pages updated: entities/constituencies/parlimen/p152-kluang.md
+
+## 2026-04-24T12:17:06Z
+
+Added new citation for Anwar Ibrahim's October poll comment to DAP and Kluang pages.
+
+Pages updated: entities/parties/dap.md, entities/constituencies/parlimen/p152-kluang.md
+
+## 2026-04-24T12:17:10Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T12:17:10Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T12:17:11Z
+
+Added the Bahasa article confirming Anwar may call a general election as early as October to both the DAP party page and the Kluang constituency page.
+
+Pages updated: entities/parties/dap.md, entities/constituencies/parlimen/p152-kluang.md
+
+## 2026-04-24T12:17:11Z
+
+Added new statement about Anwar eyeing October polls to DAP party page and Kluang constituency news, citing Free Malaysia Today 24 April 2026.
+
+Pages updated: entities/parties/dap.md, entities/constituencies/parlimen/p152-kluang.md
+
+## 2026-04-24T12:17:12Z
+
+Added a new Bahasa‑language statement about Anwar considering an October election, citing the 24 April 2026 Free Malaysia Today article.
+
+Pages updated: entities/parties/dap.md
+
+## 2026-04-24T12:17:13Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T12:17:17Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T12:17:18Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T12:17:19Z
+
+Added new Bahasa Malaysia citation about Anwar considering an October election to DAP party page and Kluang constituency news.
+
+Pages updated: entities/parties/dap.md, entities/constituencies/parlimen/p152-kluang.md
+
+## 2026-04-24T12:17:20Z
+
+Added proper citation to Police Johor pages for the 24 April 2026 drug syndicate raid.
+
+Pages updated: entities/organizations/police_johor.md, entities/police_johor.md
+
+## 2026-04-24T12:17:23Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T12:17:24Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T12:17:24Z
+
+Added a new Bahasa Malaysia statement about Anwar considering a PRU by October, citing the 24 April 2026 Free Malaysia Today article.
+
+Pages updated: entities/parties/dap.md
+
+## 2026-04-24T12:17:29Z
+
+Added a new statement entry on the DAP page citing the 24 April 2026 Free Malaysia Today report that Anwar eyes polls by October amid fuel subsidy cuts.
+
+Pages updated: entities/parties/dap.md
+
+## 2026-04-24T12:17:33Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T12:17:36Z
+
+Added citation to Anwar's third‑quarter election comment and added new bullet noting his October poll remark from 24 April 2026.
+
+Pages updated: entities/constituencies/parlimen/p152-kluang.md
+
+## 2026-04-24T12:17:37Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T12:17:39Z
+
+Added a detailed citation for Anwar's October poll comment to DAP page and completed the truncated Anwar statement entry on the Kluang constituency page.
+
+Pages updated: entities/parties/dap.md, entities/constituencies/parlimen/p152-kluang.md
+
+## 2026-04-24T12:17:41Z
+
+Added new citation of Anwar's April 24 statement to both the DAP party page and the Kluang constituency page.
+
+Pages updated: entities/parties/dap.md, entities/constituencies/parlimen/p152-kluang.md
+
+## 2026-04-24T12:17:45Z
+
+Added new statement about Anwar considering an October election to DAP and Kluang pages based on 24 April 2026 Bahasa article.
+
+Pages updated: entities/parties/dap.md, entities/constituencies/parlimen/p152-kluang.md
+
+## 2026-04-24T12:17:48Z
+
+Added Anwar's October‑poll statement to DAP party page and Kluang constituency page, citing the 24 April 2026 Free Malaysia Today article.
+
+Pages updated: entities/parties/dap.md, entities/constituencies/parlimen/p152-kluang.md
+
+## 2026-04-24T12:17:49Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T12:17:54Z
+
+Added the new Free Malaysia Today report on 24 April 2026 about Anwar eyeing October polls to both the DAP party page and the Kluang constituency page.
+
+Pages updated: entities/parties/dap.md, entities/constituencies/parlimen/p152-kluang.md
+
+## 2026-04-24T12:17:55Z
+
+Added new statement to DAP page confirming Anwar's consideration of an October election per 24 April 2026 Bahasa article.
+
+Pages updated: entities/parties/dap.md
+
+## 2026-04-24T12:17:56Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T12:17:56Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T12:17:56Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T12:17:58Z
+
+Added specific October‑poll statement and corrected truncated Anwar bullet on Kluang page.
+
+Pages updated: entities/constituencies/parlimen/p152-kluang.md
+
+## 2026-04-24T12:17:58Z
+
+Added new bullet citing Anwar's October poll outlook to DAP party page and Kluang constituency page.
+
+Pages updated: entities/parties/dap.md, entities/constituencies/parlimen/p152-kluang.md
+
+## 2026-04-24T12:17:58Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T12:17:59Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T12:17:59Z
+
+Added new bullet to P.152 Kluang page noting Anwar's consideration of an October election with condition, marking contradiction with earlier third‑quarter claim.
+
+Pages updated: entities/constituencies/parlimen/p152-kluang.md
+
+## 2026-04-24T12:18:00Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T12:18:00Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T12:18:00Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T12:18:01Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T12:18:01Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T12:18:01Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T12:18:01Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T12:18:02Z
+
+Added new statement about Anwar's consideration of a third‑quarter election linked to fuel subsidy cuts to the DAP party page and the Kluang constituency page.
+
+Pages updated: entities/parties/dap.md, entities/constituencies/parlimen/p152-kluang.md
+
+## 2026-04-24T12:18:02Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T12:18:02Z
+
+Added the new Free Malaysia Today report on 24 April 2026 about Anwar eyeing October polls to both the DAP party page and the Kluang constituency page, marking contradictions with earlier third‑quarter election statements.
+
+Pages updated: entities/parties/dap.md, entities/constituencies/parlimen/p152-kluang.md
+
+## 2026-04-24T12:18:02Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T12:18:02Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T12:18:03Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T12:18:03Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T12:18:03Z
+
+Added the new Free Malaysia Today article about Anwar eyeing October polls to both the DAP party page and the Kluang constituency page as recent statements.
+
+Pages updated: entities/parties/dap.md, entities/constituencies/parlimen/p152-kluang.md
+
+## 2026-04-24T12:18:03Z
+
+Added new statement to DAP page reflecting Anwar's consideration of an October election conditional on no further fuel subsidy cuts, sourced from Free Malaysia Today Bahasa article.
+
+Pages updated: entities/parties/dap.md
+
+## 2026-04-24T12:18:04Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T12:18:04Z
+
+Updated Kluang constituency page to correct and expand Anwar Ibrahim's election statement with full citation.
+
+Pages updated: entities/constituencies/parlimen/p152-kluang.md
+
+## 2026-04-24T12:18:04Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T12:18:05Z
+
+Added full citation for Anwar's October poll comment to DAP page and added new news item about the same comment to the Kluang constituency page.
+
+Pages updated: entities/parties/dap.md, entities/constituencies/parlimen/p152-kluang.md
+
+## 2026-04-24T12:18:05Z
+
+Added the new 24 April 2026 report that PM Anwar is eyeing polls by October amid fuel subsidy cuts to both the DAP party page and the Kluang constituency page.
+
+Pages updated: entities/parties/dap.md, entities/constituencies/parlimen/p152-kluang.md
+
+## 2026-04-24T12:18:05Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T12:18:06Z
+
+Added the Bahasa article confirming Anwar's October election consideration to DAP and Kluang constituency pages.
+
+Pages updated: entities/parties/dap.md, entities/constituencies/parlimen/p152-kluang.md
+
+## 2026-04-24T12:18:06Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T12:18:07Z
+
+Added a correctly sourced bullet about Anwar's October poll comment to the DAP party page and updated Kluang constituency news with the same fact, fixing truncated URLs.
+
+Pages updated: entities/parties/dap.md, entities/constituencies/parlimen/p152-kluang.md
+
+## 2026-04-24T12:18:07Z
+
+Added the new Bahasa statement that Anwar may call a general election as early as October, contingent on no further fuel subsidy cuts, to both the DAP party page and the Kluang constituency page.
+
+Pages updated: entities/parties/dap.md, entities/constituencies/parlimen/p152-kluang.md
+
+## 2026-04-24T12:18:07Z
+
+Added new recent news entry for Anwar Ibrahim's October poll comment to Kluang constituency page.
+
+Pages updated: entities/constituencies/parlimen/p152-kluang.md
+
+## 2026-04-24T12:18:08Z
+
+Added new citation for Anwar's 24 April 2026 statement about a third‑quarter election and fuel subsidy cuts to both the DAP party page and the Kluang constituency page.
+
+Pages updated: entities/parties/dap.md, entities/constituencies/parlimen/p152-kluang.md
+
+## 2026-04-24T12:18:08Z
+
+Added new Anwar Ibrahim statement to DAP page and updated Kluang constituency news with full citation reflecting Anwar's election consideration and fuel subsidy context.
+
+Pages updated: entities/parties/dap.md, entities/constituencies/parlimen/p152-kluang.md
+
+## 2026-04-24T12:18:08Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T12:18:09Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T12:18:09Z
+
+Added fuel‑subsidy context and full article URL to Anwar Ibrahim statements on 24 April 2026 in both the DAP party page and the Kluang constituency page.
+
+Pages updated: entities/parties/dap.md, entities/constituencies/parlimen/p152-kluang.md
+
+## 2026-04-24T12:18:09Z
+
+Added a new Bahasa source statement to DAP page confirming Anwar's consideration of an October election, with proper citation.
+
+Pages updated: entities/parties/dap.md
+
+## 2026-04-24T12:18:10Z
+
+Added complete citation for Anwar Ibrahim's election timing statements and a new bullet about polls by October to the Kluang constituency page.
+
+Pages updated: entities/constituencies/parlimen/p152-kluang.md
+
+## 2026-04-24T12:18:10Z
+
+Added new Anwar Ibrahim statement about considering a third‑quarter election and fuel‑subsidy cuts to DAP and Kluang pages.
+
+Pages updated: entities/parties/dap.md, entities/constituencies/parlimen/p152-kluang.md
+
+## 2026-04-24T12:18:11Z
+
+Added a new statement on 24 April 2026 from the Bahasa article confirming Anwar's consideration of an October election, with citation.
+
+Pages updated: entities/parties/dap.md
+
+## 2026-04-24T12:18:11Z
+
+Added the Bahasa article confirming Anwar may call a PRU by October to DAP party page and Kluang constituency page, with proper citations.
+
+Pages updated: entities/parties/dap.md, entities/constituencies/parlimen/p152-kluang.md
+
+## 2026-04-24T12:18:12Z
+
+Added a new citation for Anwar's October election consideration from the Bahasa article, preserving existing contradictory notes.
+
+Pages updated: entities/parties/dap.md
+
+## 2026-04-24T12:18:18Z
+
+Added a new statement to DAP page reflecting Anwar's consideration of an October election conditional on no further fuel subsidy cuts, with proper citation.
+
+Pages updated: entities/parties/dap.md
+
+## 2026-04-24T12:18:32Z
+
+Added detailed Anwar election timing statements and corrected incomplete citation in Kluang constituency page.
+
+Pages updated: entities/constituencies/parlimen/p152-kluang.md
+
+## 2026-04-24T12:18:37Z
+
+Added the Bahasa article stating Anwar may call a PRU as early as October (with fuel‑subsidy condition) to both the DAP party page and the Kluang constituency page.
+
+Pages updated: entities/parties/dap.md, entities/constituencies/parlimen/p152-kluang.md
+
+## 2026-04-24T12:18:38Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T12:18:39Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T12:18:39Z
+
+Added new citation of Anwar's October election consideration to DAP and Kluang pages.
+
+Pages updated: entities/parties/dap.md, entities/constituencies/parlimen/p152-kluang.md
+
+## 2026-04-24T12:18:39Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T12:18:40Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T12:18:40Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T12:18:40Z
+
+Added new Anwar statement about third‑quarter election and fuel subsidy cuts to DAP party page and Kluang constituency page.
+
+Pages updated: entities/parties/dap.md, entities/constituencies/parlimen/p152-kluang.md
+
+## 2026-04-24T12:18:40Z
+
+Added the 24 April 2026 Free Malaysia Today report on Anwar eyeing October polls to DAP statements and corrected the incomplete Kluang constituency news entry with full citation.
+
+Pages updated: entities/parties/dap.md, entities/constituencies/parlimen/p152-kluang.md
+
+## 2026-04-24T12:18:40Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T12:18:41Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T12:18:41Z
+
+Completed the truncated bullet on Anwar Ibrahim's election remarks in the Kluang constituency page with full citation.
+
+Pages updated: entities/constituencies/parlimen/p152-kluang.md
+
+## 2026-04-24T12:18:42Z
+
+Added full statement and URL citation for Anwar Ibrahim's 24 April 2026 election comment in the Kluang constituency page.
+
+Pages updated: entities/constituencies/parlimen/p152-kluang.md
+
+## 2026-04-24T12:18:42Z
+
+Added new citation for Anwar Ibrahim's 24 April 2026 statement about polls by October to DAP party page and Kluang constituency page.
+
+Pages updated: entities/parties/dap.md, entities/constituencies/parlimen/p152-kluang.md
+
+## 2026-04-24T12:18:43Z
+
+Added a new bullet to P.152 Kluang page reflecting Anwar's October election consideration with the condition on fuel‑subsidy cuts, sourced from the 24 April 2026 Free Malaysia Today article.
+
+Pages updated: entities/constituencies/parlimen/p152-kluang.md
+
+## 2026-04-24T12:18:43Z
+
+Added the 24 April 2026 Anwar Ibrahim statement about eye‑ing October polls and a third‑quarter election to both the DAP party page and the Kluang constituency page.
+
+Pages updated: entities/parties/dap.md, entities/constituencies/parlimen/p152-kluang.md
+
+## 2026-04-24T12:18:46Z
+
+Added the new Bahasa Malaysia statement about Anwar considering a PRU by October to both the DAP party page and the Kluang constituency page, marking the October claim as contradictory to earlier third‑quarter reports.
+
+Pages updated: entities/parties/dap.md, entities/constituencies/parlimen/p152-kluang.md
+
+## 2026-04-24T12:18:48Z
+
+Added October poll statement to Kluang constituency page as new fact from 24 April 2026 article.
+
+Pages updated: entities/constituencies/parlimen/p152-kluang.md
+
+## 2026-04-24T12:18:55Z
+
+Added the Bahasa‑Malaysia statement that Anwar may call a PRU as early as October to both the DAP party page and the Kluang constituency page, fixing an incomplete bullet and noting the new fact.
+
+Pages updated: entities/parties/dap.md, entities/constituencies/parlimen/p152-kluang.md
+
+## 2026-04-24T12:19:04Z
+
+Added new fact about Anwar considering an October election to DAP party page and Kluang constituency page, with proper citation.
+
+Pages updated: entities/parties/dap.md, entities/constituencies/parlimen/p152-kluang.md
+
+## 2026-04-24T12:19:11Z
+
+Added ...
+
+Pages updated: entities/parties/dap.md
+
+## 2026-04-24T12:19:18Z
+
+Added Anwar Ibrahim's October‑poll statement to Kluang constituency page with contradiction marker against the earlier third‑quarter claim.
+
+Pages updated: entities/constituencies/parlimen/p152-kluang.md
+
+## 2026-04-24T12:19:48Z
+
+Added October election claim to Kluang constituency page, marking contradiction with earlier third‑quarter statement.
+
+Pages updated: entities/constituencies/parlimen/p152-kluang.md
+
+## 2026-04-24T12:21:29Z
+
+Added new statements about Anwar considering a poll as early as October (fuel‑subsidy condition) to DAP party page and Kluang constituency news.
+
+Pages updated: entities/parties/dap.md, entities/constituencies/parlimen/p152-kluang.md
+
+## 2026-04-24T12:21:51Z
+
+Added citation to Anwar's October‑election statement in DAP page and recorded the same statement as a new news item for Kluang constituency.
+
+Pages updated: entities/parties/dap.md, entities/constituencies/parlimen/p152-kluang.md
+
+## 2026-04-24T12:28:12Z
+
+Updated the DAP page to include the new statement about Anwar's consideration of an October PRU and marked the existing contradictory entry.
+
+Pages updated: entities/parties/dap.md
+
+## 2026-04-24T12:43:15Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T12:43:16Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T12:43:16Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T12:43:24Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T12:43:25Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T12:43:25Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T12:43:26Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T12:43:31Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T12:43:32Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T12:43:34Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T12:43:35Z
+
+Added a new bullet to the Kluang constituency page documenting Anwar Ibrahim's statement about eyeing polls by October amid fuel subsidy cuts.
+
+Pages updated: entities/constituencies/parlimen/p152-kluang.md
+
+## 2026-04-24T12:43:39Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T12:43:40Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T12:43:42Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T12:43:49Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T12:43:50Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T12:43:52Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T12:44:45Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T12:44:46Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T12:44:47Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T12:44:49Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T12:44:57Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T12:44:58Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T12:45:07Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T12:45:09Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T12:45:11Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T12:45:11Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T12:45:11Z
+
+Added detailed police raid information to Police Johor and Kluang constituency pages, citing the 24 April 2026 Free Malaysia Today article.
+
+Pages updated: entities/organizations/police_johor.md, entities/constituencies/parlimen/p152-kluang.md
+
+## 2026-04-24T12:45:11Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T12:45:12Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T12:45:14Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T12:45:15Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T12:45:15Z
+
+Added new bullet to Kluang constituency page noting Anwar's October poll comment, flagged as a contradiction to the earlier third‑quarter statement.
+
+Pages updated: entities/constituencies/parlimen/p152-kluang.md
+
+## 2026-04-24T12:45:16Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T12:45:19Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T12:45:56Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T12:45:57Z
+
+Added citation URL to DAP statement and recorded Anwar's October poll comment in Kluang constituency news.
+
+Pages updated: entities/parties/dap.md, entities/constituencies/parlimen/p152-kluang.md
+
+## 2026-04-24T12:53:34Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T12:53:35Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T12:53:37Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T12:53:38Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T12:53:39Z
+
+Added new bullet to Kluang constituency page noting Anwar's statement about eyeing polls by October, sourced from Free Malaysia Today article.
+
+Pages updated: entities/constituencies/parlimen/p152-kluang.md
+
+## 2026-04-24T12:53:40Z
+
+Added new bullet about Anwar Ibrahim eyeing polls by October, marking contradiction with earlier third‑quarter claim.
+
+Pages updated: entities/constituencies/parlimen/p152-kluang.md
+
+## 2026-04-24T12:53:41Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T12:53:42Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T12:53:43Z
+
+Added new fact about Anwar Ibrahim eyeing October polls, flagged as contradictory to earlier third‑quarter election statement.
+
+Pages updated: entities/constituencies/parlimen/p152-kluang.md
+
+## 2026-04-24T12:53:44Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T12:53:57Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T12:53:58Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T12:54:52Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T12:54:52Z
+
+Added new bullet to Kluang constituency page about Anwar eyeing October polls, marked as contradiction to earlier third‑quarter election claim.
+
+Pages updated: entities/constituencies/parlimen/p152-kluang.md
+
+## 2026-04-24T12:54:53Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T12:54:54Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T12:55:03Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T12:55:08Z
+
+Added the October‑poll statement by PM Anwar on 24 April 2026 to the Kluang constituency page, marking it as contradictory to the earlier third‑quarter claim.
+
+Pages updated: entities/constituencies/parlimen/p152-kluang.md
+
+## 2026-04-24T12:55:09Z
+
+Added a correctly‑named statement about Anwar Ibrahim eyeing October polls with proper URL citation and fixed typo in DAP recent statements.
+
+Pages updated: entities/parties/dap.md
+
+## 2026-04-24T12:55:10Z
+
+Added URL citation to DAP's Anwar statement and added a specific Kluang news bullet about Anwar eyeing polls by October, reflecting the new article.
+
+Pages updated: entities/parties/dap.md, entities/constituencies/parlimen/p152-kluang.md
+
+## 2026-04-24T12:55:11Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T12:55:12Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T12:55:31Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T12:55:32Z
+
+Added a new bullet to Kluang constituency page noting Anwar Ibrahim's October poll comment on 24 April 2026.
+
+Pages updated: entities/constituencies/parlimen/p152-kluang.md
+
+## 2026-04-24T12:57:36Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T12:57:39Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T12:57:40Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T12:57:42Z
+
+Added URL citation for Anwar's October poll comment on DAP page and expanded Kluang constituency recent news with detailed election remarks and proper sources.
+
+Pages updated: entities/parties/dap.md, entities/constituencies/parlimen/p152-kluang.md
+
+## 2026-04-24T12:57:43Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T12:57:43Z
+
+Added new bullet on Anwar's October election consideration to Kluang constituency page, marking contradiction with earlier third‑quarter statement.
+
+Pages updated: entities/constituencies/parlimen/p152-kluang.md
+
+## 2026-04-24T12:57:44Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T12:57:47Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T12:57:49Z
+
+Added the specific Free Malaysia Today report on 24 April 2026 stating Anwar Ibrahim is eyeing polls by October due to fuel subsidy cuts to both the DAP party page and the Kluang constituency page.
+
+Pages updated: entities/parties/dap.md, entities/constituencies/parlimen/p152-kluang.md
+
+## 2026-04-24T12:57:50Z
+
+Added the October‑2026 election possibility to Kluang constituency page, citing the new Free Malaysia Today report.
+
+Pages updated: entities/constituencies/parlimen/p152-kluang.md
+
+## 2026-04-24T13:00:04Z
+
+Added the October‑poll statement by PM Anwar Ibrahim to the Kluang constituency page, citing the 24 April 2026 Free Malaysia Today article.
+
+Pages updated: entities/constituencies/parlimen/p152-kluang.md
+
+## 2026-04-24T13:02:26Z
+
+Added new bullet to Kluang constituency page about Anwar's October poll comment, marked as contradiction to existing third‑quarter statement.
+
+Pages updated: entities/constituencies/parlimen/p152-kluang.md
+
+## 2026-04-24T13:02:26Z
+
+Added new bullet to Kluang constituency page noting Anwar Ibrahim's October poll comment from 24 April 2026.
+
+Pages updated: entities/constituencies/parlimen/p152-kluang.md
+
+## 2026-04-24T13:02:27Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T13:02:28Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T13:02:29Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T13:02:31Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T13:02:31Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T13:02:33Z
+
+No relevant updates needed as the shooting incident details are already recorded on the Police Johor pages.
+
+Pages updated: none
+
+## 2026-04-24T13:02:34Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T13:02:35Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T13:02:36Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T13:03:48Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T13:03:49Z
+
+Added new bullet about Anwar Ibrahim eyeing polls by October on 24 April 2026 to the Kluang constituency page, marked as a contradiction to the earlier third‑quarter election claim.
+
+Pages updated: entities/constituencies/parlimen/p152-kluang.md
+
+## 2026-04-24T13:03:50Z
+
+Added a new news bullet for Kluang noting Anwar Ibrahim's October‑poll hint and corrected the truncated third‑quarter bullet.
+
+Pages updated: entities/constituencies/parlimen/p152-kluang.md
+
+## 2026-04-24T13:03:51Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T13:03:53Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T13:03:56Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T13:03:57Z
+
+Added new recent news entry for Kluang constituency about Anwar Ibrahim eyeing polls by October, citing 24 April 2026 Free Malaysia Today article.
+
+Pages updated: entities/constituencies/parlimen/p152-kluang.md
+
+## 2026-04-24T13:04:10Z
+
+Added new bullet to Kluang constituency page noting Anwar Ibrahim's October poll comment from 24 April 2026.
+
+Pages updated: entities/constituencies/parlimen/p152-kluang.md
+
+## 2026-04-24T13:04:16Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T13:04:17Z
+
+Added the October‑poll statement by PM Anwar on 24 April 2026 to the Kluang constituency page.
+
+Pages updated: entities/constituencies/parlimen/p152-kluang.md
+
+## 2026-04-24T13:04:18Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T13:04:39Z
+
+Added missing URL citations for Anwar Ibrahim's 24 April 2026 statements in DAP page and completed truncated citation in Kluang constituency page.
+
+Pages updated: entities/parties/dap.md, entities/constituencies/parlimen/p152-kluang.md
+
+## 2026-04-24T13:04:41Z
+
+Added the October‑poll statement by Anwar Ibrahim to the Kluang constituency page, marking the new fact and noting its contradiction with the earlier third‑quarter election claim.
+
+Pages updated: entities/constituencies/parlimen/p152-kluang.md
+
+## 2026-04-24T13:04:41Z
+
+Added new bullet to Kluang constituency page noting Anwar Ibrahim's statement on 24 April 2026 that he was eyeing polls by October amid fuel subsidy cuts.
+
+Pages updated: entities/constituencies/parlimen/p152-kluang.md
+
+## 2026-04-24T13:04:41Z
+
+Added the October‑poll statement by PM Anwar Ibrahim to the Kluang constituency page as a new recent news item.
+
+Pages updated: entities/constituencies/parlimen/p152-kluang.md
+
+## 2026-04-24T13:04:52Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T13:05:55Z
+
+Added a new bullet to Kluang constituency page citing Anwar's October‑poll comment and fixed truncated third‑quarter election bullet.
+
+Pages updated: entities/constituencies/parlimen/p152-kluang.md
+
+## 2026-04-24T13:06:13Z
+
+Added Anwar Ibrahim's October‑poll statement to Kluang constituency news to reflect the 24 April 2026 report.
+
+Pages updated: entities/constituencies/parlimen/p152-kluang.md
+
+## 2026-04-24T13:08:03Z
+
+Added complete citation URLs for Anwar Ibrahim's 24 April 2026 statements on election timing to both the DAP party page and the Kluang constituency page.
+
+Pages updated: entities/parties/dap.md, entities/constituencies/parlimen/p152-kluang.md
+
+## 2026-04-24T13:08:51Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T13:08:58Z
+
+Added the specific Free Malaysia Today article on Anwar eyeing October polls to both the DAP party page and the Kluang constituency news.
+
+Pages updated: entities/parties/dap.md, entities/constituencies/parlimen/p152-kluang.md
+
+## 2026-04-24T13:09:54Z
+
+Added clarified statements about Anwar's election timing from the new article, marking contradictions where duplicate/conflicting entries exist.
+
+Pages updated: entities/parties/dap.md
+
+## 2026-04-24T13:13:05Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T13:13:11Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T13:13:33Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T13:13:33Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T13:13:33Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T13:13:36Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T13:13:39Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T13:13:43Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T13:13:43Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T13:13:47Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T13:13:47Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T13:13:48Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T13:13:49Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T13:14:00Z
+
+Added the specific URL citation for the 24 April 2026 drug‑syndicate raid to both Police Johor pages.
+
+Pages updated: entities/organizations/police_johor.md, entities/police_johor.md
+
+## 2026-04-24T13:14:12Z
+
+Added the new Free Malaysia Today article (24 April 2026) with URL to both Police Johor pages to detail the drug‑syndicate raid and arrests.
+
+Pages updated: entities/organizations/police_johor.md, entities/police_johor.md
+
+## 2026-04-24T13:14:27Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T13:14:28Z
+
+Added new bullet to Kluang constituency page noting Anwar Ibrahim's statement about eyeing polls by October amid fuel subsidy cuts.
+
+Pages updated: entities/constituencies/parlimen/p152-kluang.md
+
+## 2026-04-24T13:14:32Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T13:14:33Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T13:14:42Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T13:14:52Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T13:15:20Z
+
+Added a new bullet to Kluang constituency page confirming Anwar Ibrahim’s October poll comment and fixed truncated citation for his third‑quarter election remark.
+
+Pages updated: entities/constituencies/parlimen/p152-kluang.md
+
+## 2026-04-24T13:15:32Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T13:16:10Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T13:16:11Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T13:16:12Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T13:16:15Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T13:17:12Z
+
+Added URL citation to Police Johor pages for the 24 April 2026 drug syndicate raid.
+
+Pages updated: entities/organizations/police_johor.md, entities/police_johor.md
+
+## 2026-04-24T13:18:52Z
+
+Added citation and URL for the 24 April 2026 Johor shooting incident on Police Johor pages.
+
+Pages updated: entities/organizations/police_johor.md, entities/police_johor.md
+
+## 2026-04-24T13:19:03Z
+
+Added detailed citation with URL to Police Johor pages for the 24 April 2026 drug syndicate raid.
+
+Pages updated: entities/organizations/police_johor.md, entities/police_johor.md
+
+## 2026-04-24T13:19:07Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T13:19:12Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T13:19:13Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T13:19:14Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T13:19:15Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T13:19:16Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T13:19:56Z
+
+Added the new Free Malaysia Today report on Anwar's October poll remarks to both the DAP party page and the Kluang constituency page.
+
+Pages updated: entities/parties/dap.md, entities/constituencies/parlimen/p152-kluang.md
+
+## 2026-04-24T13:19:57Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T13:19:58Z
+
+Added new statements about Anwar Ibrahim’s third‑quarter election consideration and October poll eyeing to the DAP party page and completed/expanded Kluang constituency news with proper citations.
+
+Pages updated: entities/parties/dap.md, entities/constituencies/parlimen/p152-kluang.md
+
+## 2026-04-24T13:19:59Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T13:20:01Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T13:20:01Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T13:20:03Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T13:20:06Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T13:20:30Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T13:20:31Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T13:20:31Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T13:20:32Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T13:20:32Z
+
+Added new citation for Anwar's October poll comment to DAP party page and updated Kluang constituency page with the same report.
+
+Pages updated: entities/parties/dap.md, entities/constituencies/parlimen/p152-kluang.md
+
+## 2026-04-24T13:20:33Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T13:20:34Z
+
+Added URL citations for the 24 April 2026 Johor shooting debt‑dispute report to both Police Johor pages.
+
+Pages updated: entities/organizations/police_johor.md, entities/police_johor.md
+
+## 2026-04-24T13:20:35Z
+
+Added citation for the 24 April 2026 shooting incident (debt dispute, 71‑year‑old suspect) to both Police Johor pages.
+
+Pages updated: entities/organizations/police_johor.md, entities/police_johor.md
+
+## 2026-04-24T13:20:52Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T13:20:53Z
+
+Added the specific URL citation for the 24 April 2026 Johor shooting incident to both Police Johor pages.
+
+Pages updated: entities/organizations/police_johor.md, entities/police_johor.md
+
+## 2026-04-24T13:20:54Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T13:20:55Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T13:20:56Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T13:20:58Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T13:20:59Z
+
+Added a new bullet to Kluang constituency page noting Anwar Ibrahim's statement about eyeing polls by October amid fuel subsidy cuts.
+
+Pages updated: entities/constituencies/parlimen/p152-kluang.md
+
+## 2026-04-24T13:21:00Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T13:21:01Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T13:21:06Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T13:21:08Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T13:21:10Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T13:21:10Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T13:21:33Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T13:21:58Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T13:22:02Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T13:22:15Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T13:22:17Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T13:23:05Z
+
+Added a new citation of Anwar's October‑poll statement to DAP's recent statements and updated Kluang constituency news with the same detail.
+
+Pages updated: entities/parties/dap.md, entities/constituencies/parlimen/p152-kluang.md
+
+## 2026-04-24T13:24:01Z
+
+Added new details of the 24 April 2026 drug raid with citation.
+
+Pages updated: entities/organizations/police_johor.md, entities/organizations/police_johor.md
+
+## 2026-04-24T13:24:02Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T13:24:10Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T13:24:39Z
+
+Added new Anwar Ibrahim October‑poll statement to DAP page and expanded Kluang constituency news with full citation and an additional bullet reflecting the same statement.
+
+Pages updated: entities/parties/dap.md, entities/constituencies/parlimen/p152-kluang.md
+
+## 2026-04-24T13:25:42Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T13:25:43Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T13:25:44Z
+
+Added citations for the 24 April 2026 shooting debt‑dispute incident to both Police Johor pages.
+
+Pages updated: entities/organizations/police_johor.md, entities/police_johor.md
+
+## 2026-04-24T13:26:06Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T13:26:15Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T13:26:16Z
+
+Added the specific “eyeing polls by October” statement from the 24 April 2026 Free Malaysia Today report to both the DAP party page and the Kluang constituency page.
+
+Pages updated: entities/parties/dap.md, entities/constituencies/parlimen/p152-kluang.md
+
+## 2026-04-24T13:26:17Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T13:26:18Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T13:26:19Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T13:26:20Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T13:26:21Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T13:26:29Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T13:26:30Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T13:26:31Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T13:26:34Z
+
+Added a new statement on 24 April 2026 about Anwar considering a third‑quarter election amid fuel‑subsidy cuts to DAP page.
+
+Pages updated: entities/parties/dap.md
+
+## 2026-04-24T13:26:34Z
+
+Added a clean, cited statement confirming Anwar Ibrahim's 24 April 2026 remarks on possible third‑quarter election and October polls, while preserving existing contradictory entries.
+
+Pages updated: entities/parties/dap.md
+
+## 2026-04-24T13:26:35Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T13:26:35Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T13:26:36Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T13:26:51Z
+
+Added detailed entry for the 24 April 2026 drug syndicate raid to the Police Johor organization page with proper citation.
+
+Pages updated: entities/organizations/police_johor.md
+
+## 2026-04-24T13:27:09Z
+
+Added detailed information about the 24 April 2026 drug syndicate raid to the Police Johor organization page.
+
+Pages updated: entities/organizations/police_johor.md
+
+## 2026-04-24T13:28:11Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T13:32:51Z
+
+Added a clear, sourced statement about Anwar Ibrahim's consideration of a third‑quarter election, preserving existing contradictory entries.
+
+Pages updated: entities/parties/dap.md
+
+## 2026-04-24T13:36:06Z
+
+Added new statements about Anwar eyeing October polls and third‑quarter election timing to DAP party page and Kluang constituency page.
+
+Pages updated: entities/parties/dap.md, entities/constituencies/parlimen/p152-kluang.md
+
+## 2026-04-24T13:40:08Z
+
+Added the 24 April 2026 Anwar election‑timing statement to DAP recent statements and corrected/expanded the Kluang constituency news with full citation and an extra bullet reflecting the same report.
+
+Pages updated: entities/parties/dap.md, entities/constituencies/parlimen/p152-kluang.md
+
+## 2026-04-24T13:43:23Z
+
+Added URL to citation for drug syndicate raid in Police Johor page.
+
+Pages updated: entities/police_johor.md
+
+## 2026-04-24T13:43:23Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T13:43:24Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T13:43:26Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T13:43:35Z
+
+Added URL citation to Police Johor pages for 24 April 2026 drug syndicate raid.
+
+Pages updated: entities/organizations/police_johor.md, entities/police_johor.md
+
+## 2026-04-24T13:43:35Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T13:43:35Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T13:43:48Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T13:43:49Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T13:43:50Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T13:43:50Z
+
+Added detailed statement about Anwar Ibrahim’s October poll comment and completed truncated bullet in Kluang constituency page.
+
+Pages updated: entities/constituencies/parlimen/p152-kluang.md
+
+## 2026-04-24T13:44:00Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T13:44:03Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T13:44:15Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T13:44:34Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T13:44:35Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T13:44:39Z
+
+Added the new Free Malaysia Today report about Anwar eyeing October polls to DAP's recent statements and Kluang constituency news.
+
+Pages updated: entities/parties/dap.md, entities/constituencies/parlimen/p152-kluang.md
+
+## 2026-04-24T13:45:19Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T13:45:57Z
+
+Completed the truncated bullet on Anwar Ibrahim's potential third‑quarter election call in the Kluang constituency page, adding the full statement and citation.
+
+Pages updated: entities/constituencies/parlimen/p152-kluang.md
+
+## 2026-04-24T13:47:32Z
+
+Added complete statement about Anwar Ibrahim's election considerations to Kluang constituency news, fixing truncated entry.
+
+Pages updated: entities/constituencies/parlimen/p152-kluang.md
+
+## 2026-04-24T13:47:49Z
+
+Added the 24 April 2026 Johor shooting incident (debt‑dispute motive, 71‑year‑old suspect, RM50,000 loan) to Police Johor pages with proper citations.
+
+Pages updated: entities/police_johor.md, entities/organizations/police_johor.md
+
+## 2026-04-24T13:47:50Z
+
+Added Anwar Ibrahim's April 24 2026 statement about a possible October election conditional on no further fuel‑subsidy cuts to both the DAP party page and the Kluang constituency page.
+
+Pages updated: entities/parties/dap.md, entities/constituencies/parlimen/p152-kluang.md
+
+## 2026-04-24T13:47:51Z
+
+Added full statement and citation for Anwar Ibrahim's potential third‑quarter election call in Kluang constituency recent news.
+
+Pages updated: entities/constituencies/parlimen/p152-kluang.md
+
+## 2026-04-24T13:48:14Z
+
+Added new statement about Anwar possibly calling a PRU by October if no further subsidy cuts, updating DAP page's Recent Statements.
+
+Pages updated: entities/parties/dap.md
+
+## 2026-04-24T13:48:21Z
+
+Added detailed citation and bullet for the 24 April 2026 Johor shooting incident to Police Johor pages.
+
+Pages updated: entities/police_johor.md, entities/organizations/police_johor.md
+
+## 2026-04-24T13:48:23Z
+
+Added the specific statement that PM Anwar Ibrahim was "eyeing polls by October" on 24 April 2026 to the Kluang constituency page.
+
+Pages updated: entities/constituencies/parlimen/p152-kluang.md
+
+## 2026-04-24T13:48:24Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T13:48:24Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T13:48:26Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T13:48:27Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T13:48:27Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T13:48:28Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T13:48:28Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T13:48:28Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T13:48:28Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T13:48:29Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T13:48:29Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T13:48:29Z
+
+Updated Kluang constituency page with the full Anwar Ibrahim statement about a third‑quarter election and October polls, citing the 24 April 2026 Free Malaysia Today report.
+
+Pages updated: entities/constituencies/parlimen/p152-kluang.md
+
+## 2026-04-24T13:48:30Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T13:48:30Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T13:48:30Z
+
+Added complete statement about Anwar Ibrahim considering a third‑quarter election on 24 April 2026 to the Kluang constituency page.
+
+Pages updated: entities/constituencies/parlimen/p152-kluang.md
+
+## 2026-04-24T13:48:31Z
+
+Added shooting incident details to Police Johor organization page with citation.
+
+Pages updated: entities/organizations/police_johor.md
+
+## 2026-04-24T13:48:31Z
+
+Added the 24 April 2026 shooting incident (debt‑dispute motive) to the Police Johor organization page.
+
+Pages updated: entities/organizations/police_johor.md
+
+## 2026-04-24T13:48:32Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T13:48:32Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T13:48:32Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T13:48:32Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T13:49:01Z
+
+Added citation for the 24 April 2026 shooting incident and included the incident in the Police Johor organization page.
+
+Pages updated: entities/police_johor.md, entities/organizations/police_johor.md
+
+## 2026-04-24T13:49:02Z
+
+Added new statement to DAP page reflecting Anwar's April 24, 2026 comment that a poll could be held by October if no further fuel‑subsidy cuts are needed.
+
+Pages updated: entities/parties/dap.md
+
+## 2026-04-24T13:49:03Z
+
+Added a new statement to DAP page reflecting Anwar's condition‑based consideration of an October election per 24 April 2026 Free Malaysia Today article.
+
+Pages updated: entities/parties/dap.md
+
+## 2026-04-24T13:49:03Z
+
+Added new statement to DAP page noting Anwar's condition that no further fuel‑subsidy cuts be needed before an October election.
+
+Pages updated: entities/parties/dap.md
+
+## 2026-04-24T13:49:08Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T13:51:58Z
+
+Added the 24 April 2026 shooting incident details to Police Johor page.
+
+Pages updated: entities/police_johor.md
+
+## 2026-04-24T13:53:25Z
+
+Added a complete, sourced bullet on 24 April 2026 about Anwar Ibrahim considering a third‑quarter election and eyeing polls by October, fixing a truncated entry.
+
+Pages updated: entities/constituencies/parlimen/p152-kluang.md
+
+## 2026-04-24T13:54:17Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T13:54:33Z
+
+Added a new bullet to Kluang constituency page noting Anwar Ibrahim's statement about eyeing polls by October, sourced from Free Malaysia Today 24 April 2026.
+
+Pages updated: entities/constituencies/parlimen/p152-kluang.md
+
+## 2026-04-24T13:54:34Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T13:54:35Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T13:54:36Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T13:54:37Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T13:54:38Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T13:54:39Z
+
+Added the detailed raid information from the new article to Police Johor page.
+
+Pages updated: entities/organizations/police_johor.md
+
+## 2026-04-24T13:54:40Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T13:54:41Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T13:54:42Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T13:54:43Z
+
+Added the latest Anwar Ibrahim statement about eye‑ing polls by October and a possible third‑quarter election to both the DAP party page and the Kluang constituency news.
+
+Pages updated: entities/parties/dap.md, entities/constituencies/parlimen/p152-kluang.md
+
+## 2026-04-24T13:54:44Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T13:54:45Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T13:54:46Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T13:54:47Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T13:54:48Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T13:54:52Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T13:54:52Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T13:54:54Z
+
+Added new statement about Anwar considering a PRU by October if no further fuel subsidy cuts, citing Free Malaysia Today 24 April 2026.
+
+Pages updated: entities/parties/dap.md
+
+## 2026-04-24T13:54:55Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T13:54:56Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T13:54:57Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T13:54:58Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T13:55:03Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T13:55:04Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T13:55:12Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T13:55:43Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T13:55:44Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T13:56:59Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T13:57:35Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T13:57:39Z
+
+Completed truncated Anwar Ibrahim election‑call bullet in Kluang constituency page and added proper citation.
+
+Pages updated: entities/constituencies/parlimen/p152-kluang.md
+
+## 2026-04-24T13:57:40Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T13:57:41Z
+
+Added a new bullet to the DAP page citing the Bahasa Free Malaysia Today article about Anwar considering a PRU by October if no further fuel subsidy cuts are needed.
+
+Pages updated: entities/parties/dap.md
+
+## 2026-04-24T13:57:42Z
+
+Added detailed raid information to Police Johor pages, ensuring consistency with the new article.
+
+Pages updated: entities/organizations/police_johor.md, entities/police_johor.md
+
+## 2026-04-24T13:57:42Z
+
+Updated DAP page with new statement about Anwar considering an election in October.
+
+Pages updated: entities/parties/dap.md
+
+## 2026-04-24T13:57:43Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T13:57:43Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T13:57:44Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T13:57:45Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T13:57:45Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T13:57:46Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T13:57:48Z
+
+No relevant updates needed as the article's facts are already captured in the DAP page.
+
+Pages updated: none
+
+## 2026-04-24T13:58:52Z
+
+Added Bahasa source on Anwar's potential October election to DAP page and completed truncated election‑related bullet in Kluang constituency page.
+
+Pages updated: entities/parties/dap.md, entities/constituencies/parlimen/p152-kluang.md
+
+## 2026-04-24T13:58:53Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T14:01:09Z
+
+Added missing detail to Anwar Ibrahim statement in P.152 Kluang page, completing citation and condition about fuel subsidy cuts.
+
+Pages updated: entities/constituencies/parlimen/p152-kluang.md
+
+## 2026-04-24T14:01:10Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T14:01:11Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T14:01:11Z
+
+Added Anwar's October election condition to DAP statements and Kluang constituency news.
+
+Pages updated: entities/parties/dap.md, entities/constituencies/parlimen/p152-kluang.md
+
+## 2026-04-24T14:01:12Z
+
+Added a new DAP statement and completed the truncated Kluang news entry with the Anwar election timing report.
+
+Pages updated: entities/parties/dap.md, entities/constituencies/parlimen/p152-kluang.md
+
+## 2026-04-24T14:01:13Z
+
+Added URL citation to Police Johor shooting incident entry.
+
+Pages updated: entities/organizations/police_johor.md
+
+## 2026-04-24T14:01:15Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T14:01:15Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T14:01:15Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T14:01:16Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T14:01:17Z
+
+Added a new statement about Anwar Ibrahim's October poll outlook to the DAP page and completed the truncated election‑timing news item for Kluang with proper citation.
+
+Pages updated: entities/parties/dap.md, entities/constituencies/parlimen/p152-kluang.md
+
+## 2026-04-24T14:01:18Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T14:01:19Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T14:01:20Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T14:01:21Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T14:01:22Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T14:01:23Z
+
+Added a new statement about Anwar Ibrahim considering an October election amid fuel‑subsidy issues to the DAP page and clarified the same point in the Kluang constituency page.
+
+Pages updated: entities/parties/dap.md, entities/constituencies/parlimen/p152-kluang.md
+
+## 2026-04-24T14:01:24Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T14:01:25Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T14:01:59Z
+
+Added the detailed raid information to Police Johor pages to reflect the new article.
+
+Pages updated: entities/police_johor.md, entities/organizations/police_johor.md
+
+## 2026-04-24T14:01:59Z
+
+Added Anwar Ibrahim's 24 April 2026 statement about possibly holding a PRU as early as October, marked as a contradiction to the earlier third‑quarter election claim.
+
+Pages updated: entities/parties/dap.md
+
+## 2026-04-24T14:02:11Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T14:02:16Z
+
+No relevant updates needed as the Anwar statement about a possible October election is already recorded on the DAP page.
+
+Pages updated: none
+
+## 2026-04-24T14:03:05Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T14:03:12Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T14:04:19Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T14:05:27Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T14:11:29Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T14:12:00Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T14:13:25Z
+
+Added 24 April 2026 statement by Andy Teoh about MCA seeking younger, policy‑focused candidates and voter behavior.
+
+Pages updated: entities/people/andy_teoh.md
+
+## 2026-04-24T14:13:27Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T14:13:46Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T14:13:57Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T14:14:09Z
+
+Added Andy Teoh's 24 April 2026 statement on MCA's push for younger, policy‑focused candidates and created an MCA party page documenting the same development.
+
+Pages updated: entities/people/andy_teoh.md, entities/parties/mca.md
+
+## 2026-04-24T14:14:10Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T14:14:11Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T14:14:14Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T14:14:15Z
+
+Added Andy Teoh's 24 April 2026 comment on MCA seeking younger, policy‑focused candidates.
+
+Pages updated: entities/people/andy_teoh.md
+
+## 2026-04-24T14:14:16Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T14:14:17Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T14:14:18Z
+
+Added Andy Teoh's 24 April 2026 comment on MCA seeking younger, policy‑focused candidates and voter behavior.
+
+Pages updated: entities/people/andy_teoh.md
+
+## 2026-04-24T14:14:52Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T14:15:39Z
+
+Added complete statements and citations for Anwar Ibrahim's election timing remarks in both DAP party page and Kluang constituency page, fixing truncated bullet and clarifying the October claim.
+
+Pages updated: entities/parties/dap.md, entities/constituencies/parlimen/p152-kluang.md
+
+## 2026-04-24T14:15:41Z
+
+Added missing citation and completed statement for Anwar Ibrahim's third‑quarter election consideration in the Kluang constituency news.
+
+Pages updated: entities/constituencies/parlimen/p152-kluang.md
+
+## 2026-04-24T14:16:38Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T14:16:39Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T14:16:40Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T14:16:41Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T14:16:41Z
+
+Added Andy Teoh's 24 April 2026 comment on voter criteria and MCA's push for younger, policy‑focused candidates.
+
+Pages updated: entities/people/andy_teoh.md
+
+## 2026-04-24T14:16:41Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T14:16:41Z
+
+Added a new statement about Anwar's potential Q3 election to the DAP page and corrected the truncated Kluang news bullet with the full citation.
+
+Pages updated: entities/parties/dap.md, entities/constituencies/parlimen/p152-kluang.md
+
+## 2026-04-24T14:16:42Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T14:16:42Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T14:16:44Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T14:16:44Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T14:16:45Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T14:16:45Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T14:16:45Z
+
+Added Andy Teoh's 24 April 2026 statement on MCA seeking younger candidates to his page.
+
+Pages updated: entities/people/andy_teoh.md
+
+## 2026-04-24T14:16:46Z
+
+Added Andy Teoh's 24 April 2026 statement about MCA seeking younger, policy‑focused candidates.
+
+Pages updated: entities/people/andy_teoh.md
+
+## 2026-04-24T14:16:47Z
+
+Added a complete, sourced bullet on Anwar Ibrahim's consideration of a third‑quarter election to the Kluang constituency page, fixing a truncated entry.
+
+Pages updated: entities/constituencies/parlimen/p152-kluang.md
+
+## 2026-04-24T14:16:47Z
+
+Added URL citations to Police Johor entries for the 24 April 2026 drug syndicate raid.
+
+Pages updated: entities/organizations/police_johor.md, entities/police_johor.md
+
+## 2026-04-24T14:16:47Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T14:16:48Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T14:16:48Z
+
+Added Andy Teoh's 24 April 2026 statement about MCA seeking younger candidates to his page.
+
+Pages updated: entities/people/andy_teoh.md
+
+## 2026-04-24T14:16:49Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T14:16:50Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T14:16:51Z
+
+Updated Police Johard and Klurow ...
+
+Pages updated: entities/organizations/police_johor.md, entities/constituencies/parlimen/p152-kluang.md
+
+## 2026-04-24T14:16:53Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T14:16:54Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T14:16:56Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T14:16:56Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T14:16:56Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T14:16:56Z
+
+Added the new statement from 24 April 2026 about Anwar considering a third‑quarter election to both the DAP party page and the Kluang constituency page.
+
+Pages updated: entities/parties/dap.md, entities/constituencies/parlimen/p152-kluang.md
+
+## 2026-04-24T14:16:57Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T14:16:57Z
+
+Added a complete, sourced bullet on Anwar Ibrahim's third‑quarter election consideration to the Kluang constituency page.
+
+Pages updated: entities/constituencies/parlimen/p152-kluang.md
+
+## 2026-04-24T14:16:58Z
+
+Added complete citation for Anwar's third‑quarter election comment and marked the October statement as contradictory in the Kluang constituency page.
+
+Pages updated: entities/constituencies/parlimen/p152-kluang.md
+
+## 2026-04-24T14:16:58Z
+
+Added citation and completed sentence for Anwar Ibrahim's third‑quarter election consideration in the Kluang constituency news.
+
+Pages updated: entities/constituencies/parlimen/p152-kluang.md
+
+## 2026-04-24T14:16:59Z
+
+Added missing text and citation for Anwar Ibrahim's third‑quarter election consideration in the Kluang constituency news.
+
+Pages updated: entities/constituencies/parlimen/p152-kluang.md
+
+## 2026-04-24T14:17:00Z
+
+Added new Anwar Ibrahim statement to DAP page and completed/cited the third‑quarter election news on the Kluang constituency page.
+
+Pages updated: entities/parties/dap.md, entities/constituencies/parlimen/p152-kluang.md
+
+## 2026-04-24T14:17:01Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T14:17:05Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T14:17:11Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T14:17:13Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T14:17:17Z
+
+Added detailed police raid info to Police Johor and Kluang constituency pages, citing the 24 April 2026 article.
+
+Pages updated: entities/organizations/police_johor.md, entities/constituencies/parlimen/p152-kluang.md
+
+## 2026-04-24T14:17:20Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T14:17:22Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T14:17:35Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T14:17:44Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T14:17:45Z
+
+Added Andy Teoh as the source of the 24 April 2026 statement on younger MCA candidates.
+
+Pages updated: entities/parties/mca.md
+
+## 2026-04-24T14:17:47Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T14:17:49Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T14:17:52Z
+
+Added full statement about Anwar Ibrahim's potential third‑quarter election call with proper citation to resolve truncated bullet.
+
+Pages updated: entities/constituencies/parlimen/p152-kluang.md
+
+## 2026-04-24T14:17:53Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T14:17:54Z
+
+Added URL citations to police raid entries across police and constituency pages.
+
+Pages updated: entities/organizations/police_johor.md, entities/police_johor.md, entities/constituencies/parlimen/p152-kluang.md
+
+## 2026-04-24T14:17:54Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T14:17:55Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T14:17:55Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T14:17:57Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T14:18:06Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T14:18:16Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T14:18:19Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T14:18:21Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T14:18:28Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T14:18:31Z
+
+Added missing citation for Anwar's third‑quarter election comment in the Kluang constituency page.
+
+Pages updated: entities/constituencies/parlimen/p152-kluang.md
+
+## 2026-04-24T14:18:32Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T14:18:38Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T14:20:21Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T14:20:59Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T14:21:46Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T14:21:47Z
+
+Added detailed drug‑syndicate raid information to Police Johor and Kluang constituency pages, citing the 24 April 2026 Free Malaysia Today article.
+
+Pages updated: entities/organizations/police_johor.md, entities/constituencies/parlimen/p152-kluang.md
+
+## 2026-04-24T14:21:55Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T14:21:56Z
+
+No relevant updates needed as the article's content is already reflected on the DAP page.
+
+Pages updated: none
+
+## 2026-04-24T14:21:58Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T14:22:00Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T14:22:01Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T14:22:02Z
+
+Added detailed citation URLs for the 24 April 2026 drug‑syndicate raid across Police Johor and Kluang constituency pages.
+
+Pages updated: entities/organizations/police_johor.md, entities/police_johor.md, entities/constituencies/parlimen/p152-kluang.md
+
+## 2026-04-24T14:22:03Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T14:22:04Z
+
+Added a new statement on 24 April 2026 about Anwar considering a third‑quarter election amid fuel‑subsidy cuts, citing the Free Malaysia Today report.
+
+Pages updated: entities/parties/dap.md
+
+## 2026-04-24T14:22:05Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T14:22:06Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T14:22:07Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T14:22:08Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T14:22:09Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T14:22:20Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T14:22:20Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T14:22:39Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T14:22:42Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T14:22:43Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T14:22:53Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T14:22:56Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T14:23:02Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T14:23:13Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T14:23:18Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T14:23:19Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T14:23:20Z
+
+Added missing URL citations to police event entries and flagged a date inconsistency for the shooting incident.
+
+Pages updated: entities/organizations/police_johor.md, entities/constituencies/parlimen/p152-kluang.md
+
+## 2026-04-24T14:23:21Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T14:23:22Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T14:23:31Z
+
+Added full URL citations for the 24 April 2026 drug‑syndicate raid across Police Johor and Kluang constituency pages.
+
+Pages updated: entities/police_johor.md, entities/organizations/police_johor.md, entities/constituencies/parlimen/p152-kluang.md
+
+## 2026-04-24T14:23:34Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T14:23:45Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T14:23:48Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T14:23:54Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T14:25:31Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T14:27:17Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T14:29:12Z
+
+Added full citation and URL for the 24 April 2026 Johor shooting incident to both Police Johor pages.
+
+Pages updated: entities/police_johor.md, entities/organizations/police_johor.md
+
+## 2026-04-24T14:29:36Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T14:29:40Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T14:29:41Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T14:29:56Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T14:30:02Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T14:30:03Z
+
+Added complete details and citation for the 24 April 2026 shooting incident on the Police Johor organization page.
+
+Pages updated: entities/organizations/police_johor.md
+
+## 2026-04-24T14:30:16Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T14:30:26Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T14:43:38Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T14:43:38Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T14:43:39Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T14:43:40Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T14:43:43Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T14:43:45Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T14:43:45Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T14:43:45Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T14:43:45Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T14:43:46Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T14:43:46Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T14:43:47Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T14:43:47Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T14:43:48Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T14:44:06Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T14:44:07Z
+
+Added a new page for KPDN documenting its 24 April 2026 action of calling 10 companies to explain price increases.
+
+Pages updated: entities/organizations/kpdn.md
+
+## 2026-04-24T14:44:08Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T14:44:08Z
+
+Added a new page for Deputy Prime Minister Fadillah Yusof with his 24 April 2026 statement on shifting price pressures.
+
+Pages updated: entities/people/fadillah_yusof.md
+
+## 2026-04-24T14:44:09Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T14:44:09Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T14:44:09Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T14:44:10Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T14:44:17Z
+
+Added a complete, cited bullet about Anwar's consideration of a third‑quarter election to the Kluang constituency page, fixing a truncated entry.
+
+Pages updated: entities/constituencies/parlimen/p152-kluang.md
+
+## 2026-04-24T14:44:17Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T14:44:17Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T14:44:18Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T14:44:19Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T14:44:19Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T14:44:22Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T14:44:24Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T14:44:31Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T14:44:38Z
+
+Added Anwar Ibrahim's 24 April 2026 statement on reviewing Form 6 student allowances to the DAP recent statements.
+
+Pages updated: entities/parties/dap.md
+
+## 2026-04-24T14:44:38Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T14:44:38Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T14:44:40Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T14:44:42Z
+
+Added URL citation to KPDN page for 24 April 2026 price‑increase justification incident.
+
+Pages updated: entities/organizations/kpdn.md
+
+## 2026-04-24T14:44:42Z
+
+Added a complete, sourced statement about Anwar Ibrahim's possible October election to the Kluang constituency news, replacing the truncated bullet.
+
+Pages updated: entities/constituencies/parlimen/p152-kluang.md
+
+## 2026-04-24T14:44:43Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T14:45:18Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T14:45:34Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T14:46:18Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T14:46:20Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T14:46:33Z
+
+Added Anwar Ibrahim's 24 April 2026 statement about reviewing Form 6 student allowances to the DAP recent statements.
+
+Pages updated: entities/parties/dap.md
+
+## 2026-04-24T14:46:34Z
+
+Added Bahasa source citation to KPDN page for the 24 April 2026 price‑increase justification incident.
+
+Pages updated: entities/organizations/kpdn.md
+
+## 2026-04-24T14:46:34Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T14:46:35Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T14:46:35Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T14:46:36Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T14:46:36Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T14:46:37Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T14:46:37Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T14:46:39Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T14:46:40Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T14:46:40Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T14:46:40Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T14:46:40Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T14:46:41Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T14:46:41Z
+
+Added Bahasa coverage citation to KPDN page to reflect new article about the ministry calling 10 companies for price‑increase justification.
+
+Pages updated: entities/kpdn.md
+
+## 2026-04-24T14:46:41Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T14:46:41Z
+
+Added missing URL citation to the drug‑syndicate raid entry in entities/organizations/police_johor.md.
+
+Pages updated: entities/organizations/police_johor.md
+
+## 2026-04-24T14:46:42Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T14:46:42Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T14:46:43Z
+
+Added the 24 April 2026 statement about MCA seeking younger, policy‑focused candidates to both Andy Teoh and MCA pages, consolidating duplicate entries and ensuring proper citation.
+
+Pages updated: entities/people/andy_teoh.md, entities/parties/mca.md
+
+## 2026-04-24T14:46:43Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T14:46:44Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T14:46:44Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T14:46:45Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T14:46:45Z
+
+Added Anwar Ibrahim's 24 April 2026 statement on reviewing allowances for Form 6 students to the DAP recent statements page.
+
+Pages updated: entities/parties/dap.md
+
+## 2026-04-24T14:46:45Z
+
+Added the full 24 April 2026 statement by Andy Teoh about MCA seeking younger candidates and removed duplicate truncated entry.
+
+Pages updated: entities/people/andy_teoh.md
+
+## 2026-04-24T14:46:45Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T14:46:46Z
+
+Added citation of the specific article title to Fadillah Yusof's 2026 economic outlook entry.
+
+Pages updated: entities/people/fadillah_yusof.md
+
+## 2026-04-24T14:46:46Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T14:46:46Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T14:46:46Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T14:46:47Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T14:46:47Z
+
+Added URL citation to MCA party page for the 24 April 2026 statement about younger candidates.
+
+Pages updated: entities/parties/mca.md
+
+## 2026-04-24T14:46:48Z
+
+Added URL citation to KPDN page for the 24 April 2026 price‑increase justification incident.
+
+Pages updated: entities/kpdn.md
+
+## 2026-04-24T14:46:48Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T14:46:48Z
+
+Added Bahasa-language coverage of KPDN's 24 April 2026 request for price‑increase justification to the KPDN page.
+
+Pages updated: entities/kpdn.md
+
+## 2026-04-24T14:46:48Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T14:46:49Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T14:46:49Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T14:46:49Z
+
+Added Bahasa source citation to KPDN page for the 24 April 2026 price‑increase justification incident.
+
+Pages updated: entities/kpdn.md
+
+## 2026-04-24T14:46:49Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T14:46:49Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T14:46:50Z
+
+No relevant updates needed as the MCA page already contains the 24 April 2026 statement and citation.
+
+Pages updated: none
+
+## 2026-04-24T14:46:50Z
+
+Added Bahasa coverage citation to KPDN page for 24 April 2026 price‑increase justification.
+
+Pages updated: entities/organizations/kpdn.md
+
+## 2026-04-24T14:46:50Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T14:46:50Z
+
+Added Bahasa source citation to KPDN page for the 24 April 2026 price‑increase justification incident.
+
+Pages updated: entities/kpdn.md
+
+## 2026-04-24T14:46:51Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T14:46:51Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T14:46:51Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T14:46:52Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T14:46:52Z
+
+Updated KPDN page with detailed citation of the 24 April 2026 request to ten companies for price‑increase justification.
+
+Pages updated: entities/kpdn.md
+
+## 2026-04-24T14:46:53Z
+
+Added Bahasa source citation to KPDN page for the 24 April 2026 price‑increase justification incident.
+
+Pages updated: entities/kpdn.md
+
+## 2026-04-24T14:46:53Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T14:46:53Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T14:46:53Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T14:46:53Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T14:46:54Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T14:46:54Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T14:46:54Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T14:46:54Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T14:46:54Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T14:46:54Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T14:46:55Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T14:46:55Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T14:46:56Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T14:46:57Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T14:47:05Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T14:47:07Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T14:47:38Z
+
+Added Anwar Ibrahim's 24 April 2026 statement on reviewing allowances for Form 6 students to the DAP recent statements page.
+
+Pages updated: entities/parties/dap.md
+
+## 2026-04-24T14:47:56Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T14:48:20Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T14:48:22Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T14:48:30Z
+
+Added a new bullet to Fadillah Yusof's page summarising his statement about bracing for price hikes in the second wave of the global crisis, with proper citation.
+
+Pages updated: entities/people/fadillah_yusof.md
+
+## 2026-04-24T14:48:32Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T14:48:41Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T14:48:41Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T14:48:41Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T14:48:42Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T14:48:42Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T14:48:43Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T14:48:56Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T14:48:57Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T14:48:57Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T14:49:14Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T14:49:47Z
+
+Added new statement about Anwar Ibrahim's October election consideration from the 24 April 2026 Free Malaysia Today article.
+
+Pages updated: entities/parties/dap.md
+
+## 2026-04-24T14:49:47Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T14:49:47Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T14:49:48Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T14:49:49Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T14:49:50Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T14:49:50Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T14:49:52Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T14:49:52Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T14:49:53Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T14:49:53Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T14:49:54Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T14:49:54Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T14:49:55Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T14:49:58Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T14:49:58Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T14:49:58Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T14:49:58Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T14:49:58Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T14:49:59Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T14:49:59Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T14:49:59Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T14:50:00Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T14:50:01Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T14:50:01Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T14:50:02Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T14:50:03Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T14:50:03Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T14:50:03Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T14:50:03Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T14:50:04Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T14:50:04Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T14:50:04Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T14:50:04Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T14:50:04Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T14:50:05Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T14:50:05Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T14:50:05Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T14:50:06Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T14:50:06Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T14:50:06Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T14:50:06Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T14:50:06Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T14:50:07Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T14:50:07Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T14:50:07Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T14:50:07Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T14:50:08Z
+
+Added URL and contradiction marker to the Anwar October poll bullet on DAP page to reflect the new article.
+
+Pages updated: entities/parties/dap.md
+
+## 2026-04-24T14:50:08Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T14:50:08Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T14:50:09Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T14:50:09Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T14:50:10Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T14:50:10Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T14:50:11Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T14:50:16Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T14:50:22Z
+
+Added missing URL to the English citation on the KPDN organization page.
+
+Pages updated: entities/organizations/kpdn.md
+
+## 2026-04-24T14:50:29Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T14:50:30Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T14:50:37Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T14:50:40Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T14:50:40Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T14:50:41Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T14:50:41Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T14:50:41Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T14:50:42Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T14:50:42Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T14:50:43Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T14:50:46Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T14:50:46Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T14:50:47Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T14:50:48Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T14:50:49Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T14:50:49Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T14:50:49Z
+
+Added missing URL to Andy Teoh's 24 April 2026 citation to fully reference the MCA younger‑candidates article.
+
+Pages updated: entities/people/andy_teoh.md
+
+## 2026-04-24T14:50:50Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T14:50:50Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T14:50:51Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T14:50:51Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T14:50:51Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T14:50:51Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T14:50:51Z
+
+Removed erroneous [CONTRADICTION] markers from Anwar Ibrahim statements in DAP page to reflect consistent reporting of the April 24, 2026 article.
+
+Pages updated: entities/parties/dap.md
+
+## 2026-04-24T14:50:55Z
+
+Added a new statement on 24 April 2026 about Anwar Ibrahim reviewing allowances for Form 6 students, citing the Bahasa article.
+
+Pages updated: entities/parties/dap.md
+
+## 2026-04-24T14:51:09Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T14:51:10Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T14:51:23Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T14:51:32Z
+
+Added a new statement for Anwar Ibrahim on 24 April 2026 about considering a third‑quarter election due to fuel‑subsidy cuts, citing the Free Malaysia Today article.
+
+Pages updated: entities/parties/dap.md
+
+## 2026-04-24T14:51:36Z
+
+Added a new Bahasa source confirming PM Anwar Ibrahim's review of Form 6 student allowances on 24 April 2026.
+
+Pages updated: entities/parties/dap.md
+
+## 2026-04-24T14:51:40Z
+
+Added a new statement on 24 April 2026 about Anwar Ibrahim reviewing Form 6 student allowances, citing the Bahasa article.
+
+Pages updated: entities/parties/dap.md
+
+## 2026-04-24T15:13:22Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T15:13:33Z
+
+Added a 2026 incident to the DAP page documenting Puad Zarkashi's statement that DAP need not wait for its July congress to resign ministers.
+
+Pages updated: entities/partenties/dap.md
+
+## 2026-04-24T15:13:34Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T15:13:35Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T15:13:37Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T15:13:38Z
+
+Added a 2026 incident to the DAP page noting Puad Zarkashi's call for DAP ministers to resign before an Azam‑related rally.
+
+Pages updated: entities/parties/dap.md
+
+## 2026-04-24T15:13:48Z
+
+Added a 2026 incident to the DAP page noting Puad Zarkashi's call for DAP to resign ministerial posts before a rally.
+
+Pages updated: entities/partenties/dap.md
+
+## 2026-04-24T15:13:49Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T15:13:49Z
+
+Added a 2026 incident noting Puad Zarkashi's call for DAP to resign ministerial posts before a rally.
+
+Pages updated: entities/parties/dap.md
+
+## 2026-04-24T15:13:50Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T15:13:51Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T15:13:52Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T15:13:53Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T15:13:54Z
+
+Added a 2026 incident to the DAP page noting Puad Zarkashi's call for the party to resign ministerial posts before an Azam‑related rally.
+
+Pages updated: entities/partenties/dap.md
+
+## 2026-04-24T15:13:57Z
+
+Added a 2026 incident about Puad Zarkashi challenging DAP's stance on ministerial resignations.
+
+Pages updated: entities/parties/dap.md
+
+## 2026-04-24T15:13:57Z
+
+Added a new Bahasa-language bullet for the 24 April 2026 Puad Zarkashi challenge to DAP on ministerial resignations, citing the Free Malaysia Today article.
+
+Pages updated: entities/parties/dap.md, entities/partenties/dap.md
+
+## 2026-04-24T15:14:00Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T15:14:03Z
+
+Added the new 24 April 2026 statement about MCA seeking younger, policy‑focused candidates to the MCA party page.
+
+Pages updated: entities/parties/mca.md
+
+## 2026-04-24T15:14:06Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T15:14:07Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T15:14:10Z
+
+Added URL citations to DAP incident entries to incorporate the new Bahasa article about Puad Zarkashi challenging DAP to resign ministers.
+
+Pages updated: entities/parties/dap.md, entities/partenties/dap.md
+
+## 2026-04-24T15:14:11Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T15:14:14Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T15:14:14Z
+
+Added Puad's 24 April 2026 statement challenging DAP to quit the Cabinet to the DAP page.
+
+Pages updated: entities/parties/dap.md
+
+## 2026-04-24T15:14:16Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T15:14:18Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T15:14:21Z
+
+Added Puad's 24 April 2026 statement urging DAP to quit the Cabinet to the DAP page.
+
+Pages updated: entities/parties/dap.md
+
+## 2026-04-24T15:14:36Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T15:14:51Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T15:15:01Z
+
+Added Bahasa-language source URL to DAP incident entries to reflect new Free Malaysia Today article.
+
+Pages updated: entities/parties/dap.md, entities/partenties/dap.md
+
+## 2026-04-24T15:15:03Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T15:15:04Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T15:15:06Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T15:15:16Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T15:15:16Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T15:15:24Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T15:15:50Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T15:15:51Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T15:16:04Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T15:16:16Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T15:16:17Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T15:16:18Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T15:16:19Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T15:16:20Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T15:16:20Z
+
+Added new citation for Puad's 24 April 2026 statement to both DAP party and incident pages, completing previously truncated entry.
+
+Pages updated: entities/partenties/dap.md, entities/parties/dap.md
+
+## 2026-04-24T15:16:25Z
+
+Added a complete Puad Zarkashi statement to the DAP party page with proper citation.
+
+Pages updated: entities/parties/dap.md
+
+## 2026-04-24T15:16:25Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T15:16:26Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T15:16:26Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T15:16:26Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T15:16:27Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T15:16:27Z
+
+Added the 24 April 2026 Puad Zarkashi statement about DAP quitting the Cabinet to both the party and incident pages, fixing a truncated entry and including the new source.
+
+Pages updated: entities/partenties/dap.md, entities/parties/dap.md
+
+## 2026-04-24T15:16:27Z
+
+Added new bullet to DAP pages noting Puad Zarkashi, an UMNO Supreme Council member, downplayed the anti‑Azam rally and reiterated the call for DAP to quit cabinet without waiting for its July congress.
+
+Pages updated: entities/parties/dap.md, entities/partenties/dap.md
+
+## 2026-04-24T15:16:28Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T15:16:28Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T15:16:30Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T15:16:30Z
+
+Added Bahasa‑language citation for Puad Zarkashi's 24 April 2026 challenge to DAP, providing a new source without altering existing facts.
+
+Pages updated: entities/parties/dap.md
+
+## 2026-04-24T15:16:31Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T15:16:32Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T15:16:33Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T15:16:33Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T15:16:34Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T15:16:34Z
+
+Added English-language incident and completed Puad statement in DAP pages.
+
+Pages updated: entities/partenties/dap.md, entities/parties/dap.md
+
+## 2026-04-24T15:16:35Z
+
+Added the new statement about Anwar considering an October election to the DAP page, marking the contradiction with existing entries.
+
+Pages updated: entities/parties/dap.md
+
+## 2026-04-24T15:16:35Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T15:16:35Z
+
+No relevant updates needed as the article's facts are already recorded in the DAP pages.
+
+Pages updated: none
+
+## 2026-04-24T15:16:43Z
+
+Added a new bullet to the DAP party page documenting Puad's comment that he downplayed the anti‑Azam rally, complementing the existing statement about daring DAP to quit the Cabinet.
+
+Pages updated: entities/parties/dap.md
+
+## 2026-04-24T15:17:18Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T15:17:21Z
+
+Corrected citation URLs and completed truncated Puad Zarkashi statement in both DAP pages.
+
+Pages updated: entities/partenties/dap.md, entities/parties/dap.md
+
+## 2026-04-24T15:17:34Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T15:18:12Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T15:18:13Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T15:18:29Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T15:18:29Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T15:18:30Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T15:18:33Z
+
+Added details that Puad Zarkashi is a UMNO Supreme Council member and that he downplayed the anti‑Azam rally to both DAP pages.
+
+Pages updated: entities/partenties/dap.md, entities/parties/dap.md
+
+## 2026-04-24T15:18:33Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T15:18:35Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T15:18:36Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T15:18:37Z
+
+Added new fact that UMNO Supreme Council member Puad downplayed the anti‑Azam rally while daring DAP to quit the Cabinet, updating both the party and parties pages.
+
+Pages updated: entities/partenties/dap.md, entities/parties/dap.md
+
+## 2026-04-24T15:18:37Z
+
+Added Puad's comments downplaying the anti‑Azam rally and his challenge to DAP to quit the Cabinet to both the party statements and incident pages.
+
+Pages updated: entities/parties/dap.md, entities/partenties/dap.md
+
+## 2026-04-24T15:18:38Z
+
+Added new bullet on 24 April 2026 Puad daring DAP to quit Cabinet and downplaying anti‑Azam rally to both the DAP incident and recent statements pages.
+
+Pages updated: entities/partenties/dap.md, entities/parties/dap.md
+
+## 2026-04-24T15:18:38Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T15:18:39Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T15:18:39Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T15:18:40Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T15:18:41Z
+
+Added new bullet on 24 April 2026 Puad Zarkashi daring DAP to quit Cabinet and downplaying anti‑Azam rally to both DAP party pages.
+
+Pages updated: entities/partenties/dap.md, entities/parties/dap.md
+
+## 2026-04-24T15:18:41Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T15:18:41Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T15:18:42Z
+
+Added a new bullet to DAP pages documenting Puad Zarkashi's 24 April 2026 statement urging DAP to quit cabinet posts and downplaying the anti‑Azam rally.
+
+Pages updated: entities/partenties/dap.md, entities/parties/dap.md
+
+## 2026-04-24T15:18:42Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T15:18:43Z
+
+Added details that Puad Zarkashi is a UMNO Supreme Council member and downplays the anti‑Azam rally to DAP incident entries.
+
+Pages updated: entities/parties/dap.md, entities/partenties/dap.md
+
+## 2026-04-24T15:18:43Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T15:18:43Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T15:18:44Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T15:18:44Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T15:18:44Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T15:18:45Z
+
+Added the 24 April 2026 statement by UMNO MP Puad Zarkashi challenging DAP to resign ministers.
+
+Pages updated: entities/parties/dap.md
+
+## 2026-04-24T15:18:46Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T15:18:47Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T15:18:49Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T15:18:50Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T15:18:51Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T15:18:52Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T15:18:53Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T15:18:56Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T15:19:17Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T15:19:17Z
+
+No relevant updates needed as the article's facts are already recorded on the Police Johor and Kluang constituency pages.
+
+Pages updated: none
+
+## 2026-04-24T15:19:55Z
+
+Added new bullet noting Puad Zarkashi downplayed the anti‑Azam rally while urging DAP to quit cabinet, based on 24 April 2026 Free Malaysia Today article.
+
+Pages updated: entities/parties/dap.md, entities/partenties/dap.md
+
+## 2026-04-24T15:20:05Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T15:20:19Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T15:20:25Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T15:20:40Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T15:20:44Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T15:20:45Z
+
+Added new bullet on 24 April 2026 detailing Puad Zarkashi's role as UMNO Supreme Council member and his downplaying of the anti‑Azam rally, with proper citation.
+
+Pages updated: entities/parties/dap.md, entities/partenties/dap.md
+
+## 2026-04-24T15:20:47Z
+
+Added a new bullet to both DAP pages citing the Bahasa Free Malaysia Today article with URL, providing a more precise source for Puad Zarkashi's challenge.
+
+Pages updated: entities/partenties/dap.md, entities/parties/dap.md
+
+## 2026-04-24T15:21:00Z
+
+Added a new Bahasa‑language bullet for the 24 April 2026 Puad Zarkashi statement to both DAP entity pages.
+
+Pages updated: entities/partenties/dap.md, entities/parties/dap.md
+
+## 2026-04-24T15:21:01Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T15:21:02Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T15:21:03Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T15:21:05Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T15:21:06Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T15:21:07Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T15:21:08Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T15:21:09Z
+
+Added complete Puad Zarkashi statement with correct role and citation, fixing truncated bullet.
+
+Pages updated: entities/parties/dap.md
+
+## 2026-04-24T15:21:10Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T15:21:11Z
+
+Added complete Puad Zarkashi statement to DAP recent statements with proper citation.
+
+Pages updated: entities/parties/dap.md
+
+## 2026-04-24T15:21:11Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T15:21:12Z
+
+Added new bullet points about Puad Zarkashi daring DAP to quit the Cabinet and downplaying the anti‑Azam rally on 24 April 2026.
+
+Pages updated: entities/partenties/dap.md, entities/parties/dap.md
+
+## 2026-04-24T15:21:12Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T15:21:13Z
+
+Completed truncated Puad Zarkashi entry in parties/dap.md with full statement and citation.
+
+Pages updated: entities/parties/dap.md
+
+## 2026-04-24T15:21:13Z
+
+Added details of Puad Zarkashi downplaying the anti‑Azam rally to DAP pages.
+
+Pages updated: entities/partenties/dap.md, entities/parties/dap.md
+
+## 2026-04-24T15:21:14Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T15:21:16Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T15:21:16Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T15:21:30Z
+
+Added new bullet about Puad Zarkashi downplaying the anti‑Azam rally to both DAP party pages.
+
+Pages updated: entities/partenties/dap.md, entities/parties/dap.md
+
+## 2026-04-24T15:21:34Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T15:21:54Z
+
+Added the full Puad Zarkashi statement to entities/parties/dap.md with proper citation, fixing the truncated entry.
+
+Pages updated: entities/parties/dap.md
+
+## 2026-04-24T15:22:26Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T15:22:28Z
+
+Completed truncated Puad Zarkashi statement in entities/parties/dap.md with full quote and citation.
+
+Pages updated: entities/parties/dap.md
+
+## 2026-04-24T15:22:30Z
+
+Added new bullet about Puad Zarkashi daring DAP to quit Cabinet and downplaying anti‑Azam rally to both the DAP incident list and recent statements page.
+
+Pages updated: entities/partenties/dap.md, entities/parties/dap.md
+
+## 2026-04-24T15:22:35Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T15:22:36Z
+
+Added new bullet on 24 April 2026 Puad Zarkashi daring DAP to quit Cabinet and downplaying anti‑Azam rally to both DAP entity pages.
+
+Pages updated: entities/partenties/dap.md, entities/parties/dap.md
+
+## 2026-04-24T15:22:38Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T15:22:38Z
+
+Added a properly formatted entry for Puad Zarkashi's 24 April 2026 statement urging DAP to resign ministerial posts before the Azam‑related rally.
+
+Pages updated: entities/parties/dap.md
+
+## 2026-04-24T15:22:39Z
+
+Added new statement from Puan  
+
+Pages updated: entities/parties/dap.md, entities/partenties/dap.md
+
+## 2026-04-24T15:22:39Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T15:22:40Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T15:22:40Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T15:22:41Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T15:22:41Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T15:22:42Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T15:22:43Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T15:22:43Z
+
+Added complete Puad Zarkashi statement with citation to the DAP party page, fixing truncated bullet.
+
+Pages updated: entities/parties/dap.md
+
+## 2026-04-24T15:22:44Z
+
+Added the 24 April 2026 Puad Zarkash​i statement challenging DAP to resign ministerial posts.
+
+Pages updated: entities/parties/dap.md
+
+## 2026-04-24T15:22:44Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T15:22:45Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T15:22:45Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T15:22:45Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T15:22:46Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T15:22:46Z
+
+Updated DAP pages to note Puad Zarkashi is a UMNO Supreme Council member, aligning with the new article.
+
+Pages updated: entities/parties/dap.md, entities/partenties/dap.md
+
+## 2026-04-24T15:22:46Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T15:22:47Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T15:22:47Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T15:22:47Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T15:22:48Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T15:22:48Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T15:22:48Z
+
+Added that Puad Zarkashi is a UMNO Supreme Council member in the DAP incident entries to reflect the new article.
+
+Pages updated: entities/parties/dap.md, entities/partenties/dap.md
+
+## 2026-04-24T15:22:49Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T15:22:50Z
+
+Added a new page for Prime Minister Anwar Ibrahim with the 24 April 2026 statement about a possible election and fuel‑subsidy cuts.
+
+Pages updated: entities/people/anwar_ibrahim.md
+
+## 2026-04-24T15:22:51Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T15:22:52Z
+
+Added Supreme Council status for UMNO member Puad Zarkashi and cited the English article on both DAP pages.
+
+Pages updated: entities/parties/dap.md, entities/partenties/dap.md
+
+## 2026-04-24T15:22:53Z
+
+Added the new Free Malaysia Today article (24 April 2026) as an additional source to both DAP party pages, reflecting Puad Zarkashi's challenge for DAP to quit the Cabinet and his downplaying of the anti‑Azam rally.
+
+Pages updated: entities/partenties/dap.md, entities/parties/dap.md
+
+## 2026-04-24T15:22:53Z
+
+Added English Free Malaysia Today article (24 April 2026) as a source to DAP incident entries on both party and entity pages.
+
+Pages updated: entities/partenties/dap.md, entities/parties/dap.md
+
+## 2026-04-24T15:22:54Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T15:22:54Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T15:22:55Z
+
+Added URL citation to the Kluang constituency page for Anwar's October election comment.
+
+Pages updated: entities/constituencies/parlimen/p152-kluang.md
+
+## 2026-04-24T15:22:56Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T15:22:57Z
+
+Added a new page for Prime Minister Anwar Ibrahim with the 24 April 2026 statement about a possible third‑quarter election and fuel‑subsidy cuts.
+
+Pages updated: entities/people/anwar_ibrahim.md
+
+## 2026-04-24T15:23:09Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T15:23:41Z
+
+Added a new bullet summarising Puad Zarkashi's 24 April 2026 statement to both the incident list and recent statements, fixing a truncated entry.
+
+Pages updated: entities/partenties/dap.md, entities/parties/dap.md
+
+## 2026-04-24T15:24:19Z
+
+Added Puad Zarkashi's statement about downplaying the anti‑Azam rally to the DAP recent statements page.
+
+Pages updated: entities/parties/dap.md
+
+## 2026-04-24T15:24:26Z
+
+Added a complete recent‑statement entry for Puad Zarkashi on 24 April 2026, reflecting his challenge to DAP to quit the Cabinet and his downplaying of the anti‑Azam rally.
+
+Pages updated: entities/parties/dap.md
+
+## 2026-04-24T15:24:44Z
+
+Added a complete, sourced statement about Puad Zarkashi's 24 April 2026 challenge to DAP, replacing the truncated bullet.
+
+Pages updated: entities/parties/dap.md
+
+## 2026-04-24T15:24:58Z
+
+Completed missing Puad Zarkashi bullet in parties/dap.md with full statement and citation.
+
+Pages updated: entities/parties/dap.md
+
+## 2026-04-24T15:28:53Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T15:43:41Z
+
+No relevant updates needed as the article's facts are already reflected in the MCA and Andy Teoh pages.
+
+Pages updated: none
+
+## 2026-04-24T15:43:41Z
+
+Added Anwar Ibrahim's 24 April 2026 statement on fuel pricing and rationing to his page.
+
+Pages updated: entities/people/anwar_ibrahim.md
+
+## 2026-04-24T15:43:41Z
+
+Added Anwar's 24 April 2026 statement on fuel pricing and rationing to his page.
+
+Pages updated: entities/people/anwar_ibrahim.md
+
+## 2026-04-24T15:43:42Z
+
+Added URL citation to Anwar Ibrahim page for April 24 2026 election timing statement.
+
+Pages updated: entities/people/anwar_ibrahim.md
+
+## 2026-04-24T15:43:42Z
+
+Added Anwar Ibrahim's 24 April 2026 statement on fuel pricing and lack of rationing.
+
+Pages updated: entities/people/anwar_ibrahim.md
+
+## 2026-04-24T15:43:45Z
+
+Added Anwar Ibrahim's 24 April 2026 statement on fuel pricing and no rationing to his page.
+
+Pages updated: entities/people/anwar_ibrahim.md
+
+## 2026-04-24T15:43:48Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T15:43:48Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T15:43:48Z
+
+Added Anwar's 24 April 2026 statement on fuel pricing and no rationing to his page.
+
+Pages updated: entities/people/anwar_ibrahim.md
+
+## 2026-04-24T15:43:48Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T15:43:51Z
+
+Added Anwar Ibrahim's 24 April 2026 statement on fuel rationing and RON95 pricing.
+
+Pages updated: entities/people/anwar_ibrahim.md
+
+## 2026-04-24T15:44:30Z
+
+Completed missing Puad Zarkashi statement in DAP party page with full quote and citation.
+
+Pages updated: entities/parties/dap.md
+
+## 2026-04-24T15:44:35Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T15:44:49Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T15:44:50Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T15:44:50Z
+
+Added Anwar Ibrahim's 24 April 2026 statement on fuel pricing and rationing to his page.
+
+Pages updated: entities/people/anwar_ibrahim.md
+
+## 2026-04-24T15:44:51Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T15:44:51Z
+
+Added complete Bahasa and English statements for Puad Zarkashi's 24 April 2026 challenge to DAP, fixing truncated entry.
+
+Pages updated: entities/parties/dap.md
+
+## 2026-04-24T15:45:04Z
+
+Added the 24 April 2026 Puad Zarkashi statement to DAP pages with full citation and corrected incomplete bullet.
+
+Pages updated: entities/parties/dap.md, entities/partenties/dap.md
+
+## 2026-04-24T15:45:05Z
+
+Added Anwar Ibrahim's 24 April 2026 statement on fuel pricing and rationing to his page.
+
+Pages updated: entities/people/anwar_ibrahim.md
+
+## 2026-04-24T15:45:05Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T15:45:06Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T15:45:07Z
+
+Added Anwar Ibrahim's 24 April 2026 statement on fuel pricing and no fuel rationing to his page.
+
+Pages updated: entities/people/anwar_ibrahim.md
+
+## 2026-04-24T15:45:07Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T15:45:07Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T15:45:08Z
+
+Added separate 2026 statements on fuel rationing and fuel pricing for Anwar Ibrahim with proper citations.
+
+Pages updated: entities/people/anwar_ibrahim.md
+
+## 2026-04-24T15:45:08Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T15:45:09Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T15:45:09Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T15:45:10Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T15:45:12Z
+
+Added a complete Puad Zarkashi statement to DAP recent statements with proper citation.
+
+Pages updated: entities/parties/dap.md
+
+## 2026-04-24T15:45:18Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T15:45:25Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T15:46:26Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T15:47:09Z
+
+Added complete Puad Zarkashi statement to DAP recent statements with proper citation and URL.
+
+Pages updated: entities/parties/dap.md
+
+## 2026-04-24T15:47:36Z
+
+Completed missing citation and corrected incomplete statement for Puad Zarkashi's 24 April 2026 challenge to DAP in the parties/dap page.
+
+Pages updated: entities/parties/dap.md
+
+## 2026-04-24T15:49:15Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T15:49:19Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T15:49:21Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T15:49:22Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T15:49:31Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T15:49:31Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T15:49:32Z
+
+Added complete Puad Zarkashi statement to DAP party page, fixing truncated entry and adding citation.
+
+Pages updated: entities/parties/dap.md
+
+## 2026-04-24T15:49:36Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T15:49:41Z
+
+Added URL citations for the 24 April 2026 Free Malaysia Today article on Anwar's potential October election to DAP, Kluang constituency, and Anwar Ibrahim pages.
+
+Pages updated: entities/parties/dap.md, entities/constituencies/parlimen/p152-kluang.md, entities/people/anwar_ibrahim.md
+
+## 2026-04-24T15:49:46Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T15:49:46Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T15:49:48Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T15:49:49Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T15:49:54Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T15:49:55Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T15:49:56Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T15:49:57Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T15:49:58Z
+
+Added URL citation to Anwar Ibrahim page for the 24 April 2026 fuel pricing statement.
+
+Pages updated: entities/people/anwar_ibrahim.md
+
+## 2026-04-24T15:49:59Z
+
+Added URL citations for the 24 April 2026 Free Malaysia Today article on Anwar's election timing to DAP, Kluang constituency, and Anwar pages.
+
+Pages updated: entities/parties/dap.md, entities/constituencies/parlimen/p152-kluang.md, entities/people/anwar_ibrahim.md
+
+## 2026-04-24T15:50:00Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T15:50:01Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T15:50:02Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T15:50:03Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T15:50:04Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T15:50:05Z
+
+Added complete Puad Zarkashi statement to DAP recent statements with proper citation.
+
+Pages updated: entities/parties/dap.md
+
+## 2026-04-24T15:50:06Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T15:50:07Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T15:50:08Z
+
+Added complete citation and full statement for Puad Zarkashi's 24 April 2026 challenge to DAP in the parties/dap.md page.
+
+Pages updated: entities/parties/dap.md
+
+## 2026-04-24T15:50:08Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T15:50:09Z
+
+Added complete Puad Zarkashi statement with citation to parties/dap.md, fixing previously truncated entry.
+
+Pages updated: entities/parties/dap.md
+
+## 2026-04-24T15:50:10Z
+
+Added complete Puad Zarkashi statement to DAP party page and citation.
+
+Pages updated: entities/parties/dap.md
+
+## 2026-04-24T15:50:10Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T15:50:11Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T15:50:11Z
+
+Added missing Bahasa statement and citation for Puad Zarkashi's challenge to DAP, completing the bullet.
+
+Pages updated: entities/parties/dap.md
+
+## 2026-04-24T15:50:11Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T15:50:13Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T15:50:13Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T15:50:14Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T15:50:14Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T15:50:15Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T15:50:15Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T15:50:16Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T15:50:16Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T15:50:16Z
+
+Added a detailed, cited entry for Puad Zarkashi's 24 April 2026 statement to the DAP party page and fixed citation formatting.
+
+Pages updated: entities/parties/dap.md
+
+## 2026-04-24T15:50:17Z
+
+Added new citation for Anwar's election timing statement to DAP and Anwar pages.
+
+Pages updated: entities/parties/dap.md, entities/people/anwar_ibrahim.md
+
+## 2026-04-24T15:50:18Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T15:50:20Z
+
+Added the Bahasa article URL to the DAP incident list and completed the truncated Puad Zarkashi bullet in the parties page.
+
+Pages updated: entities/partenties/dap.md, entities/parties/dap.md
+
+## 2026-04-24T15:50:21Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T15:50:22Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T15:50:22Z
+
+Added new citation for Anwar's third‑quarter election statement to DAP, Anwar, and Kluang pages.
+
+Pages updated: entities/parties/dap.md, entities/people/anwar_ibrahim.md, entities/constituencies/parlimen/p152-kluang.md
+
+## 2026-04-24T15:50:25Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T15:50:26Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T15:50:29Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T15:50:30Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T15:50:31Z
+
+Completed the truncated Puad Zarkashi bullet in entities/parties/dap.md with full details and citation from the 24 April 2026 article.
+
+Pages updated: entities/parties/dap.md
+
+## 2026-04-24T15:50:32Z
+
+Added URL citation for Anwar Ibrahim's April 24, 2026 election timing statement to Anwar's profile and DAP recent statements.
+
+Pages updated: entities/people/anwar_ibrahim.md, entities/parties/dap.md
+
+## 2026-04-24T15:51:09Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T15:51:10Z
+
+Added URL citation to Anwar Ibrahim's election timing statement for precise source reference.
+
+Pages updated: entities/people/anwar_ibrahim.md
+
+## 2026-04-24T15:51:53Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T15:51:55Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T15:52:02Z
+
+Added complete, properly cited statement for Puad Zarkashi in the DAP party page, fixing truncated bullet.
+
+Pages updated: entities/parties/dap.md
+
+## 2026-04-24T15:52:10Z
+
+Added the Bahasa‑language source URL to the DAP incident page and completed the Puad Zarkashi statement in the DAP party page with proper citation.
+
+Pages updated: entities/partenties/dap.md, entities/parties/dap.md
+
+## 2026-04-24T15:52:12Z
+
+Added the 24 April 2026 Puad Zarkashi statement to both the DAP party page and the DAP incident page, completing the truncated bullet and citing the new article.
+
+Pages updated: entities/parties/dap.md, entities/partenties/dap.md
+
+## 2026-04-24T15:52:13Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T15:52:16Z
+
+Updated DAP party page with full Puad Zarkashi statement and added a new incident entry to the DAP incidents page, both citing the 24 April 2026 Free Malaysia Today article.
+
+Pages updated: entities/parties/dap.md, entities/partenties/dap.md
+
+## 2026-04-24T15:52:22Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T15:52:23Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T15:52:24Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T15:52:24Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T15:53:24Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T15:54:53Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T15:54:59Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T15:54:59Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T15:54:59Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T15:55:09Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T15:55:10Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T15:55:17Z
+
+Added the specific statement from the 24 April 2026 Free Malaysia Today article to both the DAP party page and the DAP incident page, completing the truncated bullet and citing the article URL.
+
+Pages updated: entities/parties/dap.md, entities/partenties/dap.md
+
+## 2026-04-24T15:55:19Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T15:55:22Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T15:55:23Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T15:55:23Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T15:55:24Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T15:55:24Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T15:55:25Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T15:55:25Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T15:55:26Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T15:55:26Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T15:55:27Z
+
+Added Puad Zarkashi's 24 April 2026 statement to DAP recent statements with proper citation.
+
+Pages updated: entities/parties/dap.md
+
+## 2026-04-24T15:55:27Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T15:55:28Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T15:55:28Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T15:55:28Z
+
+Added Puad Zarkashi's 24 April 2026 statement to the DAP recent statements page.
+
+Pages updated: entities/parties/dap.md
+
+## 2026-04-24T15:55:29Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T15:55:29Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T15:55:29Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T15:55:30Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T15:55:32Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T15:55:33Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T15:55:52Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T15:56:09Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T15:56:15Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T15:56:15Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T15:56:17Z
+
+Added complete Puad Zarkashi statement to DAP recent statements, fixing truncated entry.
+
+Pages updated: entities/parties/dap.md
+
+## 2026-04-24T15:56:18Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T15:56:19Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T15:56:20Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T15:56:20Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T15:56:21Z
+
+Added Puad Zarkashi's 24 April 2026 statement to the DAP recent statements page.
+
+Pages updated: entities/parties/dap.md
+
+## 2026-04-24T15:56:21Z
+
+Completed the truncated Puad Zarkashi statement in the DAP recent statements page with full details from the 24 April 2026 article.
+
+Pages updated: entities/parties/dap.md
+
+## 2026-04-24T15:56:21Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T15:56:22Z
+
+Added complete statement for Puad Zarkashi in DAP recent statements, reflecting his 24 April 2026 comment that DAP need not wait for its July congress to quit the Cabinet.
+
+Pages updated: entities/parties/dap.md
+
+## 2026-04-24T15:56:26Z
+
+Added complete statement from Puad Zarkashi on 24 April 2026 to the Recent Statements section of the DAP party page.
+
+Pages updated: entities/parties/dap.md
+
+## 2026-04-24T15:56:32Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T15:56:44Z
+
+Added Puad Zarkashi's 24 April 2026 statement to DAP recent statements.
+
+Pages updated: entities/parties/dap.md
+
+## 2026-04-24T15:56:54Z
+
+Added complete Puad Zarkashi statement to DAP recent statements, fixing truncated entry.
+
+Pages updated: entities/parties/dap.md
+
+## 2026-04-24T15:56:59Z
+
+Completed truncated Puad Zarkashi bullet in parties/dap.md with full statement and citation.
+
+Pages updated: entities/parties/dap.md
+
+## 2026-04-24T15:57:26Z
+
+Added Puad Zarkashi statement about DAP resigning posts and anti‑Azam rally to DAP recent statements.
+
+Pages updated: entities/parties/dap.md
+
+## 2026-04-24T16:13:24Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T16:13:27Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T16:13:30Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T16:13:31Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T16:13:33Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T16:13:33Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T16:13:37Z
+
+Added complete Puad Zarkashi statement to DAP party page, fixing truncated entry.
+
+Pages updated: entities/parties/dap.md
+
+## 2026-04-24T16:13:45Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T16:14:02Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T16:14:39Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T16:14:49Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T16:14:50Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T16:14:51Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T16:14:51Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T16:14:52Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T16:14:54Z
+
+Added Puad Zarkashi's 24 April 2026 statement challenging DAP to resign ministerial posts to the DAP party page.
+
+Pages updated: entities/parties/dap.md
+
+## 2026-04-24T16:14:54Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T16:14:55Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T16:14:55Z
+
+Added specific article URL citations to Anwar Ibrahim's statements on fuel rationing and fuel pricing.
+
+Pages updated: entities/people/anwar_ibrahim.md
+
+## 2026-04-24T16:14:57Z
+
+Added URL citation to Fadillah Yusof's 24 April 2026 statement on oil‑and‑gas supply chain disruptions and second‑wave price hikes.
+
+Pages updated: entities/people/fadillah_yusof.md
+
+## 2026-04-24T16:14:58Z
+
+Added URL citation to Fadillah Yusof's 24 April 2026 statement for completeness.
+
+Pages updated: entities/people/fadillah_yusof.md
+
+## 2026-04-24T16:14:58Z
+
+Added new ​  ‑  ​  ‑  ‑  
+
+Pages updated: entities/parties/dap.md, entities/partenties/dap.md
+
+## 2026-04-24T16:14:59Z
+
+Added complete Puad Zarkashi statement to DAP recent statements page.
+
+Pages updated: entities/parties/dap.md
+
+## 2026-04-24T16:14:59Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T16:15:00Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T16:15:00Z
+
+Added the 24 April 2026 statement by UMNO member Puad Zarkashi urging DAP to quit the cabinet.
+
+Pages updated: entities/parties/dap.md
+
+## 2026-04-24T16:15:01Z
+
+Added Puad Zarkashi's 24 April 2026 statement to DAP's Recent Statements page.
+
+Pages updated: entities/parties/dap.md
+
+## 2026-04-24T16:15:03Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T16:15:05Z
+
+Added specific article URL citations to Anwar Ibrahim's fuel rationing and pricing statements.
+
+Pages updated: entities/people/anwar_ibrahim.md
+
+## 2026-04-24T16:15:06Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T16:15:16Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T16:15:31Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T16:15:59Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T16:16:04Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T16:16:12Z
+
+Added complete Puad Zarkashi statement to DAP recent statements, fixing truncated bullet.
+
+Pages updated: entities/parties/dap.md
+
+## 2026-04-24T16:16:12Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T16:16:13Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T16:16:13Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T16:16:14Z
+
+Updated the the  ...
+
+Pages updated: entities/parties/dap.md, entities/parties/dap.md
+
+## 2026-04-24T16:16:16Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T16:16:18Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T16:16:20Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T16:16:21Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T16:16:27Z
+
+Added the new election‑timing statement to Anwar Ibrahim and DAP pages, marking existing contradictory entries.
+
+Pages updated: entities/people/anwar_ibrahim.md, entities/parties/dap.md
+
+## 2026-04-24T16:16:37Z
+
+Added missing Bahasa article URL to DAP incident list and completed truncated Puad Zarkashi statement in recent statements.
+
+Pages updated: entities/partenties/dap.md, entities/parties/dap.md
+
+## 2026-04-24T16:16:38Z
+
+Added Bahasa‑language citation for Puad Zarkashi's 24 April 2026 statement and completed the missing Puad Zarkashi entry in the DAP recent statements page.
+
+Pages updated: entities/parties/dap.md, entities/partenties/dap.md
+
+## 2026-04-24T16:16:41Z
+
+Added Puad Zarkashi's 24 April 2026 statement urging DAP to quit the Cabinet to the DAP Recent Statements section.
+
+Pages updated: entities/parties/dap.md
+
+## 2026-04-24T16:16:56Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T16:17:35Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T16:17:59Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T16:18:00Z
+
+Added Puad Zarkashi's 24 April 2026 statement about DAP's ministerial resignations to the DAP page.
+
+Pages updated: entities/parties/dap.md
+
+## 2026-04-24T16:18:01Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T16:18:01Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T16:18:01Z
+
+Added the Bahasa‑language citation for Puad Zarkashi's 24 April 2026 statement to both the party and incident pages, and completed the truncated Puad entry in the party statements.
+
+Pages updated: entities/parties/dap.md, entities/partenties/dap.md
+
+## 2026-04-24T16:18:02Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T16:18:02Z
+
+Added Puad Zarkashi's 24 April 2026 statement urging DAP to quit cabinet without waiting for its July congress.
+
+Pages updated: entities/parties/dap.md
+
+## 2026-04-24T16:18:03Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T16:18:03Z
+
+Added Puad Zarkashi's 24 April 2026 statement to DAP page, completing previously truncated entry.
+
+Pages updated: entities/parties/dap.md
+
+## 2026-04-24T16:18:04Z
+
+Added Puad Zarkashi's 24 April 2026 statement to DAP page, replacing incomplete entry.
+
+Pages updated: entities/parties/dap.md
+
+## 2026-04-24T16:18:04Z
+
+Added Puad Zarkashi's 24 April 2026 statement urging DAP to quit cabinet without waiting for its July congress.
+
+Pages updated: entities/parties/dap.md
+
+## 2026-04-24T16:18:04Z
+
+Added Puad Zarkashi's 24 April 2026 statement urging DAP to quit cabinet without waiting for its July congress.
+
+Pages updated: entities/parties/dap.md
+
+## 2026-04-24T16:18:05Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T16:18:05Z
+
+Added Puad Zarkashi's 24 April 2026 statement urging DAP to quit the cabinet to the DAP page.
+
+Pages updated: entities/parties/dap.md
+
+## 2026-04-24T16:18:05Z
+
+Added Puad Zarkashi's 24 April 2026 statement urging DAP to quit the Cabinet to the DAP page.
+
+Pages updated: entities/parties/dap.md
+
+## 2026-04-24T16:18:06Z
+
+Added Puad Zarkashi's 24 April 2026 statement urging DAP to quit the cabinet to both the DAP party page and created a new page for Puad Zarkashi.
+
+Pages updated: entities/parties/dap.md, entities/people/puad_zarkashi.md
+
+## 2026-04-24T16:18:06Z
+
+Added Puad Zarkashi's 24 April 2026 statement urging DAP to quit the cabinet now to the DAP page.
+
+Pages updated: entities/parties/dap.md
+
+## 2026-04-24T16:18:06Z
+
+Added Puad Zarkashi's 24 April 2026 statement urging DAP to quit the Cabinet without waiting for its July congress.
+
+Pages updated: entities/parties/dap.md
+
+## 2026-04-24T16:18:07Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T16:18:07Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T16:18:07Z
+
+Added Puad Zarkashi's 24 April 2026 statement urging DAP to quit the Cabinet to both the DAP party page and created a new person page for Puad Zarkashi.
+
+Pages updated: entities/parties/dap.md, entities/people/puad_zarkashi.md
+
+## 2026-04-24T16:18:07Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T16:18:08Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T16:18:08Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T16:18:09Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T16:18:09Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T16:18:09Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T16:18:11Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T16:18:11Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T16:18:14Z
+
+Added Puad Zarkashi's 24 April 2026 statement urging DAP to quit the Cabinet to both the DAP party page and created a new profile page for Puad Zarkashi.
+
+Pages updated: entities/parties/dap.md, entities/people/puad_zarkashi.md
+
+## 2026-04-24T16:18:15Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T16:18:15Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T16:18:15Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T16:18:16Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T16:18:18Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T16:18:19Z
+
+Added Puad Zarkashi's 24 April 2026 statement challenging DAP to resign ministers before an Azam‑related gathering to the DAP page.
+
+Pages updated: entities/parties/dap.md
+
+## 2026-04-24T16:18:19Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T16:18:19Z
+
+Added 24 April 2026 incident where Umno member Puad challenges DAP to quit the Cabinet.
+
+Pages updated: entities/parties/dap.md
+
+## 2026-04-24T16:18:20Z
+
+Added 2026 incident where UMNO member Puad urged DAP to quit the Cabinet, citing Free Malaysia Today.
+
+Pages updated: entities/parties/dap.md
+
+## 2026-04-24T16:18:20Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T16:18:20Z
+
+Added new bullet to P.152 Kluang page summarizing Anwar's 24 April 2026 statements on no fuel rationing and low RON95 price.
+
+Pages updated: entities/constituencies/parlimen/p152-kluang.md
+
+## 2026-04-24T16:18:21Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T16:18:22Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T16:18:25Z
+
+Added Puad Zarkashi's 24 April 2026 statement urging DAP to quit the cabinet to the DAP recent statements.
+
+Pages updated: entities/parties/dap.md
+
+## 2026-04-24T16:18:45Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T16:18:47Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T16:19:55Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T16:21:53Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T16:21:53Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T16:21:54Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T16:21:54Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T16:21:55Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T16:21:57Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T16:21:58Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T16:21:59Z
+
+Added missing Puad Zarkashi statement to DAP recent statements with proper citation.
+
+Pages updated: entities/parties/dap.md
+
+## 2026-04-24T16:22:00Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T16:22:05Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T16:22:06Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T16:22:07Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T16:22:11Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T16:22:12Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T16:22:25Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T16:22:42Z
+
+Updated ...
+
+Pages updated: entities/parties/dap.md
+
+## 2026-04-24T16:22:43Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T16:22:44Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T16:22:46Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T16:22:49Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T16:22:53Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T16:22:54Z
+
+Added Anwar Ibrahim's 24 April 2026 statements on no fuel rationing and RON95 pricing to the DAP recent statements page.
+
+Pages updated: entities/parties/dap.md
+
+## 2026-04-24T16:23:11Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T16:23:25Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T16:23:26Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T16:23:27Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T16:23:35Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T16:23:36Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T16:23:37Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T16:23:38Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T16:23:40Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T16:23:41Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T16:23:41Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T16:23:44Z
+
+Added full name and URL citation to DAP page's 2026 incident entry.
+
+Pages updated: entities/parties/dap.md
+
+## 2026-04-24T16:23:45Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T16:23:46Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T16:23:47Z
+
+Added detail that Puad also downplayed the anti‑Azam rally to both the DAP party page and Puad Zarkashi's page.
+
+Pages updated: entities/parties/dap.md, entities/people/puad_zarkashi.md
+
+## 2026-04-24T16:23:48Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T16:23:50Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T16:23:51Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T16:23:51Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T16:23:54Z
+
+Added complete Puad Zarkashi statement to DAP page, fixing truncated bullet and citing the new article.
+
+Pages updated: entities/parties/dap.md
+
+## 2026-04-24T16:24:00Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T16:24:05Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T16:24:09Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T16:24:11Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T16:24:16Z
+
+Added URL citations to Anwar Ibrahim page for the 24 April 2026 fuel rationing and pricing statements.
+
+Pages updated: entities/people/anwar_ibrahim.md
+
+## 2026-04-24T16:24:19Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T16:24:21Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T16:24:25Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T16:24:34Z
+
+Added Puad Zarkashi's 24 April 2026 statement challenging DAP to quit the Cabinet to the DAP party page.
+
+Pages updated: entities/parties/dap.md
+
+## 2026-04-24T16:25:29Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T16:26:27Z
+
+Added Anwar's 24 April 2026 statements on no fuel rationing and low RON95 price to the DAP recent statements section.
+
+Pages updated: entities/parties/dap.md
+
+## 2026-04-24T16:26:28Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T16:26:30Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T16:26:30Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T16:26:31Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T16:26:33Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T16:26:33Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T16:26:34Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T16:26:34Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T16:26:35Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T16:26:36Z
+
+Added Puad Zarkashi's rally‑related statement to DAP's Recent Statements and expanded Puad Zarkashi's news with the rally detail.
+
+Pages updated: entities/parties/dap.md, entities/people/puad_zarkashi.md
+
+## 2026-04-24T16:26:37Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T16:26:38Z
+
+Added complete Puad Zarkashi statement to DAP recent statements, fixing truncated entry.
+
+Pages updated: entities/parties/dap.md
+
+## 2026-04-24T16:26:39Z
+
+Added the 24 April 2026 Puad Zarkashi statement to the DAP party page under Recent Statements and a new 2026 Incident section.
+
+Pages updated: entities/parties/dap.md
+
+## 2026-04-24T16:26:40Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T16:26:41Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T16:26:42Z
+
+Added Bahasa‑language citation of Puad Zarkashi's challenge to DAP on 24 April 2026 to his page.
+
+Pages updated: entities/people/puad_zarkashi.md
+
+## 2026-04-24T16:26:43Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T16:26:44Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T16:26:45Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T16:26:46Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T16:26:47Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T16:26:48Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T16:26:50Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T16:26:51Z
+
+Added URL to citation on MCA page to reflect the Free Malaysia Today article about younger candidates and voter credibility.
+
+Pages updated: entities/parties/mca.md
+
+## 2026-04-24T16:26:52Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T16:26:53Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T16:26:54Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T16:26:54Z
+
+Added Puad Zarkashi statement to DAP page to complete truncated entry.
+
+Pages updated: entities/parties/dap.md
+
+## 2026-04-24T16:26:55Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T16:26:56Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T16:26:57Z
+
+Added Puad Zarkashi's 24 April 2026 statement urging DAP to quit the Cabinet to the DAP party page.
+
+Pages updated: entities/parties/dap.md
+
+## 2026-04-24T16:27:07Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T16:27:11Z
+
+Added Puad Zarkashi's role as Ahli MKT of UMNO and updated the 24 April 2026 news entry with the Bahasa source.
+
+Pages updated: entities/people/puad_zarkashi.md
+
+## 2026-04-24T16:27:12Z
+
+Added Puad Zarkashi's 24 April 2026 statement to DAP's Recent Statements page.
+
+Pages updated: entities/parties/dap.md
+
+## 2026-04-24T16:27:13Z
+
+Added Bahasa‑language citation of Puad Zarkashi's 24 April 2026 challenge to DAP on both Puad Zarkashi's personal page and DAP's recent statements page.
+
+Pages updated: entities/people/puad_zarkashi.md, entities/parties/dap.md
+
+## 2026-04-24T16:27:16Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T16:27:36Z
+
+Added Puad Zarkashi's 24 April 2026 statement challenging DAP to quit the Cabinet to the DAP party page.
+
+Pages updated: entities/parties/dap.md
+
+## 2026-04-24T16:28:04Z
+
+Added Anwar Ibrahim's 24 April 2026 fuel rationing and pricing statements to the DAP recent statements list.
+
+Pages updated: entities/parties/dap.md
+
+## 2026-04-24T16:28:12Z
+
+Added missing URL citation for Anwar's 24 April 2026 fuel rationing and pricing statement in the Kluang constituency page.
+
+Pages updated: entities/constituencies/parlimen/p152-kluang.md
+
+## 2026-04-24T16:28:13Z
+
+Added the new 24 April 2026 statement where Puad Zarkashi dares DAP to quit the cabinet and downplays the anti‑Azam rally.
+
+Pages updated: entities/people/puad_zarkashi.md, entities/partenties/dap.md, entities/parties/dap.md
+
+## 2026-04-24T16:34:49Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T16:34:58Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T16:43:44Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T16:43:45Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T16:43:59Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T16:44:00Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T16:44:06Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T16:44:07Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T16:44:19Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T16:44:24Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T16:44:40Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T16:44:41Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T16:44:41Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T16:44:42Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T16:44:42Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T16:44:42Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T16:44:43Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T16:44:43Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T16:44:43Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T16:44:44Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T16:44:45Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T16:44:45Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T16:44:45Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T16:44:46Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T16:44:46Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T16:44:46Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T16:44:47Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T16:44:47Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T16:44:48Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T16:44:54Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T16:44:54Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T16:45:05Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T16:45:36Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T16:45:43Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T16:45:44Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T16:45:45Z
+
+Added Puad Zarkashi's membership in UMNO's MKT (Majlis Khas Tindakan) based on the 24 April 2026 article.
+
+Pages updated: entities/people/puad_zarkashi.md
+
+## 2026-04-24T16:45:46Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T16:45:47Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T16:45:48Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T16:45:49Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T16:45:49Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T16:45:50Z
+
+Added the specific URL citation for the 24 April 2026 Free Malaysia Today article to both the DAP party page and Puad Zarkashi's personal page, and created a concise bullet summarising the article.
+
+Pages updated: entities/parties/dap.md, entities/people/puad_zarkashi.md
+
+## 2026-04-24T16:45:55Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T16:45:59Z
+
+Added mention of Puad Zarkashi's role in UMNO's MKT and updated DAP and Puad Zarkashi pages with the new Bahasa article details.
+
+Pages updated: entities/parties/dap.md, entities/people/puad_zarkashi.md
+
+## 2026-04-24T16:46:04Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T16:46:05Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T16:46:05Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T16:46:06Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T16:46:07Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T16:46:09Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T16:46:10Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T16:46:12Z
+
+Added a complete bullet on Puad Zarkashi downplaying the anti‑Azam rally to the DAP page and recorded the new article as an additional news entry on Puad Zarkashi's page.
+
+Pages updated: entities/parties/dap.md, entities/people/puad_zarkashi.md
+
+## 2026-04-24T16:46:14Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T16:46:35Z
+
+Added the Bahasa‑language report of Puad Zarkashi daring DAP to resign ministerial posts to both the DAP and Puad Zarkashi pages.
+
+Pages updated: entities/parties/dap.md, entities/people/puad_zarkashi.md
+
+## 2026-04-24T16:48:16Z
+
+Added Puad Zarkashi's MKT membership to his profile and updated DAP incidents with a new bullet reflecting the Bahasa article.
+
+Pages updated: entities/parties/dap.md, entities/people/puad_zarkashi.md
+
+## 2026-04-24T16:48:28Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T16:48:28Z
+
+Added a new bullet to the DAP page summarizing Puad Zarkashi's 24 April 2026 statement daring DAP to quit the Cabinet and downplaying the anti‑Azam rally.
+
+Pages updated: entities/parties/dap.md
+
+## 2026-04-24T16:48:33Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T16:48:34Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T16:48:34Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T16:48:36Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T16:48:36Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T16:48:36Z
+
+Added detailed 24 April 2026 incident bullets to DAP page and a new news entry for Puad Zarkashi reflecting the article "Puad dares DAP to quit Cabinet, plays down anti‑Azam rally".
+
+Pages updated: entities/partenties/dap.md, entities/people/puad_zarkashi.md
+
+## 2026-04-24T16:48:44Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T16:48:45Z
+
+Added [CONTRADICTION] markers to DAP pages where the article identifies Puad Zarkashi as a Supreme Council member, contradicting earlier labeling as a Member of Parliament.
+
+Pages updated: entities/parties/dap.md, entities/partenties/dap.md
+
+## 2026-04-24T16:48:46Z
+
+Added a new bullet on both DAP and Puad Zarkashi pages summarizing the 24 April 2026 Free Malaysia Today article where Puad dares DAP to quit the Cabinet and downplays the anti‑Azam rally.
+
+Pages updated: entities/parties/dap.md, entities/people/puad_zarkashi.md
+
+## 2026-04-24T16:48:47Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T16:48:50Z
+
+Added Bahasa‑language citation of Puad Zarkashi's challenge to DAP on 24 April 2026 to DAP party pages and Puad Zarkashi profile.
+
+Pages updated: entities/parties/dap.md, entities/partenties/dap.md, entities/people/puad_zarkashi.md
+
+## 2026-04-24T16:48:53Z
+
+Corrected Puad Zarkashi's title from MP to UMNO Supreme Council member in DAP incident entries, marking the previous claim as a contradiction.
+
+Pages updated: entities/parties/dap.md, entities/partenties/dap.md
+
+## 2026-04-24T16:48:55Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T16:48:56Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T16:48:56Z
+
+Added a concise, fully‑cited bullet to the DAP page summarising Puad Zarkashi's 24 April 2026 statement urging DAP to quit the Cabinet.
+
+Pages updated: entities/parties/dap.md
+
+## 2026-04-24T16:48:56Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T16:48:57Z
+
+Added contradiction note to DAP pages indicating Puad Zarkashi is a UMNO Supreme Council member, not an MP, per the 24 April 2026 article.
+
+Pages updated: entities/parties/dap.md, entities/partenties/dap.md
+
+## 2026-04-24T16:48:57Z
+
+Added URL citation for Anwar Ibrahim's election timing statement and updated Kluang constituency page with the same citation.
+
+Pages updated: entities/people/anwar_ibrahim.md, entities/constituencies/parlimen/p152-kluang.md
+
+## 2026-04-24T16:48:57Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T16:48:58Z
+
+Added full details and proper citations for Puad Zarkashi's 24 April 2026 challenge to DAP, updating both the DAP and Puad Zarkashi pages.
+
+Pages updated: entities/parties/dap.md, entities/people/puad_zarkashi.md
+
+## 2026-04-24T16:48:58Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T16:48:58Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T16:48:59Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T16:48:59Z
+
+Added Bahasa‑language source for Puad Zarkashi's challenge to DAP on both the DAP and Puad Zarkashi pages.
+
+Pages updated: entities/parties/dap.md, entities/people/puad_zarkashi.md
+
+## 2026-04-24T16:48:59Z
+
+Added complete details of Puad Zarkashi's 24 April 2026 statements to DAP and Puad Zarkashi pages, fixing truncated bullet and including new citation.
+
+Pages updated: entities/partenties/dap.md, entities/people/puad_zarkashi.md
+
+## 2026-04-24T16:48:59Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T16:49:00Z
+
+Added a new bullet to Anwar Ibrahim's page citing the Free Malaysia Today article that reports he is eyeing a poll by October due to fuel‑subsidy cuts.
+
+Pages updated: entities/people/anwar_ibrahim.md
+
+## 2026-04-24T16:49:00Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T16:49:01Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T16:49:01Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T16:49:01Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T16:49:01Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T16:49:02Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T16:49:02Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T16:49:02Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T16:49:02Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T16:49:02Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T16:49:02Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T16:49:03Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T16:49:04Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T16:49:05Z
+
+Added citation for Anwar Ibrahim's 24 April 2026 election‑timing statement referencing the new Free Malaysia Today article.
+
+Pages updated: entities/people/anwar_ibrahim.md
+
+## 2026-04-24T16:49:06Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T16:49:08Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T16:49:32Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T16:49:35Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T16:50:06Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T16:50:12Z
+
+Added Puad Zarkashi's role as Ahli MKT UMNO and a new news bullet reflecting the latest article.
+
+Pages updated: entities/people/puad_zarkashi.md
+
+## 2026-04-24T16:50:13Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T16:50:16Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T16:50:28Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T16:50:29Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T16:50:29Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T16:50:30Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T16:50:31Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T16:50:31Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T16:50:31Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T16:50:31Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T16:50:31Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T16:50:32Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T16:50:32Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T16:50:32Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T16:50:33Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T16:50:33Z
+
+Added new bullet points to DAP and Puad Zarkashi pages reflecting the 24 April 2026 article where Puad dares DAP to quit the Cabinet and downplays the anti‑Azam rally.
+
+Pages updated: entities/parties/dap.md, entities/people/puad_zarkashi.md
+
+## 2026-04-24T16:50:34Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T16:50:37Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T16:50:40Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T16:50:56Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T16:51:02Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T16:51:25Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T16:51:27Z
+
+No relevant updates needed as the article's facts are already reflected in existing pages.
+
+Pages updated: none
+
+## 2026-04-24T16:51:55Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T16:51:55Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T16:51:55Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T16:51:57Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T16:51:57Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T16:51:58Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T16:52:05Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T16:52:06Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T16:52:06Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T16:52:07Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T16:52:07Z
+
+Added the new Free Malaysia Today report citation to Anwar Ibrahim's election timing statements on both his personal page and the Kluang constituency page.
+
+Pages updated: entities/people/anwar_ibrahim.md, entities/constituencies/parlimen/p152-kluang.md
+
+## 2026-04-24T16:52:07Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T16:52:08Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T16:52:08Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T16:52:09Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T16:52:09Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T16:52:10Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T16:52:10Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T16:52:10Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T16:52:11Z
+
+Added the specific article title and URL to Puad Zarkashi's news and expanded DAP incident entries with the new citation.
+
+Pages updated: entities/people/puad_zarkashi.md, entities/parties/dap.md, entities/partenties/dap.md
+
+## 2026-04-24T16:52:11Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T16:52:12Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T16:52:12Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T16:52:12Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T16:52:12Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T16:52:13Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T16:52:13Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T16:52:13Z
+
+Added a new bullet to DAP pages documenting the specific Free Malaysia Today article titled “Puad dares DAP to quit Cabinet, plays down anti‑Azam rally” published on 24 April 2026.
+
+Pages updated: entities/parties/dap.md, entities/partenties/dap.md
+
+## 2026-04-24T16:52:13Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T16:52:13Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T16:52:14Z
+
+Added detailed citation with URL to Puad Zarkashi news and cleaned up DAP party pages to reflect the 24 April 2026 incident accurately.
+
+Pages updated: entities/people/puad_zarkashi.md, entities/parties/dap.md, entities/partenties/dap.md
+
+## 2026-04-24T16:52:17Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T16:52:44Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T16:52:49Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T16:52:50Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T16:52:51Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T16:52:57Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T16:52:57Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T16:52:58Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T16:52:58Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T16:52:59Z
+
+Updated Kluang constituency page to correct the source URL for Anwar's fuel rationing and pricing statement.
+
+Pages updated: entities/constituencies/parlimen/p152-kluang.md
+
+## 2026-04-24T16:52:59Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T16:53:00Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T16:53:00Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T16:53:00Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T16:53:01Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T16:53:01Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T16:53:01Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T16:53:02Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T16:53:02Z
+
+Added the new fuel rationing and pricing statements from Anwar Ibrahim's 24 April 2026 interview.
+
+Pages updated: entities/people/anwar_ibrahim.md
+
+## 2026-04-24T16:53:03Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T16:53:05Z
+
+No relevant updates needed as the article's facts are already recorded on the DAP and Puad Zarkashi pages.
+
+Pages updated: none
+
+## 2026-04-24T16:53:06Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T16:53:06Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T16:53:06Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T16:53:07Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T16:53:07Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T16:53:07Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T16:53:07Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T16:53:07Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T16:53:08Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T16:53:12Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T16:53:12Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T16:53:14Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T16:53:16Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T16:53:23Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-24T16:53:38Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-24T16:54:31Z
+
+Added a new bullet citing the specific Free Malaysia Today article on 24 April 2026 to DAP and Puad Zarkashi pages (including URL) to reflect Puad's challenge and rally comment.
+
+Pages updated: entities/parties/dap.md, entities/people/puad_zarkashi.md, entities/partenties/dap.md

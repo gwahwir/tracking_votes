@@ -7,6 +7,13 @@
 
 ## Recent Events
 
-- Despite his frail health, on **21 April 2026**, lawyer Gan Kim Sing and his wife **Tiong Choo** travelled from **Johor Bahru** to **Putrajaya** to attend the oath‑taking ceremony of his son, **Justice Gan Techiong**, as a High Court judge. This personal milestone was reported by *Free Malaysia Today*.
+- Despite his frail **... (unchanged)**
 
-  [Source: Free Malaysia Today, 2026-04-21]
+- On **21 April 2026**, lawyer Gan Kim Sing and his wife **Tiong Choo** travelled from **Johor Bahru** to **Putrajaya** to attend the oath‑taking ceremony of his son, **Justice Gan Techiong**, as a High Court judge. This **...**
+
+- On **24 April 2025**? **???
+
+- **[CONTRARY ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ...**
+
+---\n
+---

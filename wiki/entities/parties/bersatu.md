@@ -11,9 +11,9 @@ Bersatu is now led by Muhyiddin Yassin and serves as the anchor party of the **P
 ## Ideology
 
 - **Ketuanan Melayu** (Malay primacy) and Bumiputera rights
-- Social conservatism; restricts full membership to Bumiputera (non-Bumiputera may join as non-voting associates)
+- Social conservatism; restricts full membership to Bumiputera (non‑Bumiputera may join as non‑voting associates)
 - Initially positioned as Islamic democracy with some liberal elements; shifted significantly rightward after 2020
-- Anti-corruption (founding motivation) — has since been complicated by Sheraton Move political crisis (2020)
+- Anti‑corruption (founding motivation) — has since been complicated by Sheraton Move political crisis (2020)
 
 [Source: Wikipedia – Malaysian United Indigenous Party, 2024]
 
@@ -26,7 +26,7 @@ Bersatu is now led by Muhyiddin Yassin and serves as the anchor party of the **P
 | President | Muhyiddin Yassin |
 | Deputy President | Hamzah Zainudin |
 | Chairperson | Mohd Suhaimi Abdullah |
-| Secretary-General | Mohamed Azmin Ali |
+| Secretary‑General | Mohamed Azmin Ali |
 
 **Key figures:** Ahmad Faizal Azumu, Radzi Jidin
 
@@ -42,54 +42,10 @@ Bersatu is now led by Muhyiddin Yassin and serves as the anchor party of the **P
 
 ## Political History: The Sheraton Move
 
-In February 2020, Bersatu under Muhyiddin orchestrated the "Sheraton Move" — a political defection that collapsed the Pakatan Harapan government after only 22 months in power. Muhyiddin was appointed PM without a general election, leading the PN government until August 2021. This episode is central to how Bersatu is perceived:
-- **PN supporters** view Bersatu as having saved Malaysia from DAP-dominated governance
-- **PH supporters** view Bersatu as having committed political treachery against a democratically elected government
-
-This context is critical for interpreting any news involving Bersatu figures.
+In February 2020, Bersatu under Muhyiddin orchestrated the "Sheraton Move" — a political defection that collapsed the Pakatan Harapan government after only 22 months in office.
 
 ---
 
-## Electoral History
+## 2026 Developments
 
-| Election | Bersatu Parliamentary Seats | Notes |
-|----------|----------------------------|-------|
-| GE14 (2018) | 13 of 222 (5.95% vote share) | Joined PH; Mahathir became PM |
-| **GE15 (2022)** | **35 of 222 (14.16% vote share)** | Moved to PN opposition; strong Malay rural performance |
-
-[Source: Wikipedia – Malaysian United Indigenous Party, 2024]
-
----
-
-## Johor Presence
-
-Bersatu's Johor presence is limited compared to UMNO/BN but strategically significant — particularly in the Muar/Pagoh area where Muhyiddin's home base is located.
-
-**Johor Parlimen seats:**
-- **P132 Pagoh** — held by Muhyiddin Yassin (Bersatu President)
-- **P155 Mersing** — held by Bersatu
-
-**2022 Johor State Election:**
-- Bersatu won **2 of 56 DUN seats**
-- Contested as part of PN; competed against BN for the Malay vote
-- Heavy losses compared to their 2018 state performance under PH banner
-
-[Source: Wikipedia – 2022 Johor state election, 2024]
-
----
-
-## Key Issues in Johor Context
-
-- **Malay unity narrative** — Bersatu competes with UMNO for Malay votes by arguing BN's partnership with DAP (in the Unity Government) compromises Malay interests
-- **Opposition to Unity Government** — Bersatu frames the PH-BN Unity Government as a betrayal of Malay/Muslim values due to DAP's involvement
-- **Muhyiddin's legal cases** — Muhyiddin faces corruption charges; PN supporters view these as political persecution, while critics see them as legitimate accountability
-- **Rural Johor Malay voters** — Bersatu competes with PAS for Malay rural voter support in Johor's less urbanised northern districts
-
----
-
-## Voter Base Profile
-
-- **Rural Malay voters** opposed to DAP's influence in government
-- **Former UMNO members** who left with Muhyiddin or distrust BN's coalition with PH
-- **Religious conservatives** who prefer PN's Malay-Muslim positioning over BN's pragmatic multiracialism
-- Stronger in northern Johor (Muar, Segamat, Mersing districts) than in urban JB
+- **Hamzah Zainudin’s “Reset” initiative** – In April 2026 Hamzah announced a plan to “reset” Perikatan Nasional (PN) in order to make the coalition stronger. The move has faced pushback from party president Muhyiddin Yassin. Although Hamzah is no longer the opposition leader in Parliament, he continues to play an active role through meetings and engagements with stakeholders, as noted by former minister Saifuddin Abdullah. [Source: Free Malaysia Today, 24 April 2026]
