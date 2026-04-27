@@ -19,8 +19,12 @@ from __future__ import annotations
 import asyncio
 import json
 import os
+import sys
 import uuid
 from pathlib import Path
+
+# Ensure project root is on sys.path so `agents` package is importable
+sys.path.insert(0, str(Path(__file__).parent.parent))
 
 from dotenv import load_dotenv
 from sqlalchemy import delete, text
