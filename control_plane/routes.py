@@ -136,6 +136,18 @@ async def _stream_task(
         log.error("task.failed", task_id=task_id, error=str(exc))
         await task_store.update(task_id, state=TaskState.FAILED, error=str(exc))
         await broker.publish(task_id, {"type": "state", "state": TaskState.FAILED.value, "error": str(exc)})
+
+        # Auto-retry seat_agent tasks once on failure (network errors cause lost predictions)
+        if type_id == "seat_agent" and not metadata.get("_retry"):
+            retry_meta = {**metadata, "_retry": True}
+            retry_id = str(uuid.uuid4())
+            retry_record = TaskRecord(type_id=type_id, input_text=message, agent_url=agent_url, task_id=retry_id, metadata=retry_meta)
+            await task_store.create(retry_record)
+            registry.increment(type_id)
+            log.warning("task.retrying", original_task_id=task_id, retry_task_id=retry_id, type_id=type_id)
+            asyncio.create_task(
+                _stream_task(a2a, broker, task_store, registry, agent_url, retry_id, message, retry_meta, type_id)
+            )
     finally:
         registry.decrement(type_id)
 

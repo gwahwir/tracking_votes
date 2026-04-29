@@ -15,3 +15,4 @@ Return:
 - `strength`: 0–100
 - `summary`: 2–3 sentence strategic assessment
 - `tactical_implication`: specific campaign action implied or recommended, with rationale
+- `seat_implications`: list of objects, each with `code` (e.g. "P.154", "N.12") and `rationale` (one sentence). Only include seats where the strategic impact is specific and direct. Omit if no specific seats are affected.

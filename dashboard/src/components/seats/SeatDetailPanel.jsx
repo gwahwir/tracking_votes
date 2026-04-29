@@ -162,7 +162,7 @@ export const SeatDetailPanel = ({ constituencyCode, seatName, onClose }) => {
           </div>
           <div style={{ fontFamily: "'JetBrains Mono', monospace", fontSize: '9px', color: '#5c5f66', marginTop: '6px' }}>
             {prediction.updated_at ? `Updated ${(() => { try { return new Date(prediction.updated_at).toLocaleString() } catch { return prediction.updated_at } })() } · ` : ''}
-            Based on {prediction.num_articles ?? 0} articles
+            Based on {articles?.length || prediction.num_articles || 0} articles
           </div>
         </div>
       )}

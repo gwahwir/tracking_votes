@@ -7,7 +7,7 @@ import { AnalysisPanel } from '../analysis/AnalysisPanel'
 import { SeatDetailPanel } from '../seats/SeatDetailPanel'
 import { WikiModal } from '../wiki/WikiModal'
 import { AgentStatusBar } from '../agents/AgentStatusBar'
-import { useDispatchTask, useSeatPredictions, useTaskStream } from '../../hooks/useApi'
+import { useDispatchTask, useSeatPredictions, useTaskStream, useFetchArticle } from '../../hooks/useApi'
 import './DashboardShell.css'
 
 class PanelErrorBoundary extends Component {
@@ -41,6 +41,14 @@ export const DashboardShell = () => {
   const { dispatchTask } = useDispatchTask()
   const { predictions } = useSeatPredictions()
   const { status: taskStatus, nodeOutputs } = useTaskStream(activeTaskId)
+  const { fetchArticle } = useFetchArticle()
+
+  const handleAnalysisDone = useCallback(async () => {
+    if (!selectedArticle) return
+    const updated = await fetchArticle(selectedArticle.id)
+    if (updated) setSelectedArticle(updated)
+    setRefreshTrigger((p) => p + 1)
+  }, [selectedArticle, fetchArticle])
 
   useEffect(() => {
     try {
@@ -133,6 +141,7 @@ export const DashboardShell = () => {
               taskId={activeTaskId}
               refreshTrigger={refreshTrigger}
               onTaskCreated={setActiveTaskId}
+              onAnalysisDone={handleAnalysisDone}
             />
           )}
         </div>

@@ -121,9 +121,13 @@ def _openrouter_call(messages: list[dict[str, Any]], model: str | None = None, *
             return output
         except Exception as exc:
             last_exc = exc
+            try:
+                import openai as _openai
+                if isinstance(exc, (_openai.AuthenticationError, _openai.PermissionDeniedError)):
+                    raise
+            except ImportError:
+                pass
             error_str = str(exc).lower()
-            if any(code in error_str for code in ("401", "403", "invalid api key", "unauthorized")):
-                raise
             # Some OSS models don't support response_format — retry without it
             if "response_format" in error_str or "unsupported" in error_str:
                 kwargs.pop("response_format", None)
@@ -169,6 +173,78 @@ def llm_stream(messages: list[dict[str, Any]], **kwargs) -> Generator[str, None,
     except Exception as exc:
         _maybe_fallback_log(exc)
         yield _anthropic_call(messages, **kwargs)
+
+
+async def llm_call_async(messages: list[dict[str, Any]], model: str | None = None, **kwargs) -> str:
+    """Native async LLM call using AsyncOpenAI — supports true asyncio cancellation.
+
+    Use this in async contexts where you need asyncio.wait_for() to work correctly.
+    Falls back to Anthropic (via thread executor) on OpenRouter failure.
+    """
+    import asyncio
+    from openai import AsyncOpenAI  # type: ignore
+
+    key = os.environ.get("OPENAI_API_KEY")
+    if not key:
+        raise RuntimeError("OPENAI_API_KEY is not set")
+
+    client = AsyncOpenAI(
+        api_key=key,
+        base_url=os.environ.get("OPENAI_BASE_URL", "https://openrouter.ai/api/v1"),
+        default_headers={
+            "HTTP-Referer": os.environ.get("APP_URL", "http://localhost:5173"),
+            "X-Title": "Johor Election Dashboard",
+        },
+        timeout=50.0,
+    )
+
+    max_attempts = 3
+    last_exc: Exception | None = None
+    for attempt in range(max_attempts):
+        try:
+            resp = await client.chat.completions.create(
+                model=_get_model(model),
+                messages=messages,
+                **kwargs,
+            )
+            output = resp.choices[0].message.content or ""
+            usage = {}
+            if resp.usage:
+                usage = {
+                    "prompt_tokens": resp.usage.prompt_tokens,
+                    "completion_tokens": resp.usage.completion_tokens,
+                    "total_tokens": resp.usage.total_tokens,
+                }
+            log_generation(
+                name="openrouter.chat",
+                model=_get_model(model),
+                input=messages,
+                output=output,
+                usage=usage or None,
+            )
+            return output
+        except Exception as exc:
+            last_exc = exc
+            try:
+                import openai as _openai
+                if isinstance(exc, (_openai.AuthenticationError, _openai.PermissionDeniedError)):
+                    raise
+            except ImportError:
+                pass
+            error_str = str(exc).lower()
+            if "response_format" in error_str or "unsupported" in error_str:
+                kwargs.pop("response_format", None)
+                log.warning("openrouter.dropped_response_format", model=_get_model(model))
+                continue
+            if attempt < max_attempts - 1:
+                delay = 2.0 ** attempt
+                log.warning("openrouter.async_retry", attempt=attempt + 1, delay=delay, error=str(exc))
+                await asyncio.sleep(delay)
+
+    # Fallback to Anthropic via thread executor
+    _maybe_fallback_log(last_exc)
+    loop = asyncio.get_event_loop()
+    return await loop.run_in_executor(None, lambda: _anthropic_call(messages, **kwargs))
 
 
 async def llm_call_with_fallback(messages: list[dict], **kwargs) -> str:

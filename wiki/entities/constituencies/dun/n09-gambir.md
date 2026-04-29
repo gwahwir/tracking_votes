@@ -3,7 +3,7 @@
 **State:** Johor  
 **Type:** DUN (State)  
 **Parlimen:** P.144  
-**Region:** North  
+**Region:** North
 
 ## Demographics
 
@@ -39,6 +39,8 @@
 
 **Turnout:** 86.9% | **Margin:** 3,088 (16.0%)
 
----
+## 2026 Statement
+
+State PAS commissioner Mahfodz Mohamed announced that PAS is strengthening its machinery early to prepare for a more intense political contest ahead of GE16. [Source: Free Malaysia Today, 27 April 2026]
 
 *Source: SPR Official Results; TindakMalaysia; Wikipedia*

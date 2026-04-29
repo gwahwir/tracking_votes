@@ -27244,3 +27244,27 @@ Pages updated: none
 No relevant updates needed.
 
 Pages updated: none
+
+## 2026-04-29T08:18:09Z
+
+Added new page for Tan Lek Khang with details of his accidental shooting and surgery on 28 April 2026.
+
+Pages updated: entities/people/tan_lek_khang.md
+
+## 2026-04-29T08:31:29Z
+
+Added new PAS page with 27 April 2026 statement by Johor PAS commissioner Mahfodz Mohamed about early party‑machinery strengthening for Muar contest.
+
+Pages updated: entities/parties/pas.md
+
+## 2026-04-29T08:36:16Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-04-29T08:50:10Z
+
+Added a 2026 statement about PAS commissioner Mahfodz Mohamed strengthening party machinery to the four constituency pages where he previously appeared as a candidate.
+
+Pages updated: entities/constituencies/parlimen/p143-pagoh.md, entities/constituencies/dun/n09-gambir.md, entities/constituencies/parlimen/p150-batu-pahat.md, entities/constituencies/parlimen/p161-pulai.md

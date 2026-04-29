@@ -2,6 +2,34 @@ import { useState, useEffect, useRef } from 'react'
 import { useTaskStream } from '../../hooks/useApi'
 import './AnalysisPanel.css'
 
+const SEAT_NAMES = {
+  'P.140':'Segamat','P.141':'Sekijang','P.142':'Labis','P.143':'Pagoh','P.144':'Ledang',
+  'P.145':'Bakri','P.146':'Muar','P.147':'Parit Sulong','P.148':'Ayer Hitam','P.149':'Sri Gading',
+  'P.150':'Batu Pahat','P.151':'Simpang Renggam','P.152':'Kluang','P.153':'Sembrong','P.154':'Mersing',
+  'P.155':'Tenggara','P.156':'Kota Tinggi','P.157':'Pengerang','P.158':'Tebrau','P.159':'Pasir Gudang',
+  'P.160':'Johor Bahru','P.161':'Pulai','P.162':'Iskandar Puteri','P.163':'Kulai','P.164':'Pontian',
+  'P.165':'Tanjung Piai',
+  'N.01':'Buloh Kasap','N.02':'Jementah','N.03':'Pemanis','N.04':'Kemelah','N.05':'Tenang',
+  'N.06':'Bekok','N.07':'Bukit Kepong','N.08':'Bukit Pasir','N.09':'Gambir','N.10':'Tangkak',
+  'N.11':'Serom','N.12':'Bentayan','N.13':'Simpang Jeram','N.14':'Bukit Naning','N.15':'Maharani',
+  'N.16':'Sungai Balang','N.17':'Semerah','N.18':'Sri Medan','N.19':'Yong Peng','N.20':'Semarang',
+  'N.21':'Parit Yaani','N.22':'Parit Raja','N.23':'Penggaram','N.24':'Senggarang','N.25':'Rengit',
+  'N.26':'Machap','N.27':'Layang-Layang','N.28':'Mengkibol','N.29':'Mahkota','N.30':'Paloh',
+  'N.31':'Kahang','N.32':'Endau','N.33':'Tenggaroh','N.34':'Panti','N.35':'Pasir Raja',
+  'N.36':'Sedili','N.37':'Johor Lama','N.38':'Penawar','N.39':'Tanjung Surat','N.40':'Tiram',
+  'N.41':'Puteri Wangsa','N.42':'Johor Jaya','N.43':'Permas','N.44':'Larkin','N.45':'Stulang',
+  'N.46':'Perling','N.47':'Kempas','N.48':'Skudai','N.49':'Kota Iskandar','N.50':'Bukit Permai',
+  'N.51':'Bukit Batu','N.52':'Senai','N.53':'Benut','N.54':'Pulai Sebatang','N.55':'Pekan Nanas',
+  'N.56':'Kukup',
+}
+
+// Normalise LLM-emitted codes like "P151", "P151 (Muar)", "N.04" → "P.151", "N.04"
+const normaliseCode = (raw) => {
+  const m = String(raw).match(/\b([PN])\.?(\d+)\b/i)
+  if (!m) return null
+  return `${m[1].toUpperCase()}.${m[2]}`
+}
+
 const API_BASE = import.meta.env.VITE_API_URL || 'http://localhost:8000'
 
 const LENSES = [
@@ -60,6 +88,12 @@ const LensContent = ({ data, lens, pending }) => {
       No {lens.label.toLowerCase()} analysis yet.
     </div>
   )
+  const hasContent = data.direction || data.strength != null || data.summary
+  if (!hasContent) return (
+    <div style={{ fontFamily: "'JetBrains Mono', monospace", fontSize: '11px', color: '#5c5f66', padding: '16px 0' }}>
+      No significant signals detected for this lens.
+    </div>
+  )
   return (
     <div style={{ display: 'flex', flexDirection: 'column', gap: '12px' }}>
       {data.direction && (
@@ -88,6 +122,27 @@ const LensContent = ({ data, lens, pending }) => {
           <p style={{ fontFamily: "'JetBrains Mono', monospace", fontSize: '11px', color: '#c1c2c5', lineHeight: 1.65, margin: 0 }}>
             {data.summary}
           </p>
+        </div>
+      )}
+      {data.seat_implications?.length > 0 && (
+        <div style={{ display: 'flex', flexDirection: 'column', gap: '6px' }}>
+          <span style={{ fontFamily: "'JetBrains Mono', monospace", fontSize: '9px', color: '#5c5f66', textTransform: 'uppercase' }}>
+            Seat Implications
+          </span>
+          <div style={{ display: 'flex', flexDirection: 'column', gap: '8px' }}>
+            {data.seat_implications.map(({ code, name, rationale }) => (
+              <div key={code} style={{ borderLeft: '2px solid #00d4ff30', paddingLeft: '8px' }}>
+                <div style={{ fontFamily: "'JetBrains Mono', monospace", fontSize: '10px', color: '#00d4ff', fontWeight: 700, marginBottom: '2px' }}>
+                  {code}{name ? ` — ${name}` : ''}
+                </div>
+                {rationale && (
+                  <div style={{ fontFamily: "'JetBrains Mono', monospace", fontSize: '10px', color: '#909296', lineHeight: 1.5 }}>
+                    {rationale}
+                  </div>
+                )}
+              </div>
+            ))}
+          </div>
         </div>
       )}
     </div>
@@ -119,11 +174,25 @@ async function fetchAnalyses(articleId) {
   if (!res.ok) return {}
   const data = await res.json()
   const byLens = {}
-  data.forEach((a) => { byLens[a.lens_name] = a })
+  data.forEach((a) => {
+    let full = null
+    if (a.full_result) {
+      try { full = typeof a.full_result === 'string' ? JSON.parse(a.full_result) : a.full_result } catch {}
+    }
+    // Normalise seat_implications codes and attach to top-level lens object
+    const rawImplications = full?.seat_implications || []
+    const seat_implications = rawImplications
+      .map((item) => {
+        const code = normaliseCode(typeof item === 'string' ? item : item.code || '')
+        return code ? { code, name: SEAT_NAMES[code] || '', rationale: item.rationale || '' } : null
+      })
+      .filter(Boolean)
+    byLens[a.lens_name] = { ...a, full, seat_implications }
+  })
   return byLens
 }
 
-export const AnalysisPanel = ({ article, taskId, refreshTrigger, onTaskCreated }) => {
+export const AnalysisPanel = ({ article, taskId, refreshTrigger, onTaskCreated, onAnalysisDone }) => {
   const [analyses, setAnalyses] = useState({})
   const [loading, setLoading] = useState(false)
   const [pipelineState, setPipelineState] = useState('idle') // idle | scoring | analysing | done | failed
@@ -165,12 +234,27 @@ export const AnalysisPanel = ({ article, taskId, refreshTrigger, onTaskCreated }
       clearInterval(pollRef.current)
       ws?.close()
       setPipelineState(state)
+      if (state === 'done') onAnalysisDone?.()
     }
 
     const poll = async () => {
       const byLens = await fetchAnalyses(article.id)
       setAnalyses(byLens)
-      if (Object.keys(byLens).length >= LENSES.length) finish('done')
+      if (Object.keys(byLens).length >= LENSES.length) { finish('done'); return }
+
+      // Also stop if the analyst task is already terminal (handles timeouts + partial results)
+      try {
+        const res = await fetch(`${API_BASE}/tasks?limit=20`)
+        const tasks = await res.json()
+        const analystTask = tasks.find(t =>
+          t.type_id === 'analyst_agent' &&
+          t.metadata?.article_id === article.id
+        )
+        if (analystTask) {
+          if (analystTask.state === 'completed') finish('done')
+          else if (analystTask.state === 'failed' || analystTask.state === 'cancelled') finish('failed')
+        }
+      } catch (_) {}
     }
 
     // Find the analyst task for this article and watch its WebSocket
@@ -183,6 +267,10 @@ export const AnalysisPanel = ({ article, taskId, refreshTrigger, onTaskCreated }
           t.metadata?.article_id === article.id
         )
         if (!analystTask || stopped) return
+
+        // If already terminal, stop immediately
+        if (analystTask.state === 'completed') { fetchAnalyses(article.id).then(setAnalyses); finish('done'); return }
+        if (analystTask.state === 'failed' || analystTask.state === 'cancelled') { finish('failed'); return }
 
         const wsUrl = `${API_BASE.replace(/^http/, 'ws')}/ws/tasks/${analystTask.task_id}`
         ws = new WebSocket(wsUrl)

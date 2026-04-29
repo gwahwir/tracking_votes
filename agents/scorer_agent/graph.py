@@ -73,7 +73,15 @@ def _retrieve_wiki_node(state: ScorerState) -> ScorerState:
             state["source"] = data["source"]
         state["constituency_codes"] = data.get("constituency_codes", [])
     except (json.JSONDecodeError, TypeError):
-        state["article_text"] = state["input"]
+        # Strip dashboard framing ("Score this article:\n\nTitle: ...\n\nURL: ...\n\n<body>")
+        raw = state["input"]
+        if raw.lower().startswith("score this article"):
+            # Drop everything up to and including the blank line after the headers
+            parts = raw.split("\n\n", maxsplit=4)
+            # parts: ["Score this article:", "Title: ...", "URL: ...", "Source: ...", "<body>"]
+            state["article_text"] = parts[-1] if len(parts) >= 2 else raw
+        else:
+            state["article_text"] = raw
         state["constituency_codes"] = []
 
     # Also pick up constituency_codes from metadata if news_agent put them there

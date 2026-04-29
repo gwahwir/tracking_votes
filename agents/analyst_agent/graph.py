@@ -19,7 +19,7 @@ from typing import Any, TypedDict
 import structlog
 from langgraph.graph import END, StateGraph
 
-from agents.base.llm import llm_call
+from agents.base.llm import llm_call, llm_call_async
 from agents.wiki_agent.retriever import TFIDFRetriever
 from agents.wiki_agent.loader import load_all_pages
 
@@ -102,18 +102,25 @@ def _retrieve_wiki_node(state: AnalystState) -> AnalystState:
 # Node 2: run_lenses  (6 LLM calls — run concurrently via threads)
 # ---------------------------------------------------------------------------
 
-def _run_lenses_node(state: AnalystState) -> AnalystState:
+async def _run_lenses_node(state: AnalystState) -> AnalystState:
     system = state["system_prompt"]
     article = state["article_text"][:4000]
+    article_id = state.get("article_id", "")
 
-    def _call_lens(name: str, lens_prompt: str) -> tuple[str, Any]:
+    async def _call_lens(name: str, lens_prompt: str) -> tuple[str, Any]:
         messages = [
             {"role": "system", "content": f"{system}\n\n{lens_prompt}"},
             {"role": "user", "content": f"Analyse this article:\n\n{article}"},
         ]
         for attempt in range(2):
-            raw = llm_call(messages, response_format={"type": "json_object"}, temperature=0.3)
-            # Strip markdown code fences if present
+            try:
+                raw = await llm_call_async(messages, response_format={"type": "json_object"}, temperature=0.3)
+            except Exception as exc:
+                if attempt == 0:
+                    log.warning("analyst.lens_llm_retry", lens=name, error=str(exc))
+                    continue
+                log.warning("analyst.lens_llm_failed", lens=name, error=str(exc))
+                return name, {"parse_error": True}
             cleaned = raw.strip().removeprefix("```json").removeprefix("```").removesuffix("```").strip()
             try:
                 return name, json.loads(cleaned)
@@ -123,23 +130,24 @@ def _run_lenses_node(state: AnalystState) -> AnalystState:
                     continue
                 log.warning("analyst.lens_parse_failed", lens=name)
                 return name, {"parse_error": True}
+        return name, {"parse_error": True}
 
-    import concurrent.futures
-    results: dict[str, Any] = {}
-    article_id = state.get("article_id", "")
-    with concurrent.futures.ThreadPoolExecutor(max_workers=6) as pool:
-        futures = {pool.submit(_call_lens, name, prompt): name for name, prompt in _LENS_PROMPTS.items()}
-        done, not_done = concurrent.futures.wait(futures, timeout=90)
-        for future in done:
-            name, result = future.result()
-            results[name] = result
-            log.debug("analyst.lens_done", lens=name)
-            _persist_single_lens(article_id, name, result)
-        for future in not_done:
-            name = futures[future]
+    async def _call_lens_with_timeout(name: str, lens_prompt: str) -> tuple[str, Any]:
+        try:
+            return await asyncio.wait_for(_call_lens(name, lens_prompt), timeout=60.0)
+        except asyncio.TimeoutError:
             log.warning("analyst.lens_timeout", lens=name)
-            results[name] = {"parse_error": True, "timeout": True}
-            future.cancel()
+            return name, {"parse_error": True, "timeout": True}
+
+    tasks = [_call_lens_with_timeout(name, prompt) for name, prompt in _LENS_PROMPTS.items()]
+    lens_results = await asyncio.gather(*tasks)
+
+    results: dict[str, Any] = {}
+    for name, result in lens_results:
+        results[name] = result
+        if not result.get("parse_error"):
+            log.debug("analyst.lens_done", lens=name)
+            await _persist_single_lens(article_id, name, result)
 
     state["lenses"] = results
     state["output"] = json.dumps({"article_id": state["article_id"], "lenses": state["lenses"]})
@@ -150,19 +158,84 @@ def _run_lenses_node(state: AnalystState) -> AnalystState:
 # Node 3: chain_to_seat
 # ---------------------------------------------------------------------------
 
-def _extract_codes_from_political_lens(lenses: dict[str, Any]) -> list[str]:
-    """Pull constituency codes out of the political lens seat_implications list."""
-    political = lenses.get("political", {})
-    implications = political.get("seat_implications", [])
+# Valid Johor constituency codes
+_VALID_CODES: frozenset[str] = frozenset(
+    [f"P.{n}" for n in range(140, 166)] +
+    [f"N.{n:02d}" for n in range(1, 57)]
+)
+
+# Seat name → code lookup for fallback resolution when LLM emits wrong code numbers
+_SEAT_NAME_TO_CODE: dict[str, str] = {
+    name.lower(): code for code, name, _ in [
+        ("P.140","Segamat",[]),("P.141","Sekijang",[]),("P.142","Labis",[]),
+        ("P.143","Pagoh",[]),("P.144","Ledang",[]),("P.145","Bakri",[]),
+        ("P.146","Muar",[]),("P.147","Parit Sulong",[]),("P.148","Ayer Hitam",[]),
+        ("P.149","Sri Gading",[]),("P.150","Batu Pahat",[]),("P.151","Simpang Renggam",[]),
+        ("P.152","Kluang",[]),("P.153","Sembrong",[]),("P.154","Mersing",[]),
+        ("P.155","Tenggara",[]),("P.156","Kota Tinggi",[]),("P.157","Pengerang",[]),
+        ("P.158","Tebrau",[]),("P.159","Pasir Gudang",[]),("P.160","Johor Bahru",[]),
+        ("P.161","Pulai",[]),("P.162","Iskandar Puteri",[]),("P.163","Kulai",[]),
+        ("P.164","Pontian",[]),("P.165","Tanjung Piai",[]),
+        ("N.01","Buloh Kasap",[]),("N.02","Jementah",[]),("N.03","Pemanis",[]),
+        ("N.04","Kemelah",[]),("N.05","Tenang",[]),("N.06","Bekok",[]),
+        ("N.07","Bukit Kepong",[]),("N.08","Bukit Pasir",[]),("N.09","Gambir",[]),
+        ("N.10","Tangkak",[]),("N.11","Serom",[]),("N.12","Bentayan",[]),
+        ("N.13","Simpang Jeram",[]),("N.14","Bukit Naning",[]),("N.15","Maharani",[]),
+        ("N.16","Sungai Balang",[]),("N.17","Semerah",[]),("N.18","Sri Medan",[]),
+        ("N.19","Yong Peng",[]),("N.20","Semarang",[]),("N.21","Parit Yaani",[]),
+        ("N.22","Parit Raja",[]),("N.23","Penggaram",[]),("N.24","Senggarang",[]),
+        ("N.25","Rengit",[]),("N.26","Machap",[]),("N.27","Layang-Layang",[]),
+        ("N.28","Mengkibol",[]),("N.29","Mahkota",[]),("N.30","Paloh",[]),
+        ("N.31","Kahang",[]),("N.32","Endau",[]),("N.33","Tenggaroh",[]),
+        ("N.34","Panti",[]),("N.35","Pasir Raja",[]),("N.36","Sedili",[]),
+        ("N.37","Johor Lama",[]),("N.38","Penawar",[]),("N.39","Tanjung Surat",[]),
+        ("N.40","Tiram",[]),("N.41","Puteri Wangsa",[]),("N.42","Johor Jaya",[]),
+        ("N.43","Permas",[]),("N.44","Larkin",[]),("N.45","Stulang",[]),
+        ("N.46","Perling",[]),("N.47","Kempas",[]),("N.48","Skudai",[]),
+        ("N.49","Kota Iskandar",[]),("N.50","Bukit Permai",[]),("N.51","Bukit Batu",[]),
+        ("N.52","Senai",[]),("N.53","Benut",[]),("N.54","Pulai Sebatang",[]),
+        ("N.55","Pekan Nanas",[]),("N.56","Kukup",[]),
+    ]
+}
+
+
+def _resolve_code(raw: str) -> str | None:
+    """Extract and validate a constituency code from a raw LLM string.
+
+    1. Try to parse a P/N code directly — if valid, use it.
+    2. If the parsed code is invalid (wrong number), scan the full string for a
+       known seat name and use that code instead (LLM got the name right, number wrong).
+    3. Return None if neither resolves to a valid code.
+    """
+    for m in re.finditer(r'\b([PN])\.?(\d+)\b', raw, re.IGNORECASE):
+        code = f"{m.group(1).upper()}.{m.group(2)}"
+        if code in _VALID_CODES:
+            return code
+    # Fallback: scan for a known seat name in the raw string
+    raw_lower = raw.lower()
+    for name, code in _SEAT_NAME_TO_CODE.items():
+        if re.search(r'\b' + re.escape(name) + r'\b', raw_lower):
+            return code
+    return None
+
+
+def _extract_codes_from_lens(lens_data: dict[str, Any]) -> list[str]:
+    """Pull constituency codes out of a lens seat_implications list.
+
+    Uses _resolve_code so that items with wrong code numbers but correct seat
+    names are recovered rather than discarded.
+    """
+    implications = lens_data.get("seat_implications", [])
     codes: list[str] = []
     for item in implications:
-        # item may be a dict with a "code" key, or a plain string
-        raw = item.get("code", "") if isinstance(item, dict) else str(item)
-        # Match P<digits> or N<digits>, e.g. "P154", "P.154", "N04", "N.04"
-        for m in re.finditer(r'\b([PN])\.?(\d+)\b', raw, re.IGNORECASE):
-            letter = m.group(1).upper()
-            number = m.group(2)
-            codes.append(f"{letter}.{number}")
+        # Search both the code field and the rationale for seat references
+        if isinstance(item, dict):
+            search_text = f"{item.get('code', '')} {item.get('rationale', '')}"
+        else:
+            search_text = str(item)
+        code = _resolve_code(search_text)
+        if code and code not in codes:
+            codes.append(code)
     return codes
 
 
@@ -171,7 +244,9 @@ def _chain_to_seat_node(state: AnalystState) -> AnalystState:
 
     control_plane_url = os.environ.get("CONTROL_PLANE_URL", "http://control_plane:8000")
 
-    # Merge pre-tagged codes with any codes the political lens identified
+    lenses = state.get("lenses", {})
+
+    # Merge pre-tagged codes with codes from political + strategic lenses
     raw_tagged = state.get("constituency_codes", [])
     if isinstance(raw_tagged, str):
         try:
@@ -179,17 +254,52 @@ def _chain_to_seat_node(state: AnalystState) -> AnalystState:
         except (json.JSONDecodeError, TypeError):
             raw_tagged = [raw_tagged] if raw_tagged else []
     tagged_codes: list[str] = [c for c in raw_tagged if isinstance(c, str)]
-    political_codes = _extract_codes_from_political_lens(state.get("lenses", {}))
-    constituency_codes = list(dict.fromkeys(tagged_codes + political_codes))  # deduplicate, preserve order
+    political_codes = _extract_codes_from_lens(lenses.get("political", {}))
+    strategic_codes = _extract_codes_from_lens(lenses.get("strategic", {}))
+    constituency_codes = list(dict.fromkeys(tagged_codes + political_codes + strategic_codes))
 
     if not constituency_codes:
         log.info("chain.no_constituencies", article_id=state.get("article_id"))
         return state
 
     log.info("chain.constituencies", article_id=state.get("article_id"),
-             tagged=tagged_codes, from_political=political_codes, total=len(constituency_codes))
+             tagged=tagged_codes, from_political=political_codes,
+             from_strategic=strategic_codes, total=len(constituency_codes))
+
+    article_id = state.get("article_id")
 
     async def _dispatch():
+        import asyncpg  # type: ignore
+        # Write merged codes back to articles.constituency_ids
+        database_url = os.environ.get("DATABASE_URL")
+        if database_url and article_id:
+            try:
+                conn = await asyncpg.connect(database_url)
+                try:
+                    # Merge with existing tags — never discard what the regex tagger found
+                    row = await conn.fetchrow(
+                        "SELECT constituency_ids FROM articles WHERE id = $1", article_id
+                    )
+                    existing: list[str] = []
+                    if row and row["constituency_ids"]:
+                        try:
+                            existing = json.loads(row["constituency_ids"])
+                            if not isinstance(existing, list):
+                                existing = []
+                        except (json.JSONDecodeError, TypeError):
+                            existing = []
+                    merged = list(dict.fromkeys(existing + constituency_codes))
+                    await conn.execute(
+                        "UPDATE articles SET constituency_ids = $1 WHERE id = $2",
+                        json.dumps(merged),
+                        article_id,
+                    )
+                    log.info("chain.tags_updated", article_id=article_id, codes=merged)
+                finally:
+                    await conn.close()
+            except Exception as exc:
+                log.warning("chain.tags_update_failed", error=str(exc))
+
         async with httpx.AsyncClient(timeout=10.0) as client:
             for code in constituency_codes:
                 try:
@@ -219,7 +329,7 @@ def _chain_to_seat_node(state: AnalystState) -> AnalystState:
     return state
 
 
-def _persist_single_lens(article_id: str, lens_name: str, lens_data: dict) -> None:
+async def _persist_single_lens(article_id: str, lens_name: str, lens_data: dict) -> None:
     """Write one lens result to DB immediately after it completes."""
     if lens_data.get("parse_error"):
         return
@@ -229,19 +339,20 @@ def _persist_single_lens(article_id: str, lens_name: str, lens_data: dict) -> No
 
     import asyncpg  # type: ignore
 
-    async def _do():
+    try:
         conn = await asyncpg.connect(database_url)
         try:
             await conn.execute(
                 """
                 INSERT INTO analyses
-                    (id, article_id, lens_name, direction, strength, summary)
-                VALUES ($1,$2,$3,$4,$5,$6)
+                    (id, article_id, lens_name, direction, strength, summary, full_result)
+                VALUES ($1,$2,$3,$4,$5,$6,$7)
                 ON CONFLICT (article_id, lens_name)
                 DO UPDATE SET
-                    direction = EXCLUDED.direction,
-                    strength  = EXCLUDED.strength,
-                    summary   = EXCLUDED.summary
+                    direction   = EXCLUDED.direction,
+                    strength    = EXCLUDED.strength,
+                    summary     = EXCLUDED.summary,
+                    full_result = EXCLUDED.full_result
                 """,
                 str(uuid.uuid4()),
                 article_id,
@@ -249,66 +360,49 @@ def _persist_single_lens(article_id: str, lens_name: str, lens_data: dict) -> No
                 lens_data.get("direction", ""),
                 lens_data.get("strength"),
                 (lens_data.get("summary", "") or "")[:2000],
+                json.dumps(lens_data),
             )
         finally:
             await conn.close()
-
-    try:
-        new_loop = asyncio.new_event_loop()
-        asyncio.set_event_loop(new_loop)
-        try:
-            new_loop.run_until_complete(_do())
-        finally:
-            new_loop.close()
     except Exception as exc:
         log.warning("analyst.db_error", lens=lens_name, error=str(exc))
 
 
-def _persist_analyses(state: AnalystState) -> None:
+async def _persist_analyses(state: AnalystState) -> None:
     database_url = os.environ.get("DATABASE_URL")
     if not database_url or not state.get("article_id"):
         return
 
     import asyncpg  # type: ignore
 
-    async def _do_persist():
+    try:
         conn = await asyncpg.connect(database_url)
         try:
             for lens_name, lens_data in state["lenses"].items():
-                # Skip only hard parse failures
                 if lens_data.get("parse_error"):
                     continue
-                direction = lens_data.get("direction", "")
-                strength = lens_data.get("strength")
-                summary = (lens_data.get("summary", "") or "")[:2000]
                 await conn.execute(
                     """
                     INSERT INTO analyses
-                        (id, article_id, lens_name, direction, strength, summary)
-                    VALUES ($1,$2,$3,$4,$5,$6)
+                        (id, article_id, lens_name, direction, strength, summary, full_result)
+                    VALUES ($1,$2,$3,$4,$5,$6,$7)
                     ON CONFLICT (article_id, lens_name)
                     DO UPDATE SET
-                        direction = EXCLUDED.direction,
-                        strength  = EXCLUDED.strength,
-                        summary   = EXCLUDED.summary
+                        direction   = EXCLUDED.direction,
+                        strength    = EXCLUDED.strength,
+                        summary     = EXCLUDED.summary,
+                        full_result = EXCLUDED.full_result
                     """,
                     str(uuid.uuid4()),
                     state["article_id"],
                     lens_name,
-                    direction,
-                    strength,
-                    summary,
+                    lens_data.get("direction", ""),
+                    lens_data.get("strength"),
+                    (lens_data.get("summary", "") or "")[:2000],
+                    json.dumps(lens_data),
                 )
         finally:
             await conn.close()
-
-    try:
-        new_loop = asyncio.new_event_loop()
-        asyncio.set_event_loop(new_loop)
-        try:
-            new_loop.run_until_complete(_do_persist())
-        finally:
-            new_loop.close()
     except Exception as exc:
         log.warning("analyst.db_error", error=str(exc))
 

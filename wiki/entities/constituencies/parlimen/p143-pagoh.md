@@ -2,7 +2,7 @@
 
 **State:** Johor  
 **Type:** Parlimen (Federal)  
-**Region:** North  
+**Region:** North
 
 ## Demographics
 
@@ -37,6 +37,8 @@
 
 **Turnout:** 84.8% | **Margin:** 6,927 (16.2%)
 
----
+## 2026 Statement
+
+State PAS commissioner Mahfodz Mohamed announced that PAS is strengthening its machinery early to prepare for a more intense political contest ahead of GE16. [Source: Free Malaysia Today, 27 April 2026]
 
 *Source: SPR Official Results; TindakMalaysia; Wikipedia*

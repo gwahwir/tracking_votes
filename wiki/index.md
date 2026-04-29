@@ -1,6 +1,6 @@
 # Wiki Index — Johor Election Dashboard
 
-Last updated: 2026-04-27
+Last updated: 2026-04-29
 
 ---
 
@@ -118,7 +118,7 @@ Last updated: 2026-04-27
 - [Democratic Action Party (DAP) — Democratic Action Party](entities/parties/dap.md)
 - [Malaysian Chinese Association (MCA)](entities/parties/mca.md)
 - [Malaysian Indian Congress (MIC) — Malaysian Indian Congress](entities/parties/mic.md)
-- [Parti Islam Se-Malaysia (PAS) — Malaysian Islamic Party](entities/parties/pas.md)
+- [PAS – Parti Islam Se-Malaysia (PAS)](entities/parties/pas.md)
 - [Parti Keadilan Rakyat (PKR) — People's Justice Party](entities/parties/pkr.md)
 - [Andy Teoh](entities/people/andy_teoh.md)
 - [Anwar Ibrahim – Prime Minister of Malaysia](entities/people/anwar_ibrahim.md)
@@ -129,4 +129,5 @@ Last updated: 2026-04-27
 - [Jamaliah — DAP State Assembly Member](entities/people/jamaliah.md)
 - [Justice Gan Techiong](entities/people/justice-gan-techiong.md)
 - [Puad Zarkashi – UMNO Supreme Council member](entities/people/puad_zarkashi.md)
+- [Tan Lek Khang – Malaysian Politician](entities/people/tan_lek_khang.md)
 - [Police Johor – Royal Malaysia Police, Johor State](entities/police_johor.md)
