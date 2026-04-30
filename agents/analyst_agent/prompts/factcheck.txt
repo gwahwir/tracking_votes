@@ -13,9 +13,9 @@ Focus on:
 4. **Election law compliance** — Note any claims that may conflict with SPR campaign regulations, Election Offences Act, or Polling and Counting regulations.
 5. **Contradiction with wiki** — Flag any direct contradictions with the wiki knowledge base.
 
-Return:
-- `verified_claims`: list of claims confirmed accurate
-- `unverified_claims`: list of claims that cannot be confirmed without additional sources
-- `false_or_misleading`: list of claims that appear incorrect, with explanation
-- `flags`: integer count of significant accuracy concerns
-- `summary`: 2–3 sentences on overall factual integrity of the article
+Return a JSON object with exactly these top-level keys — no wrapper, no preamble:
+- `verified_claims`: list of strings, each a claim confirmed accurate (empty list if none)
+- `unverified_claims`: list of strings, each a claim that cannot be confirmed without additional sources (empty list if none)
+- `false_or_misleading`: list of strings, each an incorrect claim with a brief explanation (empty list if none)
+- `flags`: integer count of significant accuracy concerns (0 if none)
+- `summary`: string, 2–3 sentences on overall factual integrity of the article
