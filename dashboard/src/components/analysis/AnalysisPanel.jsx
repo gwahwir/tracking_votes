@@ -159,6 +159,68 @@ const LensContent = ({ data, lens, pending }) => {
   )
 }
 
+const ClaimList = ({ items, color, label }) => {
+  if (!items?.length) return null
+  return (
+    <div style={{ display: 'flex', flexDirection: 'column', gap: '6px' }}>
+      <span style={{ fontFamily: "'JetBrains Mono', monospace", fontSize: '9px', color: '#5c5f66', textTransform: 'uppercase' }}>
+        {label}
+      </span>
+      <div style={{ display: 'flex', flexDirection: 'column', gap: '4px' }}>
+        {items.map((claim, i) => (
+          <div key={i} style={{ borderLeft: `2px solid ${color}40`, paddingLeft: '8px', fontFamily: "'JetBrains Mono', monospace", fontSize: '10px', color: '#c1c2c5', lineHeight: 1.5 }}>
+            {typeof claim === 'string' ? claim : (claim.claim || claim.explanation || JSON.stringify(claim))}
+          </div>
+        ))}
+      </div>
+    </div>
+  )
+}
+
+const FactcheckContent = ({ data, pending }) => {
+  if (pending) return <PendingLens label="Fact-Check" />
+  if (!data) return (
+    <div style={{ fontFamily: "'JetBrains Mono', monospace", fontSize: '11px', color: '#5c5f66', padding: '16px 0' }}>
+      No fact-check analysis yet.
+    </div>
+  )
+  const full = data.full || {}
+  const hasContent = full.verified_claims?.length || full.unverified_claims?.length || full.false_or_misleading?.length || full.summary
+  if (!hasContent) return (
+    <div style={{ fontFamily: "'JetBrains Mono', monospace", fontSize: '11px', color: '#5c5f66', padding: '16px 0' }}>
+      No significant signals detected for this lens.
+    </div>
+  )
+  const flagCount = typeof full.flags === 'number' ? full.flags : (Array.isArray(full.flags) ? full.flags.length : 0)
+  return (
+    <div style={{ display: 'flex', flexDirection: 'column', gap: '14px' }}>
+      {flagCount > 0 && (
+        <div style={{ display: 'flex', alignItems: 'center', gap: '10px' }}>
+          <span style={{ fontFamily: "'JetBrains Mono', monospace", fontSize: '9px', color: '#5c5f66', minWidth: '90px', textTransform: 'uppercase' }}>
+            Accuracy Flags
+          </span>
+          <span style={{ fontFamily: "'JetBrains Mono', monospace", fontSize: '15px', color: flagCount > 2 ? '#ff3131' : '#ffcc00', fontWeight: 700 }}>
+            {flagCount}
+          </span>
+        </div>
+      )}
+      {full.summary && (
+        <div style={{ display: 'flex', flexDirection: 'column', gap: '6px' }}>
+          <span style={{ fontFamily: "'JetBrains Mono', monospace", fontSize: '9px', color: '#5c5f66', textTransform: 'uppercase' }}>
+            Summary
+          </span>
+          <p style={{ fontFamily: "'JetBrains Mono', monospace", fontSize: '11px', color: '#c1c2c5', lineHeight: 1.65, margin: 0 }}>
+            {full.summary}
+          </p>
+        </div>
+      )}
+      <ClaimList items={full.verified_claims} color="#39ff14" label="Verified Claims" />
+      <ClaimList items={full.unverified_claims} color="#ffcc00" label="Unverified Claims" />
+      <ClaimList items={full.false_or_misleading} color="#ff3131" label="False or Misleading" />
+    </div>
+  )
+}
+
 const StatusPill = ({ state }) => {
   if (!state || state === 'idle') return null
   const cfg = {
@@ -392,12 +454,9 @@ export const AnalysisPanel = ({ article, taskId, refreshTrigger, onTaskCreated, 
           </div>
         ) : (
           LENSES.map((l) => activeTab === l.id && (
-            <LensContent
-              key={l.id}
-              data={analyses[l.id]}
-              lens={l}
-              pending={isPending && !analyses[l.id]}
-            />
+            l.id === 'factcheck'
+              ? <FactcheckContent key={l.id} data={analyses[l.id]} pending={isPending && !analyses[l.id]} />
+              : <LensContent key={l.id} data={analyses[l.id]} lens={l} pending={isPending && !analyses[l.id]} />
           ))
         )}
       </div>

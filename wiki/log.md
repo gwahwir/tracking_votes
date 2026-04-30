@@ -27292,3 +27292,9 @@ Pages updated: entities/organizations/police_johor.md
 No relevant updates needed.
 
 Pages updated: none
+
+## 2026-04-30T03:38:29Z
+
+Added new Jeram Padang constituency page with ADUN Mohd Zaidy Abdul Kadir and upcoming meeting announcement.
+
+Pages updated: entities/constituencies/dun/nXX-jeram-padang.md

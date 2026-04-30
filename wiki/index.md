@@ -75,6 +75,7 @@ Last updated: 2026-04-30
 - [N.54 Pulai Sebatang](entities/constituencies/dun/n54-pulai-sebatang.md)
 - [N.55 Pekan Nanas](entities/constituencies/dun/n55-pekan-nanas.md)
 - [N.56 Kukup](entities/constituencies/dun/n56-kukup.md)
+- [N.XX Jeram Padang](entities/constituencies/dun/nXX-jeram-padang.md)
 - [P.140 Segamat](entities/constituencies/parlimen/p140-segamat.md)
 - [P.141 Sekijang](entities/constituencies/parlimen/p141-sekijang.md)
 - [P.142 Labis](entities/constituencies/parlimen/p142-labis.md)

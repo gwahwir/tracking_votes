@@ -41,11 +41,9 @@ const OverviewTab = ({ prediction }) => {
                 <span style={{ fontFamily: "'JetBrains Mono', monospace", fontSize: '9px', color: '#909296', minWidth: '80px', textTransform: 'capitalize' }}>
                   {lens.replace('_', ' ')}
                 </span>
-                {data.direction && (
-                  <span style={{ fontFamily: "'JetBrains Mono', monospace", fontSize: '10px', fontWeight: 700, color: partyColor, minWidth: '50px' }}>
-                    {data.direction}
-                  </span>
-                )}
+                <span style={{ fontFamily: "'JetBrains Mono', monospace", fontSize: '10px', fontWeight: 700, color: partyColor, minWidth: '50px' }}>
+                  {data.direction || ''}
+                </span>
                 {data.strength != null && <StrengthBar value={data.strength} />}
               </div>
             )
