@@ -195,10 +195,10 @@ async def llm_call_async(messages: list[dict[str, Any]], model: str | None = Non
             "HTTP-Referer": os.environ.get("APP_URL", "http://localhost:5173"),
             "X-Title": "Johor Election Dashboard",
         },
-        timeout=50.0,
+        timeout=150.0,
     )
 
-    max_attempts = 3
+    max_attempts = 2
     last_exc: Exception | None = None
     for attempt in range(max_attempts):
         try:

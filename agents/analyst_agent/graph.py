@@ -116,35 +116,31 @@ async def _run_lenses_node(state: AnalystState) -> AnalystState:
             {"role": "system", "content": f"{system}\n\n{lens_prompt}"},
             {"role": "user", "content": f"Analyse this article:\n\n{article}"},
         ]
-        for attempt in range(2):
-            try:
-                raw = await llm_call_async(messages, response_format={"type": "json_object"}, temperature=0.3)
-            except Exception as exc:
-                if attempt == 0:
-                    log.warning("analyst.lens_llm_retry", lens=name, error=str(exc))
-                    continue
-                log.warning("analyst.lens_llm_failed", lens=name, error=str(exc))
-                return name, {"parse_error": True}
-            cleaned = raw.strip().removeprefix("```json").removeprefix("```").removesuffix("```").strip()
-            try:
-                return name, json.loads(cleaned)
-            except json.JSONDecodeError:
-                if attempt == 0:
-                    log.warning("analyst.lens_parse_retry", lens=name)
-                    continue
-                log.warning("analyst.lens_parse_failed", lens=name)
-                return name, {"parse_error": True}
-        return name, {"parse_error": True}
+        try:
+            raw = await llm_call_async(messages, response_format={"type": "json_object"}, temperature=0.3)
+        except Exception as exc:
+            log.warning("analyst.lens_llm_failed", lens=name, error=str(exc))
+            return name, {"parse_error": True}
+        cleaned = raw.strip().removeprefix("```json").removeprefix("```").removesuffix("```").strip()
+        try:
+            return name, json.loads(cleaned)
+        except json.JSONDecodeError:
+            log.warning("analyst.lens_parse_failed", lens=name)
+            return name, {"parse_error": True}
 
     async def _call_lens_with_timeout(name: str, lens_prompt: str) -> tuple[str, Any]:
         try:
-            return await asyncio.wait_for(_call_lens(name, lens_prompt), timeout=60.0)
+            return await asyncio.wait_for(_call_lens(name, lens_prompt), timeout=180.0)
         except asyncio.TimeoutError:
             log.warning("analyst.lens_timeout", lens=name)
             return name, {"parse_error": True, "timeout": True}
 
-    tasks = [_call_lens_with_timeout(name, prompt) for name, prompt in _LENS_PROMPTS.items()]
-    lens_results = await asyncio.gather(*tasks)
+    # Run lenses in batches of 2 to avoid overwhelming the API rate limit
+    lens_items = list(_LENS_PROMPTS.items())
+    lens_results = []
+    for i in range(0, len(lens_items), 2):
+        batch = [_call_lens_with_timeout(name, prompt) for name, prompt in lens_items[i:i+2]]
+        lens_results.extend(await asyncio.gather(*batch))
 
     results: dict[str, Any] = {}
     for name, result in lens_results:
