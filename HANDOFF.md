@@ -57,5 +57,31 @@ Run via: `docker compose exec postgres psql -U johor -d johor_elections -c "<sql
 
 ---
 
+## Map prediction gaps (investigated, not yet fixed)
+
+**Investigation result:** 28 constituencies show gray on the map despite having historical data. Three separate issues:
+
+### Issue 1 — NULL predictions from failed LLM calls (most seats affected)
+The seat_agent stores a `seat_predictions` row with `leading_party = NULL` and `confidence = 0` when the LLM assessment fails or returns malformed JSON. The frontend's `getPrediction()` in `dashboard/src/components/map/ElectionMap.jsx` filters these out (`p?.leading_party ? p : null`), so the map shows gray.
+
+### Issue 2 — Stale NULL row shadows a valid older prediction (affects N.20 and similar)
+The `/seat-predictions` API query (`control_plane/routes.py:368`) does:
+```sql
+SELECT ... FROM seat_predictions ORDER BY updated_at DESC LIMIT 100
+```
+No deduplication per code. If a seat was scored successfully (e.g. N.20 → BN, Apr 27) and then re-scored with a failed LLM call (N.20 → NULL, Apr 29), the newer NULL row appears first in the array. The frontend's `predictions.find()` picks it up first and returns null — hiding the valid older prediction. Affected codes with duplicates: N.01, N.20, N.28, N.33, N.49, N.51, N.56.
+
+### Issue 3 — Seats never scored at all
+P.141, P.142, P.145, P.147, P.148, P.159 (and 2 DUN seats) have no `seat_predictions` row at all — they were never run through the seat_agent.
+
+### Proposed fixes (not yet implemented)
+**A. API query** (`control_plane/routes.py`): use `DISTINCT ON (constituency_code)` ordered by `updated_at DESC` with a preference for non-NULL `leading_party` — fixes Issue 2 immediately.
+
+**B. Store logic** (`agents/seat_agent/graph.py`): skip inserting a new row (or keep the existing valid row) when `leading_party` is NULL — fixes Issue 1 going forward.
+
+**C. Re-score** the 6 never-scored Parlimen seats — fixes Issue 3.
+
+---
+
 ## Nothing pushed to GitHub yet
 All changes from today's sessions are local only.
