@@ -160,9 +160,21 @@ export const SeatDetailPanel = ({ constituencyCode, seatName, onClose }) => {
               {confidence}% confidence
             </span>
           </div>
-          <div style={{ fontFamily: "'JetBrains Mono', monospace", fontSize: '9px', color: '#5c5f66', marginTop: '6px' }}>
-            {prediction.updated_at ? `Updated ${(() => { try { return new Date(prediction.updated_at).toLocaleString() } catch { return prediction.updated_at } })() } · ` : ''}
-            Based on {articles?.length || prediction.num_articles || 0} articles
+          <div style={{ fontFamily: "'JetBrains Mono', monospace", fontSize: '9px', color: '#5c5f66', marginTop: '6px', display: 'flex', flexDirection: 'column', gap: '2px' }}>
+            <span>
+              {prediction.updated_at ? `Updated ${(() => { try { return new Date(prediction.updated_at).toLocaleString() } catch { return prediction.updated_at } })()}` : ''}
+            </span>
+            <span>
+              {articles?.length || prediction.num_articles || 0} constituency articles
+              {(prediction.num_state_articles ?? 0) > 0 ? ` · ${prediction.num_state_articles} state-level articles` : ''}
+              {(articles?.length || prediction.num_articles || 0) === 0 && (prediction.num_state_articles ?? 0) === 0 ? ' · based on historical baseline only' : ''}
+            </span>
+            {(() => {
+              const ge15 = history?.find?.((h) => h.election_year === 2022)
+              return ge15 ? (
+                <span>GE15 baseline: <span style={{ color: PARTY_COLORS[ge15.winner_party] || '#aaa' }}>{ge15.winner_party}</span> won {ge15.margin_pct != null ? `(${ge15.margin_pct.toFixed(1)}% margin)` : ''}</span>
+              ) : null
+            })()}
           </div>
         </div>
       )}

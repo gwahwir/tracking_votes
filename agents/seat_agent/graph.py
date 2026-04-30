@@ -64,9 +64,10 @@ async def gather_signals(state: dict) -> dict:
             result_specific = await session.execute(stmt_specific)
             specific_articles = result_specific.scalars().all()
 
-            # Bucket 2: state-level articles — Johor-relevant but no constituency tag
+            # Bucket 2: state-level articles — Johor-relevant, scored, but no constituency tag
             stmt_state = select(Article).where(
-                Article.constituency_ids == []
+                Article.constituency_ids == [],
+                Article.reliability_score >= 40,
             ).order_by(Article.scraped_at.desc()).limit(50)
             result_state = await session.execute(stmt_state)
             state_articles = result_state.scalars().all()
@@ -338,6 +339,7 @@ async def store(state: dict) -> dict:
                 existing.signal_breakdown = prediction.get("signal_breakdown")
                 existing.caveats = prediction.get("caveats")
                 existing.num_articles = state.get("num_articles")
+                existing.num_state_articles = state.get("num_state_articles")
                 await session.merge(existing)
                 log.info("seat.prediction.updated", constituency_code=constituency_code)
             else:
@@ -350,6 +352,7 @@ async def store(state: dict) -> dict:
                     signal_breakdown=prediction.get("signal_breakdown"),
                     caveats=prediction.get("caveats"),
                     num_articles=state.get("num_articles"),
+                    num_state_articles=state.get("num_state_articles"),
                 )
                 session.add(new_pred)
                 log.info("seat.prediction.created", constituency_code=constituency_code)

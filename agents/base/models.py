@@ -79,7 +79,8 @@ class SeatPrediction(Base):
 
     # Caveats and metadata
     caveats = Column(JSON, nullable=True)  # ["Only 3 articles", "Candidate unannounced"]
-    num_articles = Column(Integer, nullable=True)  # Count of articles used in this prediction
+    num_articles = Column(Integer, nullable=True)  # Count of constituency-specific articles
+    num_state_articles = Column(Integer, nullable=True)  # Count of state-level Johor articles
 
     # Metadata — server_default avoids asyncpg tz-mismatch when DB column is TIMESTAMP WITHOUT TIME ZONE
     created_at = Column(DateTime(timezone=True), server_default=func.now(), index=True)
