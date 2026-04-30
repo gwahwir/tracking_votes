@@ -13,4 +13,4 @@ Return a structured analysis with:
 - `direction`: which coalition this event most benefits ("BN", "PH", "PN", or "mixed")
 - `strength`: confidence in that direction (0–100)
 - `summary`: 2–3 sentence summary of the political implication
-- `seat_implications`: list of specific constituency codes most affected, with brief rationale
+- `seat_implications`: list of objects, each with a `rationale` field (one sentence) that names the constituency using its exact name from the Constituency Reference above (e.g. "Simpang Renggam is a mixed-rural seat where..."). Do not include a separate `code` field and do not invent or guess codes — the constituency name in the rationale is used to identify the seat. Omit if no specific seats are affected.

@@ -65,6 +65,7 @@ class AnalystState(TypedDict):
     metadata: dict[str, Any]
     article_id: str
     article_text: str
+    title: str
     constituency_codes: list[str]
     wiki_context: str
     system_prompt: str
@@ -81,10 +82,12 @@ def _retrieve_wiki_node(state: AnalystState) -> AnalystState:
         data = json.loads(state["input"])
         state["article_id"] = data.get("article_id", str(uuid.uuid4()))
         state["article_text"] = data.get("article_text", state["input"])
+        state["title"] = data.get("title", "")
         state["constituency_codes"] = data.get("constituency_codes", [])
     except (json.JSONDecodeError, TypeError):
         state["article_id"] = str(uuid.uuid4())
         state["article_text"] = state["input"]
+        state["title"] = ""
         state["constituency_codes"] = []
 
     retriever = _get_retriever()
@@ -104,7 +107,8 @@ def _retrieve_wiki_node(state: AnalystState) -> AnalystState:
 
 async def _run_lenses_node(state: AnalystState) -> AnalystState:
     system = state["system_prompt"]
-    article = state["article_text"][:4000]
+    title_line = f"Title: {state['title']}\n\n" if state.get("title") else ""
+    article = f"{title_line}{state['article_text'][:4000]}"
     article_id = state.get("article_id", "")
 
     async def _call_lens(name: str, lens_prompt: str) -> tuple[str, Any]:
@@ -222,17 +226,14 @@ def _resolve_code(raw: str) -> str | None:
 def _extract_codes_from_lens(lens_data: dict[str, Any]) -> list[str]:
     """Pull constituency codes out of a lens seat_implications list.
 
-    Uses _resolve_code so that items with wrong code numbers but correct seat
-    names are recovered rather than discarded.
+    The LLM is instructed to name the constituency in the rationale text and
+    omit a separate code field, so we resolve solely from the rationale.
+    Falls back to any P/N code if no seat name is found.
     """
     implications = lens_data.get("seat_implications", [])
     codes: list[str] = []
     for item in implications:
-        # Search both the code field and the rationale for seat references
-        if isinstance(item, dict):
-            search_text = f"{item.get('code', '')} {item.get('rationale', '')}"
-        else:
-            search_text = str(item)
+        search_text = item.get("rationale", "") if isinstance(item, dict) else str(item)
         code = _resolve_code(search_text)
         if code and code not in codes:
             codes.append(code)

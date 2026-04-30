@@ -44,10 +44,11 @@ def _get_retriever() -> TFIDFRetriever:
 # ---------------------------------------------------------------------------
 
 class ScorerState(TypedDict):
-    input: str               # JSON string with {article_id, article_text, source}
+    input: str               # JSON string with {article_id, article_text, source, title}
     metadata: dict[str, Any]
     article_id: str
     article_text: str
+    title: str
     source: str
     constituency_codes: list[str]
     wiki_context: str
@@ -69,16 +70,21 @@ def _retrieve_wiki_node(state: ScorerState) -> ScorerState:
     try:
         data = json.loads(state["input"])
         state["article_text"] = data.get("article_text", state["input"])
+        state["title"] = data.get("title", "")
         if "source" in data:
             state["source"] = data["source"]
         state["constituency_codes"] = data.get("constituency_codes", [])
     except (json.JSONDecodeError, TypeError):
         # Strip dashboard framing ("Score this article:\n\nTitle: ...\n\nURL: ...\n\n<body>")
         raw = state["input"]
+        state["title"] = ""
         if raw.lower().startswith("score this article"):
-            # Drop everything up to and including the blank line after the headers
             parts = raw.split("\n\n", maxsplit=4)
             # parts: ["Score this article:", "Title: ...", "URL: ...", "Source: ...", "<body>"]
+            for part in parts:
+                if part.lower().startswith("title:"):
+                    state["title"] = part[6:].strip()
+                    break
             state["article_text"] = parts[-1] if len(parts) >= 2 else raw
         else:
             state["article_text"] = raw
@@ -103,7 +109,8 @@ def _score_node(state: ScorerState) -> ScorerState:
     """Call LLM with article + wiki context to produce a reliability score."""
     prompt = _PROMPT_TEMPLATE.replace("{{WIKI_CONTEXT}}", state["wiki_context"])
 
-    article_block = f"Source outlet: {state['source']}\n\n{state['article_text'][:4000]}"
+    title_line = f"Title: {state['title']}\n\n" if state.get('title') else ""
+    article_block = f"Source outlet: {state['source']}\n\n{title_line}{state['article_text'][:4000]}"
 
     messages = [
         {"role": "system", "content": prompt},
@@ -175,8 +182,9 @@ def _store_node(state: ScorerState) -> ScorerState:
     if score >= 60:
         _emit_wiki_task(state["article_text"], state["article_id"])
 
-    # Always emit analyst task for any scored article (regardless of score)
-    _emit_analyst_task(state["article_text"], state["article_id"], state["source"], state.get("constituency_codes", []))
+    # Emit analyst task only for articles meeting minimum quality threshold
+    if score >= 40:
+        _emit_analyst_task(state["article_text"], state["article_id"], state["source"], state.get("constituency_codes", []), state.get("title", ""))
 
     state["output"] = json.dumps(state["score_result"])
     return state
@@ -197,7 +205,7 @@ def _emit_wiki_task(article_text: str, article_id: str) -> None:
         log.warning("scorer.wiki_emit_error", error=str(exc))
 
 
-def _emit_analyst_task(article_text: str, article_id: str, source: str, constituency_codes: list[str] = []) -> None:
+def _emit_analyst_task(article_text: str, article_id: str, source: str, constituency_codes: list[str] = [], title: str = "") -> None:
     """POST an analyst task to the control plane (fire-and-forget)."""
     control_plane = os.environ.get("CONTROL_PLANE_URL", "http://localhost:8000")
     url = f"{control_plane.rstrip('/')}/agents/analyst_agent/tasks"
@@ -206,6 +214,7 @@ def _emit_analyst_task(article_text: str, article_id: str, source: str, constitu
             "article_id": article_id,
             "article_text": article_text[:4000],
             "constituency_codes": constituency_codes,
+            "title": title,
         })
         httpx.post(
             url,

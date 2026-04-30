@@ -15,4 +15,4 @@ Return:
 - `strength`: 0–100
 - `summary`: 2–3 sentence strategic assessment
 - `tactical_implication`: specific campaign action implied or recommended, with rationale
-- `seat_implications`: list of objects, each with `code` (e.g. "P.154", "N.12") and `rationale` (one sentence). Only include seats where the strategic impact is specific and direct. Omit if no specific seats are affected.
+- `seat_implications`: list of objects, each with a `rationale` field (one sentence) that names the constituency using its exact name from the Constituency Reference above (e.g. "Kluang is a semi-urban seat where..."). Do not include a separate `code` field and do not invent or guess codes — the constituency name in the rationale is used to identify the seat. Only include seats where the strategic impact is specific and direct. Omit if no specific seats are affected.

@@ -27268,3 +27268,27 @@ Pages updated: none
 Added a 2026 statement about PAS commissioner Mahfodz Mohamed strengthening party machinery to the four constituency pages where he previously appeared as a candidate.
 
 Pages updated: entities/constituencies/parlimen/p143-pagoh.md, entities/constituencies/dun/n09-gambir.md, entities/constituencies/parlimen/p150-batu-pahat.md, entities/constituencies/parlimen/p161-pulai.md
+
+## 2026-04-30T02:47:40Z
+
+Added page for Negeri Sembilan Menteri Besar noting his administration will operate as a minority government.
+
+Pages updated: entities/people/negri_sembilan_menteri_besar.md
+
+## 2026-04-30T02:51:18Z
+
+Wiki update parse error — no changes applied.
+
+Pages updated: none
+
+## 2026-04-30T03:16:14Z
+
+Added note about Police Johor's three-hour meeting linked to state crisis on 24 April 2026.
+
+Pages updated: entities/organizations/police_johor.md
+
+## 2026-04-30T03:23:01Z
+
+No relevant updates needed.
+
+Pages updated: none

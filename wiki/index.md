@@ -1,6 +1,6 @@
 # Wiki Index — Johor Election Dashboard
 
-Last updated: 2026-04-29
+Last updated: 2026-04-30
 
 ---
 
@@ -128,6 +128,7 @@ Last updated: 2026-04-29
 - [Justice Gan Techiong](entities/people/gan_techiong.md)
 - [Jamaliah — DAP State Assembly Member](entities/people/jamaliah.md)
 - [Justice Gan Techiong](entities/people/justice-gan-techiong.md)
+- [Negeri Sembilan Menteri Besar – Administration Status](entities/people/negri_sembilan_menteri_besar.md)
 - [Puad Zarkashi – UMNO Supreme Council member](entities/people/puad_zarkashi.md)
 - [Tan Lek Khang – Malaysian Politician](entities/people/tan_lek_khang.md)
 - [Police Johor – Royal Malaysia Police, Johor State](entities/police_johor.md)

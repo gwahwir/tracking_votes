@@ -30,6 +30,16 @@ const normaliseCode = (raw) => {
   return `${m[1].toUpperCase()}.${m[2]}`
 }
 
+// Resolve a constituency code from free text (rationale) by scanning for seat names
+const NAME_TO_CODE = Object.fromEntries(Object.entries(SEAT_NAMES).map(([code, name]) => [name.toLowerCase(), code]))
+const resolveCodeFromText = (text) => {
+  const t = String(text).toLowerCase()
+  for (const [name, code] of Object.entries(NAME_TO_CODE)) {
+    if (new RegExp(`\\b${name.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')}\\b`).test(t)) return code
+  }
+  return normaliseCode(text)
+}
+
 const API_BASE = import.meta.env.VITE_API_URL || 'http://localhost:8000'
 
 const LENSES = [
@@ -183,8 +193,11 @@ async function fetchAnalyses(articleId) {
     const rawImplications = full?.seat_implications || []
     const seat_implications = rawImplications
       .map((item) => {
-        const code = normaliseCode(typeof item === 'string' ? item : item.code || '')
-        return code ? { code, name: SEAT_NAMES[code] || '', rationale: item.rationale || '' } : null
+        const rationale = typeof item === 'string' ? item : (item.rationale || '')
+        // Resolve code from rationale text first (LLM names the seat in prose),
+        // fall back to explicit code field for older analyses
+        const code = resolveCodeFromText(rationale) || normaliseCode(typeof item === 'object' ? (item.code || '') : '')
+        return code ? { code, name: SEAT_NAMES[code] || '', rationale } : null
       })
       .filter(Boolean)
     byLens[a.lens_name] = { ...a, full, seat_implications }
