@@ -5,6 +5,7 @@ from datetime import datetime, timezone
 from typing import Optional
 
 from sqlalchemy import JSON, Column, DateTime, Float, Integer, String, Text, create_engine
+from sqlalchemy.dialects.postgresql import JSONB
 from sqlalchemy import func
 from sqlalchemy.ext.asyncio import AsyncSession, create_async_engine
 from sqlalchemy.orm import declarative_base, sessionmaker
@@ -25,7 +26,7 @@ class Article(Base):
     scraped_at = Column(DateTime(timezone=True), default=lambda: datetime.now(timezone.utc), index=True)
 
     # Tagging and scoring
-    constituency_ids = Column(JSON, nullable=True)  # List of "P.157", "N.01", etc.
+    constituency_ids = Column(JSONB, nullable=True)  # List of "P.157", "N.01", etc.
     reliability_score = Column(Float, nullable=True)  # 0-100, set by scorer_agent
     source_authority = Column(Float, nullable=True)
     accuracy_signals = Column(Float, nullable=True)

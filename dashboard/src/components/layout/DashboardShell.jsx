@@ -70,14 +70,20 @@ export const DashboardShell = () => {
       if (result?.task_id) {
         setActiveTaskId(result.task_id)
         setAgentPanelOpen(true)
-        setTimeout(() => setRefreshTrigger((p) => p + 1), 2000)
       }
     } catch (err) {
       console.error('Failed to dispatch news scrape task:', err)
-    } finally {
-      setTimeout(() => setRefreshing(false), 2000)
+      setRefreshing(false)
     }
   }, [dispatchTask])
+
+  // Refresh feed when scrape task completes
+  useEffect(() => {
+    if (taskStatus === 'completed' || taskStatus === 'failed') {
+      setRefreshTrigger((p) => p + 1)
+      setRefreshing(false)
+    }
+  }, [taskStatus])
 
   const handleArticleSelect = useCallback((article) => {
     setSelectedArticle((prev) => (prev?.id === article.id ? null : article))
@@ -115,6 +121,8 @@ export const DashboardShell = () => {
             onArticleSelect={handleArticleSelect}
             refreshTrigger={refreshTrigger}
             onTaskCreated={setActiveTaskId}
+            onScrape={handleRefresh}
+            scraping={refreshing}
           />
         </div>
 

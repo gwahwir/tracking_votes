@@ -3,7 +3,7 @@ import { useArticles } from '../../hooks/useApi'
 import { ArticleCard } from './ArticleCard'
 import './NewsFeedPanel.css'
 
-export const NewsFeedPanel = ({ selectedArticle, onArticleSelect, refreshTrigger, onTaskCreated }) => {
+export const NewsFeedPanel = ({ selectedArticle, onArticleSelect, refreshTrigger, onTaskCreated, onScrape, scraping }) => {
   const { articles, loading, error, refetch } = useArticles()
   const [displayArticles, setDisplayArticles] = useState([])
 
@@ -29,6 +29,29 @@ export const NewsFeedPanel = ({ selectedArticle, onArticleSelect, refreshTrigger
           fontSize: '10px',
           color: '#909296',
         }}>{displayArticles.length}</span>
+        <div style={{ marginLeft: 'auto', display: 'flex', alignItems: 'center', gap: '8px' }}>
+          <button
+            onClick={onScrape}
+            disabled={scraping}
+            style={{
+              background: 'none',
+              border: '1px solid #373a40',
+              borderRadius: '3px',
+              color: scraping ? '#5c5f66' : '#909296',
+              fontFamily: "'JetBrains Mono', monospace",
+              fontSize: '9px',
+              fontWeight: 700,
+              letterSpacing: '0.08em',
+              padding: '2px 6px',
+              cursor: scraping ? 'not-allowed' : 'pointer',
+              transition: 'color 0.15s, border-color 0.15s',
+            }}
+            onMouseEnter={e => { if (!scraping) { e.target.style.color = '#c1c2c5'; e.target.style.borderColor = '#5c5f66' }}}
+            onMouseLeave={e => { e.target.style.color = scraping ? '#5c5f66' : '#909296'; e.target.style.borderColor = '#373a40' }}
+          >
+            {scraping ? 'SCRAPING…' : 'SCRAPE'}
+          </button>
+        </div>
       </div>
 
       <div className="feed-scroll">
