@@ -15,6 +15,11 @@ export const ElectionMap = ({ mapType = 'parlimen', useCartogram = false, onCons
   const [geoJsonData, setGeoJsonData] = useState(null)
   const selectedLayerRef = useRef(null)
   const selectedCodeRef = useRef(null)
+  const predictionsRef = useRef(predictions)
+  const historical2022Ref = useRef(historical2022)
+
+  useEffect(() => { predictionsRef.current = predictions }, [predictions])
+  useEffect(() => { historical2022Ref.current = historical2022 }, [historical2022])
 
   // Load appropriate GeoJSON file
   useEffect(() => {
@@ -37,9 +42,9 @@ export const ElectionMap = ({ mapType = 'parlimen', useCartogram = false, onCons
       .catch((err) => console.error('Failed to load GeoJSON:', filename, err))
   }, [mapType, useCartogram])
 
-  // Look up prediction for a constituency — only return if it has a valid leading_party
+  // Look up prediction — reads from ref so event handlers always see latest data
   const getPrediction = (constituencyCode) => {
-    const p = predictions.find((p) => p.constituency_code === constituencyCode)
+    const p = predictionsRef.current.find((p) => p.constituency_code === constituencyCode)
     return p?.leading_party ? p : null
   }
 
@@ -120,7 +125,7 @@ export const ElectionMap = ({ mapType = 'parlimen', useCartogram = false, onCons
       }
 
       const pred = getPrediction(code)
-      const hist = historical2022[code]
+      const hist = historical2022Ref.current[code]
       const histLine = hist
         ? `2022: <strong>${hist.winner_coalition || '?'}</strong> &mdash; ${hist.margin_pct != null ? hist.margin_pct.toFixed(1) + '% margin' : 'margin unknown'}`
         : '2022: no data'

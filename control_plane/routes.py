@@ -366,10 +366,13 @@ async def get_seat_predictions(request: Request, limit: int = 100):
 
     try:
         sql = """
-            SELECT id, constituency_code, leading_party, confidence, signal_breakdown,
+            SELECT DISTINCT ON (constituency_code)
+                   id, constituency_code, leading_party, confidence, signal_breakdown,
                    caveats, num_articles, num_state_articles, created_at, updated_at
             FROM seat_predictions
-            ORDER BY updated_at DESC
+            ORDER BY constituency_code,
+                     (leading_party IS NOT NULL AND leading_party != '') DESC,
+                     updated_at DESC
             LIMIT $1
         """
         async with task_store._pool.acquire() as conn:

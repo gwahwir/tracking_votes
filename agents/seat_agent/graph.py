@@ -317,6 +317,11 @@ async def store(state: dict) -> dict:
         return state
 
     constituency_code = prediction.get("constituency_code")
+
+    if not prediction.get("leading_party"):
+        log.warning("seat.store.skipped_null", constituency_code=constituency_code)
+        return state
+
     log.info("seat.store", constituency_code=constituency_code)
 
     # Get database session

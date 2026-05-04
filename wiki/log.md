@@ -27328,3 +27328,27 @@ Pages updated: none
 Added the new statement about a forthcoming meeting to the Jeram Padang constituency page.
 
 Pages updated: entities/constituencies/dun/nXX-jeram-padang.md
+
+## 2026-05-04T07:59:14Z
+
+Added new cross‑border taxi policy to the Johor‑Singapore Relations page, reflecting May 4 2026 licence change for taxis.
+
+Pages updated: concepts/jb-singapore-relations.md
+
+## 2026-05-04T10:13:58Z
+
+Added Chew Chong Sin's 2026 comment to the Mengkibol constituency page and created a new person page for Chew Chong Sin.
+
+Pages updated: entities/constituencies/dun/n28-mengkibol.md, entities/people/chew_chong_sin.md
+
+## 2026-05-04T10:25:55Z
+
+No relevant updates needed.
+
+Pages updated: none
+
+## 2026-05-04T10:31:33Z
+
+No relevant updates needed.
+
+Pages updated: none

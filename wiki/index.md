@@ -1,6 +1,6 @@
 # Wiki Index — Johor Election Dashboard
 
-Last updated: 2026-04-30
+Last updated: 2026-05-04
 
 ---
 
@@ -121,9 +121,12 @@ Last updated: 2026-04-30
 - [Malaysian Indian Congress (MIC) — Malaysian Indian Congress](entities/parties/mic.md)
 - [PAS – Parti Islam Se-Malaysia (PAS)](entities/parties/pas.md)
 - [Parti Keadilan Rakyat (PKR) — People's Justice Party](entities/parties/pkr.md)
+- [Aminuddin Harun – Menteri Besar of Negeri Sembilan](entities/people/aminuddin.md)
+- [Aminuddin Harun](entities/people/aminuddin_harun.md)
 - [Andy Teoh](entities/people/andy_teoh.md)
 - [Anwar Ibrahim – Prime Minister of Malaysia](entities/people/anwar_ibrahim.md)
 - [Azmin Ali – Malaysian Politician](entities/people/azmin_ali.md)
+- [Chew Chong Sin](entities/people/chew_chong_sin.md)
 - [Fadillah Yusof – Deputy Prime Minister of Malaysia](entities/people/fadillah_yusof.md)
 - [Gan Kim Sing](entities/people/gan_kim_sing.md)
 - [Justice Gan Techiong](entities/people/gan_techiong.md)

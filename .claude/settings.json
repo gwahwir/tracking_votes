@@ -3,7 +3,8 @@
     "allow": [
       "WebFetch(domain:raw.githubusercontent.com)",
       "Bash(git pull *)",
-      "Bash(docker compose *)"
+      "Bash(docker compose *)",
+      "WebFetch(domain:en.wikipedia.org)"
     ]
   }
 }

@@ -2,18 +2,9 @@
 
 ## Overview
 
-- **Profession:** Lawyer, Politician (Member of Parliament for Kepong, representing the Democratic Action Party – DAP)
-- **Family:** Father of **Justice Gan Techiong**, who was appointed as a High Court judge in 2026.
+- **Profession:** Lawyer, based in Johor Bahru
+- **Family:** Father of Justice Gan Techiong, appointed as a High Court judge in 2026
 
 ## Recent Events
 
-- Despite his frail **... (unchanged)**
-
-- On **21 April 2026**, lawyer Gan Kim Sing and his wife **Tiong Choo** travelled from **Johor Bahru** to **Putrajaya** to attend the oath‑taking ceremony of his son, **Justice Gan Techiong**, as a High Court judge. This **...**
-
-- On **24 April 2025**? **???
-
-- **[CONTRARY ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ...**
-
----\n
----
+- On **21 April 2026**, Gan Kim Sing and his wife Tiong Choo travelled from Johor Bahru to Putrajaya to attend the oath-taking ceremony of his son, Justice Gan Techiong, as a High Court judge. [Source: Free Malaysia Today, 21 April 2026]

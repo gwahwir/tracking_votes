@@ -343,7 +343,7 @@ async def _persist_single_lens(article_id: str, lens_name: str, lens_data: dict)
                 """
                 INSERT INTO analyses
                     (id, article_id, lens_name, direction, strength, summary, full_result)
-                VALUES ($1,$2,$3,$4,$5,$6,$7)
+                VALUES ($1,$2,$3,$4,$5,$6,$7::json)
                 ON CONFLICT (article_id, lens_name)
                 DO UPDATE SET
                     direction   = EXCLUDED.direction,
@@ -382,7 +382,7 @@ async def _persist_analyses(state: AnalystState) -> None:
                     """
                     INSERT INTO analyses
                         (id, article_id, lens_name, direction, strength, summary, full_result)
-                    VALUES ($1,$2,$3,$4,$5,$6,$7)
+                    VALUES ($1,$2,$3,$4,$5,$6,$7::json)
                     ON CONFLICT (article_id, lens_name)
                     DO UPDATE SET
                         direction   = EXCLUDED.direction,

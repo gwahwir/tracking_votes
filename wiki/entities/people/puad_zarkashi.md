@@ -3,8 +3,8 @@
 ## Overview
 
 - **Party:** United Malays National Organisation (UMNO)
-- **Position:** Supreme Council member (UMNO)
-- **Role:** Senior party official involved in policy discussions and coalition negotiations.
+- **Position:** Speaker of the Johor State Legislative Assembly (since April 2022); ADUN for Rengit (N.25); UMNO Supreme Council member.
+- **Role:** Presides over the Johor state legislature; senior UMNO figure involved in policy discussions and coalition negotiations.
 
 ## Recent News
 
