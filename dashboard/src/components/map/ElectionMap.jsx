@@ -10,7 +10,10 @@ import './ElectionMap.css'
  * Supports both regular GeoJSON and cartogram toggle
  */
 export const ElectionMap = ({ mapType = 'parlimen', useCartogram = false, onConstituencySelect }) => {
-  const { predictions, loading: predictionsLoading } = useSeatPredictions()
+  const { predictions: allPredictions, loading: predictionsLoading } = useSeatPredictions()
+  const predictions = allPredictions.filter((p) =>
+    mapType === 'dun' ? p.constituency_code.startsWith('N.') : p.constituency_code.startsWith('P.')
+  )
   const { resultsByCode: historical2022 } = useHistoricalByYear(2022)
   const [geoJsonData, setGeoJsonData] = useState(null)
   const selectedLayerRef = useRef(null)

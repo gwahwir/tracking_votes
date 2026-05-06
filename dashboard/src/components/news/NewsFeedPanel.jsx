@@ -3,7 +3,7 @@ import { useArticles } from '../../hooks/useApi'
 import { ArticleCard } from './ArticleCard'
 import './NewsFeedPanel.css'
 
-export const NewsFeedPanel = ({ selectedArticle, onArticleSelect, refreshTrigger, onTaskCreated, onScrape, scraping }) => {
+export const NewsFeedPanel = ({ selectedArticle, onArticleSelect, refreshTrigger, onTaskCreated, onScrape, scraping, onConstituencyClick }) => {
   const { articles, loading, error, refetch } = useArticles()
   const [displayArticles, setDisplayArticles] = useState([])
 
@@ -78,6 +78,7 @@ export const NewsFeedPanel = ({ selectedArticle, onArticleSelect, refreshTrigger
               isSelected={selectedArticle?.id === article.id}
               onSelect={() => onArticleSelect(article)}
               onTaskCreated={onTaskCreated}
+              onConstituencyClick={onConstituencyClick}
             />
           ))}
         </div>

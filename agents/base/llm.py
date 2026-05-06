@@ -1,9 +1,7 @@
-"""Shared LLM client — OpenAI SDK → OpenRouter (primary) + Anthropic (fallback).
+"""Shared LLM client — OpenAI SDK → OpenRouter.
 
 Usage:
     from agents.base.llm import llm_call, llm_stream
-
-Both functions accept standard OpenAI-style message lists and keyword args.
 """
 from __future__ import annotations
 
@@ -17,9 +15,6 @@ from .tracing import log_generation
 
 log = structlog.get_logger(__name__)
 
-# ---------------------------------------------------------------------------
-# OpenRouter client (primary)
-# ---------------------------------------------------------------------------
 
 def _make_openai_client():
     from openai import OpenAI  # type: ignore
@@ -41,52 +36,6 @@ def _make_openai_client():
 def _get_model(override: str | None = None) -> str:
     return override or os.environ.get("OPENAI_MODEL", "openai/gpt-4o")
 
-
-# ---------------------------------------------------------------------------
-# Anthropic fallback
-# ---------------------------------------------------------------------------
-
-def _make_anthropic_client():
-    import anthropic  # type: ignore
-
-    return anthropic.Anthropic(api_key=os.environ.get("ANTHROPIC_API_KEY"))
-
-
-def _anthropic_call(messages: list[dict], **kwargs) -> str:
-    client = _make_anthropic_client()
-    system = ""
-    anthro_messages = []
-    for m in messages:
-        if m["role"] == "system":
-            system = m["content"]
-        else:
-            anthro_messages.append({"role": m["role"], "content": m["content"]})
-
-    model = "claude-sonnet-4-6"
-    resp = client.messages.create(
-        model=model,
-        max_tokens=kwargs.get("max_tokens", 4096),
-        system=system,
-        messages=anthro_messages,
-    )
-    output = resp.content[0].text
-    log_generation(
-        name="anthropic.chat",
-        model=model,
-        input=messages,
-        output=output,
-        usage={
-            "prompt_tokens": resp.usage.input_tokens,
-            "completion_tokens": resp.usage.output_tokens,
-            "total_tokens": resp.usage.input_tokens + resp.usage.output_tokens,
-        },
-    )
-    return output
-
-
-# ---------------------------------------------------------------------------
-# Public interface
-# ---------------------------------------------------------------------------
 
 def _openrouter_call(messages: list[dict[str, Any]], model: str | None = None, **kwargs) -> str:
     """Call OpenRouter with retry (exponential backoff, up to 3 attempts).
@@ -141,46 +90,27 @@ def _openrouter_call(messages: list[dict[str, Any]], model: str | None = None, *
 
 
 def llm_call(messages: list[dict[str, Any]], model: str | None = None, **kwargs) -> str:
-    """Synchronous LLM call with Anthropic fallback.
-
-    kwargs are forwarded to the OpenAI SDK (e.g. temperature, response_format).
-    Pass model= to override the default (e.g. a cheaper/faster model for classification).
-    """
-    try:
-        return _openrouter_call(messages, model=model, **kwargs)
-    except Exception as exc:
-        _maybe_fallback_log(exc)
-        return _anthropic_call(messages, **kwargs)
+    """Synchronous LLM call via OpenRouter."""
+    return _openrouter_call(messages, model=model, **kwargs)
 
 
 def llm_stream(messages: list[dict[str, Any]], **kwargs) -> Generator[str, None, None]:
-    """Synchronous streaming LLM call; yields text chunks.
-
-    Falls back to a single non-streaming Anthropic call on OpenRouter error.
-    """
-    try:
-        client = _make_openai_client()
-        stream = client.chat.completions.create(
-            model=_get_model(),
-            messages=messages,
-            stream=True,
-            **kwargs,
-        )
-        for chunk in stream:
-            delta = chunk.choices[0].delta.content
-            if delta:
-                yield delta
-    except Exception as exc:
-        _maybe_fallback_log(exc)
-        yield _anthropic_call(messages, **kwargs)
+    """Synchronous streaming LLM call; yields text chunks."""
+    client = _make_openai_client()
+    stream = client.chat.completions.create(
+        model=_get_model(),
+        messages=messages,
+        stream=True,
+        **kwargs,
+    )
+    for chunk in stream:
+        delta = chunk.choices[0].delta.content
+        if delta:
+            yield delta
 
 
 async def llm_call_async(messages: list[dict[str, Any]], model: str | None = None, **kwargs) -> str:
-    """Native async LLM call using AsyncOpenAI — supports true asyncio cancellation.
-
-    Use this in async contexts where you need asyncio.wait_for() to work correctly.
-    Falls back to Anthropic (via thread executor) on OpenRouter failure.
-    """
+    """Native async LLM call using AsyncOpenAI."""
     import asyncio
     from openai import AsyncOpenAI  # type: ignore
 
@@ -241,10 +171,7 @@ async def llm_call_async(messages: list[dict[str, Any]], model: str | None = Non
                 log.warning("openrouter.async_retry", attempt=attempt + 1, delay=delay, error=str(exc))
                 await asyncio.sleep(delay)
 
-    # Fallback to Anthropic via thread executor
-    _maybe_fallback_log(last_exc)
-    loop = asyncio.get_event_loop()
-    return await loop.run_in_executor(None, lambda: _anthropic_call(messages, **kwargs))
+    raise last_exc  # type: ignore[misc]
 
 
 async def llm_call_with_fallback(messages: list[dict], **kwargs) -> str:
@@ -252,14 +179,3 @@ async def llm_call_with_fallback(messages: list[dict], **kwargs) -> str:
     import asyncio
     loop = asyncio.get_event_loop()
     return await loop.run_in_executor(None, lambda: llm_call(messages, **kwargs))
-
-
-def _maybe_fallback_log(exc: Exception) -> None:
-    try:
-        import openai  # type: ignore
-        if isinstance(exc, (openai.RateLimitError, openai.APIStatusError)):
-            log.warning("openrouter.failed_fallback", error=str(exc))
-            return
-    except ImportError:
-        pass
-    log.warning("llm.failed_fallback", error=str(exc))

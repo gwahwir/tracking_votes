@@ -42,3 +42,9 @@
 ---
 
 *Source: SPR Official Results; TindakMalaysia; Wikipedia*
+
+---
+
+## Recent Statements (2026)
+
+- **Exco member Jafni Shukor** stated that some motorists leave their vehicles in free parking areas for **14 to 16 hours a day**. [Source: Free Malaysia Today, 2026-04-21]

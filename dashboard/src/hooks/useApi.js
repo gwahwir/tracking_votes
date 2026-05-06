@@ -1,4 +1,5 @@
 import { useState, useCallback, useEffect } from 'react'
+import { parseConstituencyIds } from '../constants/seats'
 
 const API_BASE = import.meta.env.VITE_API_URL || 'http://localhost:8000'
 
@@ -81,9 +82,8 @@ export const useArticles = () => {
       const res = await fetch(`${API_BASE}/articles`)
       if (!res.ok) throw new Error(`HTTP ${res.status}`)
       const data = await res.json()
-      // Sort by date descending
       data.sort((a, b) => new Date(b.created_at) - new Date(a.created_at))
-      setArticles(data)
+      setArticles(data.map((a) => ({ ...a, constituency_ids: parseConstituencyIds(a.constituency_ids) })))
     } catch (err) {
       setError(err.message)
     } finally {
@@ -352,7 +352,7 @@ export const useConstituencyArticles = (constituencyCode) => {
       const res = await fetch(`${API_BASE}/articles?constituency=${encodeURIComponent(constituencyCode)}`)
       if (!res.ok) throw new Error(`HTTP ${res.status}`)
       const data = await res.json()
-      setArticles(data)
+      setArticles(data.map((a) => ({ ...a, constituency_ids: parseConstituencyIds(a.constituency_ids) })))
     } catch (err) {
       console.error(err)
     } finally {
@@ -372,7 +372,8 @@ export const useFetchArticle = () => {
   const fetchArticle = useCallback(async (articleId) => {
     const res = await fetch(`${API_BASE}/articles/${articleId}`)
     if (!res.ok) return null
-    return res.json()
+    const a = await res.json()
+    return { ...a, constituency_ids: parseConstituencyIds(a.constituency_ids) }
   }, [])
   return { fetchArticle }
 }

@@ -122,14 +122,16 @@ export const theme = {
 export const PARTY_COLORS = {
   'BN': '#3366cc',      // Blue
   'UMNO': '#3366cc',    // Blue (same as BN)
+  'PH': '#cc0000',      // Deep Red
   'DAP': '#33cc33',     // Green
   'PKR': '#ff6633',     // Orange
-  'PN': '#ff3333',      // Red
+  'PN': '#aa66cc',      // Light Purple
   'PAS': '#00aa00',     // Dark Green
   'Amanah': '#ffcc00',  // Yellow
-  'Bersatu': '#990000', // Dark Red
-  'Independent': '#999999', // Gray
-  'No Data': '#666666', // Dark Gray
+  'Bersatu': '#5a1a6b', // Darker Purple (PN family)
+  'Independent': '#555555', // Dark Gray
+  'No Data': '#666666',    // Gray
+  'Unclear': '#999999',    // Light Gray
 }
 
 /**

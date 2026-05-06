@@ -27352,3 +27352,15 @@ Pages updated: none
 No relevant updates needed.
 
 Pages updated: none
+
+## 2026-05-05T09:57:49Z
+
+Added 2026 statement that DAP is preparing for possible state elections in Negeri Sembilan, Melaka, and Johor.
+
+Pages updated: entities/parties/dap.md
+
+## 2026-05-06T10:41:30Z
+
+Added Jafni Shukor's 2026 statement on long‑duration free‑parking usage to the Bukit Permai constituency page.
+
+Pages updated: entities/constituencies/dun/n50-bukit-permai.md

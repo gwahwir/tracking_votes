@@ -34,13 +34,17 @@ export const DashboardShell = () => {
   const [selectedConstituency, setSelectedConstituency] = useState(null)
   const [wikiOpen, setWikiOpen] = useState(false)
   const [refreshTrigger, setRefreshTrigger] = useState(0)
-  const [activeTaskId, setActiveTaskId] = useState(null)
+  const [scrapeTaskId, setScrapeTaskId] = useState(null)
+  const [scorerTaskId, setScorerTaskId] = useState(null)
   const [agentPanelOpen, setAgentPanelOpen] = useState(false)
   const [refreshing, setRefreshing] = useState(false)
 
   const { dispatchTask } = useDispatchTask()
-  const { predictions } = useSeatPredictions()
-  const { status: taskStatus, nodeOutputs } = useTaskStream(activeTaskId)
+  const { predictions: allPredictions } = useSeatPredictions()
+  const predictions = allPredictions.filter((p) =>
+    mapType === 'dun' ? p.constituency_code.startsWith('N.') : p.constituency_code.startsWith('P.')
+  )
+  const { status: taskStatus, nodeOutputs } = useTaskStream(scrapeTaskId)
   const { fetchArticle } = useFetchArticle()
 
   const handleAnalysisDone = useCallback(async () => {
@@ -68,7 +72,7 @@ export const DashboardShell = () => {
         parts: [{ type: 'text', text: 'Scrape the latest news articles about Johor elections and Malaysian politics.' }],
       })
       if (result?.task_id) {
-        setActiveTaskId(result.task_id)
+        setScrapeTaskId(result.task_id)
         setAgentPanelOpen(true)
       }
     } catch (err) {
@@ -95,9 +99,8 @@ export const DashboardShell = () => {
     setSelectedArticle(null)
   }, [])
 
-  // Derive tasks list for agent bar from current task
-  const tasks = activeTaskId
-    ? [{ id: activeTaskId, agent: 'news_agent', status: taskStatus || 'pending', message: nodeOutputs[nodeOutputs.length - 1] || '', ts: '' }]
+  const tasks = scrapeTaskId
+    ? [{ id: scrapeTaskId, agent: 'news_agent', status: taskStatus || 'pending', message: nodeOutputs[nodeOutputs.length - 1] || '', ts: '' }]
     : []
 
   return (
@@ -120,9 +123,10 @@ export const DashboardShell = () => {
             selectedArticle={selectedArticle}
             onArticleSelect={handleArticleSelect}
             refreshTrigger={refreshTrigger}
-            onTaskCreated={setActiveTaskId}
+            onTaskCreated={setScorerTaskId}
             onScrape={handleRefresh}
             scraping={refreshing}
+            onConstituencyClick={handleConstituencySelect}
           />
         </div>
 
@@ -141,14 +145,15 @@ export const DashboardShell = () => {
                 constituencyCode={selectedConstituency.code}
                 seatName={selectedConstituency.name}
                 onClose={() => setSelectedConstituency(null)}
+                onArticleClick={handleArticleSelect}
               />
             </PanelErrorBoundary>
           ) : (
             <AnalysisPanel
               article={selectedArticle}
-              taskId={activeTaskId}
+              taskId={scorerTaskId}
               refreshTrigger={refreshTrigger}
-              onTaskCreated={setActiveTaskId}
+              onTaskCreated={setScorerTaskId}
               onAnalysisDone={handleAnalysisDone}
             />
           )}

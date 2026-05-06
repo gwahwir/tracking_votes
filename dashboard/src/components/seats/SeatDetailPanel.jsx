@@ -67,19 +67,35 @@ const OverviewTab = ({ prediction }) => {
   )
 }
 
-const ArticlesList = ({ articles, loading }) => {
+const ArticlesList = ({ articles, loading, onArticleClick }) => {
+  const [hovered, setHovered] = useState(null)
   if (loading) return <div style={dimText}>Loading articles...</div>
   if (!articles?.length) return <div style={dimText}>No articles tagged to this constituency.</div>
   return (
     <div style={{ display: 'flex', flexDirection: 'column', gap: '8px' }}>
       {articles.map((a) => (
-        <div key={a.id} style={{ padding: '8px', background: '#1a1b1e', borderRadius: '3px', border: '1px solid #2c2e33' }}>
-          <div style={{ fontFamily: "'JetBrains Mono', monospace", fontSize: '11px', color: '#e0e0e0', lineHeight: 1.4 }}>{a.title}</div>
-          <div style={{ display: 'flex', gap: '8px', marginTop: '3px' }}>
+        <div
+          key={a.id}
+          onClick={() => onArticleClick?.(a)}
+          onMouseEnter={() => setHovered(a.id)}
+          onMouseLeave={() => setHovered(null)}
+          style={{
+            padding: '8px', borderRadius: '3px', cursor: 'pointer', transition: 'all 0.15s ease',
+            background: hovered === a.id ? '#1e2a30' : '#1a1b1e',
+            border: `1px solid ${hovered === a.id ? '#00d4ff60' : '#2c2e33'}`,
+          }}
+        >
+          <div style={{ fontFamily: "'JetBrains Mono', monospace", fontSize: '11px', color: hovered === a.id ? '#00d4ff' : '#e0e0e0', lineHeight: 1.4 }}>{a.title}</div>
+          <div style={{ display: 'flex', gap: '8px', marginTop: '3px', alignItems: 'center' }}>
             <span style={{ fontFamily: "'JetBrains Mono', monospace", fontSize: '9px', color: '#5c5f66', textTransform: 'uppercase' }}>{a.source}</span>
             {a.reliability_score != null && (
               <span style={{ fontFamily: "'JetBrains Mono', monospace", fontSize: '9px', color: a.reliability_score >= 70 ? '#39ff14' : a.reliability_score >= 40 ? '#ffcc00' : '#ff3131' }}>
                 {a.reliability_score}%
+              </span>
+            )}
+            {onArticleClick && (
+              <span style={{ marginLeft: 'auto', fontFamily: "'JetBrains Mono', monospace", fontSize: '9px', color: '#5c5f66' }}>
+                VIEW →
               </span>
             )}
           </div>
@@ -106,7 +122,7 @@ const dimText = {
   paddingTop: '8px',
 }
 
-export const SeatDetailPanel = ({ constituencyCode, seatName, onClose }) => {
+export const SeatDetailPanel = ({ constituencyCode, seatName, onClose, onArticleClick }) => {
   const [activeTab, setActiveTab] = useState('overview')
   const { results: history, loading: histLoading } = useHistorical(constituencyCode)
   const { demographics, loading: demoLoading } = useDemographics(constituencyCode)
@@ -207,7 +223,7 @@ export const SeatDetailPanel = ({ constituencyCode, seatName, onClose }) => {
         {activeTab === 'overview' && <OverviewTab prediction={prediction} />}
         {activeTab === 'history' && <HistoryTable results={history} loading={histLoading} />}
         {activeTab === 'demographics' && <DemographicsChart demographics={demographics} loading={demoLoading} />}
-        {activeTab === 'articles' && <ArticlesList articles={articles} loading={artLoading} />}
+        {activeTab === 'articles' && <ArticlesList articles={articles} loading={artLoading} onArticleClick={onArticleClick} />}
       </div>
     </div>
   )

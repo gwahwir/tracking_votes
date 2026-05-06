@@ -13,7 +13,7 @@ import structlog
 from langgraph.graph import END, StateGraph
 
 from .constituency_tagger import tag_codes
-from .scrapers import thestar, fmt, malaysiakini, cna, newsapi
+from .scrapers import thestar, fmt, malaysiakini, cna, newsapi, lowyat, reddit
 from .scrapers.rss import RawArticle
 
 log = structlog.get_logger(__name__)
@@ -52,7 +52,7 @@ class NewsState(TypedDict):
 
 def _fetch_node(state: NewsState) -> NewsState:
     """Fetch articles from all sources concurrently (sync via threads)."""
-    scrapers = [thestar, fmt, malaysiakini, cna, newsapi]
+    scrapers = [thestar, fmt, malaysiakini, cna, newsapi, lowyat, reddit]
     all_raw: list[RawArticle] = []
 
     for scraper in scrapers:
