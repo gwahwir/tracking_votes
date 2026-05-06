@@ -69,9 +69,31 @@ Dashboard is at **http://localhost:5175**
 
 ---
 
+## Step 4 (optional) — Restore a data snapshot
+
+The repo includes a pre-built snapshot of analyzed articles, analyses, and seat predictions in `data/snapshots/snapshot.sql.gz`. Restoring it skips the need to re-scrape and re-analyze from scratch.
+
+**Requires:** Docker stack running (`docker compose up -d`)
+
+```bash
+bash data/snapshots/restore_snapshot.sh
+```
+
+This truncates `articles`, `analyses`, and `seat_predictions` then loads the snapshot. Historical results and demographics are unaffected (they come from `data/historical/` and are seeded at startup).
+
+To take a new snapshot after a scoring run:
+
+```bash
+bash data/snapshots/dump_snapshot.sh
+```
+
+This overwrites `data/snapshots/snapshot.sql.gz` with only the articles that have been analyzed (keeps the file small). Commit the updated file to persist it.
+
+---
+
 ## Important behaviours
 
-- **Database starts empty** on a fresh machine. News scrapes automatically every 30 minutes. To trigger immediately, use the Scrape button on the dashboard.
+- **Database starts empty** on a fresh machine unless you restore a snapshot (Step 4). News scrapes automatically every 30 minutes. To trigger immediately, use the Scrape button on the dashboard.
 - **Score button** on the dashboard runs the full pipeline: scorer → analyst → seat agent for the selected constituency. This requires LLM API credits.
 - The `wiki/` folder is mounted as a live volume into `wiki_agent` — it contains Johor constituency reference data and must be present.
 

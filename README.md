@@ -206,6 +206,21 @@ wiki/
 
 ---
 
+## Data snapshots
+
+The repo ships with `data/snapshots/snapshot.sql.gz` — a compressed dump of all analyzed articles, their analyses, and the latest seat predictions. This lets you restore a working state without re-running the full pipeline.
+
+| Script | Purpose |
+|---|---|
+| `bash data/snapshots/restore_snapshot.sh` | Load snapshot into a running Postgres instance |
+| `bash data/snapshots/dump_snapshot.sh` | Overwrite snapshot with the current DB state |
+
+The restore script truncates `articles`, `analyses`, and `seat_predictions` before loading. It does not touch `historical_results` or `constituency_demographics` (seeded from `data/historical/` at startup).
+
+Commit `snapshot.sql.gz` after a scoring run to keep the repo's predictions up to date.
+
+---
+
 ## Dashboard
 
 The React/Vite/Mantine frontend at **http://localhost:5175** has:

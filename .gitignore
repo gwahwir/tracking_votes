@@ -24,3 +24,9 @@ env/
 
 # macOS
 .DS_Store
+
+# Node
+node_modules/
+
+# Snapshots — keep the latest but ignore timestamped archives
+data/snapshots/snapshot_*.sql.gz
