@@ -145,13 +145,17 @@ Triggered automatically by analyst_agent, or manually per constituency. Same con
 
 **Confidence interpretation:**
 
+Confidence reflects certainty in the prediction, not how many articles have been processed.
+
 | Range | Meaning |
 |---|---|
-| 70–100 | High — 5+ constituency-specific articles, 4–6 lenses agree, historical baseline aligned |
-| 40–69 | Moderate — 2–4 articles, mixed lens signals, or light baseline divergence |
-| 0–39 | Low — sparse coverage, early-stage prediction based mainly on historical baseline |
+| 70–100 | High — strong historical precedent, clear demographic lean, signals aligned across lenses |
+| 40–69 | Moderate — mixed signals, marginal seat, or signals partially contradict history |
+| 0–39 | Low — highly contested, signals contradict each other, or very tight historical margins |
 
-**Example caveats:** "Only 1 article found — prediction based on historical baseline only", "Candidate unannounced — demographic signals may shift post-announcement", "State-level only — no constituency-specific coverage"
+With no articles, confidence is derived from historical results and demographics alone — a seat BN won by 20% twice in a row can still have high confidence. As articles come in, real lens signals either reinforce or pull down that baseline confidence.
+
+**Example caveats:** "No articles found — prediction based on historical baseline only", "Candidate unannounced — demographic signals may shift post-announcement", "State-level only — no constituency-specific coverage"
 
 ---
 

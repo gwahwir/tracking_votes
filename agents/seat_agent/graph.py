@@ -262,7 +262,7 @@ Return a JSON object:
 
 Key guidelines:
 - If no constituency-specific signals exist, rely on state-level signals + historical baseline
-- If no signals exist at all, weight historical baseline heavily (confidence 30-50 range)
+- If no signals exist at all, rely on historical baseline and demographics alone to assess certainty
 - If signals contradict history, note this and lower confidence
 - Factor in demographic composition when assessing party strength
 - Consider three-cornered fight dynamics (BN vs PH vs PN vote splitting)
@@ -282,6 +282,8 @@ Return ONLY valid JSON, no markdown.
 
         cleaned = response.strip().removeprefix("```json").removeprefix("```").removesuffix("```").strip()
         result = json.loads(cleaned)
+        if isinstance(result, list):
+            result = result[0]
         signal_breakdown = result.get("signal_breakdown")
         if not isinstance(signal_breakdown, dict):
             signal_breakdown = signal_summary
@@ -319,8 +321,8 @@ async def store(state: dict) -> dict:
     constituency_code = prediction.get("constituency_code")
 
     if not prediction.get("leading_party"):
-        log.warning("seat.store.skipped_null", constituency_code=constituency_code)
-        return state
+        prediction["leading_party"] = "Unclear"
+        log.warning("seat.store.unclear", constituency_code=constituency_code)
 
     log.info("seat.store", constituency_code=constituency_code)
 
