@@ -28,7 +28,7 @@ The zone is named after the current Yang di-Pertuan Agong (since January 2024) a
 | Zone B | Iskandar Puteri (formerly Nusajaya) | Government administration, education, healthcare |
 | Zone C | Western Gate (Port of Tanjung Pelepas) | Logistics, port, industrial |
 | Zone D | Eastern Gate (Johor Port, Pasir Gudang) | Petrochemical, heavy industry |
-| Zone E | Senai-Skudai Corridor | Manufacturing, technology, airport |
+| Zone E | Senai‑Skudai Corridor | Manufacturing, technology, airport |
 
 [Source: Wikipedia – Iskandar Malaysia, 2024]
 
@@ -41,11 +41,13 @@ The zone is named after the current Yang di-Pertuan Agong (since January 2024) a
 - Kota Iskandar (new Johor state administrative capital, Zone B)
 - Senai International Airport (Zone E)
 - Port of Tanjung Pelepas (Zone C — one of Southeast Asia's busiest container ports)
-- Johor Bahru–Singapore Rapid Transit System (RTS Link — under construction, see JB-Singapore Relations page)
+- Johor Bahru–Singapore Rapid Transit System (RTS Link — under construction, see JB‑Singapore Relations page)
 - Multiple commuter rail stations and cargo
 
 ---
 
-## Recent Developments (2026)
+## Proposed Passenger Automated Transport System
 
-- In April 2026, Sultan Ibrahim Iskandar of Johor granted permission for the detention of two former students suspected in a murder case, highlighting the Sultan’s active involvement in law‑enforcement matters within the state. [Source: Free Malaysia Today, 2026-04-17]
+Transportation consultant **Rosli Khan** stated that the **proposed passenger automated transport system** differs from the **multi‑level Automated Rapid Transit (ART) system** that was proposed last year. This clarification highlights a shift in design and implementation strategy for future mass‑transit projects within the Iskandar region. 
+
+[Source: Local News, 2024-07-02]

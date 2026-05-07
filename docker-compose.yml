@@ -45,7 +45,7 @@ services:
       DATABASE_URL: postgresql://johor:johor@postgres:5432/johor_elections
       REDIS_URL: redis://redis:6379
       CONTROL_PLANE_URL: http://control_plane:8000
-      AGENT_URLS: news_agent@http://news_agent:8001,scorer_agent@http://scorer_agent:8002,analyst_agent@http://analyst_agent:8003,seat_agent@http://seat_agent:8004,wiki_agent@http://wiki_agent:8005
+      AGENT_URLS: news_agent@http://news_agent:8001,scorer_agent@http://scorer_agent:8002,analyst_agent@http://analyst_agent:8003,seat_agent@http://seat_agent:8004,wiki_agent@http://wiki_agent:8005,signals_analyser@http://signals_analyser:8006
     ports:
       - "8000:8000"
     depends_on:
@@ -145,6 +145,23 @@ services:
       AGENT_HOSTNAME: seat_agent
     ports:
       - "9004:8004"
+    depends_on:
+      control_plane:
+        condition: service_healthy
+    restart: unless-stopped
+
+  signals_analyser:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    command: uvicorn agents.signals_analyser.server:app --host 0.0.0.0 --port 8006
+    env_file: .env
+    environment:
+      DATABASE_URL: postgresql://johor:johor@postgres:5432/johor_elections
+      CONTROL_PLANE_URL: http://control_plane:8000
+      AGENT_HOSTNAME: signals_analyser
+    ports:
+      - "9006:8006"
     depends_on:
       control_plane:
         condition: service_healthy

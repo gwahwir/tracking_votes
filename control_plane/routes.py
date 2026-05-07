@@ -288,7 +288,8 @@ async def get_articles(request: Request, limit: int = 100, offset: int = 0, cons
             params.append(json.dumps([constituency]))
 
         sql = f"""
-            SELECT id, url, title, source, content, constituency_ids, reliability_score, created_at, scraped_at
+            SELECT id, url, title, source, content, constituency_ids, reliability_score,
+                   source_type, metadata, created_at, scraped_at
             FROM articles
             {where}
             ORDER BY created_at DESC
@@ -311,7 +312,7 @@ async def get_article(article_id: str, request: Request):
     try:
         async with task_store._pool.acquire() as conn:
             row = await conn.fetchrow(
-                "SELECT id, url, title, source, content, constituency_ids, reliability_score, created_at, scraped_at FROM articles WHERE id = $1",
+                "SELECT id, url, title, source, content, constituency_ids, reliability_score, source_type, metadata, created_at, scraped_at FROM articles WHERE id = $1",
                 article_id,
             )
         if not row:

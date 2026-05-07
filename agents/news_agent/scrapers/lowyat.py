@@ -12,7 +12,10 @@ def scrape(max_items: int = 30) -> list[RawArticle]:
     articles: list[RawArticle] = []
     for feed_url in _FEEDS:
         try:
-            articles.extend(scrape_rss(feed_url, "Lowyat.net", max_items=max_items))
+            raw = scrape_rss(feed_url, "Lowyat.net", max_items=max_items)
+            for a in raw:
+                a.source_type = "signal"
+            articles.extend(raw)
         except Exception:
             pass
     return articles

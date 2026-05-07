@@ -19,6 +19,12 @@ class RawArticle:
     content: str          # body text (may be empty for paywalled sources)
     source: str           # human-readable outlet name
     published_at: Optional[datetime]
+    source_type: str = "news"   # 'news' | 'signal'
+    metadata: dict = None       # engagement metrics etc.
+
+    def __post_init__(self):
+        if self.metadata is None:
+            self.metadata = {}
 
 
 def scrape_rss(feed_url: str, source_name: str, max_items: int = 50) -> list[RawArticle]:

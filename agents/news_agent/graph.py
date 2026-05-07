@@ -200,12 +200,18 @@ def _upsert_node(state: NewsState) -> NewsState:
                     await conn.execute(
                         """
                         INSERT INTO articles
-                            (id, url, title, content, source, scraped_at, constituency_ids)
-                        VALUES ($1, $2, $3, $4, $5, $6, $7)
+                            (id, url, title, content, source, scraped_at, constituency_ids, source_type, metadata)
+                        VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9::jsonb)
                         ON CONFLICT (url) DO UPDATE
                             SET title=EXCLUDED.title,
                                 content=EXCLUDED.content,
-                                constituency_ids=EXCLUDED.constituency_ids
+                                constituency_ids=CASE
+                                    WHEN EXCLUDED.constituency_ids::text = '[]'
+                                    THEN articles.constituency_ids
+                                    ELSE EXCLUDED.constituency_ids
+                                END,
+                                source_type=EXCLUDED.source_type,
+                                metadata=EXCLUDED.metadata
                         """,
                         article_id,
                         art["url"],
@@ -214,6 +220,8 @@ def _upsert_node(state: NewsState) -> NewsState:
                         art["source"],
                         art.get("published_at"),
                         json.dumps(art.get("constituency_ids", [])),
+                        art.get("source_type", "news"),
+                        json.dumps(art.get("metadata", {})),
                     )
                     count += 1
                 except Exception as exc:
@@ -274,5 +282,7 @@ def _article_to_dict(a: RawArticle) -> dict:
         "content": a.content,
         "source": a.source,
         "published_at": a.published_at,
+        "source_type": a.source_type,
+        "metadata": a.metadata or {},
         "constituency_ids": [],
     }

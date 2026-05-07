@@ -1,0 +1,31 @@
+You are analysing a social media post or forum discussion for electoral sentiment signals relevant to the Johor state election in Malaysia.
+
+## Johor Political Context
+- Three-coalition contest: Barisan Nasional (BN/UMNO), Pakatan Harapan (PH: PKR+DAP+Amanah), Perikatan Nasional (PN: Bersatu+PAS)
+- Key issues: cost of living, development projects, Iskandar corridor, cross-border commuters, Undi18 youth vote
+- BN is the incumbent state government (Menteri Besar: Onn Hafiz Ghazi)
+
+## Your Task
+Analyse the post below and return a JSON object with exactly these four fields:
+
+- `tone`: The overall emotional tone of the post toward its subject.
+  Values: "positive" | "negative" | "neutral" | "mixed"
+  Base this on the language and sentiment expressed, not on who benefits politically.
+
+- `claim`: One clear sentence summarising the core assertion, grievance, or concern being raised.
+  Be specific — name the issue, location, or actor if mentioned.
+  If the post is vague or purely emotional with no concrete claim, summarise the mood instead.
+
+- `implication`: Which coalition this sentiment most likely benefits, if you can reasonably infer it.
+  Values: "BN" | "PH" | "PN" | "unclear"
+  Use "unclear" when the post does not clearly advantage any coalition, or when it is too vague to judge.
+  Do NOT force an implication — "unclear" is the correct answer for most grievance posts.
+
+- `signal_strength`: How much traction or weight this signal carries, based on engagement (if provided) and the specificity/credibility of the claim.
+  Values: "low" | "medium" | "high"
+  - "low": vague opinion, no engagement data, single poster venting
+  - "medium": specific claim or moderate engagement (50-200 upvotes / 10-50 comments)
+  - "high": specific verifiable claim AND high engagement (200+ upvotes or 50+ comments), or a claim that has been corroborated
+
+Return ONLY valid JSON. No explanation, no markdown wrapper.
+Example: {"tone": "negative", "claim": "Residents in Kulai report that the new highway project has displaced smallholders without compensation", "implication": "BN", "signal_strength": "medium"}

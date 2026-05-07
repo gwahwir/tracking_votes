@@ -18,7 +18,7 @@ log = structlog.get_logger(__name__)
 
 def _extract_analyses(articles, analyses_map: dict) -> dict:
     """Aggregate lens analyses from a list of articles into signal buckets."""
-    signals = {"political": [], "demographic": [], "historical": [], "strategic": [], "factcheck": [], "bridget_welsh": []}
+    signals = {"political": [], "demographic": [], "historical": [], "strategic": [], "factcheck": [], "bridget_welsh": [], "social_signal": []}
     for article in articles:
         for analysis in analyses_map.get(article.id, []):
             lens = analysis.lens_name
@@ -53,7 +53,7 @@ async def gather_signals(state: dict) -> dict:
         state["error"] = "Database not initialized"
         return state
 
-    empty_signals = {"political": [], "demographic": [], "historical": [], "strategic": [], "factcheck": [], "bridget_welsh": []}
+    empty_signals = {"political": [], "demographic": [], "historical": [], "strategic": [], "factcheck": [], "bridget_welsh": [], "social_signal": []}
 
     try:
         async with session_maker() as session:
@@ -76,7 +76,14 @@ async def gather_signals(state: dict) -> dict:
             all_article_ids = [a.id for a in specific_articles] + [a.id for a in state_articles]
             analyses_map: dict = {}
             if all_article_ids:
-                stmt_analyses = select(Analysis).where(Analysis.article_id.in_(all_article_ids))
+                from sqlalchemy import func, or_, text
+                stmt_analyses = select(Analysis).where(
+                    Analysis.article_id.in_(all_article_ids),
+                    or_(
+                        Analysis.lens_name != "social_signal",
+                        Analysis.created_at > func.now() - text("INTERVAL '14 days'"),
+                    ),
+                )
                 result_analyses = await session.execute(stmt_analyses)
                 for analysis in result_analyses.scalars().all():
                     analyses_map.setdefault(analysis.article_id, []).append(analysis)
@@ -253,7 +260,8 @@ Return a JSON object:
     "historical": {{"direction": "<party>", "strength": <0-100>, "summary": "..."}},
     "strategic": {{"direction": "<party>", "strength": <0-100>, "summary": "..."}},
     "factcheck": {{"direction": "<party>", "strength": <0-100>, "summary": "..."}},
-    "bridget_welsh": {{"direction": "<party>", "strength": <0-100>, "summary": "..."}}
+    "bridget_welsh": {{"direction": "<party>", "strength": <0-100>, "summary": "..."}},
+    "social_signal": {{"direction": "<party>|null", "strength": <0-30>, "summary": "..."}}
   }},
   "historical_comparison": "How does the current signal compare to the 2022 baseline?",
   "swing_estimate": "<estimated swing from 2022 in percentage points or 'unknown'>",
@@ -267,6 +275,7 @@ Key guidelines:
 - Factor in demographic composition when assessing party strength
 - Consider three-cornered fight dynamics (BN vs PH vs PN vote splitting)
 - Seats with margin_pct < 5% in 2022 are highly marginal — cap confidence at 55
+- social_signal: treat as weak corroborating evidence only (strength capped at 30). Do NOT let it override journalism lenses. Use it only to nudge confidence ±3-5 points when it aligns or contradicts the dominant signal.
 
 Return ONLY valid JSON, no markdown.
 """

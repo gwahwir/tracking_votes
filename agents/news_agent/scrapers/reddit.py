@@ -1,6 +1,6 @@
 """Reddit scraper using the public JSON API (no auth required).
 
-Pulls recent posts from r/malaysia and r/bolehland.
+Pulls recent posts from r/malaysia, r/bolehland, r/malaysians, r/MalaysiaPolitics.
 Uses Reddit's unauthenticated JSON endpoint — no API key needed, but
 rate-limited to ~60 req/min. We fetch at most once per scrape cycle so
 this is well within limits.
@@ -18,7 +18,7 @@ from .rss import RawArticle
 
 log = structlog.get_logger(__name__)
 
-_SUBREDDITS = ["malaysia", "bolehland"]
+_SUBREDDITS = ["malaysia", "bolehland", "malaysians", "MalaysiaPolitics"]
 _HEADERS = {"User-Agent": "ElectionMonitor/1.0 (research bot)"}
 
 
@@ -88,6 +88,12 @@ def _fetch_subreddit(subreddit: str, max_items: int) -> list[RawArticle]:
             content=content,
             source=f"Reddit r/{subreddit}",
             published_at=published_at,
+            source_type="signal",
+            metadata={
+                "score": post.get("score", 0),
+                "num_comments": post.get("num_comments", 0),
+                "subreddit": subreddit,
+            },
         ))
 
     return articles

@@ -3,12 +3,27 @@ import { useArticles } from '../../hooks/useApi'
 import { ArticleCard } from './ArticleCard'
 import './NewsFeedPanel.css'
 
-export const NewsFeedPanel = ({ selectedArticle, onArticleSelect, refreshTrigger, onTaskCreated, onScrape, scraping, onConstituencyClick }) => {
+export const NewsFeedPanel = ({ selectedArticle, onArticleSelect, refreshTrigger, onScoreTaskCreated, onSignalTaskCreated, onScrape, scraping, onConstituencyClick }) => {
   const { articles, loading, error, refetch } = useArticles()
-  const [displayArticles, setDisplayArticles] = useState([])
+  const [sourceFilter, setSourceFilter] = useState(() => {
+    try { return localStorage.getItem('jem-feed-filter') || 'all' } catch { return 'all' }
+  })
 
   useEffect(() => { refetch() }, [refreshTrigger, refetch])
-  useEffect(() => { setDisplayArticles(articles) }, [articles])
+
+  const displayArticles = sourceFilter === 'all' ? articles
+    : articles.filter((a) => (sourceFilter === 'signals' ? a.source_type === 'signal' : a.source_type !== 'signal'))
+
+  const handleFilterChange = (f) => {
+    setSourceFilter(f)
+    try { localStorage.setItem('jem-feed-filter', f) } catch {}
+  }
+
+  const filterChips = [
+    { key: 'all', label: 'All' },
+    { key: 'news', label: 'News' },
+    { key: 'signals', label: 'Signals' },
+  ]
 
   return (
     <div className="news-feed-panel">
@@ -29,6 +44,26 @@ export const NewsFeedPanel = ({ selectedArticle, onArticleSelect, refreshTrigger
           fontSize: '10px',
           color: '#909296',
         }}>{displayArticles.length}</span>
+        <div style={{ display: 'flex', gap: '4px' }}>
+          {filterChips.map(({ key, label }) => (
+            <button
+              key={key}
+              onClick={() => handleFilterChange(key)}
+              style={{
+                background: sourceFilter === key ? (key === 'signals' ? '#ffcc0020' : 'rgba(0,212,255,0.1)') : 'none',
+                border: `1px solid ${sourceFilter === key ? (key === 'signals' ? '#ffcc0060' : '#00d4ff40') : '#373a40'}`,
+                borderRadius: '3px',
+                color: sourceFilter === key ? (key === 'signals' ? '#ffcc00' : '#00d4ff') : '#5c5f66',
+                fontFamily: "'JetBrains Mono', monospace",
+                fontSize: '9px', fontWeight: 700,
+                letterSpacing: '0.06em',
+                padding: '2px 6px', cursor: 'pointer',
+              }}
+            >
+              {label}
+            </button>
+          ))}
+        </div>
         <div style={{ marginLeft: 'auto', display: 'flex', alignItems: 'center', gap: '8px' }}>
           <button
             onClick={onScrape}
@@ -77,7 +112,8 @@ export const NewsFeedPanel = ({ selectedArticle, onArticleSelect, refreshTrigger
               article={article}
               isSelected={selectedArticle?.id === article.id}
               onSelect={() => onArticleSelect(article)}
-              onTaskCreated={onTaskCreated}
+              onScoreTaskCreated={onScoreTaskCreated}
+              onSignalTaskCreated={onSignalTaskCreated}
               onConstituencyClick={onConstituencyClick}
             />
           ))}

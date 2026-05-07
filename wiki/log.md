@@ -27364,3 +27364,15 @@ Pages updated: entities/parties/dap.md
 Added Jafni Shukor's 2026 statement on long‑duration free‑parking usage to the Bukit Permai constituency page.
 
 Pages updated: entities/constituencies/dun/n50-bukit-permai.md
+
+## 2026-05-07T07:38:18Z
+
+Added 2026 constitutional amendment bill support detail to Johor State Election page, reflecting 40 of 56 assemblymen backing the bill.
+
+Pages updated: concepts/johor-state-election-2022.md
+
+## 2026-05-07T08:21:30Z
+
+Added a new section on the proposed passenger automated transport system, citing Rosli Khan's statement that it differs from the previously suggested multi‑level ART system.
+
+Pages updated: concepts/iskandar-malaysia.md

@@ -42,6 +42,11 @@ OUTPUT FORMAT:
       "direction": "<party>",
       "strength": <0-100>,
       "summary": "Welsh framework: electoral distortions, generational splits, money politics, voter authenticity"
+    },
+    "social_signal": {
+      "direction": "<party> | null",
+      "strength": <0-30>,
+      "summary": "Grassroots sentiment from Reddit/Lowyat — weak corroborating signal only"
     }
   },
   "rationale": "<2-3 sentence synthesis of confidence level and key differentiators>"
@@ -60,6 +65,7 @@ SPECIAL RULES:
 - Bridget Welsh lens: if signals strong electoral distortion in this constituency, mention in rationale
 - Caveats: if <5 articles or candidate unannounced, reduce confidence ceiling by 20 points
 - If no leading party consensus, return null leading_party with confidence 20 or lower
+- social_signal: treat as weak corroborating evidence only (max strength 30). Do NOT let it override journalism lenses. Use it to nudge confidence ±3-5 points only when it clearly aligns or contradicts the dominant journalism signal.
 
 CALIBRATION NOTES (baseline from Johor electoral patterns — to be refined after full backtest):
 - BN tends to over-perform in rural Malay-majority seats with low turnout

@@ -4,6 +4,7 @@ import { Scoreboard } from './Scoreboard'
 import { ElectionMap } from '../map/ElectionMap'
 import { NewsFeedPanel } from '../news/NewsFeedPanel'
 import { AnalysisPanel } from '../analysis/AnalysisPanel'
+import { SignalAnalysisPanel } from '../analysis/SignalAnalysisPanel'
 import { SeatDetailPanel } from '../seats/SeatDetailPanel'
 import { WikiModal } from '../wiki/WikiModal'
 import { AgentStatusBar } from '../agents/AgentStatusBar'
@@ -36,6 +37,7 @@ export const DashboardShell = () => {
   const [refreshTrigger, setRefreshTrigger] = useState(0)
   const [scrapeTaskId, setScrapeTaskId] = useState(null)
   const [scorerTaskId, setScorerTaskId] = useState(null)
+  const [signalTaskId, setSignalTaskId] = useState(null)
   const [agentPanelOpen, setAgentPanelOpen] = useState(false)
   const [refreshing, setRefreshing] = useState(false)
 
@@ -123,7 +125,8 @@ export const DashboardShell = () => {
             selectedArticle={selectedArticle}
             onArticleSelect={handleArticleSelect}
             refreshTrigger={refreshTrigger}
-            onTaskCreated={setScorerTaskId}
+            onScoreTaskCreated={setScorerTaskId}
+            onSignalTaskCreated={setSignalTaskId}
             onScrape={handleRefresh}
             scraping={refreshing}
             onConstituencyClick={handleConstituencySelect}
@@ -148,6 +151,12 @@ export const DashboardShell = () => {
                 onArticleClick={handleArticleSelect}
               />
             </PanelErrorBoundary>
+          ) : selectedArticle?.source_type === 'signal' ? (
+            <SignalAnalysisPanel
+              article={selectedArticle}
+              taskId={signalTaskId}
+              onAnalysisDone={handleAnalysisDone}
+            />
           ) : (
             <AnalysisPanel
               article={selectedArticle}
