@@ -29,6 +29,7 @@ const StrengthBar = ({ value }) => {
 
 const OverviewTab = ({ prediction }) => {
   const partyColor = PARTY_COLORS[prediction?.leading_party] || '#aaa'
+  const eq = prediction?.evidence_quality
   return (
     <div style={{ display: 'flex', flexDirection: 'column', gap: '14px' }}>
       {prediction?.signal_breakdown && (
@@ -36,18 +37,67 @@ const OverviewTab = ({ prediction }) => {
           <div style={sectionLabel}>SIGNAL BREAKDOWN</div>
           {Object.entries(prediction.signal_breakdown).map(([lens, data]) => {
             if (!data) return null
+            // Phase 1: prefer normalized `direction` (party), fall back to `label`, then legacy raw value
+            const display = data.direction || data.label || ''
+            const showLabel = data.label && data.direction && data.label !== data.direction
+            const lensColor = data.direction ? (PARTY_COLORS[data.direction] || partyColor) : '#909296'
             return (
-              <div key={lens} style={{ display: 'flex', alignItems: 'center', gap: '6px', padding: '4px 0', borderBottom: '1px solid #1a1b1e' }}>
-                <span style={{ fontFamily: "'JetBrains Mono', monospace", fontSize: '9px', color: '#909296', minWidth: '80px', textTransform: 'capitalize' }}>
-                  {lens.replace('_', ' ')}
-                </span>
-                <span style={{ fontFamily: "'JetBrains Mono', monospace", fontSize: '10px', fontWeight: 700, color: partyColor, minWidth: '50px' }}>
-                  {data.direction || ''}
-                </span>
-                {data.strength != null && <StrengthBar value={data.strength} />}
+              <div key={lens} style={{ padding: '4px 0', borderBottom: '1px solid #1a1b1e' }}>
+                <div style={{ display: 'flex', alignItems: 'center', gap: '6px' }}>
+                  <span style={{ fontFamily: "'JetBrains Mono', monospace", fontSize: '9px', color: '#909296', minWidth: '80px', textTransform: 'capitalize' }}>
+                    {lens.replace('_', ' ')}
+                  </span>
+                  <span style={{ fontFamily: "'JetBrains Mono', monospace", fontSize: '10px', fontWeight: 700, color: lensColor, minWidth: '50px' }}>
+                    {display}
+                  </span>
+                  {data.strength != null && <StrengthBar value={data.strength} />}
+                </div>
+                {showLabel && (
+                  <div style={{ fontFamily: "'JetBrains Mono', monospace", fontSize: '8px', color: '#5c5f66', marginLeft: '86px', marginTop: '2px' }}>
+                    {data.label}
+                  </div>
+                )}
               </div>
             )
           })}
+        </div>
+      )}
+      {eq && (
+        <div>
+          <div style={sectionLabel}>EVIDENCE</div>
+          <div style={{ fontFamily: "'JetBrains Mono', monospace", fontSize: '10px', color: '#aaa', display: 'flex', flexDirection: 'column', gap: '3px' }}>
+            <div>
+              <span style={{ color: '#5c5f66' }}>Articles: </span>
+              {eq.specific_article_count ?? 0} specific, {eq.state_article_count ?? 0} state-level
+            </div>
+            <div>
+              <span style={{ color: '#5c5f66' }}>Reliability: </span>
+              {eq.avg_reliability ?? '—'}/100
+              {eq.high_reliability_count != null && (
+                <span style={{ color: '#5c5f66' }}> ({eq.high_reliability_count} high, {eq.low_reliability_count} low)</span>
+              )}
+            </div>
+            {eq.recency && (
+              <div>
+                <span style={{ color: '#5c5f66' }}>Recency: </span>
+                {eq.recency.last_7_days ?? 0} in 7d, {eq.recency.last_30_days ?? 0} in 30d
+              </div>
+            )}
+            {eq.source_diversity && (
+              <div>
+                <span style={{ color: '#5c5f66' }}>Sources: </span>
+                {eq.source_diversity.count ?? 0}
+                {eq.source_diversity.sources?.length > 0 && (
+                  <span style={{ color: '#5c5f66' }}> ({eq.source_diversity.sources.join(', ')})</span>
+                )}
+              </div>
+            )}
+            {eq.scorer_flags?.length > 0 && (
+              <div style={{ color: '#ffcc00' }}>
+                ⚠ Flags: {eq.scorer_flags.map(f => `${f.flag} (${f.count})`).join(', ')}
+              </div>
+            )}
+          </div>
         </div>
       )}
       {prediction?.caveats?.length > 0 && (
@@ -133,6 +183,7 @@ export const SeatDetailPanel = ({ constituencyCode, seatName, onClose, onArticle
     ...raw,
     caveats: (() => { try { return typeof raw.caveats === 'string' ? JSON.parse(raw.caveats) : (raw.caveats ?? []) } catch { return [] } })(),
     signal_breakdown: (() => { try { return typeof raw.signal_breakdown === 'string' ? JSON.parse(raw.signal_breakdown) : (raw.signal_breakdown ?? {}) } catch { return {} } })(),
+    evidence_quality: (() => { try { return typeof raw.evidence_quality === 'string' ? JSON.parse(raw.evidence_quality) : (raw.evidence_quality ?? null) } catch { return null } })(),
   } : null
 
   const partyColor = PARTY_COLORS[prediction?.leading_party] || '#aaa'

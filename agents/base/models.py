@@ -78,6 +78,9 @@ class SeatPrediction(Base):
     #   ... (up to 6 lenses)
     # }
 
+    # Evidence quality metrics (Phase 2)
+    evidence_quality = Column(JSON, nullable=True)  # {avg_reliability, recency, source_diversity, agreement, ...}
+
     # Caveats and metadata
     caveats = Column(JSON, nullable=True)  # ["Only 3 articles", "Candidate unannounced"]
     num_articles = Column(Integer, nullable=True)  # Count of constituency-specific articles

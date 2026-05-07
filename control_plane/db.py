@@ -34,6 +34,10 @@ async def init_database(database_url: str) -> AsyncEngine:
     # Create all tables
     async with _engine.begin() as conn:
         await conn.run_sync(Base.metadata.create_all)
+        # Phase 2: idempotent column additions (create_all does NOT add columns to existing tables)
+        await conn.exec_driver_sql(
+            "ALTER TABLE seat_predictions ADD COLUMN IF NOT EXISTS evidence_quality JSON"
+        )
 
     # Create session maker
     _session_maker = sessionmaker(_engine, class_=AsyncSession, expire_on_commit=False)

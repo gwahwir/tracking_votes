@@ -177,6 +177,7 @@ CREATE TABLE IF NOT EXISTS seat_predictions (
     caveats            JSONB NOT NULL DEFAULT '[]',
     created_at         TIMESTAMPTZ NOT NULL DEFAULT NOW()
 );
+ALTER TABLE seat_predictions ADD COLUMN IF NOT EXISTS evidence_quality JSONB;
 """
 
 

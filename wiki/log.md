@@ -27376,3 +27376,9 @@ Pages updated: concepts/johor-state-election-2022.md
 Added a new section on the proposed passenger automated transport system, citing Rosli Khan's statement that it differs from the previously suggested multi‑level ART system.
 
 Pages updated: concepts/iskandar-malaysia.md
+
+## 2026-05-07T10:37:10Z
+
+Added Akmal Nasrullah Mohd Nasir's role as Minister of Economy to the Johor Bahru constituency page.
+
+Pages updated: entities/constituencies/parlimen/p160-johor-bahru.md

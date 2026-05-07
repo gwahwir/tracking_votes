@@ -4,6 +4,10 @@
 **Type:** Parlimen (Federal)  
 **Region:** South  
 
+## Current Representative
+
+- **MP:** Akmal Nasrullah Mohd Nasir (PH) – also serving as **Minister of Economy** of Malaysia. [Source: Bernama, 2026-04-15]
+
 ## Demographics
 
 | Ethnic Group | Percentage |

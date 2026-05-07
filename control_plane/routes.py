@@ -369,7 +369,7 @@ async def get_seat_predictions(request: Request, limit: int = 100):
         sql = """
             SELECT DISTINCT ON (constituency_code)
                    id, constituency_code, leading_party, confidence, signal_breakdown,
-                   caveats, num_articles, num_state_articles, created_at, updated_at
+                   evidence_quality, caveats, num_articles, num_state_articles, created_at, updated_at
             FROM seat_predictions
             ORDER BY constituency_code,
                      (leading_party IS NOT NULL AND leading_party != '') DESC,
@@ -412,7 +412,7 @@ async def get_seat_prediction(request: Request, constituency_code: str):
     try:
         sql = """
             SELECT id, constituency_code, leading_party, confidence, signal_breakdown,
-                   caveats, num_articles, num_state_articles, created_at, updated_at
+                   evidence_quality, caveats, num_articles, num_state_articles, created_at, updated_at
             FROM seat_predictions
             WHERE constituency_code = $1
             ORDER BY updated_at DESC
