@@ -17,22 +17,44 @@ The three coalitions tracked are **Barisan Nasional (BN/UMNO)**, **Pakatan Harap
 ## Architecture
 
 ```
-News (5 sources)
+News (5 sources)                       Social signals (Reddit, Lowyat)
+    ↓                                          ↓
+[news_agent]                          [signals_analyser]
+scrape → filter → tag → store         analyse → store
+    ↓                                          │
+[scorer_agent]                                 │  (no cascade — see below)
+reliability score (0–100)                      │
+    ↓  (score ≥ 60)                            │
+[wiki_agent]                                   │
+extract facts → update knowledge base          │
+    ↓                                          │
+[analyst_agent]                                │
+6-lens analysis per article                    │
+    ↓                                          ▼
+[seat_agent]  ◀───── reads social_signal lens entries (last 14 days)
+aggregate signals → win-likelihood per constituency
     ↓
-[news_agent]      — scrape → filter → tag → store
-    ↓
-[scorer_agent]    — reliability score (0–100)
-    ↓  (score ≥ 60)
-[wiki_agent]      — extract facts → update knowledge base
-    ↓
-[analyst_agent]   — 6-lens analysis per article
-    ↓
-[seat_agent]      — aggregate signals → win-likelihood per constituency
-    ↓
-Dashboard         — map, news feed, analysis panels, predictions
+Dashboard
+map, news feed, analysis panels, predictions
 ```
 
+**Two ingestion paths, one prediction model.**
+
+The news pipeline (left) is a **synchronous cascade**: each stage triggers the next, so a fresh article propagates all the way to a seat re-score within minutes (subject to the 5-minute seat debounce).
+
+The social-signals pipeline (right) is **fire-and-forget**: `signals_analyser` writes a `social_signal` lens entry to the `analyses` table and stops. It does **not** trigger the seat agent. Social signals are picked up *lazily* on the next news-driven re-score for that constituency — `seat_agent.gather_signals` includes `social_signal` lens entries from the last 14 days alongside journalism lenses. This is intentional: social signals are weak corroborating evidence (strength capped at 30) and should not drive prediction updates on their own.
+
+**Practical implication:** a seat with no recent news coverage but lots of Reddit chatter will not refresh its prediction until either an article tagged with that seat passes through analyst_agent, or the bulk re-score script (`scripts/rescore_seats.py`) is run.
+
 A **control plane** (FastAPI, port 8000) sits in the middle: it registers agents, dispatches tasks, streams real-time node output via WebSocket, and exposes REST endpoints for the dashboard.
+
+**Cascade implementation:** The cascade is *distributed*, not centralised. Each agent's LangGraph dispatches downstream agents directly via `POST /agents/{type}/tasks`:
+
+- `scorer_agent` → `analyst_agent` (in `scorer_agent.graph`, when score ≥ 60)
+- `analyst_agent` → `seat_agent` (in `analyst_agent.graph` `chain_to_seat` node, fans out one task per tagged constituency)
+- `signals_analyser` → no cascade (lazy pickup by next seat_agent run)
+
+Control plane sees these as ordinary task dispatches — it does not orchestrate the cascade. See [docs/ADR-001-cascade-topology.md](docs/ADR-001-cascade-topology.md) for the rationale and revisit triggers.
 
 ---
 
@@ -49,6 +71,7 @@ A **control plane** (FastAPI, port 8000) sits in the middle: it registers agents
 | analyst_agent | 7003 | 6-lens analysis |
 | seat_agent | 9004 | Seat predictions |
 | wiki_agent | 7005 | Knowledge base updates |
+| signals_analyser | 9006 | Social-signal analysis (Reddit, Lowyat) — does not trigger seat_agent; signals are picked up lazily by the next news-driven re-score |
 
 ---
 
@@ -171,6 +194,28 @@ The wiki is a Markdown knowledge base under `wiki/` covering Johor constituency 
 3. **write_updates** — Persists changes; logs the update to `wiki/log.md`
 
 The wiki also powers the **retrieve_wiki** node in scorer_agent and analyst_agent — it is both a product of the pipeline and an input to it, growing more useful as more high-reliability articles are ingested.
+
+---
+
+### Stage 6 — Social signal analysis (signals_analyser)
+
+A **separate ingestion path** for social-media content (Reddit, Lowyat). Triggered manually via the Analyse button on social-source articles.
+
+Unlike the news pipeline, this is a single-stage pipeline — `analyse → store → END` — and **does not trigger downstream agents**. The seat_agent picks up `social_signal` lens entries lazily on its next run for that constituency (within a 14-day recency window).
+
+**Why no cascade:**
+
+- Social signals are intentionally weak (strength capped at 30); the seat agent's prompt explicitly tells the LLM not to let social signals override journalism lenses
+- Social posts arrive in higher volume than news; cascading would multiply seat re-scores per Reddit thread without proportional information gain
+- Lazy pickup means the cost of a re-score is paid once per news-driven cascade, not per social post
+
+**Output per signal:** `{ tone, claim, implication, signal_strength }` written to `analyses` with `lens_name='social_signal'` and `source_type='signal'`. Strength is mapped low/medium/high → 10/20/30.
+
+If a constituency has no news coverage, accumulated social signals will not reach predictions until the bulk re-score script is run:
+
+```bash
+python scripts/rescore_seats.py [--seat-type dun|parlimen|all]
+```
 
 ---
 
